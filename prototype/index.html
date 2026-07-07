@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Lịch trình Đà Lạt — Prototype</title>
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/flatpickr@4.6.13/dist/flatpickr.min.css" />
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header class="app-header">
+    <div class="brand">
+      <span class="logo">✈️</span>
+      <span>Đilatrip <span class="city">· Đà Lạt</span></span>
+    </div>
+
+    <div class="trip-controls">
+      <label class="control hide-sm">📅
+        <input type="text" id="startDate" placeholder="Ngày đi" readonly />
+      </label>
+      <label class="control hide-sm">→
+        <input type="text" id="endDate" placeholder="Ngày về" readonly />
+      </label>
+
+      <label class="control hide-sm">Nhịp độ
+        <select id="pace">
+          <option value="relaxed">Thư giãn</option>
+          <option value="balanced" selected>Cân bằng</option>
+          <option value="packed">Dày đặc</option>
+        </select>
+      </label>
+
+      <div class="persona-tabs" id="personaTabs"></div>
+
+      <button class="icon-btn" id="helpBtn" title="Hướng dẫn sử dụng">?</button>
+      <button class="icon-btn" id="themeToggle" title="Chế độ tối/sáng">🌙</button>
+      <button class="btn-primary" id="exportBtn">Xuất lịch trình</button>
+    </div>
+  </header>
+
+  <main class="workspace" id="workspace">
+    <!-- EXPLORE -->
+    <section class="pane active-pane" id="explorePane" data-pane="explore">
+      <div class="pane-head">
+        <h2>Khám phá</h2>
+        <span class="sub" id="exploreCount"></span>
+      </div>
+      <div class="pane-body">
+        <input class="search-box" id="search" placeholder="Tìm địa điểm, món ăn, quán cà phê…" />
+        <div class="chips" id="catChips"></div>
+        <div id="cardList"></div>
+      </div>
+    </section>
+
+    <!-- SCHEDULE -->
+    <section class="pane" id="schedulePane" data-pane="schedule">
+      <div class="pane-head">
+        <h2>Lịch trình</h2>
+        <span class="sub">Kéo thẻ vào ngày ↓ hoặc bấm +</span>
+      </div>
+      <div class="day-tabs" id="dayTabs"></div>
+      <div class="bucket-bar" id="bucketBar"></div>
+      <div class="schedule-list" id="scheduleList"></div>
+      <div class="day-summary" id="daySummary"></div>
+    </section>
+
+    <!-- MAP -->
+    <section class="pane" id="mapPane" data-pane="map">
+      <div class="pane-head">
+        <h2>Bản đồ</h2>
+        <button class="map-back" id="mapBack" hidden>← Tất cả</button>
+        <span class="sub" id="mapSub">Đà Lạt</span>
+      </div>
+      <div class="map-frame" id="map"></div>
+      <div class="map-actions">
+        <button class="btn-ghost" id="openDayMap">Mở cả ngày trên Google Maps</button>
+      </div>
+      <div class="map-note">Tìm kiếm → bản đồ hiện tất cả; bấm 1 địa điểm → chỉ hiện điểm đó. Cần kết nối mạng.</div>
+    </section>
+  </main>
+
+  <!-- Mobile bottom nav -->
+  <nav class="mobile-nav" id="mobileNav">
+    <button data-tab="explore" class="active"><span class="ic">🔍</span>Khám phá</button>
+    <button data-tab="schedule"><span class="ic">🗓️</span>Lịch trình</button>
+    <button data-tab="map"><span class="ic">🗺️</span>Bản đồ</button>
+  </nav>
+
+  <!-- Interactive guided tour (spotlight) -->
+  <div id="tour" hidden>
+    <div id="tourBlocker"></div>
+    <div id="tourSpot"></div>
+    <div id="tourTip">
+      <h3 id="tourTitle"></h3>
+      <p id="tourText"></p>
+      <div class="tour-nav">
+        <button class="btn-ghost" id="tourSkip">Bỏ qua</button>
+        <div class="onboard-dots" id="tourDots"></div>
+        <button class="btn-primary" id="tourNext">Tiếp →</button>
+      </div>
+    </div>
+  </div>
+
+  <!-- Detail modal: photos + comments -->
+  <div class="modal-overlay" id="detailModal" hidden>
+    <div class="modal">
+      <button class="modal-close" data-close-detail title="Đóng">×</button>
+      <div id="detailBody"></div>
+    </div>
+  </div>
+
+  <!-- Export modal: summary + download PDF -->
+  <div class="modal-overlay" id="exportModal" hidden>
+    <div class="modal export-modal">
+      <div class="modal-head">
+        <h3>Lịch trình của bạn</h3>
+        <div class="modal-head-actions">
+          <button class="btn-primary" id="downloadPdf">⬇ Tải PDF</button>
+          <button class="modal-close" data-close-export title="Đóng">×</button>
+        </div>
+      </div>
+      <div id="exportContent" class="export-sheet"></div>
+    </div>
+  </div>
+
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/flatpickr@4.6.13"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/html2canvas/1.4.1/html2canvas.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.5.1/jspdf.umd.min.js"></script>
+  <script src="places-extra.js"></script>
+  <script src="place-media.js"></script>
+  <script src="data.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>

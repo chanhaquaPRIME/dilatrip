@@ -1,0 +1,7 @@
+node_modules/
+# Local dev tag store (in production this lives on the mounted DATA_DIR disk)
+prototype/tags.json
+# Browser-automation output / caches
+scripts/.cache/
+*.log
+.DS_Store

@@ -1,0 +1,11 @@
+{
+  "_comment": "Aspect buckets for review analysis. A review counts toward an aspect if its text contains ANY keyword. Keywords are matched lowercase, accent-sensitive. Edit freely.",
+  "view_canh": ["view", "cảnh", "ngắm", "phong cảnh", "sống ảo", "chụp ảnh", "đồi", "hồ", "núi"],
+  "gia_ca": ["giá", "đắt", "mắc", "rẻ", "hợp lý", "bình dân", "chát"],
+  "do_ngon": ["ngon", "dở", "tệ vị", "vị", "món", "ăn được"],
+  "khong_gian": ["không gian", "decor", "trang trí", "ấm cúng", "yên tĩnh", "rộng", "chật"],
+  "phuc_vu": ["phục vụ", "nhân viên", "thái độ", "nhiệt tình", "chậm", "thân thiện"],
+  "dong_duc": ["đông", "vắng", "chen chúc", "xếp hàng", "quá tải", "ồn"],
+  "thoi_tiet": ["lạnh", "sương", "mưa", "nắng", "mát"],
+  "sach_se": ["sạch", "bẩn", "vệ sinh", "dơ"]
+}

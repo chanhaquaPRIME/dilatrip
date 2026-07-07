@@ -1,0 +1,13 @@
+{
+  "name": "dilatrip",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Đilatrip — Đà Lạt travel planner (static app + crowd-tags backend).",
+  "engines": {
+    "node": ">=18"
+  },
+  "scripts": {
+    "start": "node scripts/server.mjs"
+  }
+}

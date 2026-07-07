@@ -1,0 +1,11 @@
+name_vi,category,area,address,lat,lng,rating,review_count,price_level,hours,est_visit_minutes,persona_tags,google_maps_url,photo_source,notes
+Quảng trường Lâm Viên,visit,Trung tâm,"Trần Quốc Toản, P.10, Đà Lạt",11.9479,108.4419,4.4,18000,0,06:00-23:00,45,"solo;couple;friends;family",https://maps.google.com/?cid=,,Biểu tượng thành phố; đẹp về đêm
+Hồ Xuân Hương,visit,Trung tâm,"P.1, Đà Lạt",11.9404,108.4380,4.5,25000,0,24h,60,"solo;couple;friends;family",https://maps.google.com/?cid=,,Đi dạo/đạp vịt; trung tâm di chuyển dễ
+Chợ Đà Lạt,eat,Trung tâm,"Nguyễn Thị Minh Khai, P.1",11.9417,108.4361,4.3,30000,1,05:00-21:00,90,"solo;friends;family",https://maps.google.com/?cid=,,Ăn vặt; mua đặc sản; chợ đêm
+Ga Đà Lạt,visit,P.10,"1 Quang Trung, P.10",11.9426,108.4530,4.4,12000,1,07:00-17:00,60,"couple;friends;family",https://maps.google.com/?cid=,,Ga cổ; chụp ảnh; tàu ngắn Trại Mát
+Thung lũng Tình Yêu,visit,P.8,"7 Mai Anh Đào, P.8",11.9700,108.4450,4.1,15000,1,07:00-17:00,120,"couple;family;friends",https://maps.google.com/?cid=,,Vé vào cổng; cảnh rộng
+,cafe,,,,,,,,,,,,
+,eat,,,,,,,,,,,,
+,stay,,,,,,,,,,,,
+,nightlife,,,,,,,,,,,,
+,activity,,,,,,,,,,,,

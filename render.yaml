@@ -1,0 +1,19 @@
+# Render Blueprint — one-click deploy of the Đilatrip app + crowd-tags backend.
+# In Render: New → Blueprint → connect this repo. Everything below is auto-applied.
+services:
+  - type: web
+    name: dilatrip
+    runtime: node
+    plan: free                 # free web service (spins down when idle)
+    buildCommand: npm install  # no dependencies, so this is instant
+    startCommand: npm start    # node scripts/server.mjs
+    envVars:
+      - key: DATA_DIR
+        value: /data           # crowd-tag votes are written here
+    # --- Persistent storage for the tag votes ---------------------------------
+    # A disk keeps tags.json across restarts/redeploys. Requires a paid instance
+    # (change `plan: free` above to `plan: starter`). Uncomment to enable:
+    # disk:
+    #   name: tags-data
+    #   mountPath: /data
+    #   sizeGB: 1

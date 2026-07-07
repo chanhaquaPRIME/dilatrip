@@ -1,0 +1,23 @@
+{
+  "name": "dalat-planner-scripts",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Utility scripts for the Da Lat Trip Planner (data curation).",
+  "scripts": {
+    "seed": "node seed-places.mjs",
+    "fill": "node fill-places.mjs",
+    "reviews": "node fetch-reviews.mjs",
+    "discover": "node discover-maps.mjs",
+    "scrape": "node scrape-maps.mjs",
+    "serve": "node server.mjs"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "csv-parse": "^5.5.6",
+    "csv-stringify": "^6.5.1",
+    "playwright": "^1.45.0"
+  }
+}

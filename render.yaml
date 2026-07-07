@@ -1,19 +1,17 @@
 # Render Blueprint — one-click deploy of the Đilatrip app + crowd-tags backend.
 # In Render: New → Blueprint → connect this repo. Everything below is auto-applied.
+#
+# Votes persist in Upstash Redis, so the FREE plan is enough — no paid disk needed.
+# You'll be prompted to paste the two Upstash secrets in the Render dashboard.
 services:
   - type: web
     name: dilatrip
     runtime: node
-    plan: free                 # free web service (spins down when idle)
+    plan: free                 # free web service (sleeps when idle; votes still safe in Redis)
     buildCommand: npm install  # no dependencies, so this is instant
     startCommand: npm start    # node scripts/server.mjs
     envVars:
-      - key: DATA_DIR
-        value: /data           # crowd-tag votes are written here
-    # --- Persistent storage for the tag votes ---------------------------------
-    # A disk keeps tags.json across restarts/redeploys. Requires a paid instance
-    # (change `plan: free` above to `plan: starter`). Uncomment to enable:
-    # disk:
-    #   name: tags-data
-    #   mountPath: /data
-    #   sizeGB: 1
+      - key: UPSTASH_REDIS_REST_URL
+        sync: false            # paste value in the Render dashboard (kept out of git)
+      - key: UPSTASH_REDIS_REST_TOKEN
+        sync: false            # paste value in the Render dashboard (kept out of git)

@@ -37,19 +37,27 @@ const ONLY = getArg("only", "");
 
 const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
 
-const TARGETS = { cafe: 50, eat: 50, stay: 30 };
+const TARGETS = { visit: 50, cafe: 50, eat: 50, stay: 50, nightlife: 50, activity: 50, shopping: 50 };
 // Đà Lạt + immediate surroundings (Lạc Dương, Tuyền Lâm, Trại Mát). Anything
 // outside this box (e.g. HCMC, Biên Hòa) is rejected.
 const BOX = { minLat: 11.75, maxLat: 12.20, minLng: 108.25, maxLng: 108.80 };
 const QUERIES = {
+  visit: "địa điểm tham quan du lịch Đà Lạt",
   cafe: "quán cà phê Đà Lạt",
   eat: "quán ăn nhà hàng Đà Lạt",
   stay: "khách sạn homestay Đà Lạt",
+  nightlife: "quán bar pub beer club Đà Lạt",
+  activity: "khu du lịch trải nghiệm vui chơi Đà Lạt",
+  shopping: "cửa hàng đặc sản quà lưu niệm Đà Lạt",
 };
 const DEFAULTS = {
+  visit: { hours: "07:00-17:00", visitMin: 60, price: 1, personas: ["couple", "family", "friends"], desc: "Điểm tham quan nổi bật tại Đà Lạt." },
   cafe: { hours: "07:00-22:00", visitMin: 60, price: 1, personas: ["solo", "couple", "friends"], desc: "Quán cà phê được yêu thích tại Đà Lạt." },
   eat: { hours: "10:00-21:00", visitMin: 75, price: 1, personas: ["solo", "couple", "friends", "family"], desc: "Quán ăn / nhà hàng tại Đà Lạt." },
   stay: { hours: "24h", visitMin: 30, price: 2, personas: ["couple", "family", "solo"], desc: "Nơi lưu trú tại Đà Lạt." },
+  nightlife: { hours: "18:00-00:00", visitMin: 90, price: 1, personas: ["couple", "friends"], desc: "Địa điểm vui chơi về đêm tại Đà Lạt." },
+  activity: { hours: "07:30-17:00", visitMin: 120, price: 1, personas: ["friends", "family", "couple"], desc: "Hoạt động trải nghiệm tại Đà Lạt." },
+  shopping: { hours: "08:00-21:00", visitMin: 45, price: 1, personas: ["couple", "family", "friends", "solo"], desc: "Điểm mua sắm / đặc sản tại Đà Lạt." },
 };
 
 function noDia(s) { return s.normalize("NFD").replace(/[̀-ͯ]/g, "").replace(/đ/g, "d").replace(/Đ/g, "D"); }

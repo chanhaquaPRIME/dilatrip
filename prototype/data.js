@@ -27,6 +27,7 @@ window.CATEGORIES = [
   { id: "stay",      label: "Lưu trú",    emoji: "🏨" },
   { id: "nightlife", label: "Về đêm",     emoji: "🌙" },
   { id: "activity",  label: "Trải nghiệm", emoji: "🚵" },
+  { id: "shopping",  label: "Mua sắm",    emoji: "🛍️" },
 ];
 
 const IMG = "https://images.unsplash.com/", OPT = "?w=640&q=80&auto=format&fit=crop";
@@ -37,6 +38,7 @@ const PHOTOS = {
   stay: ["1566073771259-6a8506099945", "1520250497591-112f2f40a3f4", "1582719478250-c89cae4dc85b", "1571896349842-33c89424de2d", "1611892440504-42a792e24d32"],
   nightlife: ["1470337458703-46ad1756a187", "1514525253161-7a46d19cd819", "1516450360452-9312f5e86fc7", "1545128485-c400e7702796", "1438557068880-c5f474830377"],
   activity: ["1432405972618-c60b0225b8f9", "1454496522488-7a8e488e8606", "1551632811-561732d1e306", "1533240332313-0db49b459ad6", "1530866495561-507c9faab2ed"],
+  shopping: ["1441986300917-64674bd600d8", "1481437156560-3205f6a55735", "1560472354-b33ff0c44a43", "1567958451986-2de427a4a0be", "1528698827591-e19ccd7bc23d"],
 };
 const _pi = {};
 function ph(cat) { const a = PHOTOS[cat] || PHOTOS.visit; const i = _pi[cat] || 0; _pi[cat] = i + 1; return IMG + "photo-" + a[i % a.length] + OPT; }
@@ -167,6 +169,20 @@ const RAW = [
   P({ name: "Hầm rượu vang Đà Lạt", category: "activity", area: "Phường 10", lat: 11.9460, lng: 108.4540, rating: 4.1, reviews: 2200, price: 1, hours: "08:00-17:00", visitMin: 60, personas: ["couple", "friends", "family"], highlights: ["thử vang Đà Lạt", "tìm hiểu quy trình"], desc: "Tham quan và nếm thử rượu vang đặc sản Đà Lạt." }),
   P({ name: "Thung lũng Vàng", category: "activity", area: "Lạc Dương", lat: 12.0500, lng: 108.4100, rating: 4.2, reviews: 4200, price: 1, hours: "07:00-17:00", visitMin: 120, personas: ["couple", "family", "friends"], highlights: ["vườn cảnh & hồ", "không khí trong lành"], desc: "Khu du lịch sinh thái cạnh hồ Suối Vàng với vườn cảnh đẹp." }),
   P({ name: "Trekking Bidoup - Núi Bà", category: "activity", area: "Lạc Dương", lat: 12.1100, lng: 108.6700, rating: 4.6, reviews: 1200, price: 2, hours: "06:00-16:00", visitMin: 480, personas: ["friends", "couple"], highlights: ["rừng nguyên sinh", "trekking cho người mê núi"], desc: "Vườn quốc gia rừng nguyên sinh, cung trekking và cắm trại hấp dẫn." }),
+
+  // --- Mua sắm (shopping) ---
+  P({ name: "Chợ Đà Lạt", category: "shopping", area: "Trung tâm", lat: 11.9432, lng: 108.4368, rating: 4.3, reviews: 22800, price: 1, hours: "05:00-19:00", visitMin: 60, highlights: ["chợ trung tâm biểu tượng", "đặc sản & thời trang"], desc: "Chợ trung tâm nổi tiếng, mua đặc sản, len, mứt và đồ ăn vặt." }),
+  P({ name: "Chợ đêm Đà Lạt (Chợ Âm Phủ)", category: "shopping", area: "Trung tâm", lat: 11.9440, lng: 108.4372, rating: 4.2, reviews: 15600, price: 1, hours: "17:00-23:00", visitMin: 75, personas: ["friends", "couple", "family"], highlights: ["ăn vặt về đêm", "sắm đồ len giá rẻ"], desc: "Chợ đêm sầm uất với đồ ăn nóng hổi và quần áo mùa lạnh." }),
+  P({ name: "Dalat Center", category: "shopping", area: "Trung tâm", lat: 11.9421, lng: 108.4386, rating: 4.1, reviews: 4200, price: 2, hours: "08:00-22:00", visitMin: 60, highlights: ["trung tâm thương mại", "thời trang & cà phê"], desc: "Trung tâm thương mại ngay khu Hòa Bình, mua sắm và ăn uống." }),
+  P({ name: "Go! Đà Lạt (Big C)", category: "shopping", area: "Phường 3", lat: 11.9338, lng: 108.4452, rating: 4.3, reviews: 9800, price: 1, hours: "08:00-22:00", visitMin: 60, personas: ["family", "couple", "friends"], highlights: ["siêu thị lớn", "đầy đủ nhu yếu phẩm"], desc: "Đại siêu thị với thực phẩm, đặc sản và khu ăn uống rộng rãi." }),
+  P({ name: "L'angfarm Buffet & Store", category: "shopping", area: "Trung tâm", lat: 11.9427, lng: 108.4399, rating: 4.4, reviews: 5100, price: 2, hours: "07:00-22:00", visitMin: 45, highlights: ["đặc sản Đà Lạt cao cấp", "mứt, trà, nông sản"], desc: "Cửa hàng đặc sản Đà Lạt uy tín: mứt, trà atiso, nông sản sấy." }),
+  P({ name: "Khu Hòa Bình", category: "shopping", area: "Trung tâm", lat: 11.9425, lng: 108.4378, rating: 4.2, reviews: 6700, price: 1, hours: "08:00-22:00", visitMin: 60, personas: ["friends", "couple", "family"], highlights: ["phố mua sắm trung tâm", "rạp Hòa Bình cổ"], desc: "Khu phố mua sắm sầm uất quanh rạp Hòa Bình, nhiều tiệm len & quà." }),
+  P({ name: "Chợ Hoa Đà Lạt", category: "shopping", area: "Trung tâm", lat: 11.9445, lng: 108.4362, rating: 4.3, reviews: 3400, price: 1, hours: "06:00-18:00", visitMin: 45, highlights: ["hoa tươi Đà Lạt", "giá gốc nhà vườn"], desc: "Chợ hoa bên hồ Xuân Hương, mua hoa tươi và cây cảnh Đà Lạt." }),
+  P({ name: "Đặc sản Tâm Châu", category: "shopping", area: "Phường 3", lat: 11.9360, lng: 108.4410, rating: 4.3, reviews: 2100, price: 1, hours: "07:30-21:00", visitMin: 30, highlights: ["trà & cà phê đặc sản", "quà biếu"], desc: "Thương hiệu trà - cà phê B'Lao, điểm mua quà đặc sản quen thuộc." }),
+  P({ name: "Cửa hàng len Đà Lạt", category: "shopping", area: "Trung tâm", lat: 11.9430, lng: 108.4380, rating: 4.1, reviews: 1500, price: 1, hours: "08:00-21:00", visitMin: 40, personas: ["couple", "friends", "family"], highlights: ["áo len mùa lạnh", "đặc trưng Đà Lạt"], desc: "Các tiệm len khu trung tâm, áo khoác - khăn - mũ giữ ấm giá tốt." }),
+  P({ name: "Hồng sấy & mứt Đà Lạt", category: "shopping", area: "Phường 8", lat: 11.9520, lng: 108.4470, rating: 4.2, reviews: 1800, price: 1, hours: "08:00-18:00", visitMin: 30, highlights: ["hồng treo gió", "mứt trái cây"], desc: "Cửa hàng nông sản sấy: hồng treo gió, mứt dâu, atiso làm quà." }),
+  P({ name: "Cối Xay Gió - Đặc sản & quà", category: "shopping", area: "Trung tâm", lat: 11.9412, lng: 108.4405, rating: 4.2, reviews: 2600, price: 1, hours: "08:00-22:00", visitMin: 30, personas: ["couple", "friends", "family"], highlights: ["check-in cối xay gió", "quà lưu niệm"], desc: "Điểm check-in cối xay gió kèm cửa hàng quà lưu niệm dễ thương." }),
+  P({ name: "Siêu thị đặc sản Đà Lạt Sương Mai", category: "shopping", area: "Phường 1", lat: 11.9358, lng: 108.4425, rating: 4.2, reviews: 1300, price: 1, hours: "07:00-21:30", visitMin: 30, highlights: ["đầy đủ đặc sản", "giá niêm yết"], desc: "Siêu thị đặc sản tổng hợp, mua mứt - trà - rượu vang - nông sản." }),
 ];
 
 RAW.forEach((p, i) => {

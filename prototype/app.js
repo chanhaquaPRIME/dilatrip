@@ -503,8 +503,9 @@ function updateMap() {
       list.forEach((p) => {
         const m = L.marker([p.lat, p.lng]).addTo(markerLayer)
           .bindPopup(`<b>${p.name}</b><br>★ ${p.rating} · ${catMap[p.category].label}`);
-        // Click a place on the map → focus it AND open its info card.
-        m.on("click", () => { state.focusId = p.id; updateMap(); openDetail(p.id); });
+        // Click a place on the map → open its card (openDetail focuses the map and
+        // restores this exact view when the card closes).
+        m.on("click", () => openDetail(p.id));
         pts.push([p.lat, p.lng]);
       });
       map.fitBounds(pts, { padding: [40, 40], maxZoom: 15 });

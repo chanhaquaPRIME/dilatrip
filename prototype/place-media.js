@@ -14269,5 +14269,11714 @@ window.PLACE_MEDIA = {
     ],
     "lat": 11.9321676,
     "lng": 108.4162011
+  },
+  "cho-da-lat-105": {
+    "lat": 11.9430226,
+    "lng": 108.4368778,
+    "img": "images/cho-da-lat-105.jpg",
+    "photos": [
+      "images/cho-da-lat-105.jpg",
+      "images/cho-da-lat-105-2.jpg",
+      "images/cho-da-lat-105-3.jpg",
+      "images/cho-da-lat-105-4.jpg"
+    ],
+    "price": 2,
+    "rating": 4.5,
+    "reviews": 1522,
+    "comments": [
+      {
+        "author": "ĐỜ - RA - MA",
+        "rating": 5,
+        "text": "Chợ đêm là nơi thể hiện rõ nhất sự sầm uất nhưng vẫn giữ được nét nền nã của Đà Lạt. Không quá hào nhoáng, không xô bồ kiểu đô thị lớn, mà là sự đông vui có trật tự, người bán niềm nở, người mua thong thả dạo bước. …",
+        "when": "4 tháng trước"
+      },
+      {
+        "author": "Jason B",
+        "rating": 5,
+        "text": "Chợ Đà Lạt – Điểm giao thoa giữa ký ức lịch sử và nhịp sống phố thị rực rỡ\n\nChợ Đà Lạt không chỉ là một trung tâm thương mại đơn thuần mà còn là linh hồn …",
+        "when": "2 tháng trước"
+      },
+      {
+        "author": "Peter Crouch",
+        "rating": 5,
+        "text": "Nếu hỏi một nơi “đậm chất Đà Lạt” nhất về đêm thì chắc chắn là chợ Đà Lạt – hay còn gọi là “chợ Âm Phủ”. Không phải kiểu chợ quá đẹp hay hiện đại, nhưng cái không khí lạnh lạnh, đông vui, mùi đồ nướng thơm khắp nơi và dòng người đi dạo mới …",
+        "when": "một tháng trước"
+      },
+      {
+        "author": "Toon Tran",
+        "rating": 4,
+        "text": "**Chợ Đà Lạt** (đặc biệt là không gian chợ đêm) chính là trái tim và là nơi phản ánh rõ nét nhất nhịp sống, hơi thở của thành phố sương mù khi hoàng hôn buông xuống. …",
+        "when": "một tháng trước"
+      },
+      {
+        "author": "Toàn Tâm",
+        "rating": 4,
+        "text": "Có thể thấy mặt tiền chợ vẫn giữ được vẻ quen thuộc của một công trình đã gắn bó lâu năm với thành phố. Tuy nhiên, nếu nhìn dưới góc độ phát triển du lịch hiện đại, khu vực xung quanh chợ có thể được chỉnh trang đồng bộ hơn về cảnh quan, …",
+        "when": "Thời gian chỉnh sửa: 3 tuần trước"
+      },
+      {
+        "author": "Toàn Huỳnh",
+        "rating": 5,
+        "text": "Ngôi chợ cực kì nổi tiếng ở thành phố ngàn hoa, mọi người đều ko thể bỏ lỡ địa điểm này mỗi khi tới đây. Chợ nằm tại trung tâm thành phố, gần hồ Xuân Hương, bán nhiều loại đặc sản của Đà Lạt, cho mọi người mua quà mang về. Xung quanh chợ …",
+        "when": "4 tháng trước"
+      },
+      {
+        "author": "Trung Do Van",
+        "rating": 3,
+        "text": "Chợ Đà Lạt đông đúc từ sáng tới tối. Nhiều đồ lựa chọn. Nông lâm sản, đồ ăn, quà lưu niệm đủ cả.\n2026 chợ khác nhiều so với các năm trước. Giá trong quầy sạp trong chợ không còn …",
+        "when": "4 tuần trước"
+      },
+      {
+        "author": "Jane Le",
+        "rating": 5,
+        "text": "Phải ghé qua ít nhất một lần khi tới ĐL. Không khí ở đây rất đặc trưng, se lạnh, đi dạo quanh chợ cảm giác rất vui và nhộn nhịp. …",
+        "when": "4 tháng trước"
+      },
+      {
+        "author": "Đức Thái Nguyễn",
+        "rating": 5,
+        "text": "⭐️⭐️⭐️⭐️⭐️\n\nChợ Đà Lạt là một trong những điểm đến không thể bỏ qua khi ghé thăm thành phố …",
+        "when": "3 tuần trước"
+      },
+      {
+        "author": "Khanh Nguyen",
+        "rating": 5,
+        "text": "Một ngôi chợ kiên cố và lâu đời của Đalat.\nNếu du khách nào lên Đalat mà chưa từng thong thả dạo bước tham quan chợ, thì có lẽ chưa cảm nhận được hết được nét sinh hoạt của xứ cao nguyên...",
+        "when": "3 tháng trước"
+      }
+    ],
+    "source": "google-maps"
+  },
+  "cho-dem-da-lat-cho-am-phu-106": {
+    "lat": 11.9414015,
+    "lng": 108.4372912,
+    "img": "images/cho-dem-da-lat-cho-am-phu-106.jpg",
+    "photos": [
+      "images/cho-dem-da-lat-cho-am-phu-106.jpg",
+      "images/cho-dem-da-lat-cho-am-phu-106-2.jpg",
+      "images/cho-dem-da-lat-cho-am-phu-106-3.jpg",
+      "images/cho-dem-da-lat-cho-am-phu-106-4.jpg"
+    ],
+    "price": 1,
+    "phone": "02633821586",
+    "rating": 4.2,
+    "reviews": 18620,
+    "comments": [
+      {
+        "author": "Thiên Bút Network (Tp. Hồ Chí Minh hôm nay)",
+        "rating": 5,
+        "text": "Ban ngày, Đà Lạt mang vẻ nhẹ nhàng và chậm rãi. Nhưng khi trời bắt đầu lạnh hơn sau 6 giờ tối, Chợ đêm Đà Lạt lại trở thành một trong những nơi đông vui và có không khí đặc trưng nhất thành phố. …",
+        "when": "một tháng trước"
+      },
+      {
+        "author": "Grace",
+        "rating": 5,
+        "text": "Trong chợ này thì mình thấy có quán sự sữa là ngon và giá rẻ, chứ ăn mấy quán ở đây cũng hên xui lắm, bữa đầu tụi mình ăn đủ thứ về đau bụng tiêu chảy quá trời, bữa sau thì uống sữa bên sự sữa vs ăn trứng gà nướng, súp với bánh tránh nướng …",
+        "when": "5 tháng trước"
+      },
+      {
+        "author": "Sou Channel",
+        "rating": 4,
+        "text": "👍 Điểm cộng\n•\tKhông khí đông vui, đặc trưng Đà Lạt về đêm\n•\tNhiều đồ ăn vặt, dễ ăn – dễ chọn …",
+        "when": "2 tháng trước"
+      },
+      {
+        "author": "Nguyen Phong (Amazing Kiss)",
+        "rating": 5,
+        "text": "Chợ đêm Đà Lạt là điểm đến “bắt buộc” khi du lịch Đà Lạt – nơi kết hợp hoàn hảo giữa ẩm thực đường phố đa dạng, hàng hóa giá rẻ và không khí lãng mạn của thành phố ngàn hoa về đêm.",
+        "when": "một tháng trước"
+      },
+      {
+        "author": "Tùn không gờ",
+        "rating": 5,
+        "text": "Chợ Đêm Đà Lạt là một trong những địa điểm nhộn nhịp và đặc trưng nhất khi đến thành phố này. Không khí về đêm rất sôi động, đông vui với nhiều gian hàng ăn uống, quần áo và quà lưu niệm. Đặc biệt, khu ẩm thực là điểm thu hút nhất với rất …",
+        "when": "3 tháng trước"
+      },
+      {
+        "author": "Đinh Thanh",
+        "rating": 5,
+        "text": "Đông và vui là 2 từ diễn tả chợ đêm của Đà Lạt. Ra chợ buổi chiều có thể mua được nhiều quà đem dề với giá tuỳ chọn ạ. Mình không đánh giá cao về 1 sạp bán dâu ở đây nhen mn. Chị bán dâu cho mình giá thì khá mềm, nói sẽ chín đều khi về tới …",
+        "when": "3 tháng trước"
+      },
+      {
+        "author": "Tiến Nguyễn Minh",
+        "rating": 4,
+        "text": "Nơi đây bán đầy đủ các đặc sản của Đà Lạt, nơi không thể bỏ qua khi đến Đà Lạt, ban đêm không khí rất vui nhộn nhịp.",
+        "when": "một tháng trước"
+      },
+      {
+        "author": "Nguyen Thanh",
+        "rating": 5,
+        "text": "Quán Cô Hương ngay đầu bậc thang chợ đêm quá ư là tuyệt vời. Cô vui vẻ dễ thương, khoai lang mật ngon, sữa đậu nành ko bị ngọt như mấy chỗ khác.. giá niêm yết.... thời tiết ủng hộ sẽ quay lại..",
+        "when": "một tháng trước"
+      },
+      {
+        "author": "ĐỜ - RA - MA",
+        "rating": 5,
+        "text": "Chợ đêm Đà Lạt – 5☆\nKhông khí:\nNhộn nhịp, đông vui nhưng vẫn giữ được nét riêng của Đà Lạt về đêm. Đèn sáng …",
+        "when": "4 tháng trước"
+      },
+      {
+        "author": "Pan Yuming",
+        "rating": 3,
+        "text": "Là trung tâm mua bán và ẩm thực phục vụ khách du lich của Đà Lạt, nay chợ được tổ chức ngăn nắp hơn. Có đội trật tự thường xuyên có mặt tại chợ tạo cảm giác an toàn hơn cho du khách. Đầu xuân nên hoa quả và các lọi đặc sản của Lâm đồng được …",
+        "when": "Thời gian chỉnh sửa: 3 tháng trước"
+      }
+    ],
+    "source": "google-maps"
+  },
+  "dalat-center-107": {
+    "lat": 11.944039,
+    "lng": 108.4236,
+    "img": "images/dalat-center-107.jpg",
+    "photos": [
+      "images/dalat-center-107.jpg",
+      "images/dalat-center-107-2.jpg",
+      "images/dalat-center-107-3.jpg",
+      "images/dalat-center-107-4.jpg"
+    ],
+    "price": 1,
+    "phone": "02633555888",
+    "rating": 4.6,
+    "reviews": 2532,
+    "comments": [
+      {
+        "author": "DO QUYNH ANH PHAM",
+        "rating": 0,
+        "text": "Resort nhiều cây mát mẻ, chim hót líu lo đẹp đẽ và yên bình. Đến Đà Lạt để đi nghỉ dưỡng thì đừng đi đâu cả, book phòng ở Ana Mandara nghỉ ngơi ở đây thôi. Đà Lạt quá đông khách du lịch, đi đâu cũng cực kì ồn ào mệt mỏi thậm chí mình còn …",
+        "when": ""
+      },
+      {
+        "author": "Trần Quốc",
+        "rating": 0,
+        "text": "Lần đầu được ở Resort 5 sao, trải nghiệm tuyệt vời tại Ana Mandara Đà Lạt. Không gian yên tĩnh, cảnh quan đẹp, phòng nghỉ thoải mái và nhân viên rất thân thiện. Rất đáng để quay lại khi đến Đà Lạt, cảm ơn anh Lắm đã hỗ trợ cho em mượn xe đạp để đạp quanh Đà Lạt nha ^^",
+        "when": ""
+      },
+      {
+        "author": "861ti_nm",
+        "rating": 0,
+        "text": "Không gian yên tĩnh, nhiều cây xanh và rất phù hợp để nghỉ dưỡng. Phòng sạch sẽ, ấm cúng và mang phong cách cổ điển đặc trưng của Đà Lạt. Nhân viên thân thiện, hỗ trợ nhiệt tình và luôn niềm nở với khách. Bữa sáng ngon, khuôn viên đẹp và tạo cảm giác thư giãn. Đây là một nơi đáng để quay lại khi đến Đà Lạt.",
+        "when": ""
+      },
+      {
+        "author": "MIN STUDIO ĐÀ LẠT",
+        "rating": 0,
+        "text": "Kiến trúc ở đây mang kiểu villa nghỉ dưỡng của người Pháp từ khoảng những năm 1920–1940.\nNgày xưa khu này được xây để làm nơi nghỉ dưỡng cho quan chức và giới thượng lưu …",
+        "when": ""
+      },
+      {
+        "author": "Nam Tran Nhat",
+        "rating": 0,
+        "text": "Khu nghỉ dưỡng ngay giữa trung tâm thành phố. Không nghỉ giữa trung tâm mà vẫn tận hưởng được view và không gian như vùng ngoại ô Đà Lạt. Các biệt thự và khu vực bên trong nội khu rất đẹp và cổ kính. Đi trúng mùa hoa Mai Anh Đào hoặc mùa thu thì tuyệt vời hơn nữa.",
+        "when": ""
+      },
+      {
+        "author": "Anna Vu",
+        "rating": 0,
+        "text": "Mình ở căn 12, gần khu nhà hàng và hồ bơi nhưng phòng 12.03 thích lắm, phòng hạng villa studio diện tích rộng nhưng thiếu cửa sổ và ánh sáng, bị bí và tối. …",
+        "when": ""
+      },
+      {
+        "author": "Hoàng Hải",
+        "rating": 0,
+        "text": "Đầu tiên là cảm giác rất Đà Lạt khi vào khu nghỉ. Mỗi căn Villa đều rất cổ điển.\nKhông khí cực kì trong lành mặc dù vị trí khá gần trung tâm. …",
+        "when": ""
+      },
+      {
+        "author": "An Nguyen",
+        "rating": 0,
+        "text": "Phòng hơi nhỏ nhưng đầy đủ tiện nghi, phòng tắm rộng, bồn tắm cũng lớn. Phòng ở đây rất hay là ban đêm ấm dù mình không bật sưởi và ban ngày rất mát. Buổi tối đi dạo nghe mùi hoa rất thơm, khuôn viên nhiều cây xanh nên rất mát mẻ. Có miễn …",
+        "when": ""
+      },
+      {
+        "author": "PhuongNam nguyen",
+        "rating": 0,
+        "text": "Đà lạt trong trí tưởng tượng của tôi là ở đây, nơi có thông, có cỏ, có hoa và những ngôi nhà kiến trúc pháp. Lãng mạn, êm đềm ...",
+        "when": ""
+      },
+      {
+        "author": "An Phạm Trần Thúy",
+        "rating": 0,
+        "text": "Điều mình ấn tượng ở Ana Mandara Đà Lạt là nhân viên vô cùng thân thiện và chu đáo. …",
+        "when": ""
+      }
+    ],
+    "source": "google-maps"
+  },
+  "go-da-lat-big-c-108": {
+    "lat": 11.9382343,
+    "lng": 108.4447981,
+    "img": "images/go-da-lat-big-c-108.jpg",
+    "photos": [
+      "images/go-da-lat-big-c-108.jpg",
+      "images/go-da-lat-big-c-108-2.jpg",
+      "images/go-da-lat-big-c-108-3.jpg",
+      "images/go-da-lat-big-c-108-4.jpg"
+    ],
+    "price": 2,
+    "phone": "02633545088",
+    "rating": 4.2,
+    "reviews": 13108,
+    "comments": [
+      {
+        "author": "Lưu Quang Minh",
+        "rating": 5,
+        "text": "GO! Đà Lạt là một trong những trung tâm mua sắm mình đánh giá rất cao mỗi khi có dịp ghé lại thành phố này. Nằm ngay khu vực trung tâm nên việc di chuyển cực kỳ thuận tiện, rất phù hợp cho cả khách du lịch lẫn người dân địa phương. …",
+        "when": "3 tháng trước"
+      },
+      {
+        "author": "Mark",
+        "rating": 5,
+        "text": "Original review is provided below this Vietnamese translation .\n\nNếu Đà Lạt có một nơi mà tất cả mọi du khách “tình cờ” gặp nhau, thì chắc chắn …",
+        "when": "2 tháng trước"
+      },
+      {
+        "author": "đi lang thang",
+        "rating": 5,
+        "text": "Siêu thị GO! Đà Lạt là trung tâm thương mại lớn nhất thành phố, tọa lạc ngay trung tâm tại Quảng trường Lâm Viên, nằm sát Hồ Xuân Hương, thuận tiện cho du khách tham quan và mua sắm. Không chỉ có siêu thị, tại đây còn có rạp chiếu phim …",
+        "when": "2 tháng trước"
+      },
+      {
+        "author": "ĐỜ - RA - MA",
+        "rating": 5,
+        "text": "GO! Đà Lạt là trung tâm mua sắm hiện đại, không gian rộng rãi, sạch sẽ và bố trí gọn gàng. Hàng hóa đa dạng từ thực phẩm, đồ gia dụng đến quần áo, điện máy, đáp ứng đầy đủ nhu cầu sinh hoạt hằng ngày. …",
+        "when": "4 tháng trước"
+      },
+      {
+        "author": "Review của Thăng",
+        "rating": 5,
+        "text": "Siêu thị GO Đà Lạt là một trong những điểm mua sắm tiện lợi mà tôi hay ghé mỗi khi ở thành phố này. Không gian siêu thị khá rộng, sắp xếp gọn gàng và sạch sẽ, đi lại dễ chịu, không bị chật chội như một số siêu thị nhỏ khác. Hàng hoá ở đây …",
+        "when": "5 tháng trước"
+      },
+      {
+        "author": "Nguyên Phạm",
+        "rating": 5,
+        "text": "[17.11.2025 • Đà Lạt]\n📍Nằm tại Quảng trường Lâm Viên – trung tâm Đà Lạt, rất dễ tìm và thuận tiện di chuyển. Không gian rộng, hiện đại, sạch sẽ, phù hợp đi mua sắm hoặc dạo quanh kết …",
+        "when": "6 tháng trước"
+      },
+      {
+        "author": "jung kook",
+        "rating": 5,
+        "text": "Siêu thị GO! là một địa điểm mua sắm rất tiện lợi và hiện đại. Ở đây có rất nhiều mặt hàng đa dạng từ thực phẩm, đồ gia dụng đến quần áo, đáp ứng hầu hết nhu cầu hằng ngày của mọi người. Không gian siêu thị rộng rãi, sạch sẽ, các gian hàng …",
+        "when": "3 tháng trước"
+      },
+      {
+        "author": "Ko Chit",
+        "rating": 1,
+        "text": "Vừa mua gà và heo xong về đem ra rửa mùi thúi quắt tanh rình date là 5/2/2026 … xong gọi lên tổng đài thì kiu mang ra lại chỗ chăm sóc khách hàng !! trời ơi tôi rảnh thời gian hả mang cái đống thúi đó lên xe đi hơn 15km lên tận siêu thị các bạn rồi đi 15km về lại nhà, thôi tạm biệt GO từ đây quá kinh tởm",
+        "when": "5 tháng trước"
+      },
+      {
+        "author": "Trần Đắc Toàn",
+        "rating": 5,
+        "text": "Quảng trường về đêm đông vui, rất nhiều người ra đây chụp hình, uống sữa, ăn vặt và nhiều hoạt động ngoài trời cảm nhận không khí se lạnh về đêm.",
+        "when": "4 tháng trước"
+      },
+      {
+        "author": "Đào Mạnh Hiếu",
+        "rating": 5,
+        "text": "Khu siêu thị bên trong sắp xếp khoa học, giá niêm yết rõ ràng, thường xuyên có chương trình khuyến mãi. Khu ẩm thực phong phú, phù hợp cho gia đình và nhóm bạn ghé ăn uống, nghỉ ngơi sau khi mua sắm. …",
+        "when": "3 tháng trước"
+      }
+    ],
+    "source": "google-maps"
+  },
+  "l-angfarm-buffet-store-109": {
+    "img": "images/l-angfarm-buffet-store-109.jpg",
+    "photos": [
+      "images/l-angfarm-buffet-store-109.jpg",
+      "images/l-angfarm-buffet-store-109-2.jpg",
+      "images/l-angfarm-buffet-store-109-3.jpg",
+      "images/l-angfarm-buffet-store-109-4.jpg"
+    ],
+    "price": 1,
+    "phone": "02838363900",
+    "rating": 4.2,
+    "reviews": 1951,
+    "comments": [
+      {
+        "author": "wobbler Công ty sản xuất",
+        "rating": 5,
+        "text": "Nhiều đồ ăn vặt ngon và không gian đẹp",
+        "when": "9 tháng trước"
+      },
+      {
+        "author": "THONG VICTOR",
+        "rating": 4,
+        "text": "Một hệ thống chuỗi cửa hàng đặc sản đà lạt tại Sài Gòn với chất an tâm an tòa, nhiều chủng loại mức, đồ sấy khô, bây giờ ko cần đi đà lạt mà vẫn có đặc sản đà lạt để ăn để tặng quà.",
+        "when": "8 tháng trước"
+      },
+      {
+        "author": "Phúc Nguyễn",
+        "rating": 5,
+        "text": "Trải nghiệm ngay Đà Lạt giữa lòng thành phố, chỉ với 59k/người mà được dùng buffet đủ món ăn vặt và đủ loại trà luôn. Giá quá hợp lý, thức ăn & nước uống tuy là những món nhẹ nhưng cũng rất thú vị để thử. Nhân viên nhiệt tình, phục vụ cực …",
+        "when": "5 năm trước"
+      },
+      {
+        "author": "Thai Ho",
+        "rating": 5,
+        "text": "Bufee sáng chất lượng! Ông chủ bù lỗ để có không gian cho khách hàng thử các loại mứt đặc sản Đà Lạt của Langfarm\nBuffee gồm: các loại mứt, khô gà, khoai , ngô nướng , các loại trà, bánh mì, cà …",
+        "when": "5 năm trước"
+      },
+      {
+        "author": "Thuy Duong",
+        "rating": 5,
+        "text": "• Lần đầu thử, chỗ này nằm ở mặt tiền đường THĐ, lúc mình đến hết chỗ để xe, phải sang đối diện đường gửi, mất 5k. …",
+        "when": "5 năm trước"
+      },
+      {
+        "author": "AnhUt miquangtron",
+        "rating": 5,
+        "text": "Quán nằm ở mặt tiền đường Trầnn Hưng Đạo, gần khúc Trần Bình Trọngg. Đi ngang mấy lần nhìn cũng khá là hoành tráng nên nhất quyết phải ghé thử. Không gian rộng rãi như bên ngoài thấy, có khu vui chơi cho trẻ em nữa. Tầng trên là khu ăn uống …",
+        "when": "6 năm trước"
+      },
+      {
+        "author": "quy ngoc",
+        "rating": 5,
+        "text": "Tuyệt vời. Điểm trừ là phụ huynh ko quản dc các cháu nhỏ quậy như cái nhà thiếu nhi. Có khu cho trẻ em mà ko quản cháu vô đó chơi. Nhân viên cũng nhát ko dám nói. Các bạn nhân viên nhiệt tình dê thương. Đồ ăn ngon. Ngày thường 59k ngày cuối tuần 69k quá rẻ cho 1 vé không giới hạng giờ !",
+        "when": "5 năm trước"
+      },
+      {
+        "author": "Nguyễn Dũng (Dũng review có tâm)",
+        "rating": 5,
+        "text": "Buffel ăn ngon,lạ miệng, sạch sẽ\nQuán bầy trí đẹp\nCác loại trà uống cực kì ngon …",
+        "when": "Thời gian chỉnh sửa: 7 năm trước"
+      },
+      {
+        "author": "Son CT",
+        "rating": 5,
+        "text": "Quán không gian rộng đẹp, lịch sự. Có khu vui chơi cho trẻ e. Về các món ăn vì là dạng như \"buffet ngọt\" nên chủ yếu bán những món ăn vặt, món tráng miệng chứ không có bán món ăn cho no nên cần lưu ý điều này trước khi vào đây. …",
+        "when": "6 năm trước"
+      },
+      {
+        "author": "TT 108",
+        "rating": 4,
+        "text": "Shop đẹp quá à, có thêm hồ cá Koi thích ghê.\nMứt trà trưng bày đẹp, nhưng vẫn khoái nhất ấm trà nóng. Vừa uống trà vừa ngắm cá, đợi Bà xã lựa đồ. …",
+        "when": "Thời gian chỉnh sửa: 7 năm trước"
+      }
+    ],
+    "source": "google-maps"
+  },
+  "khu-hoa-binh-110": {
+    "lat": 11.9441761,
+    "lng": 108.435954,
+    "img": "images/khu-hoa-binh-110.jpg",
+    "photos": [
+      "images/khu-hoa-binh-110.jpg",
+      "images/khu-hoa-binh-110-2.jpg",
+      "images/khu-hoa-binh-110-3.jpg",
+      "images/khu-hoa-binh-110-4.jpg"
+    ],
+    "rating": 4.8,
+    "reviews": 98,
+    "comments": [
+      {
+        "author": "Duy Quang Dang",
+        "rating": 5,
+        "text": "Nhiều đồ ăn , không gian Đà Lạt mát mẻ dễ chịu , vibe đặc trưng chỉ có ở ĐL",
+        "when": "một tháng trước"
+      },
+      {
+        "author": "Ng Tuyên - An Thái Trung",
+        "rating": 5,
+        "text": "Tọa lạc tại trung tâm, khu Hòa Bình từ lâu đã được xem là trái tim, là linh hồn của Đà Lạt. Nơi đây không chỉ là một quảng trường đơn thuần mà còn là biểu tượng sống động, chứng kiến bao thăng trầm và đổi thay của thành phố. Với vị trí đắc …",
+        "when": "Thời gian chỉnh sửa: một tháng trước"
+      },
+      {
+        "author": "Ánh Vũ",
+        "rating": 3,
+        "text": "Bún riêu, bún bò của cô thứ 2 (cạnh sửa xe Thi)\nBún riêu có huyết, riêu, thêm xương là 45k. Vị hơi nhạt và không có gì quá đặc biệt. …",
+        "when": "4 năm trước"
+      },
+      {
+        "author": "Ngọc Châu Nguyễn",
+        "rating": 5,
+        "text": "Không khí nào cũng đông vui nhộn nhịp, cảm nhận được cái lạnh đà lạt về đêm thật đã, nay có trend chụp tháp Eiffel nửa chớ.",
+        "when": "một năm trước"
+      },
+      {
+        "author": "Ngọc Nhi Nguyễn",
+        "rating": 5,
+        "text": "Buổi sáng khá chill đông đút, ổn áp ạ",
+        "when": "một năm trước"
+      },
+      {
+        "author": "CĐ AN GIANG Đoàn Văn Phúc",
+        "rating": 5,
+        "text": "Tuyệt vời khi ngồi ăn sáng và uống cafe nơi này. Nhiều góc chụp rất chill",
+        "when": "2 năm trước"
+      },
+      {
+        "author": "DUY KHÁNH WYCKOFF",
+        "rating": 5,
+        "text": "Trung tâm sầm uất của đà lạt, cách chợ đà lạ 100m, ăn uống mua sắm và các lễ hội lớn trong năm",
+        "when": "6 năm trước"
+      },
+      {
+        "author": "Hau Trung",
+        "rating": 5,
+        "text": "Sáng sớm cf ở khu này thì tuyệt vời nhe.",
+        "when": "3 năm trước"
+      },
+      {
+        "author": "Bookaholic Saigon",
+        "rating": 5,
+        "text": "Buổi sáng thật chill với cà phê ghế nhựa, buổi trưa mưa thật xối xả.",
+        "when": "2 năm trước"
+      },
+      {
+        "author": "NGUYEN",
+        "rating": 4,
+        "text": "Khu Hoà Bình Đà Lạt .\n🌍 P.1 , TP Đà Lạt , tỉnh Lâm Đồng ( ngay chợ Đà Lạt ) …",
+        "when": "Thời gian chỉnh sửa: một năm trước"
+      }
+    ],
+    "source": "google-maps"
+  },
+  "cho-hoa-da-lat-111": {
+    "img": "images/cho-hoa-da-lat-111.jpg",
+    "photos": [
+      "images/cho-hoa-da-lat-111.jpg",
+      "images/cho-hoa-da-lat-111-2.jpg",
+      "images/cho-hoa-da-lat-111-3.jpg",
+      "images/cho-hoa-da-lat-111-4.jpg"
+    ],
+    "rating": 4.5,
+    "reviews": 447,
+    "comments": [
+      {
+        "author": "Boom Hùng",
+        "rating": 5,
+        "text": "Dalat Hasfarm – công ty tiên phong trong việc phát triển nghề trồng hoa chuyên nghiệp tại Việt Nam. Đó là cuộc hành trình được bắt nguồn từ những ngày đầu không ít gian truân tại vùng đất cao nguyên Đà Lạt. Để rồi bằng tình yêu và niềm đam …",
+        "when": "một năm trước"
+      },
+      {
+        "author": "Yong Ruan",
+        "rating": 4,
+        "text": "Mùa Giáng Sinh shop tùng thơm 180,000 cây chưa trang trí, cúc tana 130,000 bó rất đẹp.",
+        "when": "3 năm trước"
+      },
+      {
+        "author": "Thanh Phong Trần",
+        "rating": 5,
+        "text": "Cửa hàng đặc sản đà lạt quá okela. Nhiều mặt hàng quà tặng rất thiết thực nhân viên tư vấn nhiệt tình giá cả cũng ổn cửa hàng này nằm trong aeon tân phú nên rộng đáng để ghé mua sẵn tiện đi dạo aeon chơi rất là hợp lý kkk",
+        "when": "một năm trước"
+      },
+      {
+        "author": "Thuy Nguyen",
+        "rating": 4,
+        "text": "Da lat rất đẹp thời tiết mát mẻ. Đặc biệt hoa nơi này rất đẹp",
+        "when": "5 năm trước"
+      },
+      {
+        "author": "Lê Minh Quang",
+        "rating": 5,
+        "text": "Hoa tươi rẻ",
+        "when": "một năm trước"
+      },
+      {
+        "author": "ProTalk English Center",
+        "rating": 5,
+        "text": "Hoa đẹp, nhân viên dễ thương",
+        "when": "7 tháng trước"
+      },
+      {
+        "author": "Nguyễn Linh",
+        "rating": 5,
+        "text": "Đồ ăn ngon,nhân viên thân thiện dễ thương",
+        "when": "8 tháng trước"
+      },
+      {
+        "author": "Romeo RV",
+        "rating": 5,
+        "text": "Hoa tươi, đa dạng các loại hoa, giá cũng bình thường, thích hợp mua trồng tại nhà hoặc có thể mua những chậu nhỏ nhỏ trồng ở văn phòng làm việc cho không gian thêm tươi mát.",
+        "when": "5 năm trước"
+      },
+      {
+        "author": "Minh Minh (Nhà sáng tạo nội dung)",
+        "rating": 5,
+        "text": "Nhiều hoa, giá mềm, mua tặng ngưòi yêu, bạn bè thì là lựa chọn hợp lý với chi phí rẻ",
+        "when": "5 năm trước"
+      },
+      {
+        "author": "NGUYEN HUONG",
+        "rating": 5,
+        "text": "Rất tuyệt vời,  không biết tả sao cho hết vì sự đầy đủ và đông vui ... không thiếu 1 thứ gì khi khách tới ❤❤❤❤❤",
+        "when": "5 năm trước"
+      }
+    ],
+    "source": "google-maps"
+  },
+  "dac-san-tam-chau-112": {
+    "img": "images/dac-san-tam-chau-112.jpg",
+    "photos": [
+      "images/dac-san-tam-chau-112.jpg",
+      "images/dac-san-tam-chau-112-2.jpg",
+      "images/dac-san-tam-chau-112-3.jpg",
+      "images/dac-san-tam-chau-112-4.jpg"
+    ],
+    "price": 1,
+    "phone": "19009261",
+    "rating": 4.3,
+    "reviews": 756,
+    "comments": [
+      {
+        "author": "Trường An Nguyễn",
+        "rating": 5,
+        "text": "Đồi chè rất thoáng đãng, tươi mát. Phù hợp cho những ai muốn có không gian yên bình, học hỏi về trà đạo cũng như quy trình làm trà thì đây là 1 nơi rất phù hợp để đi. Có cả khách sạn, nhà hàng, xe điện đưa đón, hồ có thể bơi được, có glamping để overnight. Nói chung là 10 điểm",
+        "when": "2 tuần trước"
+      },
+      {
+        "author": "Gia Luu",
+        "rating": 5,
+        "text": "Tôi thích sự yên tĩnh nơi này, ít người và thoáng mát với view nhẹ nhàng là nét nổi bật và là ưu điểm. Bảo Lộc nói chung và Tâm Châu nói riêng đủ sức làm hài lòng những ai thích bình yên, nhẹ nhàng",
+        "when": "2 tuần trước"
+      },
+      {
+        "author": "Tuấn Đặng",
+        "rating": 5,
+        "text": "- 100k/ng. Bao gồm 1 suất nước uống.\n- Có khu vực thưởng trà và bày bán sản phẩm.\n- Đi bộ mát mẻ",
+        "when": "3 tuần trước"
+      },
+      {
+        "author": "Mô Hình Quân Sự",
+        "rating": 4,
+        "text": "Khu du lịch sinh thái trồng trà rất rộng ước chừng hơn 70ha, được tổ chức vừa tiến hành trồng trà theo phương thức công nghệ cao kết hợp với du lịch sinh thái (theo mô hình du lịch vườn). Đây là địa điểm khá lý tưởng để bạn đến Bảo Lộc tham …",
+        "when": "4 tháng trước"
+      },
+      {
+        "author": "Là Cỏ",
+        "rating": 5,
+        "text": "Khu mới mở vẫn còn hoàn thiện.\nVé 80k/ người bao gồm nước. Tham quan xe điện thêm 100k/ người.\nView đẹp, thoáng mát, trong lành.",
+        "when": "5 tháng trước"
+      },
+      {
+        "author": "Ha, Le Quang",
+        "rating": 5,
+        "text": "Tâm Châu Farm có view cực kỳ đẹp và yên tĩnh. Mô hình kết hợp nghỉ dưỡng, trồng chè, nhà máy chế biến trà, matcha.\nTôi rất thích view trên cao nhìn xuống hồ xanh mát. …",
+        "when": "6 tháng trước"
+      },
+      {
+        "author": "Hoàng Nguyễn",
+        "rating": 5,
+        "text": "Ghé thăm Tâm Châu Farm 🚜🌱 để tận hưởng không gian xanh mát và nông sản tươi ngon! Đảm bảo bạn sẽ có những trải nghiệm thật đáng nhớ ở đây. 🌾🌞 …",
+        "when": "3 tháng trước"
+      },
+      {
+        "author": "Anh Huỳnh",
+        "rating": 5,
+        "text": "Đồi chè rất đẹp, dịch vụ tạm ổn, xe đạp không được tốt, đường dốc nhưng thắng không ăn nên k dám lấy đi 🥲 …",
+        "when": "7 tháng trước"
+      },
+      {
+        "author": "Huệ Nguyễn",
+        "rating": 5,
+        "text": "Khu này còn mới nên vẫn còn trog quá trình hoàn thiện. Vé 80k/ng lớn và 100k/lượt xe điện tham quan 1 vòng luôn nhé. Có bảng hướng dẫn ngay chỗ mua vé lun.\nVé 80k bao gồm 1 phần nước rùi, có khu vực ngồi nghỉ uống trà, cf, showroom sản …",
+        "when": "10 tháng trước"
+      },
+      {
+        "author": "Sol Vie",
+        "rating": 4,
+        "text": "Trước đây khu đồi trà tham quan miễn phí nhưng nay có thu phí kèm phần nước uống.\nNên mua vé xe điện đi 1 vòng khu vực để chụp ảnh hoặc đi bộ …",
+        "when": "4 tháng trước"
+      }
+    ],
+    "source": "google-maps"
+  },
+  "cua-hang-len-da-lat-113": {
+    "lat": 11.9566662,
+    "lng": 108.4293012,
+    "img": "images/cua-hang-len-da-lat-113.jpg",
+    "photos": [
+      "images/cua-hang-len-da-lat-113.jpg",
+      "images/cua-hang-len-da-lat-113-2.jpg",
+      "images/cua-hang-len-da-lat-113-3.jpg",
+      "images/cua-hang-len-da-lat-113-4.jpg"
+    ],
+    "phone": "0917937789",
+    "rating": 4.8,
+    "reviews": 115,
+    "comments": [
+      {
+        "author": "Trân Nguyễn",
+        "rating": 5,
+        "text": "Tiệm bán áo len đẹp, nhiều mẫu mã, giá hợp lý rẻ hơn và chất lượng tốt hơn mua ngoài chợ Đà Lạt, cô bán đúng giá ko hề nói thách như ngoài chợ, cô bán hàng dễ thương. Mình ghé mua đồ để đi chụp hình,  áo , nón và khăn len của cô chụp hình lên ăn ảnh lắm. Mọi người ai lên Đà Lạt nhớ ghé mua ủng hộ cô.",
+        "when": "Thời gian chỉnh sửa: một năm trước"
+      },
+      {
+        "author": "Tiny's Food Adventures",
+        "rating": 5,
+        "text": "Áo Len cô bán đẹp và chất lượng cô tư vấn rất là nhiệt tình và dễ thương chứ không có ép mua. Rẻ hơn so với chợ Đà Lạt",
+        "when": "7 tháng trước"
+      },
+      {
+        "author": "Thu Huong",
+        "rating": 5,
+        "text": "Nhiều mẫu khăn áo đẹp, giá vừa phải, cô bán hàng nhẹ nhàng, dễ thương.\nCũng 1 cái áo khoác len mà ở chỗ cô rẻ hơn chỗ khác từ 100-120k.",
+        "when": "Thời gian chỉnh sửa: 11 tháng trước"
+      },
+      {
+        "author": "Nathan Diep",
+        "rating": 5,
+        "text": "Ghé tiệm áo len này ở Đà Lạt thật sự rất ưng! Áo len ở đây đa dạng mẫu mã, màu sắc dễ thương mà giá cả lại rất tốt, phù hợp với mọi người.\nCô bán hàng rất hiền, dễ thương và cực kỳ nhiệt tình, nói chuyện nhẹ nhàng, tư …",
+        "when": "8 tháng trước"
+      },
+      {
+        "author": "Hồng Nhựt Tạ",
+        "rating": 5,
+        "text": "Cô chủ nhiệt tình thân thiện vui vẻ, áo đẹp k chỗ chê 10 điểm",
+        "when": "8 tháng trước"
+      },
+      {
+        "author": "Netflix Khunie",
+        "rating": 5,
+        "text": "Áo đẹp, giá cả hợp lý, chị chủ quán nhiệt tình, dễ thương lắm",
+        "when": "6 tháng trước"
+      },
+      {
+        "author": "Đỗ Hoàng Quân",
+        "rating": 5,
+        "text": "Cô rất nhiệt tình và chu đáo, giá cả hợp lý hơn mua ở chợ nhiều, đeo cái khăn với bao tay vào nữa là ra ngoài hết rét luôn",
+        "when": "6 tháng trước"
+      },
+      {
+        "author": "Thư Phạm",
+        "rating": 5,
+        "text": "Tìm khắp Đà Lạt mới kiếm được chỗ bán đồ len đan tay đẹp và rẻ như thế này 🥰 Đặc biệt là anh chị chủ siêu dễ thươngggg và tư vấn nhiệt tình luôn ạ. Mng nên ghé đây mua đồ len nhé 😍 …",
+        "when": "một năm trước"
+      },
+      {
+        "author": "Nguyễn Sơn",
+        "rating": 5,
+        "text": "Hàng đẹp chất lượng phục vụ tốt. Giá cả phải chăng.",
+        "when": "5 tháng trước"
+      },
+      {
+        "author": "Anh Tran",
+        "rating": 5,
+        "text": "Cô chủ rất là dễ thương, giá rất là tốt và nhiều mẫu để lựa chọn. Tới nơi thì gọi số dán ở cửa cho cô chủ.",
+        "when": "một năm trước"
+      }
+    ],
+    "source": "google-maps"
+  },
+  "hong-say-mut-da-lat-114": {
+    "lat": 11.9711226,
+    "lng": 108.4414402,
+    "img": "images/hong-say-mut-da-lat-114.jpg",
+    "photos": [
+      "images/hong-say-mut-da-lat-114.jpg",
+      "images/hong-say-mut-da-lat-114-2.jpg",
+      "images/hong-say-mut-da-lat-114-3.jpg",
+      "images/hong-say-mut-da-lat-114-4.jpg"
+    ],
+    "price": 1,
+    "phone": "0986222288",
+    "rating": 4.7,
+    "reviews": 3,
+    "comments": [
+      {
+        "author": "Alex",
+        "rating": 4,
+        "text": "Nơi mua đặc sản ĐL",
+        "when": "một năm trước"
+      },
+      {
+        "author": "thanh trúc trần",
+        "rating": 5,
+        "text": "",
+        "when": "một tuần trước"
+      },
+      {
+        "author": "Dung Kim",
+        "rating": 5,
+        "text": "",
+        "when": "một năm trước"
+      }
+    ],
+    "source": "google-maps"
+  },
+  "coi-xay-gio-dac-san-qua-115": {
+    "img": "images/coi-xay-gio-dac-san-qua-115.jpg",
+    "photos": [
+      "images/coi-xay-gio-dac-san-qua-115.jpg",
+      "images/coi-xay-gio-dac-san-qua-115-2.jpg",
+      "images/coi-xay-gio-dac-san-qua-115-3.jpg",
+      "images/coi-xay-gio-dac-san-qua-115-4.jpg"
+    ],
+    "price": 1,
+    "phone": "0907830779",
+    "rating": 4.2,
+    "reviews": 143,
+    "comments": [
+      {
+        "author": "Thế Quốc Lê",
+        "rating": 3,
+        "text": "cũng như bao quán nhậu khác. quán rộng, có phòng lạnh. đồ ăn bình thường",
+        "when": "một tháng trước"
+      },
+      {
+        "author": "An Lạc",
+        "rating": 5,
+        "text": "✓ Không gian rộng, trang trí ổn, mình đi trưa nên hơi nóng. Nhưng quán có quạt đầy đủ.\n✓ Phục vụ nhiệt tình, chu đáo, nói chuyện dễ thương. …",
+        "when": "một năm trước"
+      },
+      {
+        "author": "HOANG DANH NGUYEN",
+        "rating": 5,
+        "text": "Đồ ăn tạm, quán ăn yên tĩnh, kế bên hẻm nên có nhiều xe. Nhân viên nhiệt tình. Có mái che khi trời mưa. Đồ ăn hơi ít.",
+        "when": "11 tháng trước"
+      },
+      {
+        "author": "Quang Nguyễn",
+        "rating": 5,
+        "text": "Quán ngoài trời thoáng mát có bạc kéo qua khi trời mưa, có hệ thống phun sương nước giải nhiệt, sử dụng bếp nướng gas nên không bị ngộp khói như ở Suki. Món ăn ngon, giá cả phải chăng. Nhân viên phục vụ nhanh. Buổi tối có nhạc sống Acoustic. Thanh toán tiền mặt hoặc chuyển khoản. Đề nghị có thêm máy POS cà thẻ sẽ tiện lợi hơi.",
+        "when": "Thời gian chỉnh sửa: 2 năm trước"
+      },
+      {
+        "author": "hongphuong tran",
+        "rating": 5,
+        "text": "Không gian thoáng mát, chill chill kiểu Đà Lạt. Vào thời điểm Noel  mà thêm món nướng thì đúng kiểu đi du lịch Đà Lạt mà không cần di chuyển về mặt địa lí.\nĐồ ăn ngon, giá rất ổn áp cho cả các bạn sinh viên. Món tóp mỡ chiên mắm và gà …",
+        "when": "2 năm trước"
+      },
+      {
+        "author": "Mì Chua Cay",
+        "rating": 4,
+        "text": "Cảm nhận đầu tiên ghi vào quán thì mình thấy không gian khá là rộng và thoáng mát. Để xe thì ở trước quán có bảo vệ coi xe thấy khá là rộng. Bước vào trong thì thấy bố trí khá là tốt về chỗ ngồi. Nhân viên quán lúc đầu thì mình thấy khá là …",
+        "when": "2 năm trước"
+      },
+      {
+        "author": "Phương Hồng",
+        "rating": 5,
+        "text": "Hôm nay quay trở lại Tiệm nướng với cùng thời điểm của một năm về trước.\nVẫn cảm giác rất chill, rất thơ mộng của một chút Đà Lạt trong lòng Đất Thủ (thành phố Thủ Dầu Một), vẫn là một chút se lạnh của những ngày cuối năm. Lại tình …",
+        "when": "Thời gian chỉnh sửa: một năm trước"
+      },
+      {
+        "author": "Mylinh Phan",
+        "rating": 5,
+        "text": "Thấy PR nên ghé thử, ngay lễ 8/3 quán khá đông mặc dù không gian quán rất rộng, món ăn ngon, đồ ăn lên nhanh, giá ổn hơn mấy chỗ khác có điều nhân viên đông mà kêu k ai nghe hay gì á minh nghĩ cần chỉnh lại khâu phục vụ còn lại đều tốt, không gian đẹp",
+        "when": "2 năm trước"
+      },
+      {
+        "author": "Phạm Thương Tín",
+        "rating": 5,
+        "text": "Phục vụ tốt. Món ăn cũng khá ổn. Món đặc sắc của quán là món sứa. Quên mất tên món rồi, nhưng nguyên liệu gồm sứa và cà pháo cắt lát. Trộn theo kiểu sốt Thái. Sứa ăn giòn ngon, không bị tanh, nhưng khá là cay. Món không được ngon là miến xào cua.",
+        "when": "4 tháng trước"
+      },
+      {
+        "author": "Son Hai",
+        "rating": 4,
+        "text": "Chào bạn! Tiệm  Cối Xay Gió (đặc biệt là cơ sở tại Bình Dương cũ) luôn là một điểm đến mang tính biểu tượng\nDưới đây là một bài đánh giá chi tiết, mang phong cách trẻ trung và thư giãn để …",
+        "when": "6 tháng trước"
+      }
+    ],
+    "source": "google-maps"
+  },
+  "sieu-thi-dac-san-da-lat-suong-mai-116": {
+    "img": "images/sieu-thi-dac-san-da-lat-suong-mai-116.jpg",
+    "photos": [
+      "images/sieu-thi-dac-san-da-lat-suong-mai-116.jpg",
+      "images/sieu-thi-dac-san-da-lat-suong-mai-116-2.jpg",
+      "images/sieu-thi-dac-san-da-lat-suong-mai-116-3.jpg",
+      "images/sieu-thi-dac-san-da-lat-suong-mai-116-4.jpg"
+    ],
+    "phone": "02543966666",
+    "rating": 2,
+    "reviews": 4,
+    "comments": [
+      {
+        "author": "at hehe",
+        "rating": 1,
+        "text": "Mất công xoá cmt hả, thế để em phốt trên các nền tảng khác. Chị cứ đợi đi, chị ko thấy vì chị chặn em :))))) để nhân viên chị thấy rồi chúng nó xoá hộ ha . Trơ trẽn thật sự",
+        "when": "8 tháng trước"
+      },
+      {
+        "author": "Hoàng Nhật",
+        "rating": 1,
+        "text": "Thật sự mình không hài lòng khi thái độ bán hàng cho khách rất là khó chịu. Chị mình trc có bầu không đi xa đc nhờ mình mua dùm mấy hộp dâu. Mình thì mới đi làm về sẵn ghé mua luôn, thật sự người mình cũng hơi bẩn do làm công nhân, mình …",
+        "when": "3 năm trước"
+      },
+      {
+        "author": "do vve",
+        "rating": 5,
+        "text": "Rau quả chất lượng cao. Cửa hàng tạp hóa tốt nhất trong khu vực.",
+        "when": "3 năm trước"
+      },
+      {
+        "author": "Dũng Nguyễn",
+        "rating": 1,
+        "text": "",
+        "when": "8 tháng trước"
+      }
+    ],
+    "source": "google-maps"
+  },
+  "khu-du-lich-fresh-garden-dalat-x1": {
+    "lat": 11.9476933,
+    "lng": 108.4090729,
+    "img": "images/khu-du-lich-fresh-garden-dalat-x1.jpg",
+    "photos": [
+      "images/khu-du-lich-fresh-garden-dalat-x1.jpg",
+      "images/khu-du-lich-fresh-garden-dalat-x1-2.jpg",
+      "images/khu-du-lich-fresh-garden-dalat-x1-3.jpg",
+      "images/khu-du-lich-fresh-garden-dalat-x1-4.jpg"
+    ],
+    "phone": "0908974949",
+    "rating": 4.2,
+    "reviews": 3497,
+    "comments": [
+      {
+        "author": "Uta",
+        "rating": 5,
+        "text": "gia đình mình đi vào mùa hè cao điểm nhưng cũng không đông đúc cho lắm\ngiá vé là 150k\nđược chụp hình miễn phí (máy cơ) nếu lấy ảnh to thì là 50k, gồm khung thì 100k …",
+        "when": "3 tuần trước"
+      },
+      {
+        "author": "Sally To",
+        "rating": 5,
+        "text": "Đánh giá Fresh Garden  – Vạn Thành Đà Lạt:\n- Không gian & Cảnh quan: Một trong những khu du lịch quy mô nhất tại khu vực Vạn Thành. Fresh Garden có cánh đồng hoa rực rỡ và các tiểu cảnh độc đáo như hồ …",
+        "when": "một tháng trước"
+      },
+      {
+        "author": "Tuấn Phan Xuân",
+        "rating": 5,
+        "text": "Khu vui chơi rất đáng trải nghiệm ở Đà Lạt. Cách trung tâm tầm 4km, dễ di chuyển.\nGiá vé rẻ so với những gì được trải nghiệm. Vé 150k, combo nước vé 180k …",
+        "when": "3 tháng trước"
+      },
+      {
+        "author": "nguyen dung",
+        "rating": 5,
+        "text": "Không gian trải nghiệm cho các em nhỏ rất phù hợp có vườn thú, có khi vui chơi, vườn hoa… còn mới không quá đông đúc các con được trải nghiệm trọn vẹn.",
+        "when": "4 tháng trước"
+      },
+      {
+        "author": "Sarah Este",
+        "rating": 5,
+        "text": "Đẹp lắm nè! Nhiều khu để tham quan và cho tụi nhỏ vui chơi",
+        "when": "một tháng trước"
+      },
+      {
+        "author": "Master Team",
+        "rating": 5,
+        "text": "Điểm dừng xứng đáng cho chuyến đi Đà Lạt mục đích vui chơi.\n* Đáng đến: 9/10\n* Giá vé: 150k/ người tham quan (thêm nước +30k) …",
+        "when": "4 tháng trước"
+      },
+      {
+        "author": "Mon Unu",
+        "rating": 5,
+        "text": "Giá vé 150k chưa nước, 180k gồm nước, 269k gồm ăn trưa cho cả khu tổ hợp, không bán vé lẻ\nBãi đậu xe rộng rãi, từ phía bãi đậu xe đi bộ vô 1 khúc mới tới cổng bán vé. …",
+        "when": "4 tháng trước"
+      },
+      {
+        "author": "Lê Thị Thu Thảo",
+        "rating": 5,
+        "text": "Mình nhớ ngày xưa từng đi Fresh Garden rồi nhưng lần này đi đúng là khác hoàn toàn, trải nghiệm mới luôn. Có lẽ do nơi này đã thay đổi và tân trang lại khá nhiều, rất tuyệt vời. …",
+        "when": "6 tháng trước"
+      },
+      {
+        "author": "tran duy",
+        "rating": 5,
+        "text": "Khu du lịch rất đẹp,  rộng rãi thoáng mát, có nhiều cảnh để chụp hình. Nhân viên phục vụ cũng vui vẻ, nhiệt tình. Có chỗ nghỉ chân với các loại nước uống và thức ăn khá ngon.",
+        "when": "3 tháng trước"
+      },
+      {
+        "author": "truong tran",
+        "rating": 5,
+        "text": "Cực kì đáng tiền. Cây hoa tiểu cảnh được chăm chút kỹ lưỡng. Thú nuôi nhiều, đẹp và rất bổ ích cho các bé. …",
+        "when": "4 tháng trước"
+      }
+    ],
+    "source": "google-maps"
+  },
+  "mongo-land-da-lat-x1": {
+    "lat": 11.9157314,
+    "lng": 108.3392217,
+    "img": "images/mongo-land-da-lat-x1.jpg",
+    "photos": [
+      "images/mongo-land-da-lat-x1.jpg",
+      "images/mongo-land-da-lat-x1-2.jpg",
+      "images/mongo-land-da-lat-x1-3.jpg",
+      "images/mongo-land-da-lat-x1-4.jpg"
+    ],
+    "phone": "0983577377",
+    "rating": 4.5,
+    "reviews": 10396,
+    "comments": [
+      {
+        "author": "Thanh Thảo",
+        "rating": 1,
+        "text": "Không nên đi nha mọi người.\nMình đi ngày hè, quán rất đông và đợi chơi các trò chơi rất lâu. Trong lúc đợi chơi trò chơi mình có ghé thăm quan khu nhà mèo và các khu động vật nhưng chất …",
+        "when": "2 tuần trước"
+      },
+      {
+        "author": "Linh Phương",
+        "rating": 5,
+        "text": "Đây là lần đầu mình đến Mongoland, giá vé là 120k bao gồm nước. Các trò chơi ở đây vui nhất là trượt phao, được chơi nhiều lần nhưng xếp hàng hơi lâu, còn Go-kart thì đi được 1 lần. Cảnh ở đây khá đẹp và rộng. Có khu riêng của từng loài thú, con nào con nấy cũng ú nu :))) chắc do được khách cho ăn nhìu quá",
+        "when": "2 tuần trước"
+      },
+      {
+        "author": "Van Nguyen",
+        "rating": 5,
+        "text": "Khuôn viên rộng có nhiều trò chơi thích hợp với các bạn trẻ.\nMình thích trò trượt phao đây là một điểm nhấn ở Mongo Land và có kèm dịch vụ flycam nữa rất đáng để trải nghiệm.",
+        "when": "3 tuần trước"
+      },
+      {
+        "author": "Huong Huong",
+        "rating": 4,
+        "text": "Ở tà nung, khá xa nếu đi xe máy nhé từ đà Lạt trung tâm đi xe máy 30km hơn cỡ 45phút. Khuyên lễ cuối tuần đừng ghé. Xếp hàng lâu mệt lắm, đi ngày thường tha hồ chơi. Chụp hình cũng oki …",
+        "when": "2 tháng trước"
+      },
+      {
+        "author": "Văn Hiếu Mai",
+        "rating": 5,
+        "text": "Một không gian rộng rãi. Nhiều khu tham quan và trò chơi. Mình đi ngày trong tuần nhưng vẫn rất đông. Chơi trò nào cũng phải xếp hàng rất dài. Thuê đồ cổ trang thì 200 đến 400k một bộ.",
+        "when": "3 tuần trước"
+      },
+      {
+        "author": "Anh Tuấn Trần",
+        "rating": 5,
+        "text": "Mình vừa có dịp trải nghiệm tại Mongo Land và thực sự rất ấn tượng với những hoạt động tại đây. Đây là một địa điểm cực kỳ lý tưởng cho những ai yêu thích thiên nhiên, động vật và muốn trải nghiệm các trò chơi cảm giác mạnh nhẹ nhàng. …",
+        "when": "một tháng trước"
+      },
+      {
+        "author": "Ngân Huỳnh",
+        "rating": 5,
+        "text": "Đây là lần thứ 2 mình quay lại Mongoland, giá vé hiện tại là 120k, không gồm nước, khi vào chơi các bạn thú mỗi khách sẽ được nhân viên phát 1 phần đồ ăn. Đợt này quay lại ở đây có thêm gấu mèo, capybara, con nào cũng ú nu. Gấu mèo Racoon …",
+        "when": "7 tháng trước"
+      },
+      {
+        "author": "Dinh Hong Tham",
+        "rating": 5,
+        "text": "Khá ok. Ngoài trò đua xe điện Go Kart phải mua vé, còn lại các trò chơi, trò giải trí khác đều đã được tính trong giá vé. Ngoài trò chơi (trượt cỏ, trượt máng, trượt phao khô), khách còn được trực tiếp xem và cho thỏ ăn, có mèo, chó, …",
+        "when": "một tháng trước"
+      },
+      {
+        "author": "An Duy",
+        "rating": 5,
+        "text": "Đi vào ngày lễ nên rất là đông nghịt người. Vé rẻ, có 120k, 140k bao nước. Được chơi đâu đó 5 6 trò á mà đông quá nên t chơi có 1 trò thôi\nCó thỏ, capy, hưu, cừu dễ thương lắm …",
+        "when": "2 tháng trước"
+      },
+      {
+        "author": "Khánh Đan",
+        "rating": 5,
+        "text": "Địa điểm tham quan du lịch\nCó sở thú\nVui chơi thể thao đua xe, trượt máng …",
+        "when": "2 tháng trước"
+      }
+    ],
+    "source": "google-maps"
+  },
+  "khu-du-lich-lang-biang-x1": {
+    "lat": 12.0193208,
+    "lng": 108.4243879,
+    "img": "images/khu-du-lich-lang-biang-x1.jpg",
+    "photos": [
+      "images/khu-du-lich-lang-biang-x1.jpg",
+      "images/khu-du-lich-lang-biang-x1-2.jpg",
+      "images/khu-du-lich-lang-biang-x1-3.jpg",
+      "images/khu-du-lich-lang-biang-x1-4.jpg"
+    ],
+    "phone": "02633839456",
+    "rating": 4.1,
+    "reviews": 8686,
+    "comments": [
+      {
+        "author": "Đào Ngọc Anh Official",
+        "rating": 5,
+        "text": "Lần thứ 2 quay trở lại với Đà Lạt mình rất khu du lịch đỉnh núi lang biang lên trên đỉnh núi nhìn xuống thành phố Đà Lạt rất đẹp đây là những cảnh đẹp nhất và cũng là chuyến du lịch rất ý nghĩa anh em tới Đà Lạt lên ghé khu vực du lịch này nhé để trải nghiệm",
+        "when": "3 tuần trước"
+      },
+      {
+        "author": "Phương Nguyên",
+        "rating": 5,
+        "text": "Vì mình đi với trường nên cũng không rõ giá vé tầm bao nhiêu. Giá vé các bạn có thể tham khảo ở các trang Facebook, Tiktok nha.\nỞ trên đó sẽ lạnh hơn nên các bạn chú ý nhen. …",
+        "when": "4 tháng trước"
+      },
+      {
+        "author": "Nhà ở và Du Lịch",
+        "rating": 5,
+        "text": "⭐️⭐️⭐️⭐️⭐️\nLangbiang là một nơi rất đáng để trải nghiệm khi đến Đà Lạt. Không khí mát lạnh, thiên nhiên hùng vĩ, đứng trên đỉnh núi nhìn xuống toàn cảnh thành phố cực kỳ …",
+        "when": "một tháng trước"
+      },
+      {
+        "author": "Cuong CAD",
+        "rating": 4,
+        "text": "Nếu bạn đủ khỏe thì có thể leo lên đỉnh đèo khoảng 5km với dốc cao. Còn không thì có xe miễn phí đưa đón bạn lên tới đỉnh đồi. View đồi có cảnh quan khá đẹp với những tượng điêu khắc khá bắt mắt. Cafe ở đây ngon có pha máy mà chỉ có 30 ngàn.",
+        "when": "5 tháng trước"
+      },
+      {
+        "author": "Phong Dinh Nguyen",
+        "rating": 5,
+        "text": "Khu du lịch được đầu tư đội xe trung chuyển mới toanh. Cung đường mát mẻ, có đường mòn dọc theo đường nhựa phù hợp cho trek nhẹ hoặc người mới nhập môn (khoảng 3km cho 1 chiều đi đến đỉnh Radar, gain khoảng 400m). Trên đỉnh Radar mát mẻ, tầm nhìn rộng, có phục vụ ăn uống giá cũng khá hợp lý, đồ ăn chế biến nóng, ăn khá ok.",
+        "when": "3 tuần trước"
+      },
+      {
+        "author": "Liza Ngo",
+        "rating": 4,
+        "text": "Mùng 2 Tết 2026, đại gia đình 13 người rủ nhau lên Langbiang “mở bát” đầu năm. Điều dễ chịu nhất là không quá đông, vẫn có không khí du xuân nhưng không chen chúc. Đi lại thoải mái, chụp hình không phải chờ từng góc. …",
+        "when": "4 tháng trước"
+      },
+      {
+        "author": "Cường Lê",
+        "rating": 5,
+        "text": "Đồ ăn nấu ok hợp vị, không khí mát mẻ rộng rãi, nhà vệ sinh sạch sẽ. Đường đi xuống dốc nên đi cẩn thận. Có đốt lửa trại ăn bắp khoai và thịt nướng uống rượu cần.",
+        "when": "một tháng trước"
+      },
+      {
+        "author": "JangYi Nguyễn",
+        "rating": 5,
+        "text": "Buổi sáng ở Lang Biang, gió thổi nhẹ nhưng đủ làm người ta tỉnh táo. Mây lững lờ trôi ngang tầm mắt, ánh nắng chưa gắt, chỉ vừa đủ soi rõ những rừng thông trải dài bất tận. Đứng ở đây, cảm giác như mọi lo toan phía dưới đều nhỏ lại, chỉ còn …",
+        "when": "6 tháng trước"
+      },
+      {
+        "author": "Le Hue",
+        "rating": 1,
+        "text": "1. Phí dịch vụ điên rồ.\nVé vào cửa thu 50k phí/1 người, không kèm bất cứ 1 dịch vụ gì. Đi mấy bước chân, bán tiếp vé Xe trung chuyển, thuê nguyên xe 1-6 người giá 720k; đi ghép 120k/1 …",
+        "when": "6 tháng trước"
+      },
+      {
+        "author": "Kiệt Quang",
+        "rating": 5,
+        "text": "Ngắn gọn: Đến đây tận hưởng toàn cảnh núi đồi và view thành phố Đà Lạt cùng gia đình sẽ rất ổn. Đi theo nhóm các bạn trẻ: tạm tạm. …",
+        "when": "Thời gian chỉnh sửa: 2 tháng trước"
+      }
+    ],
+    "source": "google-maps"
+  },
+  "duong-ham-hoa-xa-da-lat-x1": {
+    "lat": 11.9002977,
+    "lng": 108.531592,
+    "img": "images/duong-ham-hoa-xa-da-lat-x1.jpg",
+    "photos": [
+      "images/duong-ham-hoa-xa-da-lat-x1.jpg",
+      "images/duong-ham-hoa-xa-da-lat-x1-2.jpg",
+      "images/duong-ham-hoa-xa-da-lat-x1-3.jpg",
+      "images/duong-ham-hoa-xa-da-lat-x1-4.jpg"
+    ],
+    "rating": 4.1,
+    "reviews": 779,
+    "comments": [
+      {
+        "author": "Thuận Trần",
+        "rating": 3,
+        "text": "Quán coffee có nhiều cổ vật đẹp, lạ. Chú chủ quán rất nhẹ nhàng, thân thiện.\nVé tham quan là 50k nhé (không uống nước).",
+        "when": "3 tuần trước"
+      },
+      {
+        "author": "Thành Trung Nguyễn",
+        "rating": 5,
+        "text": "Một di tích, một chứng nhân lịch sử đã dõi theo Đà Lạt từ những thời kì đầu. Ở nơi đây có một đường hầm tàu hỏa đã cũ được lưu giữ lại để làm điểm tham quan. Xung quanh là những khu vườn cây ăn trái vô cùng xinh đẹp, lung linh dưới nắng. …",
+        "when": "5 tháng trước"
+      },
+      {
+        "author": "Ng Tuyên - An Thái Trung",
+        "rating": 5,
+        "text": "​Đường hầm Hỏa xa Đà Lạt, một đoạn di tích của tuyến đường sắt răng cưa huyền thoại nối Đà Lạt và Tháp Chàm, là một điểm đến mang vẻ đẹp hoài cổ, ma mị và giàu chất điện ảnh. Nơi đây là sự kết hợp độc đáo giữa dấu ấn lịch sử và vẻ đẹp hoang …",
+        "when": "8 tháng trước"
+      },
+      {
+        "author": "TuanTran",
+        "rating": 5,
+        "text": "Cảnh đẹp mà chắc do xa nên vắng quá à, cô bán vé nhiệt tình, có cả tay vịn đi theo 🙂‍↕️ thấy có bạn bảo vé chỉ tham quan là 40k nma mình đi có 30k thôi …",
+        "when": "3 tháng trước"
+      },
+      {
+        "author": "Huong vu",
+        "rating": 5,
+        "text": "Với giá vé 80k cho đồ uống và trải nghiệm này e thấy nó xứng đáng.  Đồ uống chị pha cũng ngon. Khung cảnh có chút hoài niệm, tự nhiên. Đi vào tầm trưa chụp ảnh sẽ đẹp hơn ạ, tuy nhiên đi 1 mình hơi sợ...ma 🙈 …",
+        "when": "3 tuần trước"
+      },
+      {
+        "author": "Quỳnh Trang Hoàng",
+        "rating": 5,
+        "text": "đường đến đường hầm từ trung tâm thành phố khá xa cơ mà đường đẹp, có nhiều cây hoa đào trên đường đi. khu này là khu du lịch, đến thì để xe ở ngoài miễn phí, vô thì nếu chỉ tham quan thì phí là 40k, còn nếu uống nước thì 80k. đường xuống …",
+        "when": "5 tháng trước"
+      },
+      {
+        "author": "Thi Hong Khanh Pham",
+        "rating": 3,
+        "text": "Vị trí & chỉ dẫn:\n•\tCó biển chỉ dẫn rõ ràng ngoài mặt tiền, dễ tìm và dễ nhận biết.\n•\tKhu tham quan đã được chỉnh trang, sửa sang lại khá gọn gàng. …",
+        "when": "6 tháng trước"
+      },
+      {
+        "author": "Tu Tran Kim",
+        "rating": 3,
+        "text": "Hầm hỏa xa này nằm trên tuyến Đường sắt răng cưa Phan Rang – Đà Lạt nổi tiếng, được người Pháp khởi công xây dựng từ năm 1903 và hoàn thành vào khoảng năm 1932. …",
+        "when": "6 tháng trước"
+      },
+      {
+        "author": "Duyên Nguyễn Thị Hồng",
+        "rating": 5,
+        "text": "mình đi đầu giờ chiều thứ 2, không có khách nào. Cảnh vật nên thơ… nhưng trông cũng bí hiểm",
+        "when": "4 tháng trước"
+      },
+      {
+        "author": "Thủy Phạm",
+        "rating": 5,
+        "text": "Hôn cũng xinh\nĐi lỗi khu biệt thự sơn an dễ mà đường đẹp\nMình k biết nên đi đường mòn sợ hãi …",
+        "when": "9 tháng trước"
+      }
+    ],
+    "source": "google-maps"
+  },
+  "kdl-sinh-thai-cao-nguyen-hoa-da-lat-x1": {
+    "lat": 11.9266145,
+    "lng": 108.3712692,
+    "img": "images/kdl-sinh-thai-cao-nguyen-hoa-da-lat-x1.jpg",
+    "photos": [
+      "images/kdl-sinh-thai-cao-nguyen-hoa-da-lat-x1.jpg",
+      "images/kdl-sinh-thai-cao-nguyen-hoa-da-lat-x1-2.jpg",
+      "images/kdl-sinh-thai-cao-nguyen-hoa-da-lat-x1-3.jpg",
+      "images/kdl-sinh-thai-cao-nguyen-hoa-da-lat-x1-4.jpg"
+    ],
+    "phone": "0983855556",
+    "rating": 4.5,
+    "reviews": 3924,
+    "comments": [
+      {
+        "author": "Mr Lee",
+        "rating": 5,
+        "text": "Giá vé thăm quan là 150k/ người lớn\nNếu bạn có chơi trượt xe là 250k/người (được trượt 2 lượt, đường trượt dài khoảng 2km) …",
+        "when": "3 tháng trước"
+      },
+      {
+        "author": "Trang Hoang",
+        "rating": 5,
+        "text": "Giá vé 250k (nếu có chơi xích đu và đua xe) và giá 150k nếu chỉ tham quan.\nBan đầu mình thấy mắc tiền nhưng vào rồi thấy rất đáng nha. KDL siêu nhiều hoa, cơ sở vật chất mới, không gian đẹp rộng. Các trò chơi phù hợp cả trẻ nhỏ lẫn …",
+        "when": "một tháng trước"
+      },
+      {
+        "author": "Van Tuan Tran",
+        "rating": 5,
+        "text": "🌿 REVIEW MỘT NGÀY ĐỔI GIÓ TẠI KHU DU LỊCH ĐẬM CHẤT \"THIÊN NHIÊN\" 🌿\nNếu bạn đang tìm kiếm một nơi để trốn khỏi khói bụi thành phố, reset lại bản thân thì đây chính là chân ái! Mình vừa có một chuyến đi cực kỳ ưng ý và muốn chia …",
+        "when": "một tháng trước"
+      },
+      {
+        "author": "LêKha Dentist",
+        "rating": 5,
+        "text": "Khu du lịch Hoa Nguyên là một nơi rất yên bình và gần gũi với thiên nhiên. Không gian rộng, nhiều cây xanh, hoa được chăm sóc đẹp và tạo cảm giác thư giãn ngay từ khi bước vào. Không quá đông đúc, rất phù hợp cho những ai muốn tìm một góc …",
+        "when": "4 tháng trước"
+      },
+      {
+        "author": "Tinh NC",
+        "rating": 5,
+        "text": "Vé tham quan 150k, có trượt là 250k(trượt được 2 lần 2 đoạn khác nhau)\nKhông khí tươi mát, nhiều cây xanh, nhiều cảm tú cầu đẹp 🤩 …",
+        "when": "3 tháng trước"
+      },
+      {
+        "author": "Đọc Cùng Tôi",
+        "rating": 4,
+        "text": "Ngoài ngắm cảnh ngắm hoa thì lái kart và chơi xích đu cảm giác muốn thòng tim mà thú vị lắm ạ! Mà phải thật cẩm thận khi lái kart nhé, do k có hành lang bảo vệ bên phải. Mong là chủ đầu tư thêm hạng mục hàng rào hay hành lang bảo vệ ạ! …",
+        "when": "7 tháng trước"
+      },
+      {
+        "author": "Phuong Tran",
+        "rating": 5,
+        "text": "Không gian thoát mát sạch sẽ,trang trí rất đẹp xanh mát. Nhân viên dễ thương,ăn uốnh giá cả phải chăng. Đua xe thì quá tuyệt vời",
+        "when": "một tháng trước"
+      },
+      {
+        "author": "Như Thiều",
+        "rating": 3,
+        "text": "150k/ vé người lớn không bao gồm nước. Nếu có kèm trượt xe thì 250k.\nĐối với mình giá vé ntn là đắc vì thật sự không có gì đặc sắc để mình lưu lại ấn tượng. Hoa cũng ít, tầm giá này mình thấy nhiều kdl khác thoải mái nhiều hoạt động hơn và có kèm nước, hoặc có thể ghé quán cafe gần trung tâm view cũng sẽ đẹp hơn chỗ này.",
+        "when": "một tháng trước"
+      },
+      {
+        "author": "Ngọc Anh Huỳnh Thị",
+        "rating": 5,
+        "text": "Vui lắm mn ơi.\nGiá vé k nhầm là 250k bao gồm 2 vòng trượt xe.\nMình đi cn cũng k đông á đường trượt vui hơn kì vọng mình đòi chơi mà ai ngờ bạn …",
+        "when": "4 tháng trước"
+      },
+      {
+        "author": "Trường An Nguyễn",
+        "rating": 5,
+        "text": "Mình là hướng dẫn viên, đã đến đây chắc đã nhiều lần lắm rồi. Theo cảm nhận của mình, nhân viên ở đây rất thân thiện, nhiều hoạt động thú vị như xe trượt dốc, xích đu, ngoài ra cảnh quan ở đây đẹp nhức nách vô cùng. Nhìn chung rất đáng để trải nghiệm nếu các bạn muốn có những tấm hình đẹp và trải nghiệm độc đáo, thú vị.",
+        "when": "2 tháng trước"
+      }
+    ],
+    "source": "google-maps"
+  },
+  "khu-du-lich-sinh-thai-hoa-son-dien-trang-x1": {
+    "lat": 11.9338538,
+    "lng": 108.3761498,
+    "img": "images/khu-du-lich-sinh-thai-hoa-son-dien-trang-x1.jpg",
+    "photos": [
+      "images/khu-du-lich-sinh-thai-hoa-son-dien-trang-x1.jpg",
+      "images/khu-du-lich-sinh-thai-hoa-son-dien-trang-x1-2.jpg",
+      "images/khu-du-lich-sinh-thai-hoa-son-dien-trang-x1-3.jpg",
+      "images/khu-du-lich-sinh-thai-hoa-son-dien-trang-x1-4.jpg"
+    ],
+    "price": 2,
+    "phone": "0868588886",
+    "rating": 3.9,
+    "reviews": 3725,
+    "comments": [
+      {
+        "author": "Thịnh Trần",
+        "rating": 4,
+        "text": "Hoa Sơn Điền Trang – Không gian xanh mát, thích hợp đi dạo và sống ảo\n\nMột địa điểm tham quan nổi tiếng ở Đà Lạt, phù hợp cho những ai thích thiên …",
+        "when": "một năm trước"
+      },
+      {
+        "author": "Duy Tân Lê",
+        "rating": 5,
+        "text": "Khu du lịch sinh thái Hoa Sơn Điền Trang\n\nKhu du lịch sinh thái Hoa Sơn Điền Trang là địa điểm đang “làm mưa làm gió” …",
+        "when": "2 năm trước"
+      },
+      {
+        "author": "Augustine Phan",
+        "rating": 2,
+        "text": "KDL này hiện nay rất ít người vào, vé vào cổng 35k, nói có đổi nước uống mà không thấy ai phục vụ. …",
+        "when": "2 năm trước"
+      },
+      {
+        "author": "Anh Pham",
+        "rating": 4,
+        "text": "🌿KDL rộng khoảng 38ha, được bao phủ bởi rừng nguyên sinh, có hơn 2000 loài chim và nhiều loài chim quý hiếm được bảo tồn, nhiều cây cổ thụ.\n🌿 KDL cách trung tâm Đà Lạt 8km, thích hợp người yêu thiên nhiên, cắm trại dã …",
+        "when": "5 năm trước"
+      },
+      {
+        "author": "Tâm Lê Văn",
+        "rating": 4,
+        "text": "Khu vực nằm trong thung lũng bên đèo Tà Nung, diện tích khá rộng rãi. Quang cảnh khá đẹp với nhiều loại hoa, kiểng. Lối đi dễ dàng. Dịch vụ tạm ổn. Nhân viên vui vẻ. …",
+        "when": "5 năm trước"
+      },
+      {
+        "author": "Cường Trương Bảo",
+        "rating": 2,
+        "text": "Đi vào 1 ngày mưa, dịch vụ không được như giới thiệu. Ở Đà Lạt mà hoa rất ít, chỉ có vài tiểu cảnh để checkin.\nGiá vé 100k cho 1 người lớn, cân nhắc khi quay lại lần thứ 2.",
+        "when": "2 năm trước"
+      },
+      {
+        "author": "Tran Tuan Anh",
+        "rating": 5,
+        "text": "Hoa Sơn Điền Trang nằm sâu dưới thung lũng, khá rộng, và được đầu tư  tốt. Ở đây có vô số tiểu cảnh để chụp hình. Các tiểu cánh làm kiên cố và chất lượng tốt. Bạn sẽ mất 2-3 tiếng để đi dạo và chụp hình hết các tiểu cảnh. Đây là nơi nên đến …",
+        "when": "6 năm trước"
+      },
+      {
+        "author": "Trần Tuấn Anh",
+        "rating": 5,
+        "text": "Hoa Sơn Điền Trang là một khu du lịch sinh thái tuyệt vời ở Việt Nam, được bao phủ bởi những cánh rừng xanh tươi và những ngọn núi cao trùng điệp. Khu vườn hoa rực rỡ và những rất nhiều tiểu cảnh mê hồn làm cho Hoa Sơn Điền Trang trở thành …",
+        "when": "3 năm trước"
+      },
+      {
+        "author": "Ti Supper Lùn",
+        "rating": 5,
+        "text": "Khu du lịch sinh thái Hoa Sơn Điền Trang nằm tọa lạc tại Tiểu khu 159, Phường 5, cách Trung tâm Thành phố Đà Lạt khoảng 8km. Các bạn chạy xe từ đường Hoàng Văn Thụ qua làng hoa Vạn Thành theo tỉnh lộ 725 theo đường đèo Tà Nung là tới. Là 1 …",
+        "when": "7 năm trước"
+      },
+      {
+        "author": "Tuan Vo",
+        "rating": 5,
+        "text": "Cách xa trung tâm khoảng 15km, vé vào cửa 30k, vé xe 5k, nằm ngay trên núi nên rộng bạt ngàn, nhiều view chụp hình, ng du lịch đông nên muốn chụp hình mấy view nổi tiếng thì xếp hàng. Trong có bán đồ ăn vặt như sữa chua, bánh tráng nướng,...",
+        "when": "7 năm trước"
+      }
+    ],
+    "source": "google-maps"
+  },
+  "thac-cam-ly-x1": {
+    "lat": 11.9418046,
+    "lng": 108.4208479,
+    "img": "images/thac-cam-ly-x1.jpg",
+    "photos": [
+      "images/thac-cam-ly-x1.jpg",
+      "images/thac-cam-ly-x1-2.jpg",
+      "images/thac-cam-ly-x1-3.jpg",
+      "images/thac-cam-ly-x1-4.jpg"
+    ],
+    "phone": "02633834372",
+    "rating": 3.2,
+    "reviews": 2952,
+    "comments": [
+      {
+        "author": "Thomas Pham",
+        "rating": 1,
+        "text": "Không đáng để tham quan vì mùi hôi, vì nước bẩn chảy từ cống thải sinh hoạt ra. Nhân viên vệ sinh dùng máy thổi, thổi thẳng rác từ trên xuống, èo",
+        "when": "một tháng trước"
+      },
+      {
+        "author": "Quyên Bùi",
+        "rating": 4,
+        "text": "Vé vào 60k mướn đồ chụp hình từ 50 đến 150k chụp hình với ngựa 140k đi hết thác cũng tầm nhiêu đó cảnh",
+        "when": "8 tháng trước"
+      },
+      {
+        "author": "Thanh Tran",
+        "rating": 2,
+        "text": "Thác Cam Ly nổi tiếng ngày xưa, đi vào thi ca, nhạc hoạ nên nhiều người biết đến, chứ giờ nó là nơi thoát nước của Dalat. Xưa Dalat ít dân thì còn đỡ chứ giờ người đông, khách du lịch nhiều thì nước thải tăng lên bao nhiêu lần. Đi vào ngày …",
+        "when": "7 tháng trước"
+      },
+      {
+        "author": "Trung Luu Thanh",
+        "rating": 2,
+        "text": "Rất tiếc một điều là nguồn nước bị ô nhiễm rất hôi.  Mong ban quản lý khu du lịch thác Cam Ly xem xét và cải thiện lại môi trường .",
+        "when": "3 tháng trước"
+      },
+      {
+        "author": "Thanh Huỳnh",
+        "rating": 4,
+        "text": "Đi ngay ngày nước ít nên hơi bị hôi nhưng bù lại cảnh đẹp !",
+        "when": "2 tháng trước"
+      },
+      {
+        "author": "Anh Khoa",
+        "rating": 4,
+        "text": "Thác Cam Ly mang đến một góc nhìn yên bình và thơ mộng giữa lòng Đà Lạt. Với dòng thác chảy nhẹ nhàng, nơi đây là địa điểm lý tưởng cho những ai muốn thư giãn và tận hưởng không khí trong lành. Tuy nhiên, thác đôi khi bị ảnh hưởng bởi rác …",
+        "when": "một năm trước"
+      },
+      {
+        "author": "Ngọc Bích",
+        "rating": 2,
+        "text": "Điểm đến đầu tiên mà thất vọng vô cùng nha , mất hết 60K mà như này đây , thác k có gì đặc biệt",
+        "when": "9 tháng trước"
+      },
+      {
+        "author": "Gội đầu dưỡng sinh BBAN",
+        "rating": 5,
+        "text": "Xin chào các bạn\nMình mới mở tiệm Gội Đầu Dưỡng Sinh khu vực gò vấp B,B,AN\nThương mời các bạn nghé trãi nghiệm ạ❤️",
+        "when": "một tháng trước"
+      },
+      {
+        "author": "Ng Tuyên - An Thái Trung",
+        "rating": 5,
+        "text": "Thác Cam Ly, một trong những ngọn thác lâu đời nhất ở Đà Lạt, từ lâu đã trở thành một điểm du lịch quen thuộc. Nằm cách trung tâm thành phố không xa, ngọn thác không sở hữu vẻ đẹp hùng vĩ hay dữ dội như thác Datanla, nhưng lại mang một nét …",
+        "when": "Thời gian chỉnh sửa: 10 tháng trước"
+      },
+      {
+        "author": "Cường Đặng",
+        "rating": 3,
+        "text": "50k/vé\nHôm mình đi mưa bão nên không bị mùi :) nói chung là không có gì đặc sắc. Như cái công viên thôi",
+        "when": "7 tháng trước"
+      }
+    ],
+    "source": "google-maps"
+  },
+  "nong-trai-hoa-huyen-vu-da-lat-x1": {
+    "lat": 11.9680625,
+    "lng": 108.4124375,
+    "img": "images/nong-trai-hoa-huyen-vu-da-lat-x1.jpg",
+    "photos": [
+      "images/nong-trai-hoa-huyen-vu-da-lat-x1.jpg",
+      "images/nong-trai-hoa-huyen-vu-da-lat-x1-2.jpg",
+      "images/nong-trai-hoa-huyen-vu-da-lat-x1-3.jpg",
+      "images/nong-trai-hoa-huyen-vu-da-lat-x1-4.jpg"
+    ],
+    "phone": "0854868616",
+    "rating": 4.9,
+    "reviews": 275,
+    "comments": [
+      {
+        "author": "KẾ TOÁN DOANH NGHIỆP",
+        "rating": 1,
+        "text": "Không phải địa điểm tham quan, k nên đi, đường siêu xấu, ai tai lái yếu nên cẩn thận",
+        "when": "6 tháng trước"
+      },
+      {
+        "author": "K61 TRẦN XUÂN TRƯỜNG",
+        "rating": 5,
+        "text": "Em là Trần Xuân Trường, sinh viên ở trường Sư Phạm 2 Hà Nội. Mấy hôm cuối tuần thì em với gia đình đi từ Xuân Hoà về Đà Lạt thì có ghé qua nông trại vì được người quen giới thiệu. …",
+        "when": "3 năm trước"
+      },
+      {
+        "author": "Mai Nguyễn",
+        "rating": 5,
+        "text": "Đi sáng sớm chưa có nắng nên hơi âm u, tầm 7h nắng bắt đầu to dần, quang cảnh thật sự y như trong ảnh, so beautiful honey, khuyến khích nên đặt trước vé. MÁI IUUU",
+        "when": "3 năm trước"
+      },
+      {
+        "author": "Hồng Bích",
+        "rating": 5,
+        "text": "Nông trại hoa Huyền Vũ này thực sự quá tuyệt vời luôn. Mình cảm thấy rất thoải mái khi đến với nông trại hoa Huyền Vũ Đà Lạt. Mọi người có thời gian nhất định nên thử đến trải nghiệm một lần nhé.",
+        "when": "3 năm trước"
+      },
+      {
+        "author": "QP0203 Do Thanh Truc",
+        "rating": 5,
+        "text": "Có tâm 😍Nếu bạn muốn trải nghiệm một kỳ nghỉ tại Đà Lạt với một môi trường yên tĩnh, Nông Trại Hoa Huyền Vũ Đà Lạt là một lựa chọn tuyệt vời. Các hoạt động dã ngoại tại đây cũng giúp du khách cảm nhận được thiên nhiên tươi đẹp. …",
+        "when": "3 năm trước"
+      },
+      {
+        "author": "QP0233 Ly Dieu Linh",
+        "rating": 5,
+        "text": "Tuyệt vời luôn, rất đáng để đi nhá. Lâu lắm rồi tôi mới được đến một nơi đẹp như thế này. Ở đây tôi có thể hoà mình vào thiên nhiên,  chiêm ngưỡng cảnh sác tuyệt đẹp. Có cơ hội chắc chắn sẽ đi lại",
+        "when": "3 năm trước"
+      },
+      {
+        "author": "Ina Ino",
+        "rating": 5,
+        "text": "Một trải nghiệm tuyệt vời tại Đà Lạt. Nếu không ghé qua nơi đây thì thật là phí. Đến đây, các bạn sẽ có những bức hình thật đẹp và tận hưởng không khí trong lành, thư dãn.",
+        "when": "3 năm trước"
+      },
+      {
+        "author": "Nguyễn Hải Anh",
+        "rating": 5,
+        "text": "Mình cảm thấy nông trại này rất thú vị, có thể nói đây là một trong những nơi để lại nhiều ấn tượng nhất cho tôi trong các chuyến thăm quan. Mình thấy mọi người cũng nên trải nghiệm một lần.",
+        "when": "3 năm trước"
+      },
+      {
+        "author": "Hiếu Đỗ",
+        "rating": 5,
+        "text": "Cảnh quan rất đẹp, trải nghiệm tuyệt vời.\nChắc chắn mình sẽ gợi ý điểm đến này với những ai du lịch Đà Lạt.",
+        "when": "3 năm trước"
+      },
+      {
+        "author": "Lo Thi Tinh QP0253",
+        "rating": 5,
+        "text": "Trải nghiệm rất thú vị, nói chung đây là một nơi đáng để chúng ta trải nghiệm, nếu có cơ hội bạn hãy đến đây nhé🥰🥰\n有风的地方😍 …",
+        "when": "3 năm trước"
+      }
+    ],
+    "source": "google-maps"
+  },
+  "que-garden-x1": {
+    "lat": 11.9582923,
+    "lng": 108.3972989,
+    "img": "images/que-garden-x1.jpg",
+    "photos": [
+      "images/que-garden-x1.jpg",
+      "images/que-garden-x1-2.jpg",
+      "images/que-garden-x1-3.jpg",
+      "images/que-garden-x1-4.jpg"
+    ],
+    "phone": "0868290900",
+    "rating": 4.8,
+    "reviews": 1998,
+    "comments": [
+      {
+        "author": "Trương Hoàng Tuấn",
+        "rating": 5,
+        "text": "Bữa mình đi puppy farm vô tình đi ngang thấy đẹp quá nên ghé xem. Khá nhiều góc chụp ảnh có chỗ cho thuê đồ để chụp ảnh lun. Nước uống khá ổn. Có dịp mọi người nên ghé thử",
+        "when": "4 tuần trước"
+      },
+      {
+        "author": "MVH LTD",
+        "rating": 5,
+        "text": "Đây là một điểm đến rất đáng ghé khi đến Đà Lạt. Không gian được chăm chút kỹ lưỡng, xanh mát, yên bình và mang đậm tinh thần làng quê Việt giữa phố núi. Vườn cảnh hài hòa, tiểu cảnh đẹp, nhiều góc check-in tự nhiên và rất “chill”. …",
+        "when": "5 tháng trước"
+      },
+      {
+        "author": "Hòa Nguyễn",
+        "rating": 5,
+        "text": "Không gian thoáng mát. Đồ ăn ngon. Giá cả ổn. Cá tầm 650k/ ký. Làm đc 2 món. Lẩu và nướng ngon.\nĂn xong còn đc qua thị trấn iyashi tham quan miễn phí",
+        "when": "một tháng trước"
+      },
+      {
+        "author": "Ng Tuyên - An Thái Trung",
+        "rating": 5,
+        "text": "Nằm trên cung đường đèo Mimosa thơ mộng, cách trung tâm thành phố khoảng 10km, QUÊ Garden Đà Lạt được ví von như một \"Tiểu Nhật Bản\" thu nhỏ, mang đến một không gian thiền tịnh và nghệ thuật giữa lòng phố núi. …",
+        "when": "6 tháng trước"
+      },
+      {
+        "author": "Luu Quang Thi",
+        "rating": 4,
+        "text": "Đồ ăn 7 điểm, phục vụ tốt, giá phải chăng. Nên qua quán ăn trước sau đó nhận vé qua cafe Quê",
+        "when": "một tháng trước"
+      },
+      {
+        "author": "tu minh",
+        "rating": 5,
+        "text": "Quán có không gian rộng rãi, thoáng mát đặt biệt có rất nhiều cảnh đẹp để seo phiiii nhé\nNhà mình dùng cơm trưa ở đây thấy rất hợp vị, bạn nào thích dùng cơm trong không gian này thì thử ngay nha",
+        "when": "5 tháng trước"
+      },
+      {
+        "author": "Anh khoa Phạm Kỳ",
+        "rating": 4,
+        "text": "Mấy bạn đến đây buổi sáng sớm hoặc buổi chiều nha. Buổi trưa nắng nhíu chân mày luôn á trời. Nước dở",
+        "when": "4 tháng trước"
+      },
+      {
+        "author": "Chiến Tạ Đình",
+        "rating": 5,
+        "text": "Khu du lịch có phong cách nhật bản, chụp hình rất đẹp.\nTrong khuôn viên có shop bán chocola và có trãi nghiệm làm chocola tại chỗ, các bạn nhỏ ăn chocola thử miễn phí đã đời luôn. Giá làm chocola tại chỗ là 80k. …",
+        "when": "4 tháng trước"
+      },
+      {
+        "author": "Thanh Tran",
+        "rating": 5,
+        "text": "❤️Cảnh đẹp ❤️\n🌳 đúng chuẩn làng nhật nha quá đẹp không chê vào đâu được nhất là các bạn phục vụ rất nhiệt tình bánh nướng trực tiếp tại lò ngon nhức nách🥐🥨⭐️⭐️⭐️⭐️⭐️ …",
+        "when": "5 tháng trước"
+      },
+      {
+        "author": "Quỳnh Như",
+        "rating": 5,
+        "text": "80k bao gồm tiền nước và vé vào cổng, xứng đáng lắm luôn, nhiều gốc chụp hình xinh lắm!",
+        "when": "một tháng trước"
+      }
+    ],
+    "source": "google-maps"
+  },
+  "dapa-hill-dalat-x1": {
+    "lat": 11.9024266,
+    "lng": 108.3442219,
+    "img": "images/dapa-hill-dalat-x1.jpg",
+    "photos": [
+      "images/dapa-hill-dalat-x1.jpg",
+      "images/dapa-hill-dalat-x1-2.jpg",
+      "images/dapa-hill-dalat-x1-3.jpg",
+      "images/dapa-hill-dalat-x1-4.jpg"
+    ],
+    "phone": "0833366366",
+    "rating": 4.5,
+    "reviews": 1366,
+    "comments": [
+      {
+        "author": "Lượm Võ Văn",
+        "rating": 5,
+        "text": "Cảnh đẹp. Có nhiều trò chơi để trải nghiệm như trượt phao, trượt cầu vòng.... Đặc biệt có khu vui chơi dành cho trẻ em. Một nơi đáng để mọi người trải nghiệm khi đến Đà Lạt.",
+        "when": "một tháng trước"
+      },
+      {
+        "author": "Mã Minh Chí",
+        "rating": 5,
+        "text": "Dapa Hill (Dapa Hill - Tiểu sa mạc giữa lòng Đà Lạt) là một trong những khu điểm du lịch phức hợp mới nổi nhưng nhanh chóng chiếm trọn cảm tình của du khách, đặc biệt là giới trẻ và các gia đình. Tọa lạc trên cung đường du lịch Tà Nung mộng …",
+        "when": "một tháng trước"
+      },
+      {
+        "author": "Fresh For You",
+        "rating": 3,
+        "text": "Nói chung đi cho biết chứ mình thừa hiểu xem bọn review fb 10 thì trải nghiệm thực chắc được 5. Mà đúng thật đến thấy nó vắng vẻ, mọi thứ hơi cũ chỉ có mấy cái bạt quảng cáo còn mới. Tưởng cho trẻ con đi chơi vui lắm ai dè bọn nó chê không thèm chơi gì :))",
+        "when": "một tháng trước"
+      },
+      {
+        "author": "Olivia Phụng",
+        "rating": 3,
+        "text": "-Mình ghé Daba Hill do có liên kết với hãng xe nên được free vé, xem như đi cho biết. Khu vực khá vắng, không khí yên tĩnh nhưng cũng vì vậy mà cảm giác hơi buồn, thiếu sức sống. …",
+        "when": "6 tháng trước"
+      },
+      {
+        "author": "Nguyễn Trúc",
+        "rating": 4,
+        "text": "Ban ngày nóng, ít mảng xanh. Trò chơi k đa dạng lắm, giá ổn. Trượt phao phải đi bộ lên chứ k có xe đưa lên nên hơi đuối. Mịn thấy tạm được với giá tiền.",
+        "when": "2 tháng trước"
+      },
+      {
+        "author": "Quỳnh Như",
+        "rating": 1,
+        "text": "Tôi đến địa điểm để chơi vào ngày 01/02 và có mua chút bánh kẹo cụ thể là 1 hộp me cay và 2 bịch kẹo dẻo xoài tổng hết 120 và cả 2 loại đồ ăn đều hết hạn.Me cay thì nsx từ tháng 8/2025 và hsd là 6 tháng, kẹo dẻo xoài thì đã hết hạn từ …",
+        "when": "5 tháng trước"
+      },
+      {
+        "author": "Phùng Mian",
+        "rating": 5,
+        "text": "Trải nghiệm cực kỳ vui và thoải mái! Không gian khá vắng nên không cần phải xếp hàng lâu, bọn mình chơi cả ngày ở đây. Nhân viên siêu dễ thương và nhiệt tình, đặc biệt là bạn Thịnh – chụp hình rất có tâm. Khu vui chơi sạch sẽ, mới mẻ, các …",
+        "when": "một năm trước"
+      },
+      {
+        "author": "Hymie Nguyen",
+        "rating": 5,
+        "text": "Nhân viên nhiệt tình,hỗ trợ chụp hình 7749 kiểu , vườn thú sạch sẽ, trò chơi vượt phao vs cỏ cầu vồng siêu đã trải nghiệm thú vị sẽ quay lại lần sau 🤩🤩🤩 …",
+        "when": "6 tháng trước"
+      },
+      {
+        "author": "NTĐ",
+        "rating": 5,
+        "text": "Bãi đậu xe rất rộng.\nTrước kia chỉ có trượt phao, nay thêm đường trượt máng khá hấp dẫn. Được các bạn nhân viên hỗ trợ quay video nữa. …",
+        "when": "một năm trước"
+      },
+      {
+        "author": "Dat Lee",
+        "rating": 4,
+        "text": "Từ trung tâm Đà Lạt chạy theo hướng đèo Tà Nung, tới đoạn thôn 3 là thấy khu du lịch nằm bên tay trái – khá dễ tìm. Bãi đậu xe rộng rãi, thoải mái. Khu này có dịch vụ cho thuê đồ dân tộc, Mông Cổ, Hàn Quốc… chụp hình sống ảo cũng đẹp, nhưng …",
+        "when": "11 tháng trước"
+      }
+    ],
+    "source": "google-maps"
+  },
+  "khu-du-lich-la-phong-x1": {
+    "lat": 11.9285753,
+    "lng": 108.4516514,
+    "img": "images/khu-du-lich-la-phong-x1.jpg",
+    "photos": [
+      "images/khu-du-lich-la-phong-x1.jpg",
+      "images/khu-du-lich-la-phong-x1-2.jpg",
+      "images/khu-du-lich-la-phong-x1-3.jpg",
+      "images/khu-du-lich-la-phong-x1-4.jpg"
+    ],
+    "phone": "0901233994",
+    "rating": 4.1,
+    "reviews": 3263,
+    "comments": [
+      {
+        "author": "thiện Hồ thanh",
+        "rating": 5,
+        "text": "Cảnh decor ok\nCó chỗ thuê đồ\nGiá vé tết là 80, ngày thường 100k hoặc 120k kèm nước, vào mua lẻ nước thì loanh …",
+        "when": "4 tháng trước"
+      },
+      {
+        "author": "CWT",
+        "rating": 5,
+        "text": "Đi lâu rồi giờ mới review. Khu này khá rộng và có nhiều cảnh khác nhau, chủ yếu phong cách Nhật Bản, anime, rất nhiều hoa, thích hợp để chụp ảnh là chính. Có quán cà phê, quán ăn buổi trưa, quầy lưu niệm và cho thuê quần áo Nhật Bản. …",
+        "when": "5 tháng trước"
+      },
+      {
+        "author": "Xuan Nguyen",
+        "rating": 5,
+        "text": "Mình đi vào buổi trưa, vắng khách, nắng đẹp. Giá vé vào tham quan là 80k, giá thuê kimono là 100k/giờ được chọn 1 phụ kiện miễn phí, bên trong có bán nước và kem. Diện tích tham quan không rộng nhưng có nhiều góc để check in. Nghe nói là …",
+        "when": "4 tháng trước"
+      },
+      {
+        "author": "Thần Thoại",
+        "rating": 5,
+        "text": "Hôm trước tôi ghé Khu du lịch Lá Phong Đà Lạt, không gian nhiều cây xanh, đặc biệt là rừng lá phong rất đẹp để chụp hình. Tôi thích khu hồ cá Koi và ngôi nhà 132 mái, cảm giác vừa lạ vừa thú vị. Giá vé hợp lý, đi dạo thoải mái, chỉ hơi đông khách vào cuối tuần. Đây là điểm tham quan đáng trải nghiệm khi đến Đà Lạt.",
+        "when": "10 tháng trước"
+      },
+      {
+        "author": "Duong Huu Tai",
+        "rating": 5,
+        "text": "80k mỗi vé người lớn, trẻ em miễn phí bao gồm 1 ly nước trong vé là rất ổn về giá. Mình đến đây vào đúng ngày mưa nên kdl vắng tanh. Ảnh hưởng trải nghiệm khá nhiều. Với hồ cá Koi chất lượng và view thung lũng khá đẹp thì mình nghĩ với 1 ngày thời tiết đẹp chỗ này sẽ không tệ.",
+        "when": "2 tháng trước"
+      },
+      {
+        "author": "Minh Châu Nguyễn",
+        "rating": 5,
+        "text": "Khu du lịch sở hữu không gian rộng rãi, được thiết kế tinh tế theo phong cách Nhật Bản, mang lại cảm giác thư thái và nhẹ nhàng. Điểm nhấn là hồ cá koi lớn với những chú cá bơi lượn trong làn nước trong xanh – một khung cảnh lý tưởng để …",
+        "when": "một năm trước"
+      },
+      {
+        "author": "Hùng Phong Sơn",
+        "rating": 5,
+        "text": "Đẹp và nên thơ, phong cách Nhật Bản. Đáng để tới trải nghiệm",
+        "when": "2 tháng trước"
+      },
+      {
+        "author": "Anh Thư Nguyễn",
+        "rating": 3,
+        "text": "Hôm mình đi tầm 16H ( quán 17h đóng cửa ) nên rất vắng , mình có được 1 không gian hoàn toàn “ riêng tư “ , cảm giác như được lắng mình hoà cùng với thiên nhiên. Vé tham quan đã bao gồm nước nên mức giá không quá cao so với những gì bản …",
+        "when": "10 tháng trước"
+      },
+      {
+        "author": "Ngọc Dung Võ Thị",
+        "rating": 4,
+        "text": "Cảnh khá đẹp để sống ảo, có cho thuê trang phục kimono để mọi người có những bức ảnh đẹp với khung cảnh nơi đây hơn. Mình đi đầu tháng 4 nên KDL chưa có lá phong đỏ, mùa thu có lá phong chắc sẽ đẹp hơn. Giá vé vào cổng 80k gồm 01 ly nước …",
+        "when": "một năm trước"
+      },
+      {
+        "author": "Tu Nguyen",
+        "rating": 4,
+        "text": "Khu du lịch khá gần trung tâm thành phố, có không gian rộng rãi, khá chill và nhiều góc để chụp ảnh.\nĐặc biệt điểm cộng lớn nhất là có khu vui chơi cho bé. …",
+        "when": "11 tháng trước"
+      }
+    ],
+    "source": "google-maps"
+  },
+  "khu-du-lich-thuy-thuan-da-lat-x1": {
+    "lat": 11.9129442,
+    "lng": 108.3392851,
+    "img": "images/khu-du-lich-thuy-thuan-da-lat-x1.jpg",
+    "photos": [
+      "images/khu-du-lich-thuy-thuan-da-lat-x1.jpg",
+      "images/khu-du-lich-thuy-thuan-da-lat-x1-2.jpg",
+      "images/khu-du-lich-thuy-thuan-da-lat-x1-3.jpg",
+      "images/khu-du-lich-thuy-thuan-da-lat-x1-4.jpg"
+    ],
+    "phone": "0327977535",
+    "rating": 4.6,
+    "reviews": 1496,
+    "comments": [
+      {
+        "author": "Nguyễn Việt Long",
+        "rating": 3,
+        "text": "Khu du lịch rộng nhưng không có gì đặc sắc, phù hợp cho các đại gia đình hoặc các nhóm du lịch muốn trải nghiệm nhiều dịch vụ khi tới Đà lạt. Bố trí vườn hoa bị chán, không có nhiều góc để chụp đẹp, nhìn bị già. Ai muốn có ảnh đẹp thì thuê …",
+        "when": "3 tháng trước"
+      },
+      {
+        "author": "Thị tim Bùi",
+        "rating": 5,
+        "text": "giá cả hợp lý, nước uống và thức ăn ngon trò chơi vui nhân viên nhiệt tình cảnh quan đẹp đáng để trải nghiệm sẽ quay lại",
+        "when": "một tháng trước"
+      },
+      {
+        "author": "JangYi Nguyễn",
+        "rating": 4,
+        "text": "Sáng muộn ở Thúy Thuận, không gian vẫn giữ được sự yên tĩnh hiếm có. Gió nhẹ, cây xanh bao quanh, tiếng nói chuyện cũng tự nhiên nhỏ lại. Đây là kiểu nơi khiến người ta không cần làm gì nhiều, chỉ cần ngồi xuống, hít thở và tận hưởng cảm …",
+        "when": "6 tháng trước"
+      },
+      {
+        "author": "Duy Toan Nguyen",
+        "rating": 1,
+        "text": "Hướng dẫn viên (có thẻ) đi đoàn 20 khách mà còn không có vé nội bộ, bắt phải mua vé. Giá vé TA thì không nhất quán thì sao công ty tour kết hợp được. Mình sẽ chia sẽ mạnh cho các công ty tour khác.",
+        "when": "một tháng trước"
+      },
+      {
+        "author": "Thanh Thảo Nguyễn",
+        "rating": 5,
+        "text": "1 địa điểm rất đáng để trải nghiệm, cảnh đẹp và cực kì rộng. Có xe điện chở đi thăm quan miễn phí. Nhân viên rất nhiệt tình",
+        "when": "2 tháng trước"
+      },
+      {
+        "author": "Chinh trân ngọc",
+        "rating": 5,
+        "text": "sạch sẽ thoáng mát, nhân viên chu đáo có chụp hình đẹp nữa. Rất thoải mái, cảm ơn Thuý Thuận giúp gia đình mình trải nghiệm tuyệt vời",
+        "when": "2 tháng trước"
+      },
+      {
+        "author": "Thị Ngọc Thủy Huỳnh",
+        "rating": 5,
+        "text": "Mấy dịch vụ ở đây cơ bản đều OK. Nhân viên hỗ trợ nhiejet tình cho khách",
+        "when": "4 tháng trước"
+      },
+      {
+        "author": "vy hoàng",
+        "rating": 5,
+        "text": "Khu du lịch có photo booth tiện quá, rẻ nữa hihi, dịch vụ tốt, nhân viên nhiệt tình, chụp đẹp cảnh đẹp, thức uống vừa phải.",
+        "when": "một tháng trước"
+      },
+      {
+        "author": "Phuong Truc",
+        "rating": 5,
+        "text": "sạch sẽ thoáng mát, nhân viên chu đáo có chụp hình đẹp nữa. Rất thoải mái, cảm ơn Thuý Thuận giúp gia đình mình trải nghiệm tuyệt vời",
+        "when": "4 tháng trước"
+      },
+      {
+        "author": "Dương Nguyễn",
+        "rating": 5,
+        "text": "Khu du lịch nằm trên cung đường Tà Nung, cách trung tâm Đà Lạt không xa, rất dễ tìm. Không gian rộng rãi, thoáng mát, được thiết kế nhiều tiểu cảnh sáng tạo và chăm chút kỹ – góc nào chụp hình cũng đẹp. Cảm giác như lạc vào một khu vườn …",
+        "when": "7 tháng trước"
+      }
+    ],
+    "source": "google-maps"
+  },
+  "khu-du-lich-quy-nui-x1": {
+    "lat": 12.0022429,
+    "lng": 108.3499998,
+    "img": "images/khu-du-lich-quy-nui-x1.jpg",
+    "photos": [
+      "images/khu-du-lich-quy-nui-x1.jpg",
+      "images/khu-du-lich-quy-nui-x1-2.jpg",
+      "images/khu-du-lich-quy-nui-x1-3.jpg",
+      "images/khu-du-lich-quy-nui-x1-4.jpg"
+    ],
+    "phone": "02633733888",
+    "rating": 4.5,
+    "reviews": 441,
+    "comments": [
+      {
+        "author": "Phạm Thế Bảo",
+        "rating": 5,
+        "text": "nhân viên nhiệt tình dễ thương lắm, mong mọi người biết đến nhiều hơn, hôm nay mình đi hầu như ko có khách nào",
+        "when": "2 tháng trước"
+      },
+      {
+        "author": "Nguyễn Thanh Trí (Brian)",
+        "rating": 5,
+        "text": "Điểm tham quan mới, khá độc đáo. Đi ngược với truyền thống xưa nay, các điểm tham quan đều nghiêng về hướng cõi thần tiên, lạc cảnh tiên giới, không gian thơ mộng, lãng mạn,..Quần thể du lịch Pini lại theo hướng hoang vu, kỳ bí, độc đáo …",
+        "when": "5 tháng trước"
+      },
+      {
+        "author": "Lu Phi",
+        "rating": 5,
+        "text": "Cách nhà e 1km , vẫn thích khung cảnh ở đây",
+        "when": "một tháng trước"
+      },
+      {
+        "author": "Phú Quốc Npq",
+        "rating": 5,
+        "text": "Lần đầu đến với địa điểm này sau vài chục lần đi ĐL, lên 1 con bài review nhỏ\n- Cách trung tâm ĐL cũng hơi xa xa xa đó\n- Giá cả hợp lý, hơn trăm cành 1 tẹo …",
+        "when": "một năm trước"
+      },
+      {
+        "author": "Phát Trương Gia",
+        "rating": 5,
+        "text": "Nhiều cảnh đẹp, thiên nhiên mát mẻ , nhân viên thân thiện nhiều khu chụp ảnh , có trình diễn múa hát ca nhạc, người nam châm ăn than hồng .... quá xứng đáng với giá 150k",
+        "when": "10 tháng trước"
+      },
+      {
+        "author": "PHẠM HỒNG MINH",
+        "rating": 5,
+        "text": "Khu du lịch Quỷ Núi (PI Ni Đà Lạt) tọa lạc tại thôn Đạ Nghịt, xã Lát, tỉnh Lâm Đồng, là một điểm đến mới lạ và độc đáo, mang đến một làn gió khác biệt cho thành phố Đà Lạt thơ mộng. Nơi đây đã trở thành một công trình kiến trúc quái dị lớn …",
+        "when": "một tháng trước"
+      },
+      {
+        "author": "Tham. Ana Nguyen",
+        "rating": 5,
+        "text": "Nói chung là trên cả tuyệt vời. Cây cối xanh mát và đẹp tự nhiên. Rất Đà Lạt luôn.\nKhu Quỷ Núi có điển tích lấy cảm hứng từ câu chuyện của người dân bản địa xa xưa …",
+        "when": "2 năm trước"
+      },
+      {
+        "author": "Mayxaygiocha VinhLoc",
+        "rating": 4,
+        "text": "không gian rất rộng và đẹp, rất đang để bạn giành 1 buổi ở đây. Đặt biệt ngồi bên bờ suối, nghe tiếng nước chảy, ngắm cảnh rừng thông và đồi núi ... và ngắm nháp ly cafee nóng trong tiết trời se lạnh....thất tuyệt",
+        "when": "một năm trước"
+      },
+      {
+        "author": "Hoàng Hà Nội",
+        "rating": 5,
+        "text": "Khu rất rộng và đầu tư rất nhiều, nhiều chỗ sống ảo và không khí mát dịu có cây xanh, ngoài ra có trèo thuyền và nhiều tiểu cảnh khác, giá vé không cao và nhân viên rất nhiệt tình",
+        "when": "một năm trước"
+      },
+      {
+        "author": "Ý Thơ Thơ",
+        "rating": 5,
+        "text": "Một địa điểm du lịch rất gần gũi với thiên nhiên. Không gian rộng, nhiều cảnh đẹp để chụp hình. Rất nhiều cây xanh nên khu du lịch rất mát. Nhân viên thân thiện, nhiệt tình. Gia đình mình đã đi và có trải nghiệm tuyệt vời.",
+        "when": "2 năm trước"
+      }
+    ],
+    "source": "google-maps"
+  },
+  "doi-thien-phuc-duc-x1": {
+    "lat": 11.9946058,
+    "lng": 108.4285696,
+    "img": "images/doi-thien-phuc-duc-x1.jpg",
+    "photos": [
+      "images/doi-thien-phuc-duc-x1.jpg",
+      "images/doi-thien-phuc-duc-x1-2.jpg",
+      "images/doi-thien-phuc-duc-x1-4.jpg"
+    ],
+    "rating": 4.3,
+    "reviews": 1487,
+    "comments": [
+      {
+        "author": "Nghi Gia",
+        "rating": 5,
+        "text": "Đường hơi khó đi nếu ai tay lái yếu\nCảnh đẹp, hoang sơ, mình đi hơi trễ với vào tháng 5 nên chạy theo mây kh kịp :)))) …",
+        "when": "một tháng trước"
+      },
+      {
+        "author": "Hoàng Long",
+        "rating": 5,
+        "text": "lần đầu đi săn mây tại đà lạt của mình\n\nmình đi lúc 4h45 sáng, đến thì trời vẫn khá tối nên nhớ mang theo đèn pin và …",
+        "when": "5 tháng trước"
+      },
+      {
+        "author": "buiii hieu",
+        "rating": 5,
+        "text": "Đồi đẹp, leo bộ dễ, mn cứ bỏ xe đường dưới chân đồi xong leo 3p là lên được, ngắm hoàng hôn nơi đây cũng đẹp, đường đến cũng có 1 đoạn hơi xóc xíu thôi",
+        "when": "5 tháng trước"
+      },
+      {
+        "author": "Nhi Trần Thị Yến",
+        "rating": 5,
+        "text": "Mình đi vào tháng 12 nên gió lớn k săn được mây, nhưng rất chill và đẹp nha vì cỏ khô nên lên ảnh màu đỏ hồng đẹp quá xá, nếu k săn mây mà chỉ đi chụp ảnh thì mn đi tầm 6-7h sáng là đẹp nhất",
+        "when": "6 tháng trước"
+      },
+      {
+        "author": "Sonnhi EcoFun Journey",
+        "rating": 5,
+        "text": "🌄 Review Đồi Thiên Phúc Đức – Hành trình săn mây sớm tinh mơ bằng xe máy\n\nNếu bạn muốn một trải nghiệm rất Đà Lạt nhưng không quá đông đúc, thì đi săn mây …",
+        "when": "11 tháng trước"
+      },
+      {
+        "author": "thành trung lê",
+        "rating": 5,
+        "text": "Địa điểm săn mây lý tưởng, đi theo chỉ đường đến chân đồi rồi mình leo bộ lên, có thể gửi xe máy ở nhà người dân đồi, trên đồi có nhiều ... bò và dê nên cẩn thận coi chừng giẫm phải 🫣🫣 …",
+        "when": "8 tháng trước"
+      },
+      {
+        "author": "joshiep pham",
+        "rating": 5,
+        "text": "Săn được mây hay không là hên xui. Đây là lần thứ 6 đi săn mây mới được. Chúc các bạn may mắn",
+        "when": "7 tháng trước"
+      },
+      {
+        "author": "Huy Nguyễn Đăng",
+        "rating": 5,
+        "text": "Mình lên theo phần đường mòn, k đi xe lên được những cũng k có ai trông xe. Trèo lên khoảnh 5p thì tới đỉnh. View 2 bên Đà Lạt thực sự rất đẹp nhưng do mình lên lúc trưa nên k có mây dưới chân, chỉ có mây trên đầu và những cây thông",
+        "when": "một năm trước"
+      },
+      {
+        "author": "Kiều Anh Nguyễn",
+        "rating": 5,
+        "text": "Siêu đẹp. Đến Đà Lạt phải đi đồi Thiên Phúc Đức 1 lần 👍\nĐến nơi có chỗ gửi xe, leo bộ lên đến bơi trước giờ mặt trời mọc là được. Hôm mình đi là 5h30 đến nơi. …",
+        "when": "một năm trước"
+      },
+      {
+        "author": "Thảo Thor",
+        "rating": 5,
+        "text": "[Thor đi Đà Lạt]\nMình ghé đồi cả sáng cả chiều để săn bình minh, hoàng hôn. Homestay mình ở cách đây có 3km. Đường đi vào đồi rất dễ, để ý chỗ giữ xe ngay đoạn cua, gửi xe ở đó …",
+        "when": "2 năm trước"
+      }
+    ],
+    "source": "google-maps"
+  },
+  "khu-du-lich-thac-datanla-x1": {
+    "lat": 11.9034324,
+    "lng": 108.4496999,
+    "img": "images/khu-du-lich-thac-datanla-x1.jpg",
+    "photos": [
+      "images/khu-du-lich-thac-datanla-x1.jpg",
+      "images/khu-du-lich-thac-datanla-x1-2.jpg",
+      "images/khu-du-lich-thac-datanla-x1-3.jpg",
+      "images/khu-du-lich-thac-datanla-x1-4.jpg"
+    ],
+    "price": 2,
+    "phone": "0981166088",
+    "rating": 4.4,
+    "reviews": 24936,
+    "comments": [
+      {
+        "author": "Sunny Vân",
+        "rating": 5,
+        "text": "(English below)\nVc mình chơi zipline và đi coaster để lên lại. Bạn có thể đeo balo phía trước ngực nếu balo không quá to. Đường trượt zipline dài 1.5km nhưng được chia làm 2 …",
+        "when": "2 tháng trước"
+      },
+      {
+        "author": "SUPERMAN",
+        "rating": 5,
+        "text": "Một trải nghiệm đầy hào hứng và tuyệt vời tại đây với trò chơi máng trượt\nTuy nhiên khu này khá hot nên rất đông, vừa chờ mua vé, và chờ đến lượt khá đông …",
+        "when": "3 tuần trước"
+      },
+      {
+        "author": "Bạn muốn đi đâu ở Việt Nam?",
+        "rating": 5,
+        "text": "Cảm giác đi xe trượt hơn 2km thật là ngoạn mục, đến thác nước hoà mình với thiên nhiên núi rừng thật là tuyệt vời cùng với các món nước uống và ăn ăn vặt hầu như dc nhiều người yêu thích, đến lúc xe trượt đi ngược lên thì còn có cả dịch vụ …",
+        "when": "4 tháng trước"
+      },
+      {
+        "author": "Jia Le Hao",
+        "rating": 5,
+        "text": "Hôm mình đi Datanla thì trời mưa khá lớn nên không trải nghiệm được nhiều trò. Tuy nhiên mình có chơi trượt thác và phải nói là rất đáng thử. Đường trượt dài, cảm giác mạnh vừa phải, mưa làm cảnh rừng thông hai bên đẹp hơn hẳn. Nhân viên …",
+        "when": "7 tháng trước"
+      },
+      {
+        "author": "Nhân Phạm Kim",
+        "rating": 5,
+        "text": "Vé 250/ng có gồm xe trượt khứ hồi, gồm lun vé cổng, xuống tới thác cũng đẹp, hùng vĩ, nhiều góc chụp vs thác. Rất đáng để đi",
+        "when": "một tháng trước"
+      },
+      {
+        "author": "Ngọc Lực",
+        "rating": 5,
+        "text": "Khu du lịch đáng để trải nghiệm nha, mình chơi xe trượt mới khá là sợ, sợ độ cao nên không giám chơi zipline, còn nhiều khu mà mình đi trễ nên không đi hết được, mn nên đi sớm để tham quan",
+        "when": "5 tháng trước"
+      },
+      {
+        "author": "Ngoc Dung Duong",
+        "rating": 2,
+        "text": "Cũng bình thường, lên trải nghiệm một lần khi tới Đà Lạt. Ai sức khỏe yếu lên chọn đi xe trượt.",
+        "when": "3 tuần trước"
+      },
+      {
+        "author": "Trung Hậu Nguyễn Thị",
+        "rating": 1,
+        "text": "Mình đã ghé chỗ này nhiều lần mỗi khi đi Đà Lạt, trước giờ trải nghiệm khá ổn nên lần nào cũng quay lại. Nhưng lần này thử trò xe địa hình thì thật sự cực kỳ thất vọng. …",
+        "when": "4 tháng trước"
+      },
+      {
+        "author": "ELEMENT 14",
+        "rating": 1,
+        "text": "Có giá vé vào cổng 80k 1 người cho đi bộ, đi xe trượt thì giá cao hơn, đi bộ rất mệt nhưng vẫn nên đi bộ vì đoạn đường rất ngắn. Xếp hàng đợi vô khá lâu, nhân viên bảo vệ vô cổng không thân thiện lắm, thiếu chuyên nghiệp. …",
+        "when": "Thời gian chỉnh sửa: 2 tháng trước"
+      },
+      {
+        "author": "Người Review",
+        "rating": 5,
+        "text": "Cảnh đẹp, nhiều trò chơi thú vị, đồ ăn nước uống giá hợp lý. Thích hợp cho 1 buổi du lịch cùng gia đình, bạn bè",
+        "when": "2 tuần trước"
+      }
+    ],
+    "source": "google-maps"
+  },
+  "lang-nam-da-lat-x1": {
+    "lat": 11.9679062,
+    "lng": 108.3888086,
+    "img": "images/lang-nam-da-lat-x1.jpg",
+    "photos": [
+      "images/lang-nam-da-lat-x1.jpg",
+      "images/lang-nam-da-lat-x1-2.jpg",
+      "images/lang-nam-da-lat-x1-3.jpg",
+      "images/lang-nam-da-lat-x1-4.jpg"
+    ],
+    "phone": "0889222888",
+    "rating": 4.9,
+    "reviews": 2428,
+    "comments": [
+      {
+        "author": "Hoàng Anh Nguyễn",
+        "rating": 5,
+        "text": "Nấm, từ ở trong giá thể đến bữa ăn tốt cho sức khoẻ. Trải nghiệm thú vị cùng với mọi người thân thiện tại đây",
+        "when": "2 tháng trước"
+      },
+      {
+        "author": "Anh Nguyen",
+        "rating": 5,
+        "text": "Trải nghiệm khá thú vị cho bé và gđ. Các bạn trẻ ở làng nấm khá là chu đáo. Với giá 100k/ng tham quan và hái nấm. Ko được mang nấm về. Trại mô hình nhỏ . Nhưng món lẩu nấm nấu gà thực sự rất ngon giá 400k/ lẩu nhỏ.sẽ thưởng thúc nấm tươi …",
+        "when": "5 tháng trước"
+      },
+      {
+        "author": "ai phi le thi",
+        "rating": 5,
+        "text": "Hoàn toàn xứng đáng để trải nghiệm:\n1- tự tay hái nấm, thưởng thức nấm mìn hái\n2- phù hợp với các bạ nhỏ, gia đình …",
+        "when": "3 tuần trước"
+      },
+      {
+        "author": "Tùng Nguyễn",
+        "rating": 5,
+        "text": "Mình và gia đình đi làng nấm hôm 02/02/2026.\n\nVé là 100k 1 người thì phải. Mình không nhớ rõ. Qua Puppy Farm 1 xíu là có đường …",
+        "when": "4 tháng trước"
+      },
+      {
+        "author": "Hoang Huy",
+        "rating": 5,
+        "text": "Khám phá quy trình hình thành một cá thể nấm. Trải nghiệm thu hoạch nấm và rau theo mô hình organic. Nên liên hệ trước khi tới để được hướng dẫn chu đáo.",
+        "when": "2 tuần trước"
+      },
+      {
+        "author": "Ngọc Lan",
+        "rating": 5,
+        "text": "Một địa điểm tham quan mà mình ưng ý vô cùng. Từ chị chủ đến các bạn nhân viên vô cùng siêu dễ thương.\nMọi người đã săn được những tấm ảnh nấm vô cùng ấn tượng.",
+        "when": "4 tháng trước"
+      },
+      {
+        "author": "Huỳnh Nhi",
+        "rating": 5,
+        "text": "mìnnh thấy ở đây có rất nhìu loại nấm đẹp và nvien rất nhjet tình, nói chung ở đay mọi thứ rất tuyệt!!!",
+        "when": "3 tuần trước"
+      },
+      {
+        "author": "Lagi Cha Lui",
+        "rating": 5,
+        "text": "Trải nghiệm thú vị, lẩu nấm và salad ngon, c chủ hiền, vui vẻ nhiệt tình.\nNhóm mình đi ngày mùng 4 Tết, có gọi đặt trước nên thuận lợi hơn, k chờ lâu.",
+        "when": "4 tháng trước"
+      },
+      {
+        "author": "HUONG GIANG DO",
+        "rating": 5,
+        "text": "Có dịp ghé tham quan làng nấm cũng vui, hướng dẫn viên nhiệt tình vui vẻ, hiểu thêm về nhiều loại nấm",
+        "when": "một tháng trước"
+      },
+      {
+        "author": "Phuong Nguyen",
+        "rating": 4,
+        "text": "Ticket 100k tham quan hái nấm.\nNên gọi điện trước khi đến, vì có lúc nấm đã thu hoạch không tham quan được bao nhiêu. …",
+        "when": "3 tháng trước"
+      }
+    ],
+    "source": "google-maps"
+  },
+  "khu-vui-choi-dalat-wonderland-x1": {
+    "lat": 11.8959589,
+    "lng": 108.4127443,
+    "img": "images/khu-vui-choi-dalat-wonderland-x1.jpg",
+    "photos": [
+      "images/khu-vui-choi-dalat-wonderland-x1.jpg",
+      "images/khu-vui-choi-dalat-wonderland-x1-2.jpg",
+      "images/khu-vui-choi-dalat-wonderland-x1-3.jpg",
+      "images/khu-vui-choi-dalat-wonderland-x1-4.jpg"
+    ],
+    "phone": "0908292969",
+    "rating": 3.9,
+    "reviews": 1268,
+    "comments": [
+      {
+        "author": "Nguyen Phong (Amazing Kiss)",
+        "rating": 5,
+        "text": "Công viên được đầu tư nhiều tiểu cảnh sống ảo: vườn hoa, cầu gỗ, các mô hình khổng lồ và khu hồ nhân tạo, phù hợp để chụp ảnh cả ngày. Các trò chơi nhỏ (đu quay, xe điện, nhà hơi) thích hợp cho trẻ em; người lớn có thể thử khu trò mạo hiểm …",
+        "when": "3 tuần trước"
+      },
+      {
+        "author": "Nghi Đinh",
+        "rating": 1,
+        "text": "Nhân viên bán vé như sợ khách mua vé, thái độ khó chịu. Ngoài ra trượt phao, đi xe địa hình kh hấp dẫn như rv, nhà tuyết nước ướt rất dơ. Thỏ, ngựa,... dễ thương",
+        "when": "3 tuần trước"
+      },
+      {
+        "author": "James Lee",
+        "rating": 5,
+        "text": "vé khoảng 300k, cư dân với khách cư trú ở resort sẽ đc ưu điểm hơn.\nkhuôn viên rộng rãi, nhiều trò trải nghiệm\ntrải nghiệm thư giãn, mình thích chuyến quanh hồ tuyền lâm",
+        "when": "6 tháng trước"
+      },
+      {
+        "author": "Thùy Linh",
+        "rating": 4,
+        "text": "Trong này có cưỡi ngựa cưỡi đà điểu, đua chó, du thuyền, đua xe, nhà ma,…. Đi bộ 100% k có xe chở tới các điểm. Đi vào cuối tuần mà buổi chiều vắng lắm sáng chắc đông hơn.",
+        "when": "3 tháng trước"
+      },
+      {
+        "author": "18. Đặng Khánh",
+        "rating": 3,
+        "text": "Giá vé đắt so với trải nghiệm. Mình đi ngày lễ nhưng nơi này khá vắng khách nên Nv hỗ trợ cx ít nhưng bù lại thì ai cx rất nhiệt tình chu đáo. Nếu mình đi GĐ mà có ng trên 60t hoặc các bạn nhỏ k thể đi bộ đc có thể lưu ý k nên tới nơi đây …",
+        "when": "2 tháng trước"
+      },
+      {
+        "author": "nhat phuong",
+        "rating": 3,
+        "text": "Lâu đài tuyết, khu vui chơi game, chụp hình 3D sơ sài, chưa tới. Được khu chuồng ngựa và các bạn nhân viên khu vườn thú khá dễ thương bù điểm. Với hoạt động và cơ sở vật chất này chưa đủ làm du khách phải “quao” như quảng cáo.",
+        "when": "4 tháng trước"
+      },
+      {
+        "author": "Phương Nguyễn",
+        "rating": 5,
+        "text": "hôm đi mưa phùn ngồi trên thuyền giữa hồ tuyền lầm rất đẹp, mấy anh chị vườn thú cũng rất dễ thương",
+        "when": "8 tháng trước"
+      },
+      {
+        "author": "huong vu",
+        "rating": 1,
+        "text": "Giá cao – Chơi được ít –\nCách bán vé có vấn đề nghiêm trọng\nKỳ vọng nhiều nhưng về nhà với cảm giác bị \"hớ\" hoàn toàn. …",
+        "when": "3 tuần trước"
+      },
+      {
+        "author": "Hải Nguyễn",
+        "rating": 1,
+        "text": "Giá vé người lớn mua trên app: 330k. Trẻ em 190k.\nNhưng thật ra KHÔNG CÓ trãi nghiệm.\n1. Trượt phao: không nv hỗ trợ, chỉ đúng 1 người thả phao ở trên, lỡ có gì ai hỗ …",
+        "when": "5 tháng trước"
+      },
+      {
+        "author": "Đăng Hải",
+        "rating": 1,
+        "text": "Đây là nơi tệ nhất trong tất cả khu vui chơi mình đã tham quan. Mua vé vào cổng xong cảm giác bị lừa trầm trọng. 390k người lớn. Bạn sẽ nhận đc gì\n1. Tên khu vui chơi đặt rất mỹ miều và hay ho. …",
+        "when": "4 tháng trước"
+      }
+    ],
+    "source": "google-maps"
+  },
+  "khu-du-lich-cap-treo-da-lat-x1": {
+    "lat": 11.9232151,
+    "lng": 108.4437784,
+    "img": "images/khu-du-lich-cap-treo-da-lat-x1.jpg",
+    "photos": [
+      "images/khu-du-lich-cap-treo-da-lat-x1.jpg",
+      "images/khu-du-lich-cap-treo-da-lat-x1-2.jpg",
+      "images/khu-du-lich-cap-treo-da-lat-x1-3.jpg",
+      "images/khu-du-lich-cap-treo-da-lat-x1-4.jpg"
+    ],
+    "phone": "0966984212",
+    "rating": 4.4,
+    "reviews": 5175,
+    "comments": [
+      {
+        "author": "Tình Kute",
+        "rating": 5,
+        "text": "Đà Lạt là 1 nơi thật sự đáng sống nhất nhì Việt Nam 🇻🇳 không khí lúc nào cũng mát mẻ dễ chịu cảnh quan núi non chập chùng rộng lớn... …",
+        "when": "4 tháng trước"
+      },
+      {
+        "author": "Quyết Phan",
+        "rating": 5,
+        "text": "Tuyến cáp treo dài khoảng 2,3 km, đưa du khách từ đồi Robin đến Thiền Viện Trúc Lâm bên hồ Tuyền Lâm. Trong suốt hành trình, bạn có thể ngắm thung lũng, rừng thông và nhà kính đặc trưng của Đà Lạt từ trên cao — đặc biệt đẹp vào sáng sớm hoặc chiều hoàng hôn. Giá vé khứ hồi là 150k cho người lớn.",
+        "when": "một tháng trước"
+      },
+      {
+        "author": "Ngọc Châu Phạm Thị",
+        "rating": 4,
+        "text": "Vé cáp treo khứ hồi 150k/người.\nĐi qua rừng thông khá thú vị. Mình ghé lúc 8h sáng nhưng đã hơi nắng nóng rồi ạ. Bù lại cảnh khá đẹp. …",
+        "when": "2 tháng trước"
+      },
+      {
+        "author": "Đạt Lê Quang",
+        "rating": 5,
+        "text": "Khứ hồi 150k/người. Trẻ em dưới 1m 120k. Người cao tuổi ko đc giảm. 11h30 cáp treo nghỉ và 13h bắt đầu chạy . đi muộn có thể nghỉ trưa bên phía thiền viện (hàng quán hơi đắt) trong lúc đợi đến giờ hoạt động.",
+        "when": "một tháng trước"
+      },
+      {
+        "author": "Nguyễn Henry",
+        "rating": 5,
+        "text": "Giá vé hợp lí\nThời gian chờ đợi không lâu\nTrong quá trình di chuyển bắt gặp nhiều khung cảnh đẹp, check in nhiều điểm …",
+        "when": "4 tháng trước"
+      },
+      {
+        "author": "PHAN PHUONG",
+        "rating": 5,
+        "text": "Cáp treo Đà Lạt nằm ở địa chỉ số 1, đường Đống Đa, Phường 3, Thành phố Đà Lạt, Lâm Đồng. Địa danh này tọa lạc trên ngọn đồi Robin có độ cao lên tới 1.517m.",
+        "when": "2 tháng trước"
+      },
+      {
+        "author": "Ánh Nhật",
+        "rating": 5,
+        "text": "Cáp treo tui mua trên app Klook còn 110k 1 vé khứ hồi ( mà hình như chỉ dành cho lần đầu đặt) còn bình thường là 150k khứ hồi nha\nRiêng cá nhân tui thấy siêu đánh tiền luôn ạ, cảnh đẹp, chill, nếu có lần sau sẽ …",
+        "when": "6 tháng trước"
+      },
+      {
+        "author": "Linh Ngô",
+        "rating": 5,
+        "text": "Vị trí & Lịch trình:\nCáp treo xuất phát từ đồi Robin (đầu đèo Prenn) và điểm đến là Thiền viện Trúc Lâm. Đây là một trong những tuyến cáp treo có view đẹp nhất Việt Nam nhờ độ cao …",
+        "when": "5 tháng trước"
+      },
+      {
+        "author": "Trung Khoa Lê",
+        "rating": 5,
+        "text": "Từ đây có thể nhìn thấy Đà Lạt từ trên cao nên đi tránh buổi trưa vì lên đây khá nóng giá vé cũng tương đối",
+        "when": "2 tháng trước"
+      },
+      {
+        "author": "tien tang",
+        "rating": 4,
+        "text": "Cáp đi chậm, nhẹ nhàng, cảnh khá đẹp, giá vé 150k/ người khứ hồi, đi trong tuần không quá đông đúc.",
+        "when": "5 tháng trước"
+      }
+    ],
+    "source": "google-maps"
+  },
+  "the-florest-hoa-trong-rung-x1": {
+    "lat": 11.9039342,
+    "lng": 108.3674764,
+    "img": "images/the-florest-hoa-trong-rung-x1.jpg",
+    "photos": [
+      "images/the-florest-hoa-trong-rung-x1.jpg",
+      "images/the-florest-hoa-trong-rung-x1-2.jpg",
+      "images/the-florest-hoa-trong-rung-x1-3.jpg",
+      "images/the-florest-hoa-trong-rung-x1-4.jpg"
+    ],
+    "phone": "0986757906",
+    "rating": 4.3,
+    "reviews": 2767,
+    "comments": [
+      {
+        "author": "Lưu Quang Minh",
+        "rating": 5,
+        "text": "The Florest – Hoa Trong Rừng là một trong những địa điểm khiến mình bất ngờ nhất ở Đà Lạt thời gian gần đây. Mình từng nghĩ đây chỉ là một “farm sống ảo” bình thường, nhưng khi vào rồi mới hiểu vì sao nhiều người mê chỗ này đến vậy. Khuôn …",
+        "when": "một tháng trước"
+      },
+      {
+        "author": "MIN STUDIO ĐÀ LẠT",
+        "rating": 5,
+        "text": "Chào các bạn, nếu như các bạn và tôi – những người đang đi tìm cái chất lãng mạn, hoang sơ của núi rừng Đà Lạt – được khách hàng lựa chọn địa điểm này để thực hiện bộ ảnh cưới, thì đây là những điều mà cả tôi và các bạn cần phải chuẩn bị …",
+        "when": "một tháng trước"
+      },
+      {
+        "author": "Quan Huynh Vu",
+        "rating": 4,
+        "text": "Một địa điểm để check in sống ảo với nhiều hình chụp với hoa; giá vé vàk cổng (có kèm 1 phần nước uống) từ 190k_220k/người. Hoa thì chủ yếu là thược dược, roi ngựa, cẩm tú cầu...cũng không nhiều hoa lắm. Có vài con ngựa làm đạo cụ chụp hình",
+        "when": "một tháng trước"
+      },
+      {
+        "author": "Vy Nguyễn",
+        "rating": 5,
+        "text": "Hòa mình với thiên nhiên, cấu trúc vườn hoa đẹp. Mình đi sáng sớm đến trưa về, thì nếu mà đi sớm có thể là một địa điểm đẹp để thấy mây phủ đồi. Còn trưa nắng lên vẫn rất mát. Nước đắt, đã gồm với giá vé (hoặc có thể mua lẻ) nhma khá đậm đà …",
+        "when": "3 tuần trước"
+      },
+      {
+        "author": "Triệu Khảm Trai . Khám phá",
+        "rating": 5,
+        "text": "The Forest – Hoa Trong Rừng và phải nói đây là một địa điểm rất đáng để trải nghiệm nếu bạn thích chụp ảnh và không gian thiên nhiên. …",
+        "when": "3 tháng trước"
+      },
+      {
+        "author": "Tín Hồ",
+        "rating": 4,
+        "text": "Đường đi vô khá dốc nhưng đã làm đường dal hết rồi nên dễ đi, đi qua rừng thông rất đẹp. Không gian rộng, chia làm các khu vực với các loại hoa khác nhau. Đẹp nhất là khu cẩm tú cầu khá lớn. Nhưng tui thích nhất là các đồi cỏ, xanh mướt, đc …",
+        "when": "4 tháng trước"
+      },
+      {
+        "author": "nguyển hùng phương",
+        "rating": 5,
+        "text": "Đường vào hoa trong rừng tuyệt đẹp rừng thông mát mẻ, dốc cao lên xuống tạo cảm giác mạnh , khu du lịch rộng mênh mong , phong cảnh tuyệt vời",
+        "when": "5 tháng trước"
+      },
+      {
+        "author": "Heo Moi",
+        "rating": 4,
+        "text": "Cảnh ở đây đẹp thì miễn bàn, mình đến lần 2 này họ đã mở rộng ra, hoa rất nhiều và rất đẹp. Góc nào chụp hình cũng xuất sắc, bạn phải ở đây cả ngày mới chụp hết được tất cả câc cảnh ở đây. Trên mạng sao thì ở ngoài đẹp y vậy nên mình ko up …",
+        "when": "4 tháng trước"
+      },
+      {
+        "author": "Thùy Dương Phan",
+        "rating": 2,
+        "text": "Mình đi vào thứ 5 nên khá vắng. Giá vé mắc nha, 190k/người là nước đóng chai, 220k/người là nước pha chế, chưa tính phí thuê xe đạp. Có xe điện chở khách đến khu muốn chụp. Hôm mình đi trời âm u, cứ chốc chốc lại mưa, lúc nắng thì muốn bể …",
+        "when": "4 tháng trước"
+      },
+      {
+        "author": "PHUC TSE",
+        "rating": 5,
+        "text": "Hoa Trong Rừng cách khá xa so với trung tâm thành phố. Lúc mình đi là cuối tháng 2, chủ yếu còn cẩm tú cầu, thược dược, hoa cánh bườm là đẹp nhất. Các loại hoa khác đang lụi và dần thay thế. …",
+        "when": "4 tháng trước"
+      }
+    ],
+    "source": "google-maps"
+  },
+  "nha-tho-mai-anh-x1": {
+    "lat": 11.9496557,
+    "lng": 108.4302407,
+    "img": "images/nha-tho-mai-anh-x1.jpg",
+    "photos": [
+      "images/nha-tho-mai-anh-x1.jpg",
+      "images/nha-tho-mai-anh-x1-2.jpg",
+      "images/nha-tho-mai-anh-x1-3.jpg",
+      "images/nha-tho-mai-anh-x1-4.jpg"
+    ],
+    "rating": 4.6,
+    "reviews": 7196,
+    "comments": [
+      {
+        "author": "Tram TTP",
+        "rating": 5,
+        "text": "Một nhà thờ màu hồng ,thơ mộng,nổi tiếng ở ĐL.Khuôn viên rộng,mát mẻ, nhiều hoa.\nToàn hoa đẹp. …",
+        "when": "một tháng trước"
+      },
+      {
+        "author": "Tín Trần",
+        "rating": 5,
+        "text": "Nhà thờ ở ngoài quá đẹp luôn, sáng sớm nắng chiếu đẹp lắm. Vào cổng tự do, đậu xe gọn vào một góc là được nè. Trong khuôn viên nhà thờ xanh má, trồng nhiều hoa đẹp lắm, tưởng như mình đang ở một gốc phố nào ở châu Âu không á. Ngoài ra thì nhà thờ nhiều gốc đẹp cho những ai mê chụp hình nhen.",
+        "when": "một tháng trước"
+      },
+      {
+        "author": "Thanh Thu Ho",
+        "rating": 5,
+        "text": "Địa điểm tham quan tự do vào cổng. Khuôn viên cũng khá rộng, có vài ghế đá có bóng bát để ngồi. Kiến trúc đẹp và ko gian yên tĩnh. Mình ko theo đạo nên chủ yếu đến là tham quan kiến trúc và chụp ảnh nhà thờ. Giờ mở cửa 8h-17h ngày thường.",
+        "when": "5 tháng trước"
+      },
+      {
+        "author": "Minh Thọ Võ",
+        "rating": 5,
+        "text": "Một trong những địa điểm tôn giáo đẹp ở Đà Lạt, nhà thờ có bãi giữ xe phia trước, chạy vào cổng 1 tí là tới, không gian rộng rãi nhiều cây xanh và hoa, có người dọn dẹp liên tục, rảnh rỗi vào đây ngồi cũng chill lắm",
+        "when": "một tháng trước"
+      },
+      {
+        "author": "Uyen U",
+        "rating": 5,
+        "text": "Bình yên, sạch sẽ, một trong những nơi đẹp nhất mình đặt chân khi đến Đà Lạt. Hope you guys keep the quiet for this place",
+        "when": "4 tháng trước"
+      },
+      {
+        "author": "Vinh Vo",
+        "rating": 5,
+        "text": "Một trong những địa điểm tham quan và tôn giáo đẹp nhất, dễ đi nhất ở Đà Lạt. Trước đây nhà thờ mở cả phần tu viện phía sau. Dạo gần đây đóng cửa chỉ cho tham quan nhà thờ và sân trước. Nhà thờ nhỏ nhưng rất đẹp, sạch sẽ. Tu viện các sơ …",
+        "when": "Thời gian chỉnh sửa: 4 tháng trước"
+      },
+      {
+        "author": "Thảo Yên Lê Hoàng",
+        "rating": 5,
+        "text": "Nhà thờ Do maine Đà Lạt thì ko xa lạ nữa rồi\n- Mang một vẻ cổ kính, lối kiến trúc xưa\n- Mình đi vào một buổi chiều lạnh Đà Lạt\n- Vào cửa tự do, nên mang đồ lịch sự vào nhen mn",
+        "when": "7 tháng trước"
+      },
+      {
+        "author": "Trọng Nguyễn",
+        "rating": 5,
+        "text": "Nhà thờ giáo xứ Mai Anh Đà Lạt tên tiếng Pháp là nhà thờ Domaine de Marie theo kiến trúc cổ Châu Âu, rất đẹp mỗi khi lên Đà Lạt mình thường ghé thăm",
+        "when": "3 tháng trước"
+      },
+      {
+        "author": "Đonn Trìuu",
+        "rating": 5,
+        "text": "Nhà thờ có khuôn viên rất rộng, bên cạnh có 1 dòng nữ tu cũng rất xinh, các bạn có thể ghé qua. Dòng tu trồng nhiều hoa hơn khuôn viên nhà thờ\nNhà thờ nghỉ trưa từ 11h đến 13h, mấy bạn ghé qua nhớ chú ý giờ giấc\nCó phònh bán đồ lưu niệm, áo len do các quý sr tự làm, giá rẻ, hợp túi tiền",
+        "when": "6 tháng trước"
+      },
+      {
+        "author": "Muối chiên Sườn",
+        "rating": 5,
+        "text": "Khuôn viên nhà thờ rộng đẹp, bày trí giáng sinh và chăm sóc cây hoa rất tốt, không khí trong lành, có khu quà lưu niệm và đặc sản. Đặc biệt bên trong dòng tu cảnh quan rất ấm cúng và an tĩnh!",
+        "when": "6 tháng trước"
+      }
+    ],
+    "source": "google-maps"
+  },
+  "quan-the-du-lich-pini-da-lat-x1": {
+    "lat": 12.0027152,
+    "lng": 108.3504343,
+    "img": "images/quan-the-du-lich-pini-da-lat-x1.jpg",
+    "photos": [
+      "images/quan-the-du-lich-pini-da-lat-x1.jpg",
+      "images/quan-the-du-lich-pini-da-lat-x1-2.jpg",
+      "images/quan-the-du-lich-pini-da-lat-x1-3.jpg",
+      "images/quan-the-du-lich-pini-da-lat-x1-4.jpg"
+    ],
+    "phone": "02633733888",
+    "rating": 4.8,
+    "reviews": 306,
+    "comments": [
+      {
+        "author": "Linh Linh",
+        "rating": 5,
+        "text": "Tình cờ mình biết đến nơi này khi xem trên tiktok, giá vé hơi đắt nhưng đáng tiền, biết thêm về năng lượng và các loại đá, có rất nhiều góc check in, cảnh lại quá ư là đẹp, nói chung rất đáng trải nghiệm",
+        "when": "2 tháng trước"
+      },
+      {
+        "author": "Pham Trung Dung Aiglevn",
+        "rating": 5,
+        "text": "Thiết kế cảnh quan đẹp, nhiều góc chụp hình, sống ảo. Đảo đá quý thú vị, chợ đá quý đa dạng nhiều loại đá, giá rẻ",
+        "when": "5 tháng trước"
+      },
+      {
+        "author": "Phụ tùng HP",
+        "rating": 5,
+        "text": "Trải nghiệm thú vị. Khu du lịch có đầu tư bài bản phong cách riêng khác biệt so với đa số ở Đà Lạt.\nHướng dẫn viên thân thiện chuyên nghiệp.\nThích hợp trải nghiệm gia đình.",
+        "when": "11 tháng trước"
+      },
+      {
+        "author": "Hải Nguyễn",
+        "rating": 5,
+        "text": "Quần thể Khu du lịch Pini là một địa điểm check in mới toanh nhưng đồng thời cũng được đầu tư rất bài bản và chỉn chu toạ lạc tại Xã Lát huyện Lạc Dương tỉnh Lâm Đồng, nhưng dự kiến từ 01/07/2025 nơi đây sẽ là Phường Lang Biang - Đà Lạt …",
+        "when": "một năm trước"
+      },
+      {
+        "author": "Socuong Lam",
+        "rating": 5,
+        "text": "Kiểu hơi mà mị, nhiều tiểu cảnh chụp hình, coi cá, biểu diễn văn hóa cồng chiêng",
+        "when": "một tháng trước"
+      },
+      {
+        "author": "Hello",
+        "rating": 5,
+        "text": "Quần thể du lịch hoà mình với thiên nhiên, không màu mè hoa lá cành nơi này chọn cho mình một phong cách riêng khác biệt.\nTham quan trải nghiệm khám phá bản sắc văn hoá và có đôi chút huyền bí tâm linh nha. Một trải nghiệm đặc biệt nên thử nha mn!",
+        "when": "10 tháng trước"
+      },
+      {
+        "author": "DL NXN",
+        "rating": 5,
+        "text": "Một khu du lịch với phong cách độc đáo, lạ lẫm và huyền bí, điểm checkin với nhiều khung cảnh đẹp tự nhiên. Khác biệt với các điểm du lịch khác trong nước.",
+        "when": "một năm trước"
+      },
+      {
+        "author": "yen pham",
+        "rating": 5,
+        "text": "Năm rồi đi tour nên đi chập giật...năm nay bỏ ra 1 buổi sáng để tới đây tham quan....rất đáng để đi..nhiều cảnh đẹp để chụp hình...mấy bạn nhân viên từ bạn nữ đón ở bãi giữ xe tư vấn để mua vé tới các bạn bên trong và mấy bạn nhân viên ở …",
+        "when": "một năm trước"
+      },
+      {
+        "author": "Hquang",
+        "rating": 5,
+        "text": "Thật thú vị khi đến Pini,đi trong cơn mưa phùn lất phất nhìn phong cảnh tuyệt đẹp,món ăn nóng ngon, ...sẽ ghé đến khi lên đalat",
+        "when": "11 tháng trước"
+      },
+      {
+        "author": "AccGame Nguyễn",
+        "rating": 5,
+        "text": "Một địa điểm du lịch lý tưởng cho các hoạt động dã ngoại, camping, lưu trú , lửa trại cồng chiêng, tham quan chụp ảnh với các khung cảnh đẹp, độc và lạ.",
+        "when": "một năm trước"
+      }
+    ],
+    "source": "google-maps"
+  },
+  "thien-duong-san-may-cau-dat-x1": {
+    "lat": 11.8922897,
+    "lng": 108.5684294,
+    "img": "images/thien-duong-san-may-cau-dat-x1.jpg",
+    "photos": [
+      "images/thien-duong-san-may-cau-dat-x1.jpg",
+      "images/thien-duong-san-may-cau-dat-x1-2.jpg",
+      "images/thien-duong-san-may-cau-dat-x1-3.jpg",
+      "images/thien-duong-san-may-cau-dat-x1-4.jpg"
+    ],
+    "phone": "0938120033",
+    "rating": 4.3,
+    "reviews": 1138,
+    "comments": [
+      {
+        "author": "San Nguyễn",
+        "rating": 5,
+        "text": "Săn mây cầu đất là 1 địa điểm rất lý tưởng để đến tham quan, thoáng mát rộng rãi góc nào giơ máy lên cũng có hình đẹp mọi người ở đây thân thiện hoà đồng và vui vẻ",
+        "when": "một tháng trước"
+      },
+      {
+        "author": "Mèo Vivu",
+        "rating": 5,
+        "text": "\"Trải nghiệm khiến tôi ngây ngất vì quá đẹp!\"\nMới vừa đến Thiên Đường Sân Mây Cầu Đất, tôi đã có một trải nghiệm mà chắc chắn sẽ không quên được. Cảnh sắc nơi đây thực sự khiến mình \"ngây ngất\". Cảm giác …",
+        "when": "4 tháng trước"
+      },
+      {
+        "author": "Hoàng Nhung",
+        "rating": 5,
+        "text": "Cảnh đẹp lắm lunnn,rất nhiều góc checkin đẹp, thiên đường của săn mây luôn a , nhân viên dễ thương nhiệt tình đồ ăn ngon nữaaa",
+        "when": "một tháng trước"
+      },
+      {
+        "author": "Sevenig Haus",
+        "rating": 5,
+        "text": "Một địa điểm rất đáng, cần và nên đi thăm khi đến đà lạt. Giá cho mỗi người là 199k vnd. Xe sẽ đến đón bạn từ 4:00-4:30. Xe ô tô 7 chỗ (đi chung). Sau một hành trình tầm 30-40 phút từ trung tâm Đà Lạt bạn sẽ đến nơi đây vào tầm 5 giờ sáng. …",
+        "when": "5 tháng trước"
+      },
+      {
+        "author": "Tùng Nguyễn",
+        "rating": 5,
+        "text": "* “Một nơi mà sáng thức dậy giữa biển mây, tối ngồi bên lửa nghe gió núi — đúng kiểu chữa lành.”\n* “Mây đẹp hơn mong đợi, còn cảm giác ngồi cạnh lửa giữa trời lạnh thì đáng nhớ …",
+        "when": "một tháng trước"
+      },
+      {
+        "author": "Nhật An Võ Lê",
+        "rating": 5,
+        "text": "- Mình đi vào T2 theo vé tour săn mây nên được free phần ăn sáng + nước. Không biết vé vào là bao nhiêu.\n- Tiểu cảnh chụp hình: có nhiều vị trí sống ảo chụp hình săn mây. Có nhiều cây …",
+        "when": "5 tháng trước"
+      },
+      {
+        "author": "Seno",
+        "rating": 5,
+        "text": "Thiên Đường Săn Mây Cầu Đất đúng kiểu nơi chữa lành 🌥️\nSáng mở mắt ra là thấy biển mây tràn qua núi, trời lạnh nhẹ, không khí yên bình cực kì. Ngồi trước hiên ngắm bình minh thôi cũng đủ đáng chuyến đi rồi.\nCảm giác săn được mây dày như thác trắng thế này thật sự rất đáng 🏔️☁️ …",
+        "when": "một tháng trước"
+      },
+      {
+        "author": "lanh lanh",
+        "rating": 3,
+        "text": "Chụp hình đẹp nhưng dịch vụ có nhiều chổ không còn kinh doanh, đồ đạc vứt lung tung trải nghiệm không tốt lắm",
+        "when": "2 tháng trước"
+      },
+      {
+        "author": "TravelbyTinTin",
+        "rating": 4,
+        "text": "Ok trong tầm giá, rất đáng trải nghiệm ở Đà Lạt. Ko có mây mây thì ... nói chung test nhân phẩm ok",
+        "when": "một tháng trước"
+      },
+      {
+        "author": "Đàm Quỳnh",
+        "rating": 4,
+        "text": "Chưa có duyên gặp đc mây nhiều ngập lối đi.\nCảnh quan núi non trung đẹp + tuabin quạt gió khá thú vị và cảm xúc\nHẹn lần tới sẽ gặp dc mây mù giăng lối 😄 …",
+        "when": "5 tháng trước"
+      }
+    ],
+    "source": "google-maps"
+  },
+  "dinh-bao-dai-iii-x1": {
+    "lat": 11.9299576,
+    "lng": 108.4296378,
+    "img": "images/dinh-bao-dai-iii-x1.jpg",
+    "photos": [
+      "images/dinh-bao-dai-iii-x1.jpg",
+      "images/dinh-bao-dai-iii-x1-2.jpg",
+      "images/dinh-bao-dai-iii-x1-3.jpg",
+      "images/dinh-bao-dai-iii-x1-4.jpg"
+    ],
+    "rating": 4.2,
+    "reviews": 9355,
+    "comments": [
+      {
+        "author": "HungDQ HCM",
+        "rating": 4,
+        "text": "Dinh III được khởi công năm 1933 và hoàn thành năm 1938, khi vua Bảo Đại khoảng 20-25 tuổi và Nam Phương Hoàng hậu khoảng 19-24 tuổi …",
+        "when": "một tháng trước"
+      },
+      {
+        "author": "Toon Tran",
+        "rating": 4,
+        "text": "**Dinh Bảo Đại III** (hay còn gọi là Dinh III, tọa lạc tại số 1 Đường Triệu Việt Vương) thực sự là một \"thiên đường sống ảo\" đích thực dành cho những ai say mê vẻ đẹp kiến trúc cổ điển và mong muốn sở hữu những bộ ảnh check-in mang đậm màu …",
+        "when": "một tháng trước"
+      },
+      {
+        "author": "MGMcar Q7",
+        "rating": 5,
+        "text": "Dinh III Bảo Đại là một điểm đến mang đậm giá trị lịch sử và kiến trúc Pháp cổ kính tại Đà Lạt. Không gian biệt điện nằm biệt lập trên đồi cao, bao quanh bởi rừng thông xanh mướt mang lại cảm giác rất bình yên. Bên trong dinh thự vẫn lưu …",
+        "when": "2 tuần trước"
+      },
+      {
+        "author": "Tín Trần",
+        "rating": 5,
+        "text": "Dinh III được xây dựng từ năm 1933 đến 1938 dưới thời vua Bảo Đại, từng là nơi nghỉ hè của hoàng gia và sau này được các đời tổng thống Việt Nam Cộng hòa sử dụng khi đến Đà Lạt. …",
+        "when": "một tháng trước"
+      },
+      {
+        "author": "Minh Tuấn",
+        "rating": 5,
+        "text": "Mình rất ấn tượng với chuyến tham quan Dinh Bảo Đại 3 ở Đà Lạt. Đây là một trong những điểm đến lịch sử và kiến trúc đáng khám phá nhất tại thành phố ngàn hoa. Biệt thự cổ vẫn giữ được phong cách Pháp cổ kính với không gian rộng, nhiều …",
+        "when": "5 tháng trước"
+      },
+      {
+        "author": "Luân Đinh",
+        "rating": 5,
+        "text": "Mình đi thì dinh 1 đóng cửa để sửa chữa j đó nên chỉ đi đc dinh 3. Được gọi với cái tên là \"Dinh Thự Mùa Hè\" mọi thứ khá nhẹ nhàng , chill chill đúng kiểu Đà Lạt. Có HDV miễn phí .",
+        "when": "một tháng trước"
+      },
+      {
+        "author": "Phu Tran",
+        "rating": 4,
+        "text": "Đây là dinh thự nghỉ hè của vua Bảo Đại vị vua cuối cùng của triều Nguyễn được xây từ 1933 đến 1938 với kiến trúc kiểu Pháp cổ rất đẹp, nằm giữa rừng thông thơ mộng.  ￼Dinh 3 được giữ nguyên khá nguyên vẹn nhất trong 3 dinh Bảo Đại ở Đà Lạt …",
+        "when": "5 tháng trước"
+      },
+      {
+        "author": "Mỹ Vy Nguyễn Hoàng",
+        "rating": 5,
+        "text": "Trải nghiệm rất nhiều về kiến trúc và văn hoá thời ấy ❤️ có các điểm check in với ngựa giá hợp lý 👏 dịch vụ đồ uống đầy đủ, không khí trong lành, có điểm check in hoá trang thời vua chúa rất thú vị 👏👏👏 …",
+        "when": "4 tuần trước"
+      },
+      {
+        "author": "Anh cao thi hai",
+        "rating": 5,
+        "text": "Bảo Đại Palace 3 đúng kiểu thiên đường sống ảo cho ai mê kiến trúc cổ và chụp hình nha 📸✨ …",
+        "when": "5 tháng trước"
+      },
+      {
+        "author": "Dương Thùy",
+        "rating": 5,
+        "text": "Vé vô cổng 60k/ ng lớn\nMình đi để chụp áo dài, thấy nhiều ng cũng đến chụp ảnh cưới\nDinh rộng, cảnh đẹp và nhiều góc chụp",
+        "when": "6 tháng trước"
+      }
+    ],
+    "source": "google-maps"
+  },
+  "cung-nam-phuong-hoang-hau-x1": {
+    "lat": 11.9399113,
+    "lng": 108.4604752,
+    "img": "images/cung-nam-phuong-hoang-hau-x1.jpg",
+    "photos": [
+      "images/cung-nam-phuong-hoang-hau-x1.jpg",
+      "images/cung-nam-phuong-hoang-hau-x1-2.jpg",
+      "images/cung-nam-phuong-hoang-hau-x1-3.jpg",
+      "images/cung-nam-phuong-hoang-hau-x1-4.jpg"
+    ],
+    "phone": "02633812624",
+    "rating": 4.6,
+    "reviews": 389,
+    "comments": [
+      {
+        "author": "Toon Tran",
+        "rating": 5,
+        "text": "Nằm ngay trong khuôn viên của Bảo tàng Lâm Đồng tại số 4 Đường Hùng Vương, **Cung Nam Phương Hoàng Hậu** là một điểm đến di sản vô cùng đặc biệt, mang đậm dấu ấn lịch sử và kiến trúc mà bạn không nên bỏ qua khi ghé thăm Đà Lạt. …",
+        "when": "một tháng trước"
+      },
+      {
+        "author": "Review của Thăng",
+        "rating": 5,
+        "text": "Cung Nam Phương Hoàng hậu là một công trình rất đẹp và mang nhiều giá trị lịch sử. Không gian bên trong và xung quanh cung khá sạch sẽ, mát mẻ, nhiều cây xanh nên đi dạo cảm giác dễ chịu, không bị nặng nề như khi tham quan một số di tích …",
+        "when": "5 tháng trước"
+      },
+      {
+        "author": "Hung Nguyen Manh",
+        "rating": 5,
+        "text": "Nơi đây được xây dựng và đặt tên là Cung điện Hoàng Hậu Nam Phương. Trên thực tế, người xây dựng kiến trúc này đã biến nơi này thành một nơi rất \"Nhà - Home\". Lối đi lên dốc thoai thoải, cho người con về thăm nhà mẹ. Hồ nước trước sân, bình …",
+        "when": "4 tháng trước"
+      },
+      {
+        "author": "Nguyễn Sĩ",
+        "rating": 5,
+        "text": "🏛️Cung Nam Phương Hoàng Hậu được xây dựng 1932 theo phong cách kiến trúc Pháp cổ. Tòa nhà nguy nga này chính là của hồi môn mà quận công Nguyễn Hữu Hào tặng cho con gái là Nam Phương Hoàng Hậu sau khi bà lấy vua Bảo Đại. …",
+        "when": "3 tháng trước"
+      },
+      {
+        "author": "Lam Mai Huynh",
+        "rating": 5,
+        "text": "Kế bên Dinh I và nằm trong bảo tàng Lâm Đồng. Từng là dinh của ông Nguyễn Hữu Hào. Dinh hoàng hậu Nam Phương khép mình dưới những hàng cây. Không gian nơi đây dù không mấy nguy nga tráng lệ như Dinh Bảo Đại nhưng rất riêng tư. Hy vọng bảo tàng Lâm Đồng trồng thêm nhiều cây hoa để giúp cho dinh của hoàng hậu sinh động hơn.",
+        "when": "6 tháng trước"
+      },
+      {
+        "author": "Thích Đi Ăn",
+        "rating": 5,
+        "text": "Cung Nam Phương Hoàng Hậu ( dinh Nguyễn Hữu Hào) một công trình kiến trúc cổ điển, đơn giản, tao nhã, mang đậm chất kiến trúc tân cổ điển và trầm buồn như cảm xúc của chủ nhân ngôi nhà.",
+        "when": "6 tháng trước"
+      },
+      {
+        "author": "Loki Hieu",
+        "rating": 5,
+        "text": "Dinh Nguyễn Hữu Hào – Cung Nam Phương Hoàng hậu\nNằm lặng lẽ giữa một góc phố Đà Lạt, Dinh Nguyễn Hữu Hào mang theo vẻ trầm mặc của thời gian. Công trình không quá đồ sộ hay phô trương, nhưng từng bậc thềm, …",
+        "when": "3 tháng trước"
+      },
+      {
+        "author": "Ng Tuyên - An Thái Trung",
+        "rating": 5,
+        "text": "Cung Nam Phương Hoàng Hậu (còn gọi là Biệt điện Nam Phương) là một điểm đến không thể bỏ qua khi ghé thăm Đà Lạt, nằm uy nghi trên một ngọn đồi thuộc khuôn viên Bảo tàng Lâm Đồng. Dinh thự này không chỉ là một công trình kiến trúc đẹp mà …",
+        "when": "8 tháng trước"
+      },
+      {
+        "author": "Tiến Phát",
+        "rating": 5,
+        "text": "Cung tọa lạc trong khuôn viên Bào tàng tỉnh Lâm Đồng, bắt đầu đi lên cung từ phía cổng vào là khu vực đồi cây và không gian trưng bày ngoài trời của Bảo tàng. …",
+        "when": "một tháng trước"
+      },
+      {
+        "author": "Bách Khoa Đỗ",
+        "rating": 5,
+        "text": "Cung có kiến trúc cổ kính, có view đẹp đặc trưng của các dinh thự phục vụ cho triều đại đương thời. Một số kiến trúc cổ còn lưu lại rất đáng để bảo tồn. Nhiều chỗ có hư hỏng, ban quản lý cần kiểm tra thường xuyên hơn. Đến đây hiểu được thêm về Nam Phương Hoàng hậu.",
+        "when": "một tháng trước"
+      }
+    ],
+    "source": "google-maps"
+  },
+  "kdl-rung-thong-nui-voi-elephant-mountain-p-x1": {
+    "lat": 11.8265196,
+    "lng": 108.4346029,
+    "img": "images/kdl-rung-thong-nui-voi-elephant-mountain-p-x1.jpg",
+    "photos": [
+      "images/kdl-rung-thong-nui-voi-elephant-mountain-p-x1.jpg",
+      "images/kdl-rung-thong-nui-voi-elephant-mountain-p-x1-2.jpg",
+      "images/kdl-rung-thong-nui-voi-elephant-mountain-p-x1-3.jpg",
+      "images/kdl-rung-thong-nui-voi-elephant-mountain-p-x1-4.jpg"
+    ],
+    "phone": "1900588877",
+    "rating": 4.6,
+    "reviews": 1766,
+    "comments": [
+      {
+        "author": "Tran Huong Le",
+        "rating": 5,
+        "text": "Một nơi rất xứng đáng để ghé thăm. Phòng ốc sach se, nhân viên rất dễ thương và lịch sự, đồ ăn ngon. Khu du lịch nằm trong rừng nguyên sinh nên rất hợp cho những ai muốn đi “chữa lành”, tái tạo năng lượng. Rất nhiều trò chơi thú vị cho cả …",
+        "when": "2 tuần trước"
+      },
+      {
+        "author": "liem trinh",
+        "rating": 5,
+        "text": "1 điểm tham quan du lịch cho cả gia định cực kì thú vị nha , cảnh vật có , vui chơi có , đủ trải nghiệm cho cả gia đình . giá vé hợp lý và nhân viên cực kì thân thiện 🥰🥰🥰🥰 …",
+        "when": "4 tuần trước"
+      },
+      {
+        "author": "Kim Hoàng Huỳnh Ngọc",
+        "rating": 5,
+        "text": "Khu du lịch rất đẹp. Gần gũi với thiên nhiên. 1 năm mình và các bạn nhỏ đi đến 2 lần. Các bạn rất mê trò chơi và buffet của nhà hàng con voi vàng. Không gian rộng lớn và nhiều hoạt động thú vị nên mọi người nên đi sớm một xíu để có thể dành …",
+        "when": "2 tháng trước"
+      },
+      {
+        "author": "Nhật Minh",
+        "rating": 5,
+        "text": "Rất hài lòng với trải nghiệm tại địa điểm này\n- KDL rộng với nhiều phân khu rất đẹp và thú vị. Đặc biệt trên đỉnh có rừng già, mình đã bắt gặp 1 chú khỉ rất dễ thương …",
+        "when": "4 tháng trước"
+      },
+      {
+        "author": "Tâm Nguyễn Minh",
+        "rating": 5,
+        "text": "Lần đầu đặt chân đến nơi này , không gian đẹp thoáng mát , nhân viên thân thiện . Có nhiều góc chụp rất đẹp , hoa nở rộ đẹp đến nao lòng .\nĐánh giá : …",
+        "when": "một tháng trước"
+      },
+      {
+        "author": "Chỉ Nói Sự Thật",
+        "rating": 5,
+        "text": "Khu du lịch rất rộng. Cũng hên có xe điện đưa đón nên đi đỡ mệt. Có khu trò chơi cảm giác mạnh cho người lớn và khu trò chơi cho em bé. Tuy nhiên giá vé cũng khá cao. Mình thấy nếu đầu tư trồng thêm hoa và tiểu cảnh thì sẽ đẹp hơn. Trong …",
+        "when": "2 tháng trước"
+      },
+      {
+        "author": "Man Huynh",
+        "rating": 5,
+        "text": "Quá xứng đáng, giá vé hôm mình đi là 26/12/2025 chỉ 95k vào cổng. Mà mình được tham quan gần như toàn bộ các nơi. Mình đi nhà Hàn Quốc, nhà Nhật Bản, nhà Trung Quốc, nhà Tây Nguyên,… Mỗi một ngôi nhà mang sắc thái của văn hoá. Làm rất giống …",
+        "when": "6 tháng trước"
+      },
+      {
+        "author": "Rosa Phuc",
+        "rating": 5,
+        "text": "Ghé thăm nơi này vào dịp đầu năm cùng gia đình nhỏ, mình thấy giá trị đắt giá nhất chính là quần thể rừng thông đỏ 2500 tuổi. …",
+        "when": "4 tháng trước"
+      },
+      {
+        "author": "Dang Khoa Huynh",
+        "rating": 5,
+        "text": "THE 2500 YEAR OLD YEW TREE\n\nTHẦN MỘC GIỮA ĐẠI NGÀN - THE SACRED TREE OF THE GREAT FOREST …",
+        "when": "3 tháng trước"
+      },
+      {
+        "author": "Ngan Nguyen",
+        "rating": 5,
+        "text": "Nhân viên nhiệt tình, cảnh đẹp, có nhiều trải nghiệm thú vị\nCác em hs được tham gia high rope (đi bộ trên cầu dây) an toàn và đúng kĩ thuật dưới sự hướng dẫn tận tình của a E Lê. Anh nhiệt tình quay chụp giúp các em lưu lại kỉ niệm",
+        "when": "3 tháng trước"
+      }
+    ],
+    "source": "google-maps"
+  },
+  "lac-tien-gioi-da-lat-x1": {
+    "lat": 11.9414114,
+    "lng": 108.4062895,
+    "img": "images/lac-tien-gioi-da-lat-x1.jpg",
+    "photos": [
+      "images/lac-tien-gioi-da-lat-x1.jpg",
+      "images/lac-tien-gioi-da-lat-x1-2.jpg",
+      "images/lac-tien-gioi-da-lat-x1-3.jpg",
+      "images/lac-tien-gioi-da-lat-x1-4.jpg"
+    ],
+    "price": 1,
+    "phone": "0783231189",
+    "rating": 3.8,
+    "reviews": 502,
+    "comments": [
+      {
+        "author": "An Nguyen",
+        "rating": 5,
+        "text": "vé 120k/ng gồm nước,mua vé trước khi vào (chỉ 1 số nước giới hạn cho vé vào cổng),không gian khá yên tĩnh,có kết hợp nghĩ dưỡng bên trong.thức ăn khu tham quan khá ít nhưng view thích hợp cho các bạn trẻ thích chụp ảnh.chỗ này đã đổi tên thành Rừng giao hưởng.mình đi ngay lễ nhưng cũng khá vắng",
+        "when": "6 tháng trước"
+      },
+      {
+        "author": "Nguyen Thi",
+        "rating": 4,
+        "text": "Thật sự ở đây sẽ cho cảm giác thư thái, tuy rằng không có trò chơi nhưng nếu nói về quán cafe với vé cổng 100k/người lớn (trẻ nhỏ miễn phí) bao gồm đồ uống tự chọn thì đã rất tuyệt với phong cảnh đẹp, mát mẻ, được chèo thuyền ra hồ rất vui, …",
+        "when": "một năm trước"
+      },
+      {
+        "author": "Kim Dung",
+        "rating": 4,
+        "text": "Với vé 100k thì không cần gì bàn cải luôn\nỞ đây nhiều tiểu cảnh chụp hình có cho thuê đồ và phụ kiện để chụp hình. Tuy nhiên size đồ đây có giới hạn mặc hơi rộng một chút nhưng bù lại đồ đẹp đa dạng …",
+        "when": "một năm trước"
+      },
+      {
+        "author": "Paulie Thế Bảo",
+        "rating": 5,
+        "text": "Tuyệt vời, em gái nhân viên pha chế pha nước ngon, nhiệt tình dễ thương và phục vụ khách okey lắm. Vé vào cổng 100k/1 người. Nước mua riêng đồng giá 50k",
+        "when": "2 năm trước"
+      },
+      {
+        "author": "BeerCorner Dalat",
+        "rating": 5,
+        "text": "Một không gian xanh rừng thông xanh mát,không khí trong lành nằm giữa trung tâm thành phố..Một nơi yên tĩnh đáng để nghỉ dưỡng.",
+        "when": "10 tháng trước"
+      },
+      {
+        "author": "Tuan Khanh Lai",
+        "rating": 4,
+        "text": "Đây là mình chia sẻ côg tâm nhất có khen có chê rõ ràng.\nKhen.\n1.Giá cả rất ok 100k cho gói chụp full cảnh và đc 30k tiền nc mà đ.b là nước trg …",
+        "when": "5 năm trước"
+      },
+      {
+        "author": "Truong Tan",
+        "rating": 1,
+        "text": "Không hiểu sao bỏ 100k vé với 50k nước vô cái chỗ này luôn. Nhân viên thái độ với khách. Mình hỏi sao trên hình có khinh khí cầu sao ở ngoài ko có, họ thái độ liền: “trên hình có là ngoài đời phải có hả”; …",
+        "when": "2 năm trước"
+      },
+      {
+        "author": "Nguyen Van Phuoc",
+        "rating": 2,
+        "text": "Chổ này mấy bạn cần cải thiện lại địa điểm, google toàn chỉ vào nghĩa trang, thay vì chếch sang phải thì chỉ sang trái. Địa điểm mới, chưa có gì để phải mua vé vào cổng. (Mấy bạn làm được cái bóng bay, để được cây đàn piano dưới nước + 2 …",
+        "when": "6 năm trước"
+      },
+      {
+        "author": "Duong Nguyen",
+        "rating": 5,
+        "text": "Trải nghiệm thú vị, nhân viên rất dễ thương chụp ảnh cho khách rất tận tình. Mình sẽ giới thieu cho bạn bè đến đây. Giá vé 99 ngàn đồng được 1 phần bắp và nước ngon tuyệt.",
+        "when": "3 năm trước"
+      },
+      {
+        "author": "Văn Vào Dương",
+        "rating": 5,
+        "text": "Lạc Tiên Giới- Đúng như tên gọi, tới nơi đây bạn sẽ giống như lạc vào một thế giới thần tiên ^^...\nNói vui vậy thôi chứ không quá như thần tiên trong phim đâu nhé! Tổng quan đây …",
+        "when": "5 năm trước"
+      }
+    ],
+    "source": "google-maps"
+  },
+  "khu-du-lich-sinh-thai-hiep-luc-x1": {
+    "lat": 11.9798352,
+    "lng": 108.4565216,
+    "img": "images/khu-du-lich-sinh-thai-hiep-luc-x1.jpg",
+    "photos": [
+      "images/khu-du-lich-sinh-thai-hiep-luc-x1.jpg",
+      "images/khu-du-lich-sinh-thai-hiep-luc-x1-2.jpg",
+      "images/khu-du-lich-sinh-thai-hiep-luc-x1-3.jpg",
+      "images/khu-du-lich-sinh-thai-hiep-luc-x1-4.jpg"
+    ],
+    "phone": "0933063480",
+    "rating": 4,
+    "reviews": 116,
+    "comments": [
+      {
+        "author": "Thang Nguyen",
+        "rating": 3,
+        "text": "Vườn dâu này nằm không xa trung tâm thành phố và gần khu du lịch Thung Lũng Tình Yêu. Chỗ này khá rộng rãi với bãi đậu xe cho khách đoàn.\nBên trong có sảnh đón tiếp lớn phù hợp cho các big event của khách. …",
+        "when": "7 năm trước"
+      },
+      {
+        "author": "Nhung Dao",
+        "rating": 5,
+        "text": "Chỗ tham quan này khá đẹp, chuyên nghiệp. Giá dâu thời điểm tháng 3. 2019 cho dâu trên dàn là 300k/kg, dâu thủy canh là 400k/kg. Bạn được vào vườn tham quan và chụp ảnh. Vé vào vườn là 10k/người. Muốn mua dâu thì chủ vườn sẽ lấy cho bạn, nhưng không được trực tiếp hái và lựa dâu.",
+        "when": "7 năm trước"
+      },
+      {
+        "author": "hang daothuy",
+        "rating": 4,
+        "text": "Vườn dâu vé thăm quan 10k/ người lớn. Mình đi ngày 22/10/2018, thì không phải mùa dâu nên dâu khá ít quả và cũng không được hái. Nếu muốn mua thì sẽ có người của vườn hái cho 300kg/kg. Ở đây còn có các loại mứt, sinh tố dâu khá ngon 25k/cốc.",
+        "when": "7 năm trước"
+      },
+      {
+        "author": "*101#",
+        "rating": 5,
+        "text": "Một nơi tuyệt tuyệt vời để đi du lịch. Ai mà đi Đà lạt mà không ghé Khu Du Lịch Sinh Thái Hiệp Lực là tiếc ơi là tiếc luôn. Cảnh sắc nơi đây đẹp hơn người yêu cũ, thay thế được luôn người yêu hiện tại nên tôi chỉ đến đây có một mình thôi. Không buồn lắm đâu các bạn ạ.",
+        "when": "6 năm trước"
+      },
+      {
+        "author": "Nam NGUYEN",
+        "rating": 4,
+        "text": "Tham quan và xem cách trồng các loại rau củ, dâu bằng hình thức thủy canh. Quản lý và nhân viên nhiệt tình. Khách không được hái dâu, muốn mua thì có nhân viên sẽ hái. Dâu ngọt và ngon.",
+        "when": "7 năm trước"
+      },
+      {
+        "author": "Thích Trãi Nghiệm",
+        "rating": 5,
+        "text": "Rất đáng để trãi nghiệm. Vườn dâu miễn phí, có ks yên tĩnh gần nhà đèn, có tiệm ăn giao thời món ăn ngon.",
+        "when": "2 năm trước"
+      },
+      {
+        "author": "quang tuyen le",
+        "rating": 2,
+        "text": "Khu vực dành cho khách tham quan ko nhìu, cô chủ kể nguyên nhân là do khách phá dữ quá nên hok cho vào nữa, dâu tươi 300k/kg, dưa hấu nhật 70k/kg.",
+        "when": "7 năm trước"
+      },
+      {
+        "author": "Dan Tran",
+        "rating": 5,
+        "text": "Khu trồng rau theo mô hình thủy canh. Chỉ là 1 mô hình để tham quan chứ dâu không tốt lắm, trái cũng nhỏ. Rau thì tốt. Nói chung là tạm được",
+        "when": "Thời gian chỉnh sửa: 7 năm trước"
+      },
+      {
+        "author": "Nguyễn Tuấn Quang",
+        "rating": 3,
+        "text": "Dâu nhiều\nKhá thú vị",
+        "when": "7 năm trước"
+      },
+      {
+        "author": "anh trantuan",
+        "rating": 2,
+        "text": "chỉ dc xem k dc mua .",
+        "when": "7 năm trước"
+      }
+    ],
+    "source": "google-maps"
+  },
+  "tuyet-tinh-coc-da-lat-x1": {
+    "lat": 12.0462908,
+    "lng": 108.3385525,
+    "img": "images/tuyet-tinh-coc-da-lat-x1.jpg",
+    "photos": [
+      "images/tuyet-tinh-coc-da-lat-x1.jpg",
+      "images/tuyet-tinh-coc-da-lat-x1-2.jpg",
+      "images/tuyet-tinh-coc-da-lat-x1-3.jpg",
+      "images/tuyet-tinh-coc-da-lat-x1-4.jpg"
+    ],
+    "rating": 4.4,
+    "reviews": 164,
+    "comments": [
+      {
+        "author": "Jenny Tran",
+        "rating": 5,
+        "text": "Một hồ nước xanh trong vắt tự nhiên, rất đẹp, rất thơ. Tuy nhiên đường tới đây thì quá nắng và quá bụi. Mình đi trekking qua rừng thông vào mùa khô, chụp ảnh từ xa còn thấy mờ ảo vì hạt bụi khô bay lơ lửng. Đi dần về phía khu du lịch thì đỡ bụi hơn, cảnh vật xanh hơn",
+        "when": "3 tháng trước"
+      },
+      {
+        "author": "Hoài Trang ATUM",
+        "rating": 5,
+        "text": "Rất, rất, rất đẹp luôn. Đây là tuyệt tác của thiên nhiên, đẹp như trong phim vậy á mình k tin có cảnh đẹp như vậy, nước trong veo. Điểm trừ duy nhất là đường siêu khó đi ai không vững tay lái nên cân nhắc nha. May hôm đó mình đi xe cào cào chứ đi xe ga chắc quay xe luôn. Đi mà toát mồ hôi nhưng vào tới nơi thì thấy voi cùng xứng đáng",
+        "when": "5 tháng trước"
+      },
+      {
+        "author": "Hai Dang Do Viet",
+        "rating": 5,
+        "text": "Khá đẹp, hơi khó đi, nhưng nước rất mát rất xanh. Trên đường có một đoạn suối khá đẹp. Có thể ghé chơi",
+        "when": "2 tháng trước"
+      },
+      {
+        "author": "Gia Hảo Lưu",
+        "rating": 5,
+        "text": "Trong này đẹp thì khỏi phải bàn, nước xanh, đường vào hơi bụi, có 2 đường để vào đây, 1 đường đẹp 1 đường rất xấu",
+        "when": "3 tháng trước"
+      },
+      {
+        "author": "Nguyễn Việt Long",
+        "rating": 3,
+        "text": "Chuyến đi ám ảnh nhất năm 2026 của mình mang tên Tuyệt tình cốc, boà mẹ chỉ là cái hồ nhỏ thôi mà quảng đường đi đến đó phải đánh đổi rất nhiều. Đầu tiên nếu có ý định đi thì hãy đi vào ngày nắng, cực nắng, nếu bạn đi vào ngày mưa, xin chúc …",
+        "when": "3 tháng trước"
+      },
+      {
+        "author": "Linh Phạm",
+        "rating": 5,
+        "text": "Mình đi trek cung Tuyệt Tình Cốc, đầu tháng 8, hôm mình đi cuối tuần nhưng chỉ có nhóm mình và 1 nhóm 6 người, hôm trước vừa mưa xong nhưng đây là điểm khá thú vị. Về cơ bản, hồ nhỏ nhưng nhìn rất đẹp, nước trong xanh, đá cao, lên hình nhìn …",
+        "when": "11 tháng trước"
+      },
+      {
+        "author": "Thọ Hải",
+        "rating": 5,
+        "text": "Cảnh rất đẹp, hồ nước xanh tự nhiên, thơ mộng. Lên hình đẹp xuất sắc. Đường vào khá dễ đi 😜, không thu vé vào tự do. Các bạn nam nên dắt người yêu vào chụp hình. …",
+        "when": "5 tháng trước"
+      },
+      {
+        "author": "Linh Nhựt",
+        "rating": 4,
+        "text": "Đường khó đi nên tìm một tay lái cứng để an toàn nha mấy ní. nhưng check in ok nha mấy ní",
+        "when": "một tháng trước"
+      },
+      {
+        "author": "Duc Duy Bui",
+        "rating": 4,
+        "text": "Tuyệt Tình Cốc là cái tên rất thu hút những tín đồ sống ảo, mê du lịch Đà Lạt. Nơi đây được các du khách săn đón bởi có view sống ảo cực chất được nhờ vẻ đẹp xanh ngọc bích của thiên nhiên.",
+        "when": "một năm trước"
+      },
+      {
+        "author": "ngocthao hoang",
+        "rating": 5,
+        "text": "Hồ đá phiên bản Đà Lạt.\nVui vẻ để đến được đây vì hành trình thú vị hơn đích đến.",
+        "when": "11 tháng trước"
+      }
+    ],
+    "source": "google-maps"
+  },
+  "thung-lung-hoa-cam-tu-cau-x1": {
+    "lat": 11.9781744,
+    "lng": 108.4451346,
+    "img": "images/thung-lung-hoa-cam-tu-cau-x1.jpg",
+    "photos": [
+      "images/thung-lung-hoa-cam-tu-cau-x1.jpg",
+      "images/thung-lung-hoa-cam-tu-cau-x1-2.jpg",
+      "images/thung-lung-hoa-cam-tu-cau-x1-3.jpg",
+      "images/thung-lung-hoa-cam-tu-cau-x1-4.jpg"
+    ],
+    "rating": 4.4,
+    "reviews": 445,
+    "comments": [
+      {
+        "author": "Vần Vần",
+        "rating": 5,
+        "text": "Tôi đi vào lúc lễ (mùng 5 tết) vào buổi sáng 10h lúc đó cũng mát nhưng nắng bắt đầu lên hơi khó chịu. Vào quán phải mua vé 110k (vé vào cổng và nước uống) tôi không biết ngày thường có mua vé hay không. Theo tôi không đi vào những dịp lễ, …",
+        "when": "4 tháng trước"
+      },
+      {
+        "author": "Hoàng Anh Vũ",
+        "rating": 4,
+        "text": "Đi ngày mưa nên trải nghiệm chụp ảnh cũng bị hạn chế, nơi này rất nhiều hoa đẹp được chăm sóc cẩn thận, có xe chở đi tham quan nên khá thú vị.",
+        "when": "3 năm trước"
+      },
+      {
+        "author": "Hồng Việt Nguyễn",
+        "rating": 5,
+        "text": "Cũng là một trong những mô hình đặc trưng của xứ sở ngàn hoa. Thành thử ở đâu cũng có hoa, nhưng ở đây trồng rất là quy mô và có nhiều giống hoa, đặc biệt là hoa Cẩm tú cầu, bông hoa nở rất là to và rất …",
+        "when": "3 năm trước"
+      },
+      {
+        "author": "người thích sưu tầm",
+        "rating": 5,
+        "text": "Phong cảnh: 8/10\nHoa rất đẹp, khí hậu mát mẻ và rất nhiều loại hoa khác xung quanh thung lũng, các bạn có thể tham quan ngắm cảnh thêm nhiều nơi khác sau đó ra về bằng xe chở khách du lịch",
+        "when": "3 năm trước"
+      },
+      {
+        "author": "Hậu Nguyễn",
+        "rating": 4,
+        "text": "Địa điểm ổn, nhưng đã rất lâu nên chứ thay đổi để có những góc chụp mới, nhưng vườn hoa cẩm tú cầu thì đẹp. Người vào chụp cũng rất đông đa số là khách đoàn là chủ yếu",
+        "when": "3 năm trước"
+      },
+      {
+        "author": "VIETTHINHHUNG",
+        "rating": 5,
+        "text": "Nơi có phong cảnh đẹp và mát mẻ rất đáng giá để đến tham quan vui chơi trải nghiệm cùng gia đình và người thân",
+        "when": "2 năm trước"
+      },
+      {
+        "author": "thanh nguyen",
+        "rating": 5,
+        "text": "Thung lũng hoa cẩm tú cầu đẹp nhất Đà Lạt, bao quanh là rừng thông Bạt ngàn .địa điểm lên đến khi tới Đà Lạt.",
+        "when": "Thời gian chỉnh sửa: 3 năm trước"
+      },
+      {
+        "author": "Tram huong Nguyen",
+        "rating": 5,
+        "text": "Cầu có tầm nhìn rộng, nhìn xa thấy cảnh rất thoáng.",
+        "when": "4 tháng trước"
+      },
+      {
+        "author": "Biên Phan",
+        "rating": 5,
+        "text": "Vườn Hoa tuyệt đẹp kết hợp với trang trại cún ...rất thích hợp cho trẻ em và những người yêu thích hoa,...",
+        "when": "4 năm trước"
+      },
+      {
+        "author": "CDE VINA",
+        "rating": 4,
+        "text": "Hoa rất đẹp, rực rỡ dưới nắng.",
+        "when": "2 năm trước"
+      }
+    ],
+    "source": "google-maps"
+  },
+  "nha-lao-thieu-nhi-da-lat-x1": {
+    "lat": 11.9524896,
+    "lng": 108.4706777,
+    "img": "images/nha-lao-thieu-nhi-da-lat-x1.jpg",
+    "photos": [
+      "images/nha-lao-thieu-nhi-da-lat-x1.jpg",
+      "images/nha-lao-thieu-nhi-da-lat-x1-2.jpg",
+      "images/nha-lao-thieu-nhi-da-lat-x1-3.jpg",
+      "images/nha-lao-thieu-nhi-da-lat-x1-4.jpg"
+    ],
+    "phone": "02633577234",
+    "rating": 4.6,
+    "reviews": 426,
+    "comments": [
+      {
+        "author": "Hải Yến Nguyễn",
+        "rating": 5,
+        "text": "Không gian ở đây không lớn lắm, cảm giác lành lạnh, là hơi thở của lịch sử.\n\nỞ nơi này nhiều năm về trước, khi trên đầu không phải là màu của hòa bình, trong …",
+        "when": "3 tháng trước"
+      },
+      {
+        "author": "Doo QiNg",
+        "rating": 5,
+        "text": "Trung tâm giáo huấn thiếu nhi Đà Lạt” được thành lập vào đầu năm 1971. Với tính chất đặc biệt, nên không giống như các Trung tâm giáo huấn khác ở miền Nam thời bấy giờ, Trung tâm giáo huấn thiếu nhi Đà Lạt được tổ chức với quy mô lớn, trình …",
+        "when": "3 tháng trước"
+      },
+      {
+        "author": "Trịnh Mai Hương Trà",
+        "rating": 5,
+        "text": "Một nơi rất đáng để đến và trải nghiệm ở ĐL. Ngày nhỏ ở ĐL, đến ĐL cũng nhiều làn mà giờ m mới biết đến nơi này. Rất nhiều cảm xúc khi đến nơi đây, ko nghĩ ở ĐL lại có 2 nơi ntn…",
+        "when": "4 tháng trước"
+      },
+      {
+        "author": "Vy Vy",
+        "rating": 5,
+        "text": "Mình đi vào mùa hoa anh đào cuối tháng 1, đầu tháng 2 năm 2026, phải nói là một khung cảnh vô thực mình không nghĩ là nó lại đẹp đến như vậy. Hai hàng hoa đào trên con đường vào cổng nở rủ hướng xuống lòng đường. Vào bên trong thì cũng có 1 …",
+        "when": "4 tháng trước"
+      },
+      {
+        "author": "Lee Lee",
+        "rating": 5,
+        "text": "Rất ý nghĩa ạ các chị hướng dẫn rất vui vẻ nhiệt tình, chị thuyết minh rất hay và truyền cảm hứng qua những hình ảnh đó đã cảm nhận được rất nhiều nổi xót xa..",
+        "when": "3 tuần trước"
+      },
+      {
+        "author": "Ngọc Anh Huỳnh Thị",
+        "rating": 5,
+        "text": "Mình đi đúng mùa hoa anh đào nở xinh và siu đẹp.\nGiá vé 15/ ng.\nMọi người nên tới tham quan khi có dịp ghé Đà Lạt.",
+        "when": "5 tháng trước"
+      },
+      {
+        "author": "Thông Khưu",
+        "rating": 5,
+        "text": "Nhà lao thiếu nhi Đà Lạt tọa lạc ở số 9A Hồ Xuân Hương, phường 9, thành phố Đà Lạt, tỉnh Lâm Đồng (nay là phường Lâm Viên - Đà Lạt), cách trung tâm Đà Lạt 5km.",
+        "when": "5 tháng trước"
+      },
+      {
+        "author": "Trần Thiên Ý",
+        "rating": 5,
+        "text": "(ai iu thích tìm hiểu về di tích lịch sử thì bơi vào đây nhá)\n15k/1 vé, miễn phí vé cho 1 vài đối tượng như học sinh cấp 2-3, cựu chiến binh ?, …",
+        "when": "8 tháng trước"
+      },
+      {
+        "author": "Binh Dang",
+        "rating": 3,
+        "text": "Giá vé vào tham quan khá hợp lý 15k",
+        "when": "5 tháng trước"
+      },
+      {
+        "author": "Phước Nguyễn Trịnh Thế",
+        "rating": 5,
+        "text": "Kỷ niệm lớp Trung cấp lý luận chính trị K96 tỉnh Đồng Nai đến tham quan \"địa chỉ đỏ\" Di tích quốc gia Nhà lao thiếu nhi Đà Lạt",
+        "when": "7 tháng trước"
+      }
+    ],
+    "source": "google-maps"
+  },
+  "cafe-lang-art-x1": {
+    "lat": 11.9442973,
+    "lng": 108.4219362,
+    "img": "images/cafe-lang-art-x1.jpg",
+    "photos": [
+      "images/cafe-lang-art-x1.jpg",
+      "images/cafe-lang-art-x1-2.jpg",
+      "images/cafe-lang-art-x1-3.jpg",
+      "images/cafe-lang-art-x1-4.jpg"
+    ],
+    "price": 1,
+    "phone": "0913826768",
+    "rating": 5,
+    "reviews": 742,
+    "comments": [
+      {
+        "author": "Anh Trần",
+        "rating": 5,
+        "text": "mng đi đà lạt thử ghé đây nha, quán decor rất qao, và rộng hơn mình tưởng, ý là mình tưởng có 1 khu vực trong quán th ai dè dô trong phát hiện có sân vườn và ngồi ngoải sau khi mưa mát lắm tr ơi, nước ngon nhé =))) ý là mình uống bạc xỉu …",
+        "when": "một tháng trước"
+      },
+      {
+        "author": "Phạm Lê Nam Phương",
+        "rating": 5,
+        "text": "Đây là trường lái cũ của Đà Lạt cải tạo thành 1 khu art gallery/ wokshops. Mình không thấy nhiều tranh, nhưng có không gian làm workshop (may, đan móc, v.v) - chưa rõ là có tổ chức cho cộng đồng không. Mình đặc biệt ấn tượng khu cà phê (ẩn …",
+        "when": "6 tháng trước"
+      },
+      {
+        "author": "Tín Trần",
+        "rating": 5,
+        "text": "Ngày cuối ở Đà Lạt phát hiện ra quán này, ôi đây mới là cái không gian mình mong muốn khi ở nơi đây đây, tự nhiên quyến luyến hết muốn về ghê. Mấy bạn nhân viên ở đây nhiệt tình và dễ thương lắm! Hihi, đặc biệt khu vườn phía sau cũng rất …",
+        "when": "một tháng trước"
+      },
+      {
+        "author": "Tiểu Myy Trần",
+        "rating": 5,
+        "text": "Highly recommend 1 quán cf đến ko chỉ để uống cf mà còn đc \"trải nghiệm\" nhiều thứ - từ văn hoá và môi trường của các bạn người điếc, đến những không gian sáng tạo thú vị. Quán views cũng siêu đẹp k kém gì các quán khác, nước ổn 6/10. Mình …",
+        "when": "4 tháng trước"
+      },
+      {
+        "author": "L A K.",
+        "rating": 5,
+        "text": "Vô tình chạy vào trong lúc tìm đường đến con đường check in nổi tiếng, Lặng lại trở thành quán cafe yêu thích nhất của mình trên Đà Lạt. Không ồn ào, không hối hả, không có những góc decor nổi bật, thậm chí nhiều khu vực trang trí còn hơi …",
+        "when": "4 tháng trước"
+      },
+      {
+        "author": "Y Duy",
+        "rating": 5,
+        "text": "Các bạn rất dễ thương, nước ngon, khoai tây chiên big size ^^, móc khóa siêu yêu,  mọi người nên đến nhé ^^",
+        "when": "một tháng trước"
+      },
+      {
+        "author": "Thọ Trần",
+        "rating": 5,
+        "text": "Một quán cà phê rất đặc biệt với các bạn nhân viên khiếm thính vô cùng dễ thương và tận tâm. Không gian yên bình, nhẹ nhàng, mang lại cảm giác rất dễ chịu khi ngồi lại. …",
+        "when": "4 tháng trước"
+      },
+      {
+        "author": "Hường Ntt",
+        "rating": 5,
+        "text": "Lặng Art Café trong cảm nhận của mình không đơn thuần là một quán cà phê, mà là một \"khoảng lặng\" đầy thanh âm hạnh phúc. Giữa nhịp sống hối hả, nơi đây hiện ra như một ngôi nhà của những tâm hồn thuần khiết, nơi những bạn nhỏ khiếm thính …",
+        "when": "2 tháng trước"
+      },
+      {
+        "author": "Thu Nguyen",
+        "rating": 5,
+        "text": "Là quán cà phê do các em khiêm thính phục vụ, không gian rất bình yên, ấm cúng, nước và đồ ăn cũng ngon. Mọi người nên đến trải nghiệm",
+        "when": "5 tháng trước"
+      },
+      {
+        "author": "Trinh Nguyen",
+        "rating": 5,
+        "text": "Dễ thương, mọi thứ ở đây đều đáng yêu ❤️ không gian thoáng rộng bạn trong hoa đẹp, yên tĩnh hoà mình với thiên nhiên. Vừa là quán cf vừa là nơi bán đồ lưu niệm, các sp handmade.",
+        "when": "5 tháng trước"
+      }
+    ],
+    "source": "google-maps"
+  },
+  "nang-dalat-x1": {
+    "lat": 11.9347198,
+    "lng": 108.4507834,
+    "img": "images/nang-dalat-x1.jpg",
+    "photos": [
+      "images/nang-dalat-x1.jpg",
+      "images/nang-dalat-x1-2.jpg",
+      "images/nang-dalat-x1-3.jpg",
+      "images/nang-dalat-x1-4.jpg"
+    ],
+    "price": 1,
+    "phone": "0911229393",
+    "rating": 4.6,
+    "reviews": 534,
+    "comments": [
+      {
+        "author": "THUY TRAN BICH",
+        "rating": 4,
+        "text": "Mình biết đến Nàng vào tối thứ Sáu. Đêm trước rời Đà Lạt, mình ghé qua để trải nghiệm nghe nhạc và không gian quán.\n110k/ đồ uống và nghe nhạc với mình kjas phù hợp.\nNếu ban ngày, check rất nhiều góc đẹp...",
+        "when": "3 tuần trước"
+      },
+      {
+        "author": "Minh Duc Tang",
+        "rating": 3,
+        "text": "Mình do trên Google Map thì thấy là ở đây có ca nhạc nên đã ghé đến, nhưng vì đến vào thứ ba nên có lẽ không có diễn ra đêm nhạc. Nếu được thì quán nên cập nhật cụ thể trên Google Map hơn để khách du lịch như mình có thể biết rõ ràng hơn về …",
+        "when": "3 tháng trước"
+      },
+      {
+        "author": "Bbabisoone",
+        "rating": 1,
+        "text": "Nước quá mắc 89k /Ly đồng giá :))) nhà vệ sinh thì dơ không được dọn dẹp, view thì mình thấy đẹp nhưng cũng bth như những quán cafe khác hoặc có phần xuống cấp hơn. Nước thì quá dở và mắc!!! Nhân viên thì mở nhạc như đuổi khách vậy, nguyên playlist nhạc rap thô thiển vô cùng👎 …",
+        "when": "một tháng trước"
+      },
+      {
+        "author": "Pé Su",
+        "rating": 5,
+        "text": "Quán xinh ,nhiều góc sống ảo,bạn nam ca si rất dễ thương,nhiet tình hát theo yêu cầu khán giả dù bài khó ,mình chơi trò chơi trúng đuợc cái bánh rất ngon,có chú kia tạo sinh nhật bất ngờ cho vợ xong còn chia bánh kem cho mọi người nữa,một đêm đầy cảm xúc và có lộc ăn đối vs mình,mn có dịp ghé trải nghiệm nha.",
+        "when": "5 tháng trước"
+      },
+      {
+        "author": "Thu Trang Nguyễn",
+        "rating": 5,
+        "text": "Vô tình ghé quán lúc mua bánh su kem, quán rất oki view chill đồ uống tạm ổn giá thành hơi nhỉnh xíu nhưng với không gian đó thì mình thấy oki",
+        "when": "một tháng trước"
+      },
+      {
+        "author": "mai anh",
+        "rating": 5,
+        "text": "matcha coconut ngon quãi chưởng, 89k đồng giá tất cả nhen, cảnh đẹp, decor xinh, hát acoustic hay lắm và quan trọng là KHÔNG QUÁ ĐÔNG !!! RẤT CHILL, đi sáng đi tối đều đẹp hết á",
+        "when": "2 tháng trước"
+      },
+      {
+        "author": "kiều Diễm",
+        "rating": 4,
+        "text": "Không gian rộng, nhiều khu vực check in\nĐường đi hơi xa và dốc chút nhưng vẫn đi đc\nNc uống khá đắt,89k cho đa số món, nhưng vị bth, k dở k ngon. …",
+        "when": "9 tháng trước"
+      },
+      {
+        "author": "phuong hai nguyen",
+        "rating": 5,
+        "text": "Cà phê trang trí đẹp, nhiều hoa, gần trung tâm, lại có view thung lũng, mình đi dịp tết nên có hát acoustic cả buổi sáng khá hay, giá nước 110k/ người, ngồi chill nghe nhạc buổi sáng cũng khá ổn áp, nước tạm ổn không đặc sắc lắm, nhiều cảnh để chụp hình",
+        "when": "4 tháng trước"
+      },
+      {
+        "author": "Vân Võ",
+        "rating": 3,
+        "text": "🥲 89k cho 1 ly nước đối với t hơi wow, khung cảnh cũng bình thường thôi, đi lúc không có ca nhạc gì cả, decor cảnh chill chill như ảnh..... …",
+        "when": "5 tháng trước"
+      },
+      {
+        "author": "Toan Le Viet",
+        "rating": 5,
+        "text": "Đi dịp lễ nên đông lắm. Đồ uống 110k nhưng dc nghe ascoutic nên cũng hợp lí. Bữa đó hên đoán trúng bài hát nên dc tặng cái croissant ăn cũng oke mà hơi nguội lạnh vì trời lạnh qé lạnh. Không gian cũng rộng rãi và ấm cúng. Nhưng k hiểu có cáu chảo lửa giữa sân để làm gì. Ấm k đủ mà hít khói qá chời 🤣 …",
+        "when": "6 tháng trước"
+      }
+    ],
+    "source": "google-maps"
+  },
+  "lung-chung-x1": {
+    "lat": 11.920853,
+    "lng": 108.447134,
+    "img": "images/lung-chung-x1.jpg",
+    "photos": [
+      "images/lung-chung-x1.jpg",
+      "images/lung-chung-x1-2.jpg",
+      "images/lung-chung-x1-3.jpg",
+      "images/lung-chung-x1-4.jpg"
+    ],
+    "price": 1,
+    "phone": "0972850852",
+    "rating": 4.3,
+    "reviews": 1178,
+    "comments": [
+      {
+        "author": "Dat Hoang",
+        "rating": 3,
+        "text": "Bán view chứ đố uống hên xui. Bốc trúng nước hơi dở mà đắt. Tưởng đang uống cafe ở Xì gòn\nBèo nào tay lái yếu thì đi bộ xuống chứ để trôi là xuống vực. …",
+        "when": "2 tuần trước"
+      },
+      {
+        "author": "Nguyễn Cường",
+        "rating": 5,
+        "text": "Về không gian, quán nằm trong đèo Prenn nên không khí dễ chịu, mát mẻ. Quán có không gian ngoài trời và trong nhà. Toilet sạch sẽ. Đường đến quán hơi khó đi, dốc cao và nên đi bằng xe máy nhé. …",
+        "when": "4 tháng trước"
+      },
+      {
+        "author": "Khang Trương",
+        "rating": 5,
+        "text": "Nếu Làng Vũ Thị cho bạn cái nhìn bao quát từ trên cao, thì Lưng Chừng lại mang đến một cảm giác rất khác – ấm áp, nép mình và cực kỳ tình. Đúng như cái tên, quán nằm lưng chừng một con dốc, bao quanh là rừng thông xanh ngắt, tách biệt hẳn …",
+        "when": "5 tháng trước"
+      },
+      {
+        "author": "Biluki",
+        "rating": 5,
+        "text": "Quán ở trị trí khá khó đi với các bạn nữ tay lái yếu. Vì đường vào nhiều dốc nhỏ. Quán có nhiều chó mèo rất dễ thương. Nước uống rất ngọt dù mình dặn giảm ngọt. Các bạn cân nhắc khi gọi món nhé",
+        "when": "một tháng trước"
+      },
+      {
+        "author": "V N",
+        "rating": 3,
+        "text": "View đẹp. Nước không ngon. Ly cà phê trứng 65k không ngon nhất từng thử trong đời. Uống ké bạc xỉu của bạn thì cũng không ngon nốt. Coi như phí vào trải nghiệm view, có chó mèo, có thư viện đọc sách trỏng nha. Đường siêu dốc nên các bạn lái xe cẩn thận…",
+        "when": "2 tháng trước"
+      },
+      {
+        "author": "Phương Ngô Khánh",
+        "rating": 2,
+        "text": "Một quán nước ‘bán view’ chứ không bán nước điển hình như bao quán khác ở ĐL.\n\nĐiểm cộng: …",
+        "when": "3 tháng trước"
+      },
+      {
+        "author": "Lê Phương Linh",
+        "rating": 4,
+        "text": "Quán hợp để thư giãn, healing. Mình tìm thấy quán theo review tiktok, đường đến quán như game mạo hiểm, đường đi khá dốc, không dành cho người tay lái yếu 🤣. Mình gọi trà thảo mộc nóng, uống khá oke. Quán có 5 nhân viên mèo. Nhân viên mèo …",
+        "when": "3 tháng trước"
+      },
+      {
+        "author": "Hai Yen Vu",
+        "rating": 5,
+        "text": "Quán có view đẹp,không gian thoáng mát.Wc sạch sẽ,có nhiều em mèo xinh.Nước uống cũng bình thường.Lối vào hơi dốc.",
+        "when": "2 tháng trước"
+      },
+      {
+        "author": "Nathan Lam",
+        "rating": 5,
+        "text": "Đường đi dốc cần cứng tay lái nhé. Nước ở đây cũng tạm thôi không healthy lắm, pha dạng sirup thì phải chứ k tươi, nhưng được cái view và không gian rất chill đây cũng là một trong những lý do mình thích và hay ghé chổ nãy khi đến ĐL. …",
+        "when": "7 tháng trước"
+      },
+      {
+        "author": "Nic Nguyen Hihi",
+        "rating": 5,
+        "text": "phải nói là quán này rất rất đẹp luôn á\nmấy con mèo hiền ơi là hiền\nnhưng mà đường khó đi nha , đi xe máy đồ chắc hợp hơn, nhà mình đi xe taxi 7 chỗ …",
+        "when": "5 tháng trước"
+      }
+    ],
+    "source": "google-maps"
+  },
+  "nha-ben-rung-x1": {
+    "lat": 11.9341893,
+    "lng": 108.4774209,
+    "img": "images/nha-ben-rung-x1.jpg",
+    "photos": [
+      "images/nha-ben-rung-x1.jpg",
+      "images/nha-ben-rung-x1-2.jpg",
+      "images/nha-ben-rung-x1-3.jpg",
+      "images/nha-ben-rung-x1-4.jpg"
+    ],
+    "price": 1,
+    "phone": "0975371124",
+    "rating": 4.8,
+    "reviews": 3123,
+    "comments": [
+      {
+        "author": "anh khoa phan dinh",
+        "rating": 5,
+        "text": "Vị trí quán ở Dốc Thị, mình đi lần đầu dù Google map chỉ nhưng bị nhầm đường, đường rất dốc, lái ô tô chuẩn bị tâm lý vững khi vào. Thật ra quán có nhân viên hướng dẫn dọc đường. Xe 4,16 chổ đi được nhưng hơi ghê vì dốc cao. Quán có chổ đậu …",
+        "when": "2 tuần trước"
+      },
+      {
+        "author": "Lê Thế Huân",
+        "rating": 5,
+        "text": "Khuyến cáo cho mọi người trước khi đặt home, liên hệ ttrực tiếp với số ĐT trên map, không nhắn tin trao đổi trên facebook, vì có 1 trang FB giả mạo.\nHome có đủ dạng phòng cho cặp đôi đến gia đình đông người. Vị trí nằm sâu trong …",
+        "when": "Thời gian chỉnh sửa: 6 tháng trước"
+      },
+      {
+        "author": "TipsMua Channel",
+        "rating": 5,
+        "text": "Quán nằm sâu trong rừng, mỗi ngã ba đều có người chỉ dẫn. Đường đi hơi dốc nên các bạn đi cẩn thận. Trà sữa ngon.",
+        "when": "4 tháng trước"
+      },
+      {
+        "author": "Thế Anh Diệp",
+        "rating": 4,
+        "text": "Một quán cà phê hòa mình với thiên nhiên. Đường đi đến quán hơi ngoạn mục, xuống dốc nhiều lần. Không gian quán nhỏ nhưng có nhiều khu vực để ngồi, dựa theo đồi núi. Giá nước dao động từ 65k đến 75k. Trên đường đi xuống quán còn có một số quán khác như: Dốc thị",
+        "when": "5 tháng trước"
+      },
+      {
+        "author": "Trúc Ngô",
+        "rating": 5,
+        "text": "Quán nằm trong cụm đường nhiều quán chill lắm nhưng Nhà trong rừng thì xa và dốc hơn. Các bạn tay lái yếu chắc nhờ quán giúp chạy xe vào nhưng đổi lại cái view này đã lắm. Với quán thân thiện với cún yêu nên đánh giá tốt!",
+        "when": "2 tuần trước"
+      },
+      {
+        "author": "Nguyễn Thy Thảo",
+        "rating": 5,
+        "text": "Quán đẹp, không khí trong lành, có nhân viên chỉ đường từ ngoài đường lớn cho mấy bạn đi nên cũng dễ tìm quán. Mấy bé cún với mèo năng động lắm lun, cũng quấn người. Đồ uống khá okila. Mng nên đi thử nha",
+        "when": "5 tháng trước"
+      },
+      {
+        "author": "Đức Anh Hồ",
+        "rating": 4,
+        "text": "Quán siêu rộng có 4 5 tầng gì đó, tất cả đều là không gian mở, cảnh thì rất chill, cộng với không khí Đà Lạt thì rất tuyệt vời và nước cũng khá ổn. Nhân viên nhiệt tình, dễ thương. …",
+        "when": "4 tháng trước"
+      },
+      {
+        "author": "Thuy Pham",
+        "rating": 5,
+        "text": "Đường đến hơi dốc chút nhưng xứng đáng đi nha mọi người ơi. Quán đẹp nhiều góc sống ảo, nước uống đồ ăn đều ngon. Mấy em pet thân thiện lắm",
+        "when": "một tháng trước"
+      },
+      {
+        "author": "Phu Tran",
+        "rating": 5,
+        "text": "- Đường cho Ô Tô hơi khó đi, không dành cho lái mới. Nên đi ban ngày.\n- Đã có người hướng dẫn và điều tiết xe oto nên ko sợ đấu đầu.\n- Không gian quán yên tĩnh, nhỏ gọn, cảnh quan vừa đủ. (không phù hợp vs số đông)\n- Đồ uống ổn.",
+        "when": "một tháng trước"
+      },
+      {
+        "author": "Trần Lộc (Lộc Lộc)",
+        "rating": 5,
+        "text": "Khung cảnh xinh đẹp, không khí trong lành, rất chill, xứng đáng được mọi người biết đến nhiều hơn",
+        "when": "4 tháng trước"
+      }
+    ],
+    "source": "google-maps"
+  },
+  "quan-an-gia-dinh-thuy-duong-x1": {
+    "lat": 11.9011039,
+    "lng": 108.4342727,
+    "img": "images/quan-an-gia-dinh-thuy-duong-x1.jpg",
+    "photos": [
+      "images/quan-an-gia-dinh-thuy-duong-x1.jpg",
+      "images/quan-an-gia-dinh-thuy-duong-x1-2.jpg",
+      "images/quan-an-gia-dinh-thuy-duong-x1-3.jpg",
+      "images/quan-an-gia-dinh-thuy-duong-x1-4.jpg"
+    ],
+    "price": 1,
+    "phone": "0985513208",
+    "rating": 4.4,
+    "reviews": 1223,
+    "comments": [
+      {
+        "author": "Dung Le",
+        "rating": 4,
+        "text": "Quán có món cá tầm nướng ngon.\nTrà atiso 50k/bình bỏ vài bịch Atiso gói nhỏ. Còn lại ok.",
+        "when": "3 tuần trước"
+      },
+      {
+        "author": "Kjce Shidou",
+        "rating": 5,
+        "text": "Nice Vietnamese food, helpful and friendly owner and gorgeous views. Highly reccommend this!\nChị chủ quán rất nhiệt tình, món ăn ngon, vừa miệng. Giá cả hợp lý.",
+        "when": "6 tháng trước"
+      },
+      {
+        "author": "Trang Bui",
+        "rating": 5,
+        "text": "Chị chủ siêu dễ thương!!! Quán sạch sẽ ổn áp. Đồ ăn ngon và tươi. Cá tầm và gà nướng xuất sắc. Ngồi trên đồi view hoàng hôn cực đỉnh!",
+        "when": "5 tháng trước"
+      },
+      {
+        "author": "Vinh Huy Quách",
+        "rating": 5,
+        "text": "Đồ ăn ngon, giá vừa phải so với mặt bằng chung các quán.",
+        "when": "4 tháng trước"
+      },
+      {
+        "author": "Hieu Nguyen",
+        "rating": 5,
+        "text": "Quán này ngon nhất khu vực bờ hồ Tuyền Lâm. Giá cũng hợp lý nhất. Mình đi Đà Lạt như đi chợ và nếu chọn ăn bờ hồ Tuyền Lâm thì chỉ ghé quán này thôi.",
+        "when": "một tháng trước"
+      },
+      {
+        "author": "Vân Nguyễn Thùy",
+        "rating": 2,
+        "text": "Đồ ăn mình nhận không như đánh giá. Gà giòn nhưng lạt ko có vị, rau trộn thì không chua mà hành tây còn bị mùi ai hư. Quá thất vọng khi đi theo quánh giá trên gg. Được mỗi cái view ok",
+        "when": "2 tháng trước"
+      },
+      {
+        "author": "kim lệ trần",
+        "rating": 5,
+        "text": "Quán nấu ăn ngon giá tương đối rẻ, đồ nướng ngon, view hồ Tuyền Lâm cực đẹp, chủ quán tư vấn nhiệt tình, lần sau lên ĐL sẽ ghé lại. ( Đồ ăn ngon quên chụp hình trước, ăn hết sạch mới chụp).",
+        "when": "6 tháng trước"
+      },
+      {
+        "author": "Hoang Hai Chau",
+        "rating": 5,
+        "text": "Quán có view tuyệt vời, các món ăn đêu ngon, cô chủ nhiệt tình quay clip cho gia đình, các bạn nên đến để thưởng thức 1 lần khi đến Dalat. Riêng gia đình mình luôn chọn quán Thuỳ Dương khi đến Dalat.",
+        "when": "6 tháng trước"
+      },
+      {
+        "author": "Vu trung nghia Tran",
+        "rating": 1,
+        "text": "View đẹp. Nhưng đồ ăn quán báo tươi sống. Mang ra lại đông lạnh mới ướp như trong hình. Thịt ươn lên rồi mới ướp kiểu này. Mang tiếng thịt rừng mà ko biết thái thịt. Miếng thịt toàn xương răm . Quá thất vọng ko bao giờ ghé lần 2",
+        "when": "8 tháng trước"
+      },
+      {
+        "author": "Châu Minh",
+        "rating": 5,
+        "text": "Gia đình mình đã ăn ở đây nhiều lần. Thức ăn ngon, cô chủ nhiệt tình. Cá tầm, gà, nai đều ngon. Nói chung rất hài lòng.",
+        "when": "6 tháng trước"
+      }
+    ],
+    "source": "google-maps"
+  },
+  "nha-hang-kim-gia-tiem-oc-di-kim-x1": {
+    "lat": 11.9489553,
+    "lng": 108.4626923,
+    "img": "images/nha-hang-kim-gia-tiem-oc-di-kim-x1.jpg",
+    "photos": [
+      "images/nha-hang-kim-gia-tiem-oc-di-kim-x1.jpg",
+      "images/nha-hang-kim-gia-tiem-oc-di-kim-x1-2.jpg",
+      "images/nha-hang-kim-gia-tiem-oc-di-kim-x1-3.jpg",
+      "images/nha-hang-kim-gia-tiem-oc-di-kim-x1-4.jpg"
+    ],
+    "price": 1,
+    "phone": "0903100107",
+    "rating": 4.1,
+    "reviews": 466,
+    "comments": [
+      {
+        "author": "DAT BUI TRONG",
+        "rating": 5,
+        "text": "Quán nằm trong hẻm\nHơi khuất nếu không để ý kỹ\nKhông gian quán rộng rãi, nhiều vu vực …",
+        "when": "một tháng trước"
+      },
+      {
+        "author": "Khoa Pham",
+        "rating": 5,
+        "text": "Phía trước là quầy thuốc\nPhía sau là nhà hàng\nCó nhà hàng Âu nhà hàng Á …",
+        "when": "Thời gian chỉnh sửa: 4 tháng trước"
+      },
+      {
+        "author": "Anh Song",
+        "rating": 5,
+        "text": "Ốc tươi và ngon, hợp khẩu vị nhà mình. Đi 4 người còn đc tặng ốc hương sốt trứng muối rất ngon.",
+        "when": "3 tuần trước"
+      },
+      {
+        "author": "Bảo Chi Ngô",
+        "rating": 5,
+        "text": "Quán đẹp thích hợp checkin, đồ ăn ngon và Rất rẻ nhee nhân viên và các a chị trong quán siuu nhiệt tình",
+        "when": "một tháng trước"
+      },
+      {
+        "author": "Hiền Trần",
+        "rating": 5,
+        "text": "Quán sạch sẽ rộng rãi, đa dạng món thích hợp đi gia đình, nhóm. Các món nhật chuẩn vị, nhiều, giá rẻ. Nhân viên nhiệt tình. Sẽ quay lại và kêu lại Cuộn cá hồi sốt mentai",
+        "when": "một năm trước"
+      },
+      {
+        "author": "Julep Linh Hay Đi",
+        "rating": 5,
+        "text": "Mì cay có 2 loại Thái vs Hàn ngon mới lạ.\nMấy đồ ăn vặt hay trà sữa đều rẻ ngon.\nNgay đường thoáng mát",
+        "when": "một năm trước"
+      },
+      {
+        "author": "DT Nguyen",
+        "rating": 5,
+        "text": "Món đã ngon rồi mà còn được tặng chả giò và Panacotta. Hỏi sao không ghé lại lần sau!? Cám ơn quán và mong tiếp tục phát huy tinh thần này.🥰👍 …",
+        "when": "11 tháng trước"
+      },
+      {
+        "author": "Hanz Jamie",
+        "rating": 3,
+        "text": "Nhà hàng phù hợp cho gia đình hoặc nhóm bạn.\nGiá cả hợp lý, đồ ăn thì bình thường không gì đặc biệt.\nNhà hàng dễ tìm dễ đi và gắn liền với villa kim gia. …",
+        "when": "3 năm trước"
+      },
+      {
+        "author": "HUYỀN TRUNG TÂM NHẬT NGỮ MIDORI",
+        "rating": 4,
+        "text": "Món ăn nêm nếm rất vừa ăn, giá 1 con gà khoảng 4 người ăn là 440k cũng không đến nỗi mắc. Cơm Lam cũng khá ngon, mình kêu thêm 1 dĩa salat nước sốt cũng khá ngon.",
+        "when": "4 năm trước"
+      },
+      {
+        "author": "Sương Trần",
+        "rating": 5,
+        "text": "Đồ ăn rất ngon ,nhân viên nhiệt tình ❤️",
+        "when": "một tháng trước"
+      }
+    ],
+    "source": "google-maps"
+  },
+  "quan-an-huong-rung-da-phu-x1": {
+    "lat": 11.9789361,
+    "lng": 108.408177,
+    "img": "images/quan-an-huong-rung-da-phu-x1.jpg",
+    "photos": [
+      "images/quan-an-huong-rung-da-phu-x1.jpg",
+      "images/quan-an-huong-rung-da-phu-x1-2.jpg",
+      "images/quan-an-huong-rung-da-phu-x1-3.jpg",
+      "images/quan-an-huong-rung-da-phu-x1-4.jpg"
+    ],
+    "price": 1,
+    "phone": "0918162550",
+    "rating": 4.1,
+    "reviews": 1153,
+    "comments": [
+      {
+        "author": "Đặng Văn Tuấn",
+        "rating": 5,
+        "text": "Quán ăn ngoại thành của Đà Lạt, đồ ăn ngon chúng tôi ăn lợn rừng hấp thịt sả và thịt ngon không bã, không khô, ngậy. Lẩu cá tầm vị hơi ngọt đường một chút xíu nhưng cũng rất ngon. Quán phục vụ nhiệt tình. Một chút cần chỉnh lại là phòng riêng gần toilet có mùi sộc vào hơi khó chịu mong quán vệ sinh sạch sẽ khu này hơn.",
+        "when": "10 tháng trước"
+      },
+      {
+        "author": "Nguyên Duy (Nuk)",
+        "rating": 5,
+        "text": "Tình cờ ăn 3 lần trong 5 ngày 🤣 quán bán đồ khá ổn, phục vụ nhanh, có chỗ đậu xe, giá ổn. …",
+        "when": "6 tháng trước"
+      },
+      {
+        "author": "XUAN TRUNG DIEU",
+        "rating": 1,
+        "text": "Quán ăn đúng lừa luôn, dĩa thịt heo với nhím xào toàn xương hết gần 1,2 triệu",
+        "when": "6 tháng trước"
+      },
+      {
+        "author": "Nữ Nguyễn",
+        "rating": 5,
+        "text": "Món ăn ngon, hợp vị. Gà tươi, sớ thịt gà ngọt dai. Được người dân địa phương giới thiệu, tuyệt vời. Nên đặt trước để khỏi chờ. Highly recommend khi đi Đà Lạt.",
+        "when": "9 tháng trước"
+      },
+      {
+        "author": "Crystal Tran",
+        "rating": 5,
+        "text": "Mình ghé quá bữa đói quá lo ăn không chụp hình. Ghé ngay mùng 3 tết. Đồ ăn lên rất nhanh. Gà không quá đặc sắc nhưng cũng ok. Cơm lam ống rất to. 2 người / 1 ống mới hết. Lẩu cá tầm ngon vừa vị chua nhẹ! Quán từng gian riêng biệt rất mát và sạch sẽ. Nên ghé trải nghiệm!",
+        "when": "4 tháng trước"
+      },
+      {
+        "author": "Nhật Trường Lê",
+        "rating": 4,
+        "text": "Không giang thoáng đãng, phục vụ chu đáo.\nMón ăn vừa miệng, giá cũng phải chăng.\nMình ấn tượng món canh chua cá hú với lại gà đòi nướng cơm lam và heo rừng!",
+        "when": "một năm trước"
+      },
+      {
+        "author": "Quyên Võ",
+        "rating": 5,
+        "text": "Đồ ăn ngon, quan sạch sẽ, không gian yên tĩnh",
+        "when": "6 tháng trước"
+      },
+      {
+        "author": "Oanh Nguyen",
+        "rating": 5,
+        "text": "Gà nướng cơm lam, lâut cá tầm, thịt heo rừng, rau trộn dầu giấm ngon đỉnh. Quán kiểu nmgia đình ko có view ko có set up đặc biệt nhưng đồ ăn rất ngon.",
+        "when": "một năm trước"
+      },
+      {
+        "author": "Anh Duy",
+        "rating": 1,
+        "text": "Đồ ăn không được ngon trà đá thì tính 5k 1ly nhân viên nói chuyện thô lỗ",
+        "when": "4 tháng trước"
+      },
+      {
+        "author": "dat mai",
+        "rating": 4,
+        "text": "Gà ăn cũng bình Thường. Món ăn cũng tạm ổn. Quán có nv như không. Phục vụ chậm quá. Dù quán không đông.",
+        "when": "11 tháng trước"
+      }
+    ],
+    "source": "google-maps"
+  },
+  "nha-hang-kala-ca-x1": {
+    "lat": 11.935087,
+    "lng": 108.4301153,
+    "img": "images/nha-hang-kala-ca-x1.jpg",
+    "photos": [
+      "images/nha-hang-kala-ca-x1.jpg",
+      "images/nha-hang-kala-ca-x1-2.jpg",
+      "images/nha-hang-kala-ca-x1-3.jpg",
+      "images/nha-hang-kala-ca-x1-4.jpg"
+    ],
+    "price": 1,
+    "phone": "02633545779",
+    "rating": 4.8,
+    "reviews": 380,
+    "comments": [
+      {
+        "author": "Thế Ngọc Hoàng",
+        "rating": 5,
+        "text": "Nhà hàng phục vụ rất chu đáo , cô chủ cực kỳ nhiệt tình , món ăn rất ngon , giá cả cực kì hợp lý …",
+        "when": "3 tuần trước"
+      },
+      {
+        "author": "Đỗ Trịnh Thanh Ngân",
+        "rating": 5,
+        "text": "Đồ ăn ngon chủ quán và nhân viên phục vụ tận tình dth 🤩😍🥰❤️‍🔥❣️ chắc chắn sẽ quay lại …",
+        "when": "một tháng trước"
+      },
+      {
+        "author": "Tina Nguyễn",
+        "rating": 5,
+        "text": "Quán chế biến ngon, cá tầm tươi có hồ nuôi tại quán và hợp khẩu vị của vợ chồng mình. Giá cả hợp lý, món nào lên đĩa phần cũng to. Nhân viên phục vụ siêu nhiệt tình và dễ thương. Lần sau lên Đà Lạt nhất định sẽ ghé lại.",
+        "when": "6 tháng trước"
+      },
+      {
+        "author": "Nhu Nguyen",
+        "rating": 5,
+        "text": "quá hài lòng, ưng ý với quán này\nđiểm cộng:\n- món ăn nóng hổi là tuyệt nhất …",
+        "when": "4 tháng trước"
+      },
+      {
+        "author": "Dung Châu",
+        "rating": 5,
+        "text": "Cá siêu tươi. So với mặt bằng chung của nhiều quán cá tầm khác ở Đà Lạt thì mình thấy giá ở đây rất tốt. Phục vụ chu đáo, lên món nhanh 😃 …",
+        "when": "một tháng trước"
+      },
+      {
+        "author": "Phuong Tran",
+        "rating": 5,
+        "text": "Không ngờ Đà Lạt có một quán local thật là tuyệt vời như vậy. Nhân viên và cô chủ quán dễ thương nhiệt tình lắm. Cá bắt chỗ, đồ ăn món nào cũng vừa miệng",
+        "when": "4 tháng trước"
+      },
+      {
+        "author": "Mobile Van loi",
+        "rating": 5,
+        "text": "quán bán rất nhiều món , giá cả vùa phải món nào cũng ngon nhân viên và cô chủ rất thân thiện nếu có dịp thì nhất định sẻ quay lại",
+        "when": "6 tháng trước"
+      },
+      {
+        "author": "trần hùng",
+        "rating": 1,
+        "text": "Mọi người cân nhắc khi đi ăn quán này nhé. Hôm qua mình có qua ăn con cá tầm 2kg9 mà thực sự rất ít. K biết là quán có làm nhầm với bàn khác k? Nhưng vì mình ăn khá nhiều lần với con cá 2kg1-2kg5 đều k ít như vậy.",
+        "when": "5 tháng trước"
+      },
+      {
+        "author": "Minhtu Nguyenhoang",
+        "rating": 5,
+        "text": "Cá tầm rang muối là món must try của quán nha mọi người, giá cả hợp lý, gia vị nêm nếm rất ok, mình ăn 3 món, món nào cũng vừa ý.",
+        "when": "3 tháng trước"
+      },
+      {
+        "author": "ngoc bich",
+        "rating": 5,
+        "text": "Cá tươi tại hồ, bao chế biến giá 395 k/1 ký cá tầm, cá bống mú,cá chình.  Đa dạng món , món nào cũng ngon",
+        "when": "3 tháng trước"
+      }
+    ],
+    "source": "google-maps"
+  },
+  "nha-hang-thai-yam-chiangmai-in-dalat-x1": {
+    "lat": 11.951035,
+    "lng": 108.4319942,
+    "img": "images/nha-hang-thai-yam-chiangmai-in-dalat-x1.jpg",
+    "photos": [
+      "images/nha-hang-thai-yam-chiangmai-in-dalat-x1.jpg",
+      "images/nha-hang-thai-yam-chiangmai-in-dalat-x1-2.jpg",
+      "images/nha-hang-thai-yam-chiangmai-in-dalat-x1-3.jpg",
+      "images/nha-hang-thai-yam-chiangmai-in-dalat-x1-4.jpg"
+    ],
+    "price": 1,
+    "phone": "0932449440",
+    "rating": 4.8,
+    "reviews": 1872,
+    "comments": [
+      {
+        "author": "Myu nèe",
+        "rating": 5,
+        "text": "Đồ ăn vị khá lạ miệng, cũng ổn. Quán cũng đông á. Nhân viên ổn. Quán decor khá lạ …",
+        "when": "3 tháng trước"
+      },
+      {
+        "author": "Kid",
+        "rating": 5,
+        "text": "Quán ăn Thái được thiết kế theo phong cách modern dark, không gian nhìn hiện đại, cá tính nhưng vẫn khá ấm cúng. Nhân viên ở đây thân thiện, dễ thương, hỗ trợ khách nhanh nhẹn, tạo cảm giác thoải mái ngay từ lúc vào quán. Về món ăn, đồ ăn …",
+        "when": "5 tháng trước"
+      },
+      {
+        "author": "Ivy Lan Vy",
+        "rating": 5,
+        "text": "Cay muốn khùng :))))) mà ngon! Gỏi cá Trê ko ngon bằng quán mình hay ăn ở Sg. Đi dịp Tết nên nhân viên hơi chậm tí, còn lại thì vừa vặn. Ko có ấm tượng xấu 🐶 …",
+        "when": "4 tháng trước"
+      },
+      {
+        "author": "Ngọc Khánh",
+        "rating": 5,
+        "text": "❤️Không gian quán rộng rãi, thoáng mát phù hợp cho gia đình, nhóm bạn đông người\nNhân viên hỗ trợ nhiệt tình và vui vẻ …",
+        "when": "4 tháng trước"
+      },
+      {
+        "author": "Nguyễn Thanh",
+        "rating": 5,
+        "text": "Quán thiết kế lạ mắt, kiến trúc lối đi tạo nên sự thích thú cho khách hàng trải nghiệm.\nNhiều điểm chụp ảnh sống ảo, món ăn cũng được chế biến decor kỹ càng. …",
+        "when": "4 tháng trước"
+      },
+      {
+        "author": "Aeson Chen",
+        "rating": 2,
+        "text": "món ăn có món ngon , món dỡ ,  tùy theo khẩu vị từng người , nước thì món ngon món ko . bếp của quán nằm ở tầng hầm , lúc chế biến món ăn sẽ bay qua chỗ khách để thoát ra ngoài , và quán up hình thực đơn k có tính vat mà trong menu ở quán …",
+        "when": "9 tháng trước"
+      },
+      {
+        "author": "Trang Nguyen",
+        "rating": 5,
+        "text": "Quán sạch sẽ, có gu, đồ ăn ngon, sạch, trang trí tinh tế đẹp mắt, giá cả khá rẻ",
+        "when": "một tháng trước"
+      },
+      {
+        "author": "Anh Nguyễn Minh",
+        "rating": 2,
+        "text": "TỆ\nƯu điểm : - có một mặt bằng đẹp nằm trên trục đường chính Hai Bà Trưng, dễ tìm - dễ thấy …",
+        "when": "5 tháng trước"
+      },
+      {
+        "author": "Lê Minh Nguyễn (Mike)",
+        "rating": 5,
+        "text": "Không gian ấm cúng, vibe Thái Lan mộc mạc, đồ ăn ngon hợp khẩu vị, có thể nói được nhất trong các quán Thái mình đã từng ăn ở Đà Lạt.\nNhân viên thân thiện, lên món khá nhanh. …",
+        "when": "9 tháng trước"
+      },
+      {
+        "author": "Hương Phan",
+        "rating": 5,
+        "text": "Search các quán gần homestay đi thì thấy quán này, cũng sợ seeding nhưng đồ ăn ngon thiệc , nhân viên nhiệt tình và lên món cũng lẹ, còn có welcome drink nữa nên okiela nha",
+        "when": "7 tháng trước"
+      }
+    ],
+    "source": "google-maps"
+  },
+  "nha-hang-hoang-lan-x1": {
+    "lat": 11.9538369,
+    "lng": 108.4366002,
+    "img": "images/nha-hang-hoang-lan-x1.jpg",
+    "photos": [
+      "images/nha-hang-hoang-lan-x1.jpg",
+      "images/nha-hang-hoang-lan-x1-2.jpg",
+      "images/nha-hang-hoang-lan-x1-3.jpg",
+      "images/nha-hang-hoang-lan-x1-4.jpg"
+    ],
+    "price": 1,
+    "phone": "0913865489",
+    "rating": 4,
+    "reviews": 346,
+    "comments": [
+      {
+        "author": "Kent Luu",
+        "rating": 5,
+        "text": "Quán ăn truyền thống Đà Lạt mà lần nào đi nhà mình cũng phải ghé.\nSignature là lẩu tả pí lù, nước thanh, topping khá nhiều.\nMà đi ở đây phải đi 4-5 người mới ăn được nhiều món chứ cái lẩu có 2 size 600k & …",
+        "when": "3 tháng trước"
+      },
+      {
+        "author": "ĐẠO VŨ VĂN",
+        "rating": 5,
+        "text": "Món lẩu tả pí lù ở đây rất ngon nha. Nhưng 1 phần ăn rât nhiều 550k/ lẩu trung 4 người ăn mới hết nha. Vì một phần lẩu rất nhiều nên đi nhóm sẽ tốt hơn đi cặp đôi. Không gian quan sạch sẽ thoáng mát nha. Quán có tuổi đời gần 30 năm ở Dalat rồi.",
+        "when": "10 tháng trước"
+      },
+      {
+        "author": "Danh Nguyễn Thành",
+        "rating": 5,
+        "text": "Tuyệt vời! Nên ghé ăn cơm gà chiên và lẩu tả bí lù cùng ấm trà atiso nóng",
+        "when": "5 tháng trước"
+      },
+      {
+        "author": "trinh pham",
+        "rating": 1,
+        "text": "Mua cái lẫu Tả bín lù, nhà hàng ship từ nguyễn Lương bằng qua CMT8, thu 50k tiền ship ko báo trước giá. Hỏi lại nhà hàng gì mà thu ship 50k thì nhà hàng trả lời: \"nếu thấy mắc thì lần sau tự tới mà lấy, đừng tưởng mình là khách rồi muốn nói gì thì nói\". Ultr, Nhà hàng này chắc nổi tiếng quá rồi ko cần khách đâu, thái độ trịch thượng",
+        "when": "2 tháng trước"
+      },
+      {
+        "author": "Vu Do",
+        "rating": 4,
+        "text": "Nhà hàng của người Hoa này có từ lâu đời, trước đây ở đường Phan Đình Phùng, sau lưng khu Hòa Bình, nay chuyển về đây. Nhà hàng chuyên các món ăn của người Hoa, đặc biệt là món lẩu tả bí lù, còn các món khác cũng thường thôi, không ngon …",
+        "when": "7 tháng trước"
+      },
+      {
+        "author": "Quỳnh Vân Phạm",
+        "rating": 5,
+        "text": "Đối với tui thì những đánh giá sau đây sẽ giúp bạn có chọn lọc kỹ lưỡng nếu lựa chọn quán này.\nNhóm gồm 3 người …",
+        "when": "10 tháng trước"
+      },
+      {
+        "author": "Samuel Anh",
+        "rating": 4,
+        "text": "Món lẩu tả bí lù ăn OK, thấy đa số thực khách vào đây đều gọi món lẩu tả bí lù này, còn các món ăn khác cũng không được ngon lắm.\nPhục vụ nhiệt tình vui vẻ, giá cả vừa phải. Chỗ đậu xe rộng rãi.",
+        "when": "7 tháng trước"
+      },
+      {
+        "author": "Vinh Ho Thai",
+        "rating": 4,
+        "text": "Nhà hàng kiêm luôn khách sạn nên không gian không rộng lắm. Đặc biệt ở đây chuyên món lẩu rau kết hợp các món tôm, mực, tim gan … tuy nhiên món mực không ngon, không tươi, mềm. Nước lẩu nấu từ xương nên rất trong, và ngọt! …",
+        "when": "một năm trước"
+      },
+      {
+        "author": "L Y D I A",
+        "rating": 5,
+        "text": "Quán lâu đời của ĐL, ng nhà mình nhận ra cô phục vụ lâu năm. Thức ăn vừa miệng, salad dầu giấm thấm vị tươi ngon. Canh cải xoong loại thân to đúng kiểu ĐL, rất ngon. Cải xào đậm đà thơm, bao tử mềm. Đặc biệt cá thu chiên và cánh gà chiên …",
+        "when": "một năm trước"
+      },
+      {
+        "author": "Đình Ái Nguyễn",
+        "rating": 5,
+        "text": "Quán rất ngon . Nước lẩu không quá cầu kỳ ngọt nhẹ không bột ngọt như rất đẳng cấp. Đồ ăn tươi giá cũng ok . Quán đáng đến thưởng thức tại đà lạt.",
+        "when": "2 năm trước"
+      }
+    ],
+    "source": "google-maps"
+  },
+  "khach-san-hotet-homestay-trung-tam-gan-cho-x1": {
+    "lat": 11.9432225,
+    "lng": 108.4338267,
+    "img": "images/khach-san-hotet-homestay-trung-tam-gan-cho-x1.jpg",
+    "photos": [
+      "images/khach-san-hotet-homestay-trung-tam-gan-cho-x1.jpg",
+      "images/khach-san-hotet-homestay-trung-tam-gan-cho-x1-2.jpg",
+      "images/khach-san-hotet-homestay-trung-tam-gan-cho-x1-3.jpg",
+      "images/khach-san-hotet-homestay-trung-tam-gan-cho-x1-4.jpg"
+    ],
+    "price": 1,
+    "phone": "0918823881",
+    "rating": 5,
+    "reviews": 18,
+    "source": "google-maps"
+  },
+  "cam-ly-homestay-x1": {
+    "lat": 11.9331614,
+    "lng": 108.4324675,
+    "img": "images/cam-ly-homestay-x1.jpg",
+    "photos": [
+      "images/cam-ly-homestay-x1.jpg",
+      "images/cam-ly-homestay-x1-2.jpg",
+      "images/cam-ly-homestay-x1-3.jpg",
+      "images/cam-ly-homestay-x1-4.jpg"
+    ],
+    "price": 1,
+    "rating": 4.7,
+    "reviews": 265,
+    "comments": [
+      {
+        "author": "trungkienpp91",
+        "rating": 0,
+        "text": "Khách sạn rất tốt về dịch vụ và tiện nghi||Đường đi lại dễ dàng, gần trung tâm thành phố||Không gian thoáng mát, sạch sẽ, yên tĩnh||Nhiêu tour du lịch hợp lý cho khách||Phục vụ nhiệt tình, vui vẻ||Phù hợp với mọi gia đình",
+        "when": ""
+      },
+      {
+        "author": "huu duan doan",
+        "rating": 0,
+        "text": "Cam Ly Homestay là một nơi lưu trú rất đáng trải nghiệm.\nPhòng ốc sạch sẽ, gọn gàng, được chăm chút kỹ lưỡng. Không gian đẹp, thoáng mát, tạo cảm giác thư giãn và dễ chịu ngay từ khi nhận phòng. …",
+        "when": ""
+      },
+      {
+        "author": "Booking.com",
+        "rating": 0,
+        "text": "😊: Tốt, chị chủ vui vẻ.\n😢: Nệm hơi mềm nằm hơi đau lưng. …",
+        "when": ""
+      },
+      {
+        "author": "Lầu Đặng Văn",
+        "rating": 0,
+        "text": "Tuyệt vời! Anh chị chủ home thân thiện mình đi 3 người giá là 250k/1 người/1 đêm (mừng 2 tết nguyên đán),home gần Trung Tâm dễ tìm.",
+        "when": ""
+      },
+      {
+        "author": "Thanh Thiện Trần Châu",
+        "rating": 0,
+        "text": "Phòng rộng và sạch sẽ, chủ home nhiệt tình, giá cả phải chăng.",
+        "when": ""
+      },
+      {
+        "author": "Thư Minh",
+        "rating": 0,
+        "text": "Hông có gì để chê luôn mng nha. Rất nhiều điểm cộng ở homestay, giá rất rẻ so với dịch vụ mang lại. Gần trung tâm, chị chủ siêu helpful và niềm nở, tụi mình đến sớm được chị ý cho nhận phòng sớm nữa rất thích. Phòng view đẹp, sạch sẽ, …",
+        "when": ""
+      },
+      {
+        "author": "Le Hang",
+        "rating": 0,
+        "text": "Khách sạn quen của tui khi đến Đà lạt. 2 em Trí và Ngọc siêu dễ thương",
+        "when": ""
+      },
+      {
+        "author": "Phước Sang Huỳnh",
+        "rating": 0,
+        "text": "Vị trí: gần Dóc Nhà Bò, nếu các bạn có xe đưa rước thì cứ nói Dốc Nhà Bò thay vì đọc địa chỉ nhé, chỗ này gần Trung tâm nên di chuyển đi những chỗ khác rất tiện luôn. …",
+        "when": ""
+      },
+      {
+        "author": "Duyen Nguyen",
+        "rating": 0,
+        "text": "Homestay cách trung tâm thành phố khoảng 3km, có quán coffe ở tầng thượng, tại đây có view sống ảo rất chill. Phòng ốc sạch sẽ, khá nhỏ, đặc điểm ohofng ở Đà Lạt sẽ không có máy lạnh.",
+        "when": ""
+      },
+      {
+        "author": "Dũng Nguyễn Tiến",
+        "rating": 0,
+        "text": "ĐÀ LẠT – MỘT ĐIỂM ĐẾN LÝ TƯỞNG ĐỂ TRÁNH NÓNG MÙA HÈ\nHè với những thành phố khác có lẽ là mùa gay gắt nhất năm. Cái nóng đổ dầu, đổ mỡ làm cho người ta thấy ngột ngạt khó thở. Nhưng với riêng Đà Lạt mùa hè là cái …",
+        "when": ""
+      }
+    ],
+    "source": "google-maps"
+  },
+  "hygge-homestay-da-lat-x1": {
+    "lat": 11.932656,
+    "lng": 108.4470819,
+    "img": "images/hygge-homestay-da-lat-x1.jpg",
+    "photos": [
+      "images/hygge-homestay-da-lat-x1.jpg",
+      "images/hygge-homestay-da-lat-x1-2.jpg",
+      "images/hygge-homestay-da-lat-x1-3.jpg",
+      "images/hygge-homestay-da-lat-x1-4.jpg"
+    ],
+    "price": 1,
+    "phone": "0918809961",
+    "rating": 4.8,
+    "reviews": 211,
+    "comments": [
+      {
+        "author": "L A K.",
+        "rating": 0,
+        "text": "Mình có 1 trải nghiệm tốt khi lưu trú tại homestay teng chuyến nghỉ dưỡng kết hợp công tác tại Đà Lạt.\n- Vị trí: khá gần trung tâm, mình có thể đi bộ vài bước ra các quán cafe và quán …",
+        "when": ""
+      },
+      {
+        "author": "Lân Nguyễn",
+        "rating": 0,
+        "text": "-Gia đình mình đã ở đây 1 đêm. Phòng đẹp sạch sẽ, giá thành hợp lý. (Có bữa sáng, ko phải buffet nhưng ok).\n+ dịch vụ phòng & thuê xe máy tốt.",
+        "when": ""
+      },
+      {
+        "author": "Thị Hồng Cẩm Phạm",
+        "rating": 0,
+        "text": "Homestay nằm trong con hẻm có cái dốc rất cao nhưng phòng rất sạch sẽ và rộng rãi, anh chị lễ tân  vui vẻ nhiệt tình.\nPhòng mình ở có bếp và đầy đủ dụng cụ nấu ăn, phù hợp cho gia đình đi nghỉ …",
+        "when": ""
+      },
+      {
+        "author": "Khâm Trần Tuyên",
+        "rating": 0,
+        "text": "Homestay gất okee! Mình ở đây T2-T5 vào tháng 3 vừa r, phòng đẹp, cảnh đẹp, nhân viên dễ thương nên rất hài lòng.\nHome còn có cho ăn sáng nữa (không ngờ luôn 😂) mà ngon bất ngờ lun\nVô tình biết home qua AirBnB và rất vui vì đã ở đây 😋 …",
+        "when": ""
+      },
+      {
+        "author": "Ngan Tran",
+        "rating": 0,
+        "text": "Một chiếc home xinh xỉu cho kỳ nghỉ Tết Dương Lịch của gia đình mình! Chỉ là tình cờ lướt fb bắt gặp và book phòng, nhưng mình hết sức ưng ý và hài lòng, đặc biệt cho những người yêu hoa và mê view rừng thông mà ko quá xa trung tâm như …",
+        "when": ""
+      },
+      {
+        "author": "Hương Thùy",
+        "rating": 0,
+        "text": "Mình rất thích homestay và sẽ quay lại trong tương lai\nƯu điểm:\n- gần trung tâm …",
+        "when": ""
+      },
+      {
+        "author": "Phi Anh",
+        "rating": 0,
+        "text": "Homestay phòng nhỏ xinh ấm cúng, nệm êm. Anh chị chủ dễ thương. Đặc biệt ăn sáng kèm theo gói phòng nhưng siêu ngon luôn, bánh tráng miệng cũng ngon. Cho home 10 điểm mình sẽ quay lại",
+        "when": ""
+      },
+      {
+        "author": "Minh Tuan",
+        "rating": 0,
+        "text": "Homestay khá ổn so với giá tiền, phòng ốc mới, sạch sẽ, con đường vào homestay lát đá khá đẹp và chill. Từ homestay ra hồ xuân hương cũng gần. Chỉ nhược điểm là con dốc đi xuống homestay khá là cao.",
+        "when": ""
+      },
+      {
+        "author": "Hồ Thảo",
+        "rating": 0,
+        "text": "Home rất sạch sẽ và chỉnh chu, ăn sáng rất ngon.\nLưu trú nhiều ngày có ưu đãi, ở đây rất yên tĩnh  và mình ngủ rất ngon!\nNói chung là tuyệt vời.\nSẽ ghé lại nhiều lần nữa.",
+        "when": ""
+      },
+      {
+        "author": "MINH T.Q.",
+        "rating": 0,
+        "text": "Ưu điểm gần bến xe Phương Trang,  ăn sáng  Ok, view thung lũng mát mẻ, Hạn chế là đường vào dốc hơi cao nhưng ôtô vào được.",
+        "when": ""
+      }
+    ],
+    "source": "google-maps"
+  },
+  "la-nha-homestay-x1": {
+    "lat": 11.9515151,
+    "lng": 108.4656785,
+    "img": "images/la-nha-homestay-x1.jpg",
+    "photos": [
+      "images/la-nha-homestay-x1.jpg",
+      "images/la-nha-homestay-x1-2.jpg",
+      "images/la-nha-homestay-x1-3.jpg",
+      "images/la-nha-homestay-x1-4.jpg"
+    ],
+    "price": 1,
+    "phone": "0339545969",
+    "rating": 3.8,
+    "reviews": 90,
+    "comments": [
+      {
+        "author": "Long Dinh",
+        "rating": 0,
+        "text": "Phòng giường đôi ở 2 người giá 500k vừa nhỏ, không có cửa sổ nên rất bí, nhà vệ sinh hôi không chịu được mặc dù có quạt hút.",
+        "when": ""
+      },
+      {
+        "author": "Chí Tâm Hà",
+        "rating": 0,
+        "text": "Các bạn lễ tân làm việc hơi thiếu tập trung. Mình đặt 2 phòng giống nhau cho gia đình mình và 1 gia đình nữa đi cùng. Khi đến nơi, bạn lễ tân có hỏi mình là \"anh có muốn đi xem phòng không\". Mình hơi ngạc nhiên là mình book 2 phòng trên …",
+        "when": ""
+      },
+      {
+        "author": "huy huỳnh",
+        "rating": 0,
+        "text": "Giá phòng quá đắt so với chất lượng dịch vụ. Đã vậy còn KHÔNG xuất hóa đơn VAT và cũng KHÔNG hỗ trợ. Cân nhắc kĩ khi book",
+        "when": ""
+      },
+      {
+        "author": "Tiên Nguyễn",
+        "rating": 0,
+        "text": "Mình hỏi thuê hồ bơi qua  zalo cho 1 người\nlớn và 2 trẻ em 13 tuổi,  họ báo giá 100k/ người  lớn, và trẻ em thì 50% giá người  lớn . …",
+        "when": ""
+      },
+      {
+        "author": "Lực Trần Thế",
+        "rating": 0,
+        "text": "Phòng đẹp, sạch sẽ, giá rẻ, hơi xa trung tâm một chút nếu bạn thích đi bộ, còn có phương tiện thì ko thành vấn đề. Rất OK",
+        "when": ""
+      },
+      {
+        "author": "Phương Thảo Mai",
+        "rating": 0,
+        "text": "Ks xa trung tâm nên khá yên tĩnh, ko có tình trạng đông đúc và kẹt xe. Nằm gần các điểm ăn uống, đi bộ 5 bước là đến Bếp khói sườn cay. Mình book 2 phòng trên tầng áp mái, có bồn tắm và ban công. Phòng đầy đủ tiện nghi. Mỗi tội ko có thang …",
+        "when": ""
+      },
+      {
+        "author": "& Anny Tony (Đi Lang Thang)",
+        "rating": 0,
+        "text": "Khách sạn này phòng chật và hơi ẩm thấp, được cái ks có hồ bơi ấm áp.",
+        "when": ""
+      },
+      {
+        "author": "Hao truong !!!",
+        "rating": 0,
+        "text": "2 ngày trong khách sạn thì không có nước, không đi sửa lại. Đi tắm không ra nước, không  đánh răng được. Phòng thì bé xíu. Mới vào là nhiều thứ bị hư. Reception không có ở đó 24/7. Muốn đi là đi.",
+        "when": ""
+      },
+      {
+        "author": "Thọ Lê Văn",
+        "rating": 0,
+        "text": "Khách sạn tuyệt đẹp, sạch, tiện nghi và hiện đại. Có hồ bơi và bãi đậu xe cho cả 50 chiếc. Nhà vệ sinh rỗng rãi và tiện nghi. Giá thì không tin nổi có 250k.\nTiếc xíu là không có phòng nào có cái bàn để máy tính để làm việc và không có hoá đơn đỏ cho dân công tác thường xuyên như mình. Đi chơi thì đúng ks này số 1 Đà Lạt",
+        "when": ""
+      },
+      {
+        "author": "HOANG LINH",
+        "rating": 0,
+        "text": "Hồ bơi nước ấm view đẹp, không gian thoáng... điểm trừ phòng đơn hơi nhỏ, mềm quá dày nên tối đắp thì nóng mà không đắp thì lạnh, nên điều chỉnh",
+        "when": ""
+      }
+    ],
+    "source": "google-maps"
+  },
+  "cherish-da-lat-homestay-x1": {
+    "lat": 11.9441217,
+    "lng": 108.4536042,
+    "img": "images/cherish-da-lat-homestay-x1.jpg",
+    "photos": [
+      "images/cherish-da-lat-homestay-x1.jpg",
+      "images/cherish-da-lat-homestay-x1-2.jpg",
+      "images/cherish-da-lat-homestay-x1-3.jpg",
+      "images/cherish-da-lat-homestay-x1-4.jpg"
+    ],
+    "price": 1,
+    "phone": "0383332580",
+    "rating": 4.8,
+    "reviews": 83,
+    "comments": [
+      {
+        "author": "Tâm Nguyễn",
+        "rating": 0,
+        "text": "Hiện tại không thể liên hệ với home để đặt phòng và fanpage cũng đã ngừng hoạt động ( hơi tiếc )\nMình ở hồi trước Tết 2025, đây là 1 trong những homestay có thể nói gần như ưng …",
+        "when": ""
+      },
+      {
+        "author": "Yona Nguyen",
+        "rating": 0,
+        "text": "Home mới làm lại phong cảnh kiểu hơi hàn quốc. Bạn nào có đi theo nhóm thì trải nghiệm nhé ☺️☺️☺️☺️☺️ xinh lắm ạ",
+        "when": ""
+      },
+      {
+        "author": "Do Ngoc Duy",
+        "rating": 0,
+        "text": "Nhóm mình ở phòng đôi 500k/đêm,chị chủ thân thiện, nhiệt tình hỗ trợ lấy phòng lúc 7h, chỗ này yên tĩnh, dễ di chuyển ra trung tâm,có sẵn thông tin thuê xe máy Sáng Thu ở trên bàn",
+        "when": ""
+      },
+      {
+        "author": "Trang Phạm",
+        "rating": 0,
+        "text": "Chị chủ home nice, hỗ trợ nhiệt tình, giá cả hợp lý, phòng ốc rộng rãi sạch sẽ, có cả máy sấy, ấm nước. Sân trước cũng thoáng, có thể đốt lửa sưởi ấm. Khu vực home yên tĩnh phù hợp cho bạn nào ko thích xô bồ nhưng lại gần hồ xuân hương.",
+        "when": ""
+      },
+      {
+        "author": "Minh Thư",
+        "rating": 0,
+        "text": "Vị trí gần trung tâm, phòng yên tĩnh gần gũi, tụi mình cảm thấy rất tự nhiên, chị chủ home siêu dễ thương, take care khách và dịch vụ đều rất thân thiện, siêu ưng Cherish",
+        "when": ""
+      },
+      {
+        "author": "Ly Na",
+        "rating": 0,
+        "text": "Tụi mình ở phòng đôi, rất rộng rải thoải mái. Chăn êm và thơm thoang thoảng, không có mùi thuốc tẩy như những home khác. Chị chủ rất nhiệt tình, dễ thương tiếp đón tụi mình chu đoán cực kì. Cửa chính giành riêng cho mọi người có mật khẩu khoá riêng nên an tâm lắm. Lần sau có dịp sẽ lại ghé",
+        "when": ""
+      },
+      {
+        "author": "Phạm Anh Thư Nguyễn",
+        "rating": 0,
+        "text": "Phòng sạch sẽ thoải mái, chủ home và nhân viên cực dễ thương luôn ý, sẽ quay lại nếu có dịppp tại vì quá đáng iuuuu💖💖 …",
+        "when": ""
+      },
+      {
+        "author": "Khánh Đinh Thị Vân",
+        "rating": 0,
+        "text": "Home rất okie nha. Mình ở ba người căn 2 PN mà rất rộng và thoải mái. Chị chủ cug rất nhiệt tình lun nè. Lần đầu book home chỗ như này quá tuyệt zời",
+        "when": ""
+      },
+      {
+        "author": "Thiện Toàn Võ",
+        "rating": 0,
+        "text": "Rất là dễ thương lun ạ, cho check in sớm và nhiệt tình thoải mái lắm ạ, có bãi đậu xe hơi, giờ giấc tự do ❤️",
+        "when": ""
+      },
+      {
+        "author": "Thu Huyền",
+        "rating": 0,
+        "text": "Phòng gọn gàng, sạch sẽ, chị quản lý nhiệt tình, home luôn tạo sự thoải mái cho khách, lần sau sẽ nhất định quay lại 🥰 …",
+        "when": ""
+      }
+    ],
+    "source": "google-maps"
+  },
+  "o-cua-mua-thu-da-lat-x1": {
+    "lat": 11.9339932,
+    "lng": 108.4248135,
+    "img": "images/o-cua-mua-thu-da-lat-x1.jpg",
+    "photos": [
+      "images/o-cua-mua-thu-da-lat-x1.jpg",
+      "images/o-cua-mua-thu-da-lat-x1-2.jpg",
+      "images/o-cua-mua-thu-da-lat-x1-3.jpg",
+      "images/o-cua-mua-thu-da-lat-x1-4.jpg"
+    ],
+    "price": 1,
+    "phone": "0918758317",
+    "rating": 4.1,
+    "reviews": 130,
+    "comments": [
+      {
+        "author": "Huy Nguyễn Quang",
+        "rating": 0,
+        "text": "Giá mình đặt trên app khá rẻ. Hơi xa trung tâm thành phố, đường vào hơi hẹp nhưng khi vào bên trong thì khuôn viên rất rộng, phù hợp cho đi cả nhóm gia đình hay bạn bè. Rất thích!!!",
+        "when": ""
+      },
+      {
+        "author": "Thành Thế Đoàn",
+        "rating": 0,
+        "text": "Hơn cả 5 sao luôn cho Home. Trước khi đến đây mình có đọc đánh giá thấy feedback chê đủ thứ, cũng làm mình lo lắng. Nhưng khi đến home rồi, mình cảm thấy như là Nhà luôn. Chị chủ home nhiệt tình, hỗ trợ mình lắm. Phòng ở cũng sạch sẽ, tiện …",
+        "when": ""
+      },
+      {
+        "author": "Hoàng Nguyễn",
+        "rating": 0,
+        "text": "Quá là 10đ cho một cái home . Bạn lễ tân siêu siêu nhiệt tình, take care quá trời quá đất. Home xinh lắm, sạch nữa, riêng tư. Có sân to đậu ô tô với không gian bếp rộng rãi đầy đủ nè. See u again!",
+        "when": ""
+      },
+      {
+        "author": "Trọng Hà",
+        "rating": 0,
+        "text": "Mn lên ĐL nên ghé đây nha. Giá tiền hợp lí , không gian tự do, view ok lắm nha. Ở đây chủ ngta hổ trợ tất cả và nhiệt tình cho mình lắm. Nói chung 10đ🥰 …",
+        "when": ""
+      },
+      {
+        "author": "Chang Changgg",
+        "rating": 0,
+        "text": "Ấn tượng đầu tiên khi đến home là mình đi loanh quanh 1 tiếng rưỡi nhưng không thấy ai hướng dẫn hay lễ tân đến để tiếp khách, mình chọn phòng có kính view tp với núi nhưng khi nhận thì phòng mình trông như nhà trọ ở quê ấy, view là view …",
+        "when": ""
+      },
+      {
+        "author": "Minh Đức",
+        "rating": 0,
+        "text": "Ui bạn lễ tân nhiệt tình và tâm lý kinh khủng, home hỗ trợ check in sớm và ảnh xách hành lí phụ nhóm tui vì thấy toàn là con gái nha mn... 10 điểmmmmm",
+        "when": ""
+      },
+      {
+        "author": "TA1-42-Lê Thị Thùy Trâm",
+        "rating": 0,
+        "text": "Tụi mình đã đặt phòng 2 ngày trước khi lên home trên traveloka và đã thanh toán trước. Hôm mình lên Đà Lạt hỏi home có hỗ trợ checkin sớm kh, thì nhận lại câu trả lời kêu mình CANCEL PHÒNG vì đã hết phòng rồi. Ủa là sao, sao kh tắt trên …",
+        "when": ""
+      },
+      {
+        "author": "Chí cường Trần",
+        "rating": 0,
+        "text": "Homestay thật sự rất tệ phòng rất nhỏ , bẩn, và rất ngộp. Hình trên các trang booking là đánh lừa khách hàng . Giá cả và chất lượng không đi đôi với nhau. Mình chưa từng ở nơi tệ như vậy.",
+        "when": ""
+      },
+      {
+        "author": "Nguyễn Việt Thy",
+        "rating": 0,
+        "text": "Dịch vụ tệ tự ý đơn phương hủy phòng và không liên lạc với khách để thông báo trước cho người ta sắp xếp trong khi đó đã thanh toán xong hết rồi đợi khách hàng tới nơi rồi thì mới nói là phòng đã bán :)))",
+        "when": ""
+      },
+      {
+        "author": "Thủy Thanh",
+        "rating": 0,
+        "text": "Làm ăn tệ, đã đặt cọc trc 1 tháng rồi mà qua còn bắt chờ phòng cả mấy tiếng. Kh biets nói gì nữa tệ",
+        "when": ""
+      }
+    ],
+    "source": "google-maps"
+  },
+  "dalat-truly-home-homestay-da-lat-view-dep-x1": {
+    "lat": 11.9237048,
+    "lng": 108.4429635,
+    "img": "images/dalat-truly-home-homestay-da-lat-view-dep-x1.jpg",
+    "photos": [
+      "images/dalat-truly-home-homestay-da-lat-view-dep-x1.jpg",
+      "images/dalat-truly-home-homestay-da-lat-view-dep-x1-2.jpg",
+      "images/dalat-truly-home-homestay-da-lat-view-dep-x1-3.jpg",
+      "images/dalat-truly-home-homestay-da-lat-view-dep-x1-4.jpg"
+    ],
+    "phone": "0966577544",
+    "rating": 4.7,
+    "reviews": 129,
+    "comments": [
+      {
+        "author": "Thanh Kim",
+        "rating": 0,
+        "text": "Truly có chiếc view núi đồi siêu đỉnh dù nắng hay mưa. Phòng xinh xĩu, sạch sẽ, tiện nghi đầy đủ, không gian ấm cúng và thoải mái như ở nhà. Thích nhất khu bếp của home lun, dụng cụ đầy đủ, tha hồ nấu nướng hihi. Vị trí gần trung tâm nên …",
+        "when": ""
+      },
+      {
+        "author": "KeyLock",
+        "rating": 0,
+        "text": "Mình vừa có chuyến ở 5 ngày 4 đêm tại TrulyHome. Điểm cộng là view đẹp, bếp có đủ dụng cụ và vườn rau, bé chó Chen rất dễ thương. …",
+        "when": ""
+      },
+      {
+        "author": "Phụng Trần Kim",
+        "rating": 0,
+        "text": "Mình thích sự thân thiện của các bạn ở Truly Home. Có lẽ vì các bạn chỉnh chu, thân thiện và tình cảm nên có thể khiến mình đã ở đây tận 3 năm và không có khái niệm dừng lại. …",
+        "when": ""
+      },
+      {
+        "author": "Anh Anh",
+        "rating": 0,
+        "text": "Mình cực thích chiếc home này!! Mọi thứ trên hình ảnh đều rất là đơn giản và mộc mạc, tầm giá cũng khá rẻ so với nhiều homestay khác. Cho tới khi mình tới tận nơi mình phải ồh wow bởi vì mọi thứ đều rất tuyệt! Phòng home rất thơm và sạch …",
+        "when": ""
+      },
+      {
+        "author": "Long Lê",
+        "rating": 0,
+        "text": "Phong cách cổ kính, view đẹp, có bé cún Chen rất dthw. Phù hợp cho cặp đôi hay hội nhóm thích phong cách cổ điển, đầy đủ nội thất. Tuyệt lắm nha mng🫵 …",
+        "when": ""
+      },
+      {
+        "author": "Ngân Trần",
+        "rating": 0,
+        "text": "Được trải nghiệm 4 ngày ở home, thật sự rất là chữa lành với cái view này 🥰, phòng đầy đủ tiện nghi, home takecare rất tốt 👍 …",
+        "when": ""
+      },
+      {
+        "author": "Hoàng Phạm",
+        "rating": 0,
+        "text": "2 ở đây được 4 ngày luôn á mấy út ơi, 2 phải nói với mấy út là cái home này nó chill mà nó thích nó ấm mà nó Local, nói chung là thích hợp phải là ở cả tháng với view đồi núi rừng thông, r kế bên là tháp truyền hình mà giá hạt dẻ. Bếp có, …",
+        "when": ""
+      },
+      {
+        "author": "Nguyen Helen",
+        "rating": 0,
+        "text": "Home có view siêu đẹp, đặc biệt nếu đi vào ngày nhiều sương, decor nghệ, có bạn Linh lễ tân dth siêu nhiệt tình, ngoài ra lễ tân còn có em trợ lý 4 chân siêu thân thiện với khách. Tuy nhiên có một số điểm trừ, do được làm từ gỗ nên phòng có …",
+        "when": ""
+      },
+      {
+        "author": "Thảo Nguyễn",
+        "rating": 0,
+        "text": "Home có view đẹp, decor nghệ lắm, có bạn nhân viên lễ tân dth siêu nhiệt tình ngoài ra lễ tân còn có em trợ lý 4 chân siêu thân thiện với khách. Chắc chắn sẽ quay lại vào lần sau.",
+        "when": ""
+      },
+      {
+        "author": "Quynh Anh",
+        "rating": 0,
+        "text": "Đến Truly 1 năm trước rồi nhưng bây giờ mới nhớ đánh giá cho Truly ❤️\n- Truly nằm ở con dốc Đống Đa kế bên BXLT nên rất thuận tiền đi lại (đối diện ks Century) dốc to rộng nên cũng thoải mái ko quá dốc đâu. Cung đường Đống Đa cùn …",
+        "when": ""
+      }
+    ],
+    "source": "google-maps"
+  },
+  "21a-1-dang-thai-than-phuong-3-da-lat-x1": {
+    "lat": 11.9295232,
+    "lng": 108.4488718,
+    "img": "images/21a-1-dang-thai-than-phuong-3-da-lat-x1.jpg",
+    "photos": [
+      "images/21a-1-dang-thai-than-phuong-3-da-lat-x1.jpg",
+      "images/21a-1-dang-thai-than-phuong-3-da-lat-x1-2.jpg",
+      "images/21a-1-dang-thai-than-phuong-3-da-lat-x1-3.jpg",
+      "images/21a-1-dang-thai-than-phuong-3-da-lat-x1-4.jpg"
+    ],
+    "price": 1,
+    "phone": "0972022289",
+    "rating": 4.5,
+    "reviews": 42,
+    "comments": [
+      {
+        "author": "Thảo Thanh",
+        "rating": 0,
+        "text": "Vị trí nằm cách chợ gần 3 cây số, cách bến xe liên tỉnh 2 cây. Cô chủ nhiệt tình, phòng có quạt,  máy lạnh ( không thấy hơi lạnh) may là không khí Đà lạt dễ chịu mở cửa thoáng. Sát bên nướng Khói mây tiện ăn uống. Có khu ngồi cafe và nướng …",
+        "when": ""
+      },
+      {
+        "author": "Hoàng Nam",
+        "rating": 0,
+        "text": "Sạch, phòng có view rất đẹp. Thiết bị trong phòng đầy đủ từ nước nóng, quạt, máy lạnh. Có khu sân vườn, bếp chung, nướng BBQ, đủ chỗ cho xe hơi. Chị chủ thân thiện, cần hỗ trợ gì mng cứ nhắn. Giá phải nói là RẺ. Đây là homestay view thung …",
+        "when": ""
+      },
+      {
+        "author": "Lê Nghị",
+        "rating": 0,
+        "text": "Vị trí tốt, đi đến chợ Đà Lạt 5 phút xe máy, cạnh homestay có quán coffee chất lừ Gạt Tàn Đời rất chill. Giá cả thì siêu rẻ. Cô chủ siêu nhiệt tình và tụi mình tuy là khách nhưng luôn được quan tâm như người thân trong gia đình, cần được hỗ …",
+        "when": ""
+      },
+      {
+        "author": "Đạt Lâm",
+        "rating": 0,
+        "text": "Một điểm đến khá tuyệt với, có chỗ nướng đồ cho cả gia đình ngắm cảnh đồi thông, tất cả các điểm check-in đều gần. Chỉ chủ khá thân thiện, sẽ quay lại lần sau.\nCác bn có dự định đi ĐL thì nhất định k bỏ qua địa điểm này.",
+        "when": ""
+      },
+      {
+        "author": "Truong Khanh Huyen",
+        "rating": 0,
+        "text": "Nhóm mình đi 18 người thuê luôn cái homestay ở 2 ngày tính ra có hơn 200k 1 người thui. Đồ dùng đầy đủ view đẹp, chủ nhà thân thiện lắm. Ở như ở nhà vậy. Tối tụi mình mua than về đốt nướng bbq. Sáng thì pha trà, cafe ngồi hưởng cái không …",
+        "when": ""
+      },
+      {
+        "author": "Mai Truong",
+        "rating": 0,
+        "text": "Thân thiện và thoải mái như ở nhà, vẫn chưa có dịp được ở phòng có view thung lũng siêu đẹp trên lầu.\nĐiểm trừ là cách âm phòng tầng trên và tầng dướ khá kém",
+        "when": ""
+      },
+      {
+        "author": "Duy Tân Lê",
+        "rating": 0,
+        "text": "Chị chủ nhiệt tình, thân thiện. Phòng khá ok. Sân vườn không rộng rãi như tưởng tượng khi nhìn qua hình trên face.",
+        "when": ""
+      },
+      {
+        "author": "Le, Huy Vu",
+        "rating": 0,
+        "text": "Chúng tôi khẩn thiết yêu cầu chủ nhà cần có nội quy cho khách trọ không nên quá ồn ào làm mất giấc ngủ của hàng xóm, mong rằng chủ nhà và khách trọ tôn trọng.\nMong lắm thay!",
+        "when": ""
+      },
+      {
+        "author": "Thái Đức Nhơn",
+        "rating": 0,
+        "text": "Nằm sau hồ Tuyền Lâm. Dọc đường đến quảng trường Lâm Viên có các tiệm như Bánh Căn, Lẫu gà lá é rất ngon",
+        "when": ""
+      },
+      {
+        "author": "Le0 Thi",
+        "rating": 0,
+        "text": "Phòng thoáng đãng,view yên tĩnh phù hợp vs ai thích nghĩ dưỡng. Chị chủ nhà rất nhiệt tình!",
+        "when": ""
+      }
+    ],
+    "source": "google-maps"
+  },
+  "alee-dalat-homestay-x1": {
+    "lat": 11.9281551,
+    "lng": 108.4223534,
+    "img": "images/alee-dalat-homestay-x1.jpg",
+    "photos": [
+      "images/alee-dalat-homestay-x1.jpg",
+      "images/alee-dalat-homestay-x1-2.jpg",
+      "images/alee-dalat-homestay-x1-3.jpg",
+      "images/alee-dalat-homestay-x1-4.jpg"
+    ],
+    "phone": "0983097075",
+    "rating": 5,
+    "reviews": 52,
+    "comments": [
+      {
+        "author": "Nhi Thảo",
+        "rating": 5,
+        "text": "Lần đầu mình đến với home An Yên - giống như tên. Không gian xung quanh rất yên, thoải mái, kế bên home là rừng thông nên càng chill hơn\nAnh chị chủ hỗ trợ rất nhiệt tình, khi có vấn đề gì khi ở cứ báo lại sẽ được …",
+        "when": "4 tháng trước"
+      },
+      {
+        "author": "Quới Nguyễn",
+        "rating": 5,
+        "text": "Một nơi đúng với tên gọi “An Yên”. Không chỉ người lớn tìm thấy sự thư giãn và bình yên giữa không gian Đà Lạt, mà các bé cũng rất vui vẻ, thoải mái và hạnh phúc. Không gian ấm cúng, sạch sẽ, yên tĩnh, phù hợp cho gia đình có trẻ nhỏ. …",
+        "when": "một tháng trước"
+      },
+      {
+        "author": "Namtran VT",
+        "rating": 4,
+        "text": "Không gian yên tĩnh. Chill chill. Gần trung tâm.Chủ hỗ trợ nhiệt tình thoải mái. …",
+        "when": "2 tuần trước"
+      },
+      {
+        "author": "Tài Lý",
+        "rating": 5,
+        "text": "Home xinh cực luôn .\nMình đi cùng gd nhỏ 4 ng ( 2 vc và 2 con )\nĐúng nghĩa là đi nghỉ dưỡng luôn á . Yên tĩnh thoải mái . …",
+        "when": "một tháng trước"
+      },
+      {
+        "author": "Do Eliza",
+        "rating": 5,
+        "text": "Home: Xinh, sạch và gần trung tâm. Cách Home vài phút có vài quán nướng, coffee...\nChủ home : rất nhiệt tình và take care khách.\nHi vọng tương lai Home phát triển thêm vài cái nữa.hihi😄😄 …",
+        "when": "4 tháng trước"
+      },
+      {
+        "author": "Ngọc Yến (Baby Pretty)",
+        "rating": 5,
+        "text": "Home siêu yêu. Chị chủ cũng dễ thương cực kì. Mến nơi yên bình này lắm. Đặc biệt là mình đã được ngủ rất ngon khi ở đây. Đó là điều không phải ở đâu cũng có. Mình vẫn sẽ quay lại đây nếu lên Đà Lạt. Siêu gần trung tâm. Nếu các bạn tìm nơi nghỉ dưỡng thì hãy đến An Yên nhé!✨💐🍀 …",
+        "when": "5 tháng trước"
+      },
+      {
+        "author": "Ngân Phạm",
+        "rating": 5,
+        "text": "10 điểm cho homestay An Yên\nChị chủ dễ thương, hỗ trợ nhiệt tình, home mới xây nên đồ còn mới tinh.\nVô home 1 cái là chỉ nghe tiếng chim kêu, tiếng chó sủa , không 1 âm thanh xe cộ …",
+        "when": "2 tháng trước"
+      },
+      {
+        "author": "Hương Quỳnh Phạm",
+        "rating": 5,
+        "text": "Tụi mình đã có trải nghiệm hết sức tận hưởng và tuyệt vời ở home khi nhận được sự hỗ trợ nhiệt tình từ anh chị chủ home mặc dù đến ngày đi về mới được gặp mặt. Home sạch, ngăn nắp, tiện dụng cho cả gia đình. Vô tình tìm được trên ggmap khi …",
+        "when": "3 tháng trước"
+      },
+      {
+        "author": "Tuyết Nhung Lê",
+        "rating": 5,
+        "text": "10 điểm không có nhưng!!!\n1 chiếc Home tinh tươm, sạch sẽ, yên bình, được chăm chút kỹ lưỡng bởi anh chị chủ rất tâm huyết và dễ thương - nhiệt tình - hiếu khách, đầy đủ tiện nghi như …",
+        "when": "6 tháng trước"
+      },
+      {
+        "author": "company olife",
+        "rating": 5,
+        "text": "Đây là 1 không gian tuyệt vời dành cho gia đình có trẻ nhỏ, nhóm bạn tầm 10 người yêu thiên nhiên. Đốt lửa ca hát,tâm sự.\nThiết kế không gian nhỏ gọn ấm áp. Các góc lên hình đẹp. …",
+        "when": "6 tháng trước"
+      }
+    ],
+    "source": "google-maps"
+  },
+  "thung-lung-may-homestay-x1": {
+    "lat": 11.9323114,
+    "lng": 108.4159274,
+    "img": "images/thung-lung-may-homestay-x1.jpg",
+    "photos": [
+      "images/thung-lung-may-homestay-x1.jpg",
+      "images/thung-lung-may-homestay-x1-2.jpg",
+      "images/thung-lung-may-homestay-x1-3.jpg",
+      "images/thung-lung-may-homestay-x1-4.jpg"
+    ],
+    "price": 1,
+    "phone": "0968225305",
+    "rating": 4.3,
+    "reviews": 382,
+    "comments": [
+      {
+        "author": "Cẩm Nhung",
+        "rating": 0,
+        "text": "Không bao giờ quay lại home này☹️☹️\nCảm nhận của mình khi ở đây 3 ngày 2 đêm cực kỳ tệ khi ở đây, lần đâu tiên mà đi chơi chỉ muốn nhanh trả phòng chứ k muốn ở thêm …",
+        "when": ""
+      },
+      {
+        "author": "Happiness22309689076",
+        "rating": 0,
+        "text": "phòng đẹp view ổn, những chú chó dễ thương, mình đi 3 ngày 2 đêm dính vào dịp lễ nên giá phòng khác nhau giữa các ngày. Nên khi tính tiền có nhiều sự nhầm lẫn hoặc lễ tân không nói rõ về giá cả và thời gian về việc mượn xe máy trước đó nên …",
+        "when": ""
+      },
+      {
+        "author": "Ngân Kim",
+        "rating": 0,
+        "text": "TỆ CỰC TỆ. phòng cực kì ẩm, bụi, kiến rồi bọ nhưng khi hỏi chủ home thì lại kh có chai xịt kiến. Phòng siêu chật, máy quạt thì nằm trong góc kh mát được trong khi buổi trưa tháng 4 dalat khá nóng. …",
+        "when": ""
+      },
+      {
+        "author": "Ngọc Duy Nguyễn",
+        "rating": 0,
+        "text": "Phòng ốc oke, yên tĩnh đã đến đây lần 2, lần tới nếu có việc vẫn lựa chọn quay lại nơi này ♥️",
+        "when": ""
+      },
+      {
+        "author": "Bui Bui",
+        "rating": 0,
+        "text": "Ưu điểm giá rẻ 200k 1 đêm, vị trí gần trung tâm, view thung lũng.có vườn và tiểu cảnh dễ thương.\nNhược điểm giá rẻ nên ko đc phục vụ chu đáo, ko thay khăn, ko thay bàn chải, ko …",
+        "when": ""
+      },
+      {
+        "author": "Nhân Mỹ",
+        "rating": 0,
+        "text": "Mình đến đây hai rồi mà vẫn mê. Không khí trong lành, view núi siêu chill, buổi sáng ngồi nhâm nhi cà phê ngắm mây là thấy đáng lắm luôn ☁️☕️",
+        "when": ""
+      },
+      {
+        "author": "Thắng Nguyễn",
+        "rating": 0,
+        "text": "5 sao ✅✅✅✅✅\nGiá phòng từ 2xx đến 5xx\n-------- …",
+        "when": ""
+      },
+      {
+        "author": "Linh Huynh",
+        "rating": 0,
+        "text": "Chỗ này cho ai thích yên tĩnh đi nhẹ nói khẽ cười duyên thôi nha \"như cái chùa \" còn thêm đối diện nguyên khu mộ nữa combo\nÀ vô đây ở chuẩn bị 5g mạnh nha …",
+        "when": ""
+      },
+      {
+        "author": "Quao A",
+        "rating": 0,
+        "text": "7 năm quay lại vẫn cảm giác như 7 năm .",
+        "when": ""
+      },
+      {
+        "author": "Uyên Đặng",
+        "rating": 0,
+        "text": "Review này dành cho những bạn đang đưa homestay này vào list nên ở, mình không muốn các bạn đau khổ giống mình. Mình chưa bao giờ du lịch mà phải ở một nơi như vậy vì lỡ đặt cọc. TỆ CỰC TỆ. Ngay khoảnh khắc mình bước vào check in thì phòng …",
+        "when": ""
+      }
+    ],
+    "source": "google-maps"
+  },
+  "tui-mo-homestay-da-lat-x1": {
+    "lat": 11.9853849,
+    "lng": 108.4251317,
+    "img": "images/tui-mo-homestay-da-lat-x1.jpg",
+    "photos": [
+      "images/tui-mo-homestay-da-lat-x1.jpg",
+      "images/tui-mo-homestay-da-lat-x1-2.jpg",
+      "images/tui-mo-homestay-da-lat-x1-3.jpg",
+      "images/tui-mo-homestay-da-lat-x1-4.jpg"
+    ],
+    "phone": "0903020293",
+    "rating": 4.9,
+    "reviews": 114,
+    "comments": [
+      {
+        "author": "Quyên Dương Tú",
+        "rating": 1,
+        "text": "Đặt page chính chủ fb vì thấy hình phòng ốc và không gian xung quanh khá chill và thơ. Tuy nhiên khi đến nơi theo địa chỉ page thì chị chủ lại bảo sang địa chỉ khác trên đường Đặng Thái Thân. View xung quanh không có gì hết, như 2 căn nhà …",
+        "when": "một tháng trước"
+      },
+      {
+        "author": "Net Noft",
+        "rating": 5,
+        "text": "Cho home 5 sao:\n- 5* cho địa điểm, cho dân ultra trail dalat, gần thung lũng tình iu, địa điểm tổ chức hàng năm …",
+        "when": "3 tháng trước"
+      },
+      {
+        "author": "hien nguyen",
+        "rating": 5,
+        "text": "chiếc home bên đặng thái thân vừa rộng lại gần trung tâm ở 2 người mà nguyên căn riêng tư luôn. tui nói nó đã oh wow luôn. quá xinh quá xịn cho căn này luôn.",
+        "when": "3 tuần trước"
+      },
+      {
+        "author": "Nghĩa Bùi Trọng",
+        "rating": 5,
+        "text": "Mình chọn home này cho ngày cuối cùng ở Đà Lạt, cực kỳ ưng ý, nếu có dịp lên nghỉ dưỡng mình sẽ quay lại. Home cắm hoa cũng xinh xắn. Có nhiều sen đá, decor gần gũi xinh xắn. Đi xuống tí thấy có mấy cây hoa anh đào cũng khá to, ngang tầm …",
+        "when": "5 tháng trước"
+      },
+      {
+        "author": "anh the",
+        "rating": 5,
+        "text": "Chủ quán siêu nhiệt tình. Home vibe rất đà lạt mà giá tốt lắm.\nNgày thường chỉ 600k cuối tuần là 650k, giá là tốt nhất đà lạt rùi. Mọi người ghé trải nghiệm he, nếu ai lần đầu đi dalat thì xin luôn lịch trình bạn ý lên cho tiện, nói gì thì nói người gốc ở đây lên lịch trình vẫn là oke nhất ❤️",
+        "when": "3 tháng trước"
+      },
+      {
+        "author": "Klassu",
+        "rating": 5,
+        "text": "Home mình view đẹp quá nè, tụi em toàn mua về nấu rồi ăn trước nhà. Bạn em bắt đền chị có home xinh quá nên tụi em hong đi ăn ngoài được nhiều nè ;p",
+        "when": "2 tháng trước"
+      },
+      {
+        "author": "WIC Store - Thuê Vest nam Hà Nội",
+        "rating": 5,
+        "text": "Trải nghiệm bình yên vô cùng. Chủ nhà dễ thương, chiều khách lắm ạ. Nhà ấm cúng, bếp bát sạch sẽ. Mình ở 2 đêm, tự nấu cơm, ngắm trời ngắm đất, rất dễ chịu để trốn phố mà ko bị xa xôi vì đà lạt cũng nhỏ. Mọi người nên ở thử 🌷🌷🌷 phải thử. Phải thử 🌈🌈🌈🌈🌈 …",
+        "when": "2 tháng trước"
+      },
+      {
+        "author": "Đại Phú Nguyễn",
+        "rating": 5,
+        "text": "Đi cái home này ngay cái mùa hoa anh đào mà nó đã, ý là chỉ cần ở trong home thui á hông cần đi đâu luôn.\nỞ đây có 2 căn: …",
+        "when": "5 tháng trước"
+      },
+      {
+        "author": "Hưng Lê",
+        "rating": 4,
+        "text": "Homestay chill, không gian yên tĩnh, thoải mái, đa dụng hỗ trợ đầy đủ mọi thứ cho nhóm. Có điều về private thì ko đảm bảo lắm. Khách trước gửi đồ và đêm thì đến lấy, thuê nhưng vẫn có người lạ ra vào",
+        "when": "2 tháng trước"
+      },
+      {
+        "author": "vi tường",
+        "rating": 5,
+        "text": "Home xinh quá trời luôn ạ, vibe thơ thơ rất phù hợp cho nhóm luôn nà. Chị chủ siêu nhiệt tình và dễ thương luôn. 100 đỉm",
+        "when": "3 tháng trước"
+      }
+    ],
+    "source": "google-maps"
+  },
+  "homestay-da-lat-the-november-stay-x1": {
+    "lat": 11.9380654,
+    "lng": 108.4643048,
+    "img": "images/homestay-da-lat-the-november-stay-x1.jpg",
+    "photos": [
+      "images/homestay-da-lat-the-november-stay-x1.jpg",
+      "images/homestay-da-lat-the-november-stay-x1-2.jpg",
+      "images/homestay-da-lat-the-november-stay-x1-3.jpg",
+      "images/homestay-da-lat-the-november-stay-x1-4.jpg"
+    ],
+    "price": 1,
+    "phone": "0896466696",
+    "rating": 4.9,
+    "reviews": 28,
+    "comments": [
+      {
+        "author": "Bá Vũ",
+        "rating": 0,
+        "text": "Nằm trên 1 con hẻm đoạn giữa đường Hoàng Hoa Thám, đầu hẻm có bảng kem Việt Hưng to đùng nói ra là tải xế trung chuyển đều biết, tóm lại là dễ tìm. Phòng rất rộng rãi thoải mái (đây là cái mình thích nhất ở home), view khá chill, có nhiều …",
+        "when": ""
+      },
+      {
+        "author": "Hailey (Milk)",
+        "rating": 0,
+        "text": "Mình được bạn bè giới thiệu nên biết đến An Yên Villa, hihi đúng gu tui: LÊN ĐÀ LẠT LÀ PHẢI TÌM MỘT NƠI NGỦ THẬT ĐÃ , THẬT CHILL 😂:\n🌸 ĐIỂM CỘNG: …",
+        "when": ""
+      },
+      {
+        "author": "Linh Vo",
+        "rating": 0,
+        "text": "Vườn An Yên rất nhiều mảng xanh, ai thích cây cối thì đây đúng bài, chill với tiếng ve kêu cả ngày",
+        "when": ""
+      },
+      {
+        "author": "Khanh Bui",
+        "rating": 0,
+        "text": "- Vị trí: ngày nào cũng ra vào oto đường hoàng hoa thám hơi rén vì dốc cũng cao, có chỗ đậu oto, phải đi bộ xuống 1 cái dốc nhỏ mới tới home. Gần tiệm gà đồi Mr Right, dalat moutain view, natureside, có quán bánh căn local gần home. …",
+        "when": ""
+      },
+      {
+        "author": "JJ",
+        "rating": 0,
+        "text": "Villa rất là chill, phòng mình book là studio rất đẹp và chill lắm, phòng ngủ ngay cửa kính nhìn ra bầu trời đẹp lắm. Sẽ quay trở lại vào 1 ngày ko xa. ❤️😌Ngày về ngồi sảnh chờ xe mà mưa nhẹ, được anh đẹp trai tặng cho 2 ly trà đào nóng hổi thích lắm.. Ưng hết mức 5 saooo cho Villa tuyệt vời ạ. …",
+        "when": ""
+      },
+      {
+        "author": "Hồ Trọng Tín",
+        "rating": 0,
+        "text": "Căn studio rộng rãi, giá tốt, view nhìn ra thung lũng siêu đẹp, đợt mình đi tối có mây.\nHome có 2 bé chó siêu cute, có khu bbq & đốt lửa rộng rãi.",
+        "when": ""
+      },
+      {
+        "author": "Lê Xuân Cường",
+        "rating": 0,
+        "text": "Gia đình 2 vợ chồng và 1 em bé 3 tuổi, ở phòng studio.\nCăn Villa ở trong hẻm nên khá yên tĩnh, view đẹp nhìn thẳng ra thung lũng.\nNội thất cơ bản, nhưng đầy đủ cho 2 ngày khám phá Đà Lạt. Đặc biệt là chăn và …",
+        "when": ""
+      },
+      {
+        "author": "trjhadc",
+        "rating": 0,
+        "text": "Anh chị chủ cực kỳ mến khách và nhiệt tình vui vẻ.\nMọi thứ ở đây đều ok, sạch sẽ và thoải mái như không đông đúc ồn ào, cảm giác như 1 Đà Lạt ngày xưa. …",
+        "when": ""
+      },
+      {
+        "author": "Thương Thương Trần",
+        "rating": 0,
+        "text": "Chất lượng dịch vụ tốt. Hỗ trợ nhiệt tình. Nhưng phòng thì mình k hài lòng tí, phòng mình ở là phòng đơn k view, đi ngoài về phòng thì phòng khá nóng.",
+        "when": ""
+      },
+      {
+        "author": "Truong Tu",
+        "rating": 0,
+        "text": "Anh chị chủ rất nhiệt tình, home yên tĩnh, thân thiện\nKhông cách xa chợ lắm",
+        "when": ""
+      }
+    ],
+    "source": "google-maps"
+  },
+  "nang-mai-homestay-x1": {
+    "lat": 11.9265576,
+    "lng": 108.4393853,
+    "img": "images/nang-mai-homestay-x1.jpg",
+    "photos": [
+      "images/nang-mai-homestay-x1.jpg",
+      "images/nang-mai-homestay-x1-2.jpg",
+      "images/nang-mai-homestay-x1-3.jpg",
+      "images/nang-mai-homestay-x1-4.jpg"
+    ],
+    "price": 1,
+    "phone": "0344953960",
+    "rating": 4.9,
+    "reviews": 177,
+    "comments": [
+      {
+        "author": "Bửu Quyên Huỳnh",
+        "rating": 0,
+        "text": "Home ko có gì để chê trừ việc giường hơi bé tí. Mưa gió thì ở home ăn ngủ ngắm view thành phố cũng chill lắm. Lần sau chắc chắn sẽ quay lại. Anh lễ tân tên Trí rất nhiệt tình, xứng đáng có 10ng iu nha. 🫰😎 …",
+        "when": ""
+      },
+      {
+        "author": "Nhung Tăng T Ngọc",
+        "rating": 0,
+        "text": "Mình mới về luôn. Phòng oke sạch sẽ. Anh chủ rất nhiệt tình dễ thương. Mượn cái bàn ủi mà ảnh kêu để ảnh đem lên phòng luôn cho. Hehe. Ngay khu vực này đón gió nhiều nên lúc mình đi nhiều đợt gió lớn lắm.",
+        "when": ""
+      },
+      {
+        "author": "Tử Linh Tống",
+        "rating": 0,
+        "text": "Phòng đẹp sạch sẽ, view chất lượng lắm. Bạn Trí lễ tân siêu dễ thương, đề nghị chủ home tăng lương cho bạn nha vì bạn nhiệt tình, chăm sóc khách lắm, đợt sau lên là phải ghé ở nữa.",
+        "when": ""
+      },
+      {
+        "author": "Nguyễn Thiện",
+        "rating": 0,
+        "text": "Homestay cực kỳ đẹp, sạch sẽ và được chăm chút từng góc nhỏ. Không gian yên tĩnh, view xịn, lên hình góc nào cũng đẹp. Chủ nhà thân thiện, hỗ trợ nhiệt tình. Một nơi rất đáng để nghỉ dưỡng và chắc chắn sẽ quay lại trong những chuyến đi tới!",
+        "when": ""
+      },
+      {
+        "author": "Bti Thuy",
+        "rating": 0,
+        "text": "Tui mới trả phòng hôm nay, Phòng view đẹp, anh chủ dễ thương thân thiện , nhiệt tình quá trời, Home ngay đường lớn xe chạy, lúc đi xe dừng ngay hẻm chỉ xách vali đi 5 bước là tới Home luôn quá tiện. Home còn có phòng bếp ăn uống cho gia đình quá đẹp, rộng. Lần sau tui sẽ ghé nữa. Mọi ng nên tới đây trãi nghiệm 1 lần là ghiền nhen.",
+        "when": ""
+      },
+      {
+        "author": "Bông g",
+        "rating": 0,
+        "text": "Phòng sạch sẽ, giá ok, mn nên book sớm để có phòng ban công view siêu đẹp.\nHome gần bxe liên tỉnh và cũng gần trung tâm nữa rất tiện đi lại.\nAnh chủ dễ thương, hỗ trợ nhiệt tình.",
+        "when": ""
+      },
+      {
+        "author": "Thi Nguyễn",
+        "rating": 0,
+        "text": "Mọi thứ từ ngày đầu tiên tới ngày check out vẫn rất okkkk. Phòng sạch thơm. Đầy đủ tiện nghi. Có bánh nước free, có view đi ngủ siu đã Có phòng là anh lễ tân cho vào sớm lunn🥹. Home 5 sao còn anh lễ tân đẹp troai nhiệt tình xin phép chấm 1000 saooo✨✨✨ …",
+        "when": ""
+      },
+      {
+        "author": "Đinh Như Gia Bảo",
+        "rating": 0,
+        "text": "Phòng sạch, thoáng và rộng rãi, địa điểm yên tĩnh không đông đúc, phù hợp cho gia đình từ già tới trẻ nha. Chủ home cực kì nhiệt tình nha mọi người, giao tiếp tốt và cũng thân thiện. Nếu mn không biết đi đâu có thể hỏi anh chủ mấy địa điểm …",
+        "when": ""
+      },
+      {
+        "author": "Vy Tieu",
+        "rating": 0,
+        "text": "Không biết đánh giá sao lun ấyyy. Trải nghiệm cực kì dễ thương 🥹\n\nMình đi gia đình 4ng, 3n2đ. Anh quản lí cực kì cực kì nhiệt tình, tâm lí, liên …",
+        "when": ""
+      },
+      {
+        "author": "Bảo Nhi",
+        "rating": 0,
+        "text": "View đẹp quá chill. Vị trí cũng thuận tiện gần trung tâm. Thích hợp cho kỳ nghỉ hoặc du lịch với gia đình. 5 sao tặng home",
+        "when": ""
+      }
+    ],
+    "source": "google-maps"
+  },
+  "d-house-dalat-x1": {
+    "lat": 11.9306624,
+    "lng": 108.4643133,
+    "img": "images/d-house-dalat-x1.jpg",
+    "photos": [
+      "images/d-house-dalat-x1.jpg",
+      "images/d-house-dalat-x1-2.jpg",
+      "images/d-house-dalat-x1-3.jpg",
+      "images/d-house-dalat-x1-4.jpg"
+    ],
+    "price": 1,
+    "phone": "0392006743",
+    "rating": 4.5,
+    "reviews": 250,
+    "comments": [
+      {
+        "author": "Đạt Nguyễn",
+        "rating": 0,
+        "text": "Trải nghiệm rất thất vọng. Villa không như hình ảnh quảng cáo, phòng ốc xuống cấp, không sạch sẽ và dịch vụ không xứng đáng với số tiền bỏ ra. Nhân viên thiếu nhiệt tình, cách hỗ trợ khách hàng rất kém",
+        "when": ""
+      },
+      {
+        "author": "Nam",
+        "rating": 0,
+        "text": "Homestay có view rừng thông đẹp hiếm có ở Đà Lạt. Không gian xanh, villa được decor tinh tế và y hình như ảnh. Sáng sớm có thể săn mây ngay tại khuôn viên – điểm cộng rất lớn. Nhân viên thân thiện, phục vụ chu đáo. Tổng thể: D House xứng đáng 10/10, đáng để giới thiệu cho bạn bè và quay lại lần sau",
+        "when": ""
+      },
+      {
+        "author": "Thuat Phung",
+        "rating": 0,
+        "text": "Tụi mình đi nhóm bạn 5 người, chọn D House vì thấy review tốt – và đúng là không sai! Phòng y hình tư vấn, decor xịn, view rừng thông cực đỉnh, sáng sớm săn mây được luôn. Không gian nhiều cây xanh, cực chill. Mấy bạn nhân viên thân thiện, …",
+        "when": ""
+      },
+      {
+        "author": "Trường An Nguyễn",
+        "rating": 0,
+        "text": "home chỉ đuoc cái view phòng k hợp lí với giá tiền , tv k xem đuoc , nóng k có quạt , tolet vừa vào thì có mùi rất hôi . Thật sự thất vọng về home lần này",
+        "when": ""
+      },
+      {
+        "author": "Nhi Lê",
+        "rating": 0,
+        "text": "Lần đầu ở D House và thật sự ấn tượng. Villa siêu xinh, đầy đủ tiện nghi như ở nhà. Vị trí quá đẹp, sát bên mấy chỗ hot bình minh ơi, mây lang thang. Có bãi đậu ô tô tận nơi, rất tiện cho gia đình mình đi xe riêng. Không gian nhiều cây xanh, view nhìn ra cực chill. Sẽ quay lại!",
+        "when": ""
+      },
+      {
+        "author": "Trinh bbp",
+        "rating": 0,
+        "text": "Mình đã đi ĐL rấttt nhiều lần thì thấy giá thuê tại đây so với các home khác thì hoàn toàn không xứng đáng. Home được cái view phía sau còn phòng chỉ đáng giá 250k/đêm. …",
+        "when": ""
+      },
+      {
+        "author": "Trang Nguyễn",
+        "rating": 0,
+        "text": "Phòng ốc tại homestay được thiết kế xinh xắn, gọn gàng và luôn sạch sẽ, tạo cảm giác thoải mái cho khách khi nghỉ ngơi. Vị trí homestay nằm ngay khu vực trung tâm, rất thuận tiện để di chuyển đến các điểm tham quan nổi tiếng của Đà Lạt, lại …",
+        "when": ""
+      },
+      {
+        "author": "ngoc phung vo",
+        "rating": 0,
+        "text": "Review D House Đà Lạt - Homestay Thân Thiện\n\nChào mọi người! Hôm nay mình muốn chia sẻ một trải nghiệm tuyệt vời mà mình vừa …",
+        "when": ""
+      },
+      {
+        "author": "Chiêu Đoan Nguyễn Đặng",
+        "rating": 0,
+        "text": "Mình chỉ có 2 ngày 1 đêm ở Đà Lạt nên muốn tìm một nơi thật yên tĩnh để nghỉ ngơi, và D House là lựa chọn hoàn hảo. Homestay có không gian tách biệt với đường phố nhộn nhịp người qua lại, buổi sáng còn nghe được tiếng chim hót chill chill. …",
+        "when": ""
+      },
+      {
+        "author": "Ngọc Bùi",
+        "rating": 0,
+        "text": "Lần thứ hai quay lại D House Dalat và cảm giác vẫn tuyệt vời như lần đầu. Kỳ nghỉ cùng gia đình trọn vẹn từ lúc đặt chân đến. Dù thời tiết có lúc mưa, lúc nắng, nhưng mỗi khoảnh khắc đều mang một vẻ đẹp riêng, khiến nơi này càng đáng nhớ. …",
+        "when": ""
+      }
+    ],
+    "source": "google-maps"
+  },
+  "thung-ca-homestay-da-lat-x1": {
+    "lat": 11.9306464,
+    "lng": 108.4504901,
+    "img": "images/thung-ca-homestay-da-lat-x1.jpg",
+    "photos": [
+      "images/thung-ca-homestay-da-lat-x1.jpg",
+      "images/thung-ca-homestay-da-lat-x1-2.jpg",
+      "images/thung-ca-homestay-da-lat-x1-3.jpg",
+      "images/thung-ca-homestay-da-lat-x1-4.jpg"
+    ],
+    "phone": "0785225525",
+    "rating": 4.8,
+    "reviews": 59,
+    "comments": [
+      {
+        "author": "Luu Hung",
+        "rating": 5,
+        "text": "Nhóm mình đã lưu trú 2 ngày 1 đêm tại Thung Ca. Lối đi bậc thang dẫn xuống Nhà là một signature của Home. Các bạn trong home nhiệt tình vui vẻ, hướng dẫn chu đáo và tận tình cách sử dụng vật dụng và thiết bị sẵn có. Nhà vệ sinh cho khách …",
+        "when": "2 tháng trước"
+      },
+      {
+        "author": "Linh Thùy (Linh San)",
+        "rating": 5,
+        "text": "Thung Ca ấm áp lắm <3\nNằm gọn trong thung lũng, xung quanh là núi đồi và cây xanh, cảm giác như đặt chân vào 1 thế giới khác,  tách biệt, không ồn ào …",
+        "when": "6 tháng trước"
+      },
+      {
+        "author": "Trinh Trinh",
+        "rating": 5,
+        "text": "Tụi mình đã có trải nghiệm tuyệt vời ở đây, home buổi tối rất chill, nướng thịt nghe nhạc cảm giác rất thư giãn. Chị chủ ở home cute và rất nhiệt tình. Các bạn nên thử uống cafe sữa đá tại home do chị chủ pha nha, rất ngonnnnnnnn🫶 …",
+        "when": "4 tháng trước"
+      },
+      {
+        "author": "Thị Hồng Na Vương",
+        "rating": 5,
+        "text": "Gia đình mình đến và đã được chữa lành ở đây 🩷📋⭐️🍀 …",
+        "when": "một tháng trước"
+      },
+      {
+        "author": "Khanh Vy Ho",
+        "rating": 5,
+        "text": "Có lẽ là homestay mà mình thích nhất từ trước giờ, nơi mà mọi người có thể giao lưu, kết nối và chia sẻ những câu chuyện của mỗi người. Ở home, mình mới có thể cảm nhận được một chút về cuộc sống thường nhật của người dân ở Đà Lạt. …",
+        "when": "một năm trước"
+      },
+      {
+        "author": "Nhật Nam Nguyễn",
+        "rating": 5,
+        "text": "Thật may mắn khi biết đến Thung Ca, một địa điểm đáng nhớ và thực sự mang lại cảm giác bình yên cho mình. Mình rất  thích cảnh vật cũng như những người bạn đã có cơ hội gặp gỡ tại nơi đây. Cảm ơn Thung Ca vì những kỷ niệm đáng nhớ, một nơi để lại ấn tượng khó quên trong khoảng thời gian ngắn ở Đà Lạt của mình.",
+        "when": "một năm trước"
+      },
+      {
+        "author": "Trúc Green",
+        "rating": 5,
+        "text": "Siu dễ thưn, siu thân thiện, siu chill và siu healing. Nếu bạn muốn một không gian tách biệt với thế giới rộn ràng, thung ca là lựa chọn lý tưởng nha. Mình đi 2 lần và mọi trải nghiệm đều tuyệt vời. …",
+        "when": "2 năm trước"
+      },
+      {
+        "author": "Vo Bao Duy",
+        "rating": 5,
+        "text": "(+) Nhà gỗ, phòng mát, nhiều muỗi (ko có j bất ngờ), 3 toilet sạch, 2 bn chó có 1 bn cuti còn 1 bn thì hay cạp (hết cmn hồn 🙂) nhma cũng ok đi, anh Thoại dth, chiu vãi, pha đồ uống ngon ngọt, nói chung tuyệt vời. …",
+        "when": "2 năm trước"
+      },
+      {
+        "author": "Tien Truong",
+        "rating": 5,
+        "text": "Một chiếc home xinh xắn ấm áp🥰 …",
+        "when": "4 tháng trước"
+      },
+      {
+        "author": "Th Nguyen",
+        "rating": 5,
+        "text": "Ngoài 1000 góc để sống ảo dưới khu vườn mênh mông thì còn 100 góc để ngồi chill cùng bạn bè từ sáng sớm ngắm bình minh đến chiều tà ngắm hoàng hôn nữa. Home xịn sò để tụ tập bạn bè đàn hát ăn nhậu :))) nhất là rượu của chủ home hơi bị ngonnnn",
+        "when": "5 năm trước"
+      }
+    ],
+    "source": "google-maps"
+  },
+  "andalat-homestay-x1": {
+    "lat": 11.9412588,
+    "lng": 108.4653128,
+    "img": "images/andalat-homestay-x1.jpg",
+    "photos": [
+      "images/andalat-homestay-x1.jpg",
+      "images/andalat-homestay-x1-2.jpg",
+      "images/andalat-homestay-x1-3.jpg",
+      "images/andalat-homestay-x1-4.jpg"
+    ],
+    "price": 1,
+    "phone": "0786808080",
+    "rating": 4.7,
+    "reviews": 218,
+    "comments": [
+      {
+        "author": "GoPlaces23212987569",
+        "rating": 0,
+        "text": "Mình đã ở đây 2 lần. Lần nào cũng có trải nghiệm tốt Chỗ ở sạch sẽ, thoải mái, có phục vụ đồ ăn sáng và đồ uống. Các bạn nhân viên siêu nhiệt tình và thân thiện, đã hỗ trợ mình rất nhiều. Nếu có dịp thì mình vẫn sẽ quay lại.",
+        "when": ""
+      },
+      {
+        "author": "Thuy Dinh",
+        "rating": 0,
+        "text": "Nhà An đón mình bằng hàng cẩm tú cầu  ướt sương rung rinh trong nắng sớm Đà Lạt, mình sẽ nhớ mãi ☺️\nNhà xây bên sườn đồi, không có thang máy, nhưng như vậy mới thật Đà Lạt. Phòng …",
+        "when": ""
+      },
+      {
+        "author": "phan ha",
+        "rating": 0,
+        "text": "Andalat là một chiếc homestay vô cùng đáng yêu, nhiều cỏ cây, hoa lá và có view thung lũng thoáng đãng.\nNhững điểm cộng: …",
+        "when": ""
+      },
+      {
+        "author": "Trinh Le",
+        "rating": 0,
+        "text": "Phòng đẹp, không gian thoải mái, đầy đủ tiện nghi, sach sẽ, decor xinh, quán cafe của home cũng xinh, từ quán có thể ngắm mây, sương mù. Lễ tân và các bạn nhân viên hoà đồng thân thiện. Sẽ quay lại nếu có dịp lên Đà Lạt. À dâu tây sấy ở Home cũng ngon nữa",
+        "when": ""
+      },
+      {
+        "author": "Yến Lê",
+        "rating": 0,
+        "text": "Một homestay khá dễ thương. Xung quanh Home toàn là hoa, với decor mọi thứ khá tinh tế, có hồn riêng. Mình cảm thấy thật dễ chịu và có thể thả hồn cả ngày ở đây luôn đấy. Home có thêm quán cà phê ngay bên trong luôn, chill ơi là chill, ngồi …",
+        "when": ""
+      },
+      {
+        "author": "Phuc Pham",
+        "rating": 0,
+        "text": "Phòng đẹp dễ thương .Đồ ăn sáng khá ngon\nNhân viên rất dễ thương\nNhóm mình đến sớm nhận phòng trước 3-4 tiếng ko tính phụ thu . Kê thêm 1 giường …",
+        "when": ""
+      },
+      {
+        "author": "Kim Dư Ly THi",
+        "rating": 0,
+        "text": "Phòng sạch sẽ, trong phòng khá thơm, decor đẹp, nhân viên nhiệt tình, đặc biệt toilet sạch sẽ và thơm, có bao gồm luôn bữa sáng cho khách. Có quán cà phê trong homestay có thể ngắm cảnh. Đây là một trong những homestay mình rất thích ở ĐL, recommend mọi người đến đây lưu trú.",
+        "when": ""
+      },
+      {
+        "author": "Kế Toán Tổng Hợp",
+        "rating": 0,
+        "text": "Mình đã có trải nghiệm 3 ngày 2 đêm tại AnDalat. Phòng sạch sẽ, thoáng mát, tiện nghi đầy đủ. Nhân viên thân thiện, nhiệt tình. Vị trí thuận tiện, gần trung tâm. Giá cả hợp lý so với chất lượng. Mình chắc chắn sẽ quay lại và giới thiệu cho bạn bè. 👍 …",
+        "when": ""
+      },
+      {
+        "author": "Nguyễn Ngọc Quỳnh Trâm - LQĐ",
+        "rating": 0,
+        "text": "Gia đình đến lúc 6h sáng nhưng các bạn nhân viên vẫn cho nhận phòng mà không tính phí phát sinh. Không gian thơ mộng. Bữa sáng ngon. Phòng sạch sẽ. Nhân viên rất nhiệt tình và thân thiện.",
+        "when": ""
+      },
+      {
+        "author": "nguyen thanh",
+        "rating": 0,
+        "text": "1 trong những home mình thích nhất về mặt năng lượng- có mộ cảm giác ấm cúng. Home dùng đồ nội địa nhật nhiều, đặc biệt cái bộ sưởi nhà tắm thì tuyệt vời.",
+        "when": ""
+      }
+    ],
+    "source": "google-maps"
+  },
+  "nguyen-tai-hostel-coffee-da-lat-x1": {
+    "lat": 11.9483508,
+    "lng": 108.4357508,
+    "img": "images/nguyen-tai-hostel-coffee-da-lat-x1.jpg",
+    "photos": [
+      "images/nguyen-tai-hostel-coffee-da-lat-x1.jpg",
+      "images/nguyen-tai-hostel-coffee-da-lat-x1-2.jpg",
+      "images/nguyen-tai-hostel-coffee-da-lat-x1-3.jpg",
+      "images/nguyen-tai-hostel-coffee-da-lat-x1-4.jpg"
+    ],
+    "price": 1,
+    "phone": "0978278251",
+    "rating": 4.9,
+    "reviews": 188,
+    "comments": [
+      {
+        "author": "An Gie",
+        "rating": 0,
+        "text": "I stayed here for 5 days, and this has been the best place I’ve stayed in Dalat. The owner and staff are incredibly friendly, and the room was spotless, comfortable, and very clean. The area is also surrounded by many delicious local foods. …",
+        "when": ""
+      },
+      {
+        "author": "Thuỳ Duyên Lữ",
+        "rating": 0,
+        "text": "Phòng sạch sẽ, có ban công thoáng mát, giường nệm êm, cách âm tốt nữa, nước nóng lạnh siêu mạnh luôn\nAnh chủ và bạn nhân viên rất là dễ thương …",
+        "when": ""
+      },
+      {
+        "author": "Hà Hiền",
+        "rating": 0,
+        "text": "Phòng sạch sẽ, nệm thoải mái\nVị trí rất thuận tiện, nhiều quán ăn uống xung quanh\nChủ hostel hỗ trợ nhiệt tình, cho nhận phòng sớm nếu phòng trống.\nCách âm rất tốt",
+        "when": ""
+      },
+      {
+        "author": "77123456",
+        "rating": 0,
+        "text": "|I highly recommend this hostel for their superb customer service and their honest work. Communication was flawless from the beginning. They answered everything from finding the best taxi fare and also where to do laundry. They even dropped …",
+        "when": ""
+      },
+      {
+        "author": "Phong Phú Nguyễn",
+        "rating": 0,
+        "text": "Phòng rất mới, cách âm tốt, nằm ở trung tâm nên rất tiện cho việc đi lại và cũng rất yên tĩnh. Dưới nhà có quán nước, giá cả phải chăng và đồ uống cũng rất ngon (mình đã uống cacao sữa nóng). Mình chưa khám phá hết nên không rõ có khu nướng …",
+        "when": ""
+      },
+      {
+        "author": "Tần Huỳnh",
+        "rating": 0,
+        "text": "Phòng sạch sẽ, yên tĩnh, chủ khách sạn nhiệt tình, vui vẻ 😘. Họ mời chúng tôi cà phê miễn phí nữa✌️. Đây là nơi bạn có thể thử khi đến Đà Lạt …",
+        "when": ""
+      },
+      {
+        "author": "Anh Hoang",
+        "rating": 0,
+        "text": "Anh chị chủ rất dễ thương  , xe máy cho thuê xịn , vị trí tiện lợi , sẽ là lựa chọn ưu tiên khi đến Đà Lạt nhé mn .",
+        "when": ""
+      },
+      {
+        "author": "Đạt Đào Duy",
+        "rating": 0,
+        "text": "Anh chủ rất nhiệt tình, phòng ốc view đẹp thiết kế lạ, mỗi tỗi cách âm chưa đủ nên hơi khó ngủ",
+        "when": ""
+      },
+      {
+        "author": "Lớp Hai 2 - 28 - Trần Gia Như",
+        "rating": 0,
+        "text": "Một trải nghiệm tuyệt vời khi ở khách sạn Nguyễn Tài trong 3 ngày 2 đêm của gia đình mình. Mọi thứ tốt hơn tưởng tượng rất nhiều, từ phòng nghỉ, dịch vụ, vị trí đều rất tốt và thuận lợi. Cảm ơn vợ chồng anh chủ khách sạn rất nhiều vì đã hỗ …",
+        "when": ""
+      },
+      {
+        "author": "tra vo thi huong",
+        "rating": 0,
+        "text": "Lội 8000 cái đánh giá sau đó book ở đây. Khách sạn sạch sẽ, anh chị chủ dễ thương nhiệt tình hết sức luôn hỗ trợ từng chút. Thuê xe giá 100k/ngày xe mới chạy mạnh ngon yên tâm an toàn. Phòng ngủ êm nha k có hiện tượng gì hai vợ chồng mình …",
+        "when": ""
+      }
+    ],
+    "source": "google-maps"
+  },
+  "creme-homestay-da-lat-x1": {
+    "lat": 11.9536663,
+    "lng": 108.476267,
+    "img": "images/creme-homestay-da-lat-x1.jpg",
+    "photos": [
+      "images/creme-homestay-da-lat-x1.jpg",
+      "images/creme-homestay-da-lat-x1-2.jpg",
+      "images/creme-homestay-da-lat-x1-3.jpg",
+      "images/creme-homestay-da-lat-x1-4.jpg"
+    ],
+    "phone": "0912655206",
+    "rating": 4.9,
+    "reviews": 55,
+    "comments": [
+      {
+        "author": "Bình Tống Kim",
+        "rating": 0,
+        "text": "Crème Homestay là một trong những nơi ở khiến mình cảm thấy dễ chịu và được chăm chút ngay từ những chi tiết nhỏ nhất khi đến Đà Lạt. Ấn tượng đầu tiên chính là sự thân thiện và nhiệt tình của chú, cô Liên và chị Quỳnh, mọi người rất dễ …",
+        "when": ""
+      },
+      {
+        "author": "Phương Quỳnh Nguyễn",
+        "rating": 0,
+        "text": "May mắn lướt threads tìm được chiếc homestay thật sự hong có điểm nào để chê, decor tối giản đúng gu mình, phòng ốc sạch sẽ, thiết bị các thứ đều mới tinh, chị chủ tâm lí lắm có để sẵn 1 ổ điện dài nữa rất tiện, đặc biệt hông bị hôi ẩm nhen …",
+        "when": ""
+      },
+      {
+        "author": "Ngô Kim Ngân",
+        "rating": 0,
+        "text": "- Phòng ở sạch sẽ, thoáng mát, phòng như hình gửi luôn đẹp vô cùng.\n- Mình ở phòng ban công nên view phòng nhìn ra nhà lồng + tàu lửa.\n- Toilet sạch sẽ, rộng nữa. Máy nước nóng nóng 24/24 nên tối khuya đi tắm vẫn có …",
+        "when": ""
+      },
+      {
+        "author": "Phúc Lâm",
+        "rating": 0,
+        "text": "Cô chú và chị Quỳnh rất nhiệt tình, cho mình cảm giác như người trong gia đình.\nPhòng sạch sẽ, decord phòng siêu dễ thương, còn có cả thiệp cảm ơn rất đáng iu.\nCó cả bạn lễ tân 4 chân cute nữaaaaa.",
+        "when": ""
+      },
+      {
+        "author": "Mai Ma Thi Xuan",
+        "rating": 0,
+        "text": "- Phòng: sạch sẽ, đầy đủ tiện nghi.\n- Dịch vụ: không điểm nào chê.\n- Vị trí: đi lại khá thuận tiện, đường vào home rất dễ không hề dốc hay khó đi. …",
+        "when": ""
+      },
+      {
+        "author": "An Nguyen",
+        "rating": 0,
+        "text": "Bạn mình đã ở đây 1 lần và gợi ý cho mình đặt tuy nhiên do thiên tai, bão lụt nên team mình không thể enjoy giai đoạn đã book. Tụi mình có trao đổi vs KS thì được KS hoàn cọc lại đủ 100%. Chủ home rất hiểu chuyện & hỗ trợ tụi mình lắm. Cho 5 sao chủ home ạ!",
+        "when": ""
+      },
+      {
+        "author": "LINH JENN",
+        "rating": 0,
+        "text": "Một chiếc home rất ấm áp, sạch sẽ tinh tươm và service tinh tế nha mng. Mình đặt khá sát ngày, tới nhận phòng y chang hình, gọn gàng sạch sẽ tinh tươm, design minimal rất dễ chịu. Mình rất để ý tiểu tiết và quan trọng nhà vệ sinh nên inbox …",
+        "when": ""
+      },
+      {
+        "author": "Nguyễn Đức Mạnh",
+        "rating": 0,
+        "text": "Nguyện seeding cho home luôn ạ. Mình ở nhiều home rồi nhưng chưa bao giờ gặp được 1 home giá ổn và mọi dịch vụ đều tốt như Crème. May mắn trong chuyến đi này là gặp được home mà cả nhà mình đều khen. …",
+        "when": ""
+      },
+      {
+        "author": "Thuy Yen Huynh",
+        "rating": 0,
+        "text": "Đợt lễ 30/4 mình đã \"hữu duyên\" book được một chiếc home của host Quỳnh và cô Liên siu chỉnh chu 10000/10, service chuẩn 5 sao, không có gì để chê nên quyết định viết một chiếc review để chia sẻ trải nghiệm cá nhân! …",
+        "when": ""
+      },
+      {
+        "author": "Hồng Ngọc Văn",
+        "rating": 0,
+        "text": "Một chiếc home tình cơ thấy trên Gg Map và cũng mang đến nhiều bất ngờ ❤️❤️ Con cảm ơn cô Liên đã đón tiếp tụi con nhiệt tình. Em cảm ơn chị Quỳnh check tn siêu nhanh. …",
+        "when": ""
+      }
+    ],
+    "source": "google-maps"
+  },
+  "gemination-eatery-bar-da-lat-x1": {
+    "lat": 11.9436277,
+    "lng": 108.4350645,
+    "img": "images/gemination-eatery-bar-da-lat-x1.jpg",
+    "photos": [
+      "images/gemination-eatery-bar-da-lat-x1.jpg",
+      "images/gemination-eatery-bar-da-lat-x1-2.jpg",
+      "images/gemination-eatery-bar-da-lat-x1-3.jpg",
+      "images/gemination-eatery-bar-da-lat-x1-4.jpg"
+    ],
+    "price": 1,
+    "phone": "0868879499",
+    "rating": 4.8,
+    "reviews": 866,
+    "comments": [
+      {
+        "author": "Anh Thư Quản",
+        "rating": 5,
+        "text": "Đến quán vì thấy menu trên Google Maps có món “Đá me” nghe hay hay, khi đến thì quán bỏ món này ra khỏi menu rồi nhưng nếu mình muốn thử thì mọi người sẵn sàng pha cho mình. …",
+        "when": "3 tháng trước"
+      },
+      {
+        "author": "lang dao",
+        "rating": 5,
+        "text": "Chu cha, nhân viên ở đây siu dễ thương\nVô tình được quán kế bên chỉ mà tuiii đã ghé lại lần 2 r nè\nĐồ uống thì tuyệt cú mèo, thích vị gì ntn đều care đc hết. …",
+        "when": "một tháng trước"
+      },
+      {
+        "author": "Hoắc Thiên An",
+        "rating": 5,
+        "text": "• Đồ uống: Mình đến đây phải 3-4 lần rồi mà lần nào đồ uống cũng ngon và xỉn. Các bạn nhân viên được đào tạo rất bài bản và cẩn thận mới có thể pha cocktail theo yêu cầu khách như vậy. Muốn gì là có đó. Ngoài ra có cả đồ ăn nữa mà mình chưa …",
+        "when": "4 tháng trước"
+      },
+      {
+        "author": "Nguyen Yen Nhi",
+        "rating": 5,
+        "text": "Mình rất thích các bạn bartender ở đây Hiếu Thuận Huyền ba bạn nv này cực kì dễ thương , rất highly recommend quán này cho các bạn thích chill đi một mình , điều đặc biệt là nước cực cực kỳ ngonnnnn",
+        "when": "một tháng trước"
+      },
+      {
+        "author": "Thanh Phong Ngô",
+        "rating": 5,
+        "text": "Một trong những quán bar mà mỗi lần công tác tại Đà Lạt mình thích đến nhất. Không gian ấm cúng, lãng mạn ( thích hợp với các cặp đôi ), rất nhiều loại cocktail.",
+        "when": "2 tháng trước"
+      },
+      {
+        "author": "Thi Hong Nguyen",
+        "rating": 5,
+        "text": "Trải nghiệm dining ở Gemination là must-have cho tất cả các cặp đôi đang và có ý định ghé thăm Đà Lạt. Sự nồng nhiệt trong việc đón chào khách ở cổng được nối tiếp bởi một không gian vô cùng ấm cúng  nhưng lại không thiếu phần sinh động …",
+        "when": "6 tháng trước"
+      },
+      {
+        "author": "Minh Thơ Trần",
+        "rating": 5,
+        "text": "Lần đầu tới quán, ko gian dễ chịu rộng rãi, các anh chị nhân viên siêu nhiệt tình và dễ thương, hnay lại có workshop lm vòng nguyệt quế vừa dc bonding với bn vừa free, chị bờm siu supportive và nc rất ngonnn",
+        "when": "6 tháng trước"
+      },
+      {
+        "author": "Dương Nhi (Ber)",
+        "rating": 3,
+        "text": "đồ ăn nước uống bình thường, giá thì chấp nhận được, nhưng không gian quá ồn, ngồi là muốn bỏ về ngay vì khách khác nói chuyện quá ồn ào khiến mình nhức đầu lun á, mà không thấy nhân viên nhắc nhở j cả, bỏ tiền ra để vào không gian như vậy thì sẽ không có lần 2 🥱 …",
+        "when": "một tháng trước"
+      },
+      {
+        "author": "Thuy Nguyen",
+        "rating": 3,
+        "text": "Không gian quán ổn và độc đáo nhưng chất luợng đồ uống không ổn.\nNhóm mình gọi 2 ly cocktail và 2 ly mocktail, 2 trong 4 ly thật sự là không thể uống hết - ly cocktail Thù Lù Tong làm mình liên tưởng tới nước chanh có gas hơn …",
+        "when": "4 tháng trước"
+      },
+      {
+        "author": "Lê Hào Nhân",
+        "rating": 5,
+        "text": "To be honest, nhân viên quán rất nhiệt tình và dễ thương ạ, chưa thử signature của quán nhưng những ly classic quán cũng pha rất ngon ạ, đồ ăn rất rất ngon nha (ăn dễ ghiền phết) , hổm bữa có hứa đăng review mà quên hỏi tên 2 chị nhân viên ở trên lầu mất tiu",
+        "when": "4 tháng trước"
+      }
+    ],
+    "source": "google-maps"
+  },
+  "beeppub-x1": {
+    "lat": 11.9411551,
+    "lng": 108.4366887,
+    "img": "images/beeppub-x1.jpg",
+    "photos": [
+      "images/beeppub-x1.jpg",
+      "images/beeppub-x1-2.jpg",
+      "images/beeppub-x1-3.jpg",
+      "images/beeppub-x1-4.jpg"
+    ],
+    "price": 1,
+    "phone": "0965854084",
+    "rating": 4.8,
+    "reviews": 487,
+    "comments": [
+      {
+        "author": "Đông Nguyên Bùi",
+        "rating": 1,
+        "text": "đừng khui beer trước khi khách hàng chưa đồng ý!\nKhông hài lòng với cách tính của bạn Đức, khui rồi chẵng lẽ ko trả tiền?\nbuy 1 get 1 phải giải thích rõ với khách chứ em?",
+        "when": "một tháng trước"
+      },
+      {
+        "author": "Thuy Nguyen",
+        "rating": 5,
+        "text": "Pub có nhạc rock live hàng đêm, nhiều band khác nhau, hôm mình đi tưng bừng luôn, nếu muốn quẩy thì là nơi rất phù hợp. Đồ uống ổn, happy hours trước 8:30pm mua 1 tặng 1 nhưng tặng lại đúng ly đã order nên đi cùng đồng bọn để swap cocktail :)))",
+        "when": "5 tháng trước"
+      },
+      {
+        "author": "BINH DO",
+        "rating": 5,
+        "text": "⭐⭐⭐⭐⭐\nMình rất thích vibe của quán, không khí lúc nào cũng náo nhiệt và vui. Nhạc nước ngoài nghe đã tai, có band chơi live mỗi tối nên quán rất có lửa. Đồ uống ổn, giá hợp lý, không bị quá cao. Một nơi rất đáng để quay lại nhiều lần.",
+        "when": "6 tháng trước"
+      },
+      {
+        "author": "Na Nguyen Phan Le",
+        "rating": 5,
+        "text": "Nhân viên nhiệt tình, dễ thương.\nMình đi 2 lần (thứ 7 và thứ 4) và siêu thích band nhạc ngày thứ 4. Chơi nhạc nhiệt tình, dễ thương.",
+        "when": "6 tháng trước"
+      },
+      {
+        "author": "Alex King",
+        "rating": 5,
+        "text": "Quán pub music cực chill dành cho mọi người muốn xả stress. Không gian tươi vui, dễ thương, vào là thấy yêu đời hẳn lên. Âm nhạc sống động nhưng vẫn giữ được sự thoải mái để bạn vừa nghe vừa thư giãn. Đặc biệt, quán rất phù hợp cho những ai …",
+        "when": "7 tháng trước"
+      },
+      {
+        "author": "Ngô Hoàng Hoài An",
+        "rating": 5,
+        "text": "Nếu muốn trải nghiệm, thì nơi đây thật đáng để thử!\nNếu là khách hàng thân thiết thì điều này là hiển nhiên! TUYỆT!",
+        "when": "2 tháng trước"
+      },
+      {
+        "author": "Quốc Khánh Nguyễn",
+        "rating": 5,
+        "text": ".Quán gần trung tâm\n. Chơi rất vui\n. Bia corrna-130k hợp lý- …",
+        "when": "một năm trước"
+      },
+      {
+        "author": "Janie Lin",
+        "rating": 5,
+        "text": "Tìm được 1 chiếc pub chất lượng nhất Đà Lạt!!! 👍\n\nLive nhạc rock mỗi ngày luôn nhé mọi người. Band chơi khá hay, hát được khá …",
+        "when": "2 năm trước"
+      },
+      {
+        "author": "Hiền Bùi",
+        "rating": 5,
+        "text": "Quán có các band nhạc rock đến chơi vào buổi tối, hôm mình đến la band Holiday siêu cháy, rất tiếc là mình đến vào ngày gần cuối chuyến đi hong là mình đến mỗi ngày lun quá cháy quá mà",
+        "when": "10 tháng trước"
+      },
+      {
+        "author": "Hay đii",
+        "rating": 5,
+        "text": "mình thấy quán đầu tiên là mấy bạn nhân viên rất oke chu đáo, khách lạnh thì còn đưa cho khách nc ấm để cầm , ở đây đa số là khách tây nên nhạc chủ íu là nhạc nc ngoài , mình góp í thêm là hãy thêm nhiều bài nhạc việt một chút ạ còn lại mọi thứ đều ổn có cả bàn bida cho cơ thủ",
+        "when": "6 tháng trước"
+      }
+    ],
+    "source": "google-maps"
+  },
+  "marche-da-lat-beer-garden-x1": {
+    "lat": 11.9432483,
+    "lng": 108.4368208,
+    "img": "images/marche-da-lat-beer-garden-x1.jpg",
+    "photos": [
+      "images/marche-da-lat-beer-garden-x1.jpg",
+      "images/marche-da-lat-beer-garden-x1-2.jpg",
+      "images/marche-da-lat-beer-garden-x1-3.jpg",
+      "images/marche-da-lat-beer-garden-x1-4.jpg"
+    ],
+    "price": 1,
+    "phone": "0908608778",
+    "rating": 4.9,
+    "reviews": 631,
+    "comments": [
+      {
+        "author": "Zzzaqwerty Le",
+        "rating": 5,
+        "text": "Quán mới mở được hai tháng, mỗi ngày một tiết mục khác nhau, bia rượu thì hơi thiếu, gần một nữa trong thực đơn gọi ko có. Phục vụ thì vui vẻ nhiệt tình, mấy món nhậu thì cũng được, không khí náo nhiệt hoà đồng nè, DJ đánh nhạc quẩy quá trời, nơi lý tưởng để ăn nhậu",
+        "when": "10 tháng trước"
+      },
+      {
+        "author": "#Amores byHamie",
+        "rating": 5,
+        "text": "Lần đầu trải nghiệm thấy không hề thất vọng anh em ơi, nhạc rất hay và nhân viên cực dễ thương. 10đ k nhưng nhaaaa",
+        "when": "5 tháng trước"
+      },
+      {
+        "author": "Tuấn Dương",
+        "rating": 5,
+        "text": "Vui đồ ăn ngon sẽ quay lại nhiều lần chăm sóc khách nhiệt tình",
+        "when": "8 tháng trước"
+      },
+      {
+        "author": "CTY QUẢNG CÁO ĐÁ ĐỎ",
+        "rating": 5,
+        "text": "Món ăn rất ngon và giá cả hợp lý\nPhù hợp cho các bạn trẻ, khách gia đình, tiệc sunh nhật , tất niên\nKhông gian thoáng mát và có âm nhạc DJ",
+        "when": "một năm trước"
+      },
+      {
+        "author": "viet quoc",
+        "rating": 5,
+        "text": "Đồ ăn ngon nhân viên nhiệt tình nhạc hay",
+        "when": "7 tháng trước"
+      },
+      {
+        "author": "Donald Truong",
+        "rating": 3,
+        "text": "Bar trên tầng cao của 1 toà nhà trong khu chợ đêm Đà Lạt, cũng khá vui, không gian rộng, nhân viên phục vụ okay, món ăn bình thường.\nĐiểm trừ là nếu đi oto phải gửi xe và đi bộ rất xa mới đến, và Bar cao nhưng …",
+        "when": "9 tháng trước"
+      },
+      {
+        "author": "Dat Nguyen",
+        "rating": 5,
+        "text": "Quán vui vẻ nhộn nhịp sôi động phục vụ siu dễ thương món ăn ngon không có gì để chê",
+        "when": "5 tháng trước"
+      },
+      {
+        "author": "Ngọc Hoàng",
+        "rating": 4,
+        "text": "Các game bạn nhân viên tạo chơi rất vui , nơi tổ chúc tiệc đáng nhớ . Có dịp sẽ come back",
+        "when": "7 tháng trước"
+      },
+      {
+        "author": "Như Minhh",
+        "rating": 5,
+        "text": "Phục vụ quá ok luôn , đồ ăn ngon giá hợp lý nhạc hayy nhoa. Ace đi đà lạt nhậu phải ghé đây nhoa",
+        "when": "6 tháng trước"
+      },
+      {
+        "author": "Quynh Le",
+        "rating": 1,
+        "text": "Cả đời ko đánh giá ai mà phải đánh giá cái quán vì gian dối, dắt khách như.. kiu bia tháp Blanc 1664 3l đem ra bia 3l gồm 50% bọt và cây đá. Uống 2 tháp đầu nhóm e thấy vị lạ ko giống 1664 (bia hơi hoặc tiger nâu hoặc bia gì đó), sau đó đem …",
+        "when": "Thời gian chỉnh sửa: một năm trước"
+      }
+    ],
+    "source": "google-maps"
+  },
+  "beercorner-x1": {
+    "lat": 11.9404123,
+    "lng": 108.4338329,
+    "img": "images/beercorner-x1.jpg",
+    "photos": [
+      "images/beercorner-x1.jpg",
+      "images/beercorner-x1-2.jpg",
+      "images/beercorner-x1-3.jpg",
+      "images/beercorner-x1-4.jpg"
+    ],
+    "price": 1,
+    "phone": "0966778839",
+    "rating": 4.8,
+    "reviews": 416,
+    "comments": [
+      {
+        "author": "Nguyên Nguyễn Thị Thảo",
+        "rating": 5,
+        "text": "Nếu bạn đang tìm kiếm một góc nhỏ để trốn cái lạnh Đà Lạt, nhâm nhi chút bia mát lạnh và tận hưởng không khí chill thì Dalat BeerCorner là một lựa chọn cực kỳ xứng đáng. Trải nghiệm chung ở quán phải nói là rất tuyệt vời. …",
+        "when": "một tháng trước"
+      },
+      {
+        "author": "HIỀN HÒA TRẦN HOÀNG",
+        "rating": 5,
+        "text": "Nhiều loại bia để lựa chọn, phải gọi là rất rất nhiều loại từ nhẹ 2.5% cho tới 75% cái gì cũng có phải giá nào cũng có. Đặc biệt đồ ăn mình thấy rất ngon, hợp với khẩu vị của mình. Tất nhiên là giá cả đi đôi với chất lượng nên cũng sẽ hơi cao. Nhưng rất đáng để trải nghiệm, mọi người nên ghé nhé",
+        "when": "5 tháng trước"
+      },
+      {
+        "author": "Chiến Tạ Đình",
+        "rating": 5,
+        "text": "Quán bia ngon, mồi rất hợp khẩu vị.\nQuán bán bia nội, ngoại nhập.\nRất đáng để ghé thăm và thưởng thức vài chai bia.",
+        "when": "7 tháng trước"
+      },
+      {
+        "author": "Tô Bằng",
+        "rating": 5,
+        "text": "Phải nói đây là quán bia có vibe cực riêng không giống như bất kì quán bia nào mình từng ghé, vị thức ăn chắc có lẻ sẽ phù hợp với đại đa số thực khách, với những ai thích trãi nghiệm hương vị của beer nên đến quán này",
+        "when": "7 tháng trước"
+      },
+      {
+        "author": "Ha Pham",
+        "rating": 5,
+        "text": "Lần đầu mình trải nghiệm uống bia và ăn tối tại đây. Ấn tượng đầu tiên là nhân viên phục vụ rất vui tươi niềm nở. Tư vấn rất chu đáo cho mình từ món ăn cho tới các loại bia. …",
+        "when": "9 tháng trước"
+      },
+      {
+        "author": "Trần Thanh Trúc",
+        "rating": 5,
+        "text": "Tuyệt vời!!! Từ không gian, món ăn cho đến cách phục vụ. Các bạn am hiểu về các loại nước uống, cách tư vấn làm khách dễ chịu. Anh chị chủ vui vẽ và rất có gu. Recomend m.n đến Đà Lạt du lịch trãi nghiệm nơi này. Mình đã đến 2 ngày liền rồi.",
+        "when": "11 tháng trước"
+      },
+      {
+        "author": "Võ Phạm Huyền Trang",
+        "rating": 5,
+        "text": "Mình đã ghé với các anh/chị lần  2. Không gian siêu chill, anh chị chủ thì siêu nhiệt tình và hài hước",
+        "when": "3 tháng trước"
+      },
+      {
+        "author": "Huỳnh Ngọc Thuý Vân",
+        "rating": 5,
+        "text": "Đồ ăn cực kì ngonnn, các bạn nvien ok lịch sự, tư vấn Beer chuyên nghiệp, không gian ấm cúng dễ thương. Giá cả hợp lý. Rcm Mng kkkk",
+        "when": "một năm trước"
+      },
+      {
+        "author": "conghoang phuonglinh",
+        "rating": 5,
+        "text": "Mình biết quán khi năm ngoái bạn dẫn đi, năm nay mình lại ghé, là một quán nhỏ nằm ở 77 đường Thủ Khoa Huân (cùng là 1 đoạn đường nhỏ) nên ít khách du lịch qua lại. Nhưng quán lại là trạm dừng chân lý tưởng của bọn mình khi đến Đà Lạt. …",
+        "when": "một năm trước"
+      },
+      {
+        "author": "Hoàng Chung",
+        "rating": 5,
+        "text": "Đến Đà Lạt mọi người nên ghé qua, vì quán có nhiều sự lựa chọn về món ăn và thức uống. Nếu đi với nhiều người thì quả là 1 ý kiến hoàn hảo cho việc trò chuyện và tán gẫu. Đặc biệt là món tôm nhủi chỉ có theo mùa, thịt mềm và ngọt cùng với …",
+        "when": "2 năm trước"
+      }
+    ],
+    "source": "google-maps"
+  },
+  "rain-dalat-x1": {
+    "lat": 11.9349771,
+    "lng": 108.4320374,
+    "img": "images/rain-dalat-x1.jpg",
+    "photos": [
+      "images/rain-dalat-x1.jpg",
+      "images/rain-dalat-x1-2.jpg",
+      "images/rain-dalat-x1-3.jpg",
+      "images/rain-dalat-x1-4.jpg"
+    ],
+    "phone": "02633702697",
+    "rating": 4,
+    "reviews": 585,
+    "comments": [
+      {
+        "author": "Mai Nguyễn",
+        "rating": 5,
+        "text": "Quán rất đông vui. Nhân viên phục vụ rất tốt và nhiệt tình. Nv còn trai xinh gái đẹp nữa🥰\nDj đánh khá nhiều thể loại nhạc …",
+        "when": "10 tháng trước"
+      },
+      {
+        "author": "Uyên Nguyễn",
+        "rating": 1,
+        "text": "Mô hình quán lớn nhưng sao lại gài người vào game show để nhận thưởng quá lộ liễu đến vậy. Quán đông nhưng nghi khách ngơ hay sao tổng có 7 giải chỉ có 1 bàn 4 người mà  trúng ôm 7 giải. Còn bàn 10 người k có gì. Thế nên đã sợ tốn kém thì đừng mở game show làm gì. Quán giờ quá xuống cấp thất vọng khi quay lại.",
+        "when": "4 tháng trước"
+      },
+      {
+        "author": "Hồng Ngọc Vũ Đặng",
+        "rating": 5,
+        "text": "Nhân viên vui vẻ nhiệt tình, rất hỗ trợ chiếu hình welcome đoàn mình :)))",
+        "when": "6 tháng trước"
+      },
+      {
+        "author": "Linh Nguyễn",
+        "rating": 5,
+        "text": "địa điểm ăn chơi đáng để thử, nv nhiệt tình, nhạc hayy theo trend, nhiều chương trình cho khách hàng. Rcm mng đến thử nha",
+        "when": "3 tháng trước"
+      },
+      {
+        "author": "Xt Khach",
+        "rating": 5,
+        "text": "Không gian quán rộng rãi, nhân viên nhiệt tình, nhạc đánh hay, chắc chắn mình sẽ ghé lại",
+        "when": "3 tháng trước"
+      },
+      {
+        "author": "Thắng Nguyễn",
+        "rating": 5,
+        "text": "Đúng là bar đẳng cấp nhất đà Lạt , âm thanh ánh sáng phải nói là quá xịn . Sẽ ghé lại nhiều lần nữa khi đến đà lạt",
+        "when": "3 tháng trước"
+      },
+      {
+        "author": "Toan nang Beo",
+        "rating": 5,
+        "text": "Tụi mình đi Ladies Night, và phải nói là không hề thất vọng. Có quà free, đông vui, mà tụi mình còn trúng voucher hời điên. Tuần sau đi nữa mới được",
+        "when": "một năm trước"
+      },
+      {
+        "author": "Xuân Trần",
+        "rating": 5,
+        "text": "Tụi mình đi t2 nên club vắng hơn bình thường thì phải. Mình tưởng nó quẩy tưng bừng như 1900 nhưng mà hơn ít khách.\nĐược cái DJ gẩy nhạc hay với nhân viên pv take care tốt nên chấp nhận được.\nNv feed beer cho khách liên tục luôn nên bạn nào k thích chắc cảm thấy bị phiền ý:33",
+        "when": "một năm trước"
+      },
+      {
+        "author": "Gia Hân Huỳnh Thị",
+        "rating": 5,
+        "text": "Bar này 10₫ không có nhưng nha, Dj đánh nhạc đỉnk nóc luôn đấy, không gian thì rộng, nhân viên ở đây đều nhiệt tình và vui vẻ luôn tạo nhiều trò thú vị. Đáng để trải nghiệm ❤️",
+        "when": "một năm trước"
+      },
+      {
+        "author": "Apple Shop",
+        "rating": 5,
+        "text": "Quán chơi vui nhạc hay nhân viên quá dễ thương,xinh đẹp",
+        "when": "3 tháng trước"
+      }
+    ],
+    "source": "google-maps"
+  },
+  "b21-cuisine-x1": {
+    "lat": 11.9446126,
+    "lng": 108.4345947,
+    "img": "images/b21-cuisine-x1.jpg",
+    "photos": [
+      "images/b21-cuisine-x1.jpg",
+      "images/b21-cuisine-x1-2.jpg",
+      "images/b21-cuisine-x1-3.jpg",
+      "images/b21-cuisine-x1-4.jpg"
+    ],
+    "price": 1,
+    "phone": "0917792121",
+    "rating": 4.1,
+    "reviews": 847,
+    "comments": [
+      {
+        "author": "Cường Nguyễn",
+        "rating": 5,
+        "text": "Mình vừa đi quán này về với gia đình nè, trời đà lạt lạnh kinh khủng ngồi uống chill chill đã lắm cả nhà ơi, đồ ăn cũng ngon mà rẻ hơn mình đi dưới sài gòn nè, bạn nào lên đà lạt mà thích không khí nightlife nhớ ghé thử nhé.",
+        "when": "5 tháng trước"
+      },
+      {
+        "author": "Khanh Luong",
+        "rating": 5,
+        "text": "Hôm nay đi đúng ngày thứ 4 gọi món được giảm giá đến 50% giá quá bất ngờ. Bia ngon, vị trí ngay khu phố tây Đà Lạt,  khuyến cáo nên đến đây mỗi thứ 4.",
+        "when": "5 tháng trước"
+      },
+      {
+        "author": "Black & white",
+        "rating": 5,
+        "text": "Quán rất ok. Nhân viên nhiệt tình. Nhạc hay . View đẹp nha. Tới sớm trước 9h còn được mua 1 beer tặng 1 beer nữa ☺️",
+        "when": "4 tháng trước"
+      },
+      {
+        "author": "Quynh Nhu",
+        "rating": 5,
+        "text": "quán đi sẽ dễ không có bàn nếu không đặt trước vì rất đông khách nha. Quán xịn vô cùng nhạc hay rượu ngon khỏi phải bàn. Bởi vậy đã tồn tại ở Đà Lạt 10 năm hone. Yếu B21",
+        "when": "2 tuần trước"
+      },
+      {
+        "author": "gnab. serenna",
+        "rating": 5,
+        "text": "Dịch vụ tốt, nhân viên phục vụ chu đáo, nhiệt tình, không gian thoải mái, nhạc chơi hay…",
+        "when": "4 tuần trước"
+      },
+      {
+        "author": "Minh Nhat Tran Khai",
+        "rating": 5,
+        "text": "Lên Đà lạt du lịch, ban ngày có rất nhiều nơi để đi chơi, nhưng buổi tối thì ngoài khu chợ đêm ra mà nếu chẳng biết đi đâu thì B21 Cuisine là một điểm đến tuyệt vời mà bạn không nên bỏ qua...",
+        "when": "Thời gian chỉnh sửa: một tháng trước"
+      },
+      {
+        "author": "Na Na",
+        "rating": 3,
+        "text": "Nhóm mình ghé B21 lúc nửa đêm khi quán khá đông khách. Không gian tuy hơi chật nhưng ấm cúng, các nhân viên phục vụ vui vẻ nhiệt tình tuy nhiên nhạc không hay lắm. Bọn mình đã có trải nghiệm ko được vui ở quán. Bạn gái trong nhóm mình đã …",
+        "when": "11 tháng trước"
+      },
+      {
+        "author": "Truong Luu",
+        "rating": 5,
+        "text": "B21 Cuisine & Bar là điểm hẹn giải trí nổi tiếng ở Đà Lạt, không gian hiện đại, âm nhạc sôi động, đồ uống ngon và đa dạng. Nhân viên nhiệt tình, phục vụ chu đáo. Rất phù hợp để tụ tập bạn bè và tận hưởng không khí về đêm của Đà Lạt.",
+        "when": "10 tháng trước"
+      },
+      {
+        "author": "Minh Kỳ Trần",
+        "rating": 5,
+        "text": "May mắn đi du lịch mà tìm dc chỗ 5 sao để chơi nha, món ngon signature sau bao nhiêu năm quay lại vẫn phải tìm món cũ, nhân viên nhiệt tình vui vẻ.",
+        "when": "một năm trước"
+      },
+      {
+        "author": "Nguyên Trần Minh",
+        "rating": 5,
+        "text": "B21 Bar nằm ngay trung tâm, cách chợ 5 phút đi bộ. Đồ uống đa dạng, từ cocktail đến rượu. Happy‑hour mua 1 tặng 1 siêu hời. Nhạc DJ sau 22h rất sôi động, đôi khi còn có dancer. Nhân viên nhiệt tình, không gian chất lượng. Có a quản lý Trần Thứ siêu nhiệt tình",
+        "when": "một năm trước"
+      }
+    ],
+    "source": "google-maps"
+  },
+  "elixer-cocktail-bar-x1": {
+    "lat": 11.9473856,
+    "lng": 108.4330738,
+    "img": "images/elixer-cocktail-bar-x1.jpg",
+    "photos": [
+      "images/elixer-cocktail-bar-x1.jpg",
+      "images/elixer-cocktail-bar-x1-2.jpg",
+      "images/elixer-cocktail-bar-x1-3.jpg",
+      "images/elixer-cocktail-bar-x1-4.jpg"
+    ],
+    "price": 1,
+    "phone": "0528684968",
+    "rating": 5,
+    "reviews": 591,
+    "comments": [
+      {
+        "author": "Tu Ngoc",
+        "rating": 5,
+        "text": "Không gian quán rất là ấm cúng, nước thì 100đ không có nhưng, mọi người rất là thân thiện. Có dịp mình lại ghé qua chơi tiếp 😘😘 …",
+        "when": "4 tháng trước"
+      },
+      {
+        "author": "Phuong Tuong Miss",
+        "rating": 5,
+        "text": "Quán nhạc khá hay, nước uống được customize ngay tại bàn khi order, phù hợp với khẩu vị từng người, ngon. Anh chủ rất nhiệt tình.",
+        "when": "2 tuần trước"
+      },
+      {
+        "author": "Phạm Thông",
+        "rating": 5,
+        "text": "Quán không gian ấm cúng, từ nhân viên đến anh chủ quán rất nhiệt tình vui vẻ, nước thì 10đ ko có nhưng, có dịp lên đà lạt sẽ ghé tiếp.",
+        "when": "3 tuần trước"
+      },
+      {
+        "author": "Ngọc Trân Lê",
+        "rating": 5,
+        "text": "My vibes 🫶.\nA Minh siu đáng iu.\nCác bạn nhân viên support nhiệt tình lắm luôn. Không gian mọi người tạo cho mình …",
+        "when": "5 tháng trước"
+      },
+      {
+        "author": "Nhi Nguyen",
+        "rating": 5,
+        "text": "Thức uống OK có gu lắm nhé, mấy bạn take care khách hàng rất tốt, mình đang có embe nên ko uống được có cồn mà mấy bạn tư vấn rất kỹ, còn hỏi mình vừa khẩu vị chưa để mấy bạn pha lại cho. Mời tụi mình rất nhiều đồ ăn kèm nữa, lần sau đến ĐL 2 vợ chồng mình nhất định sẽ ghé lại 👍👍👍 …",
+        "when": "5 tháng trước"
+      },
+      {
+        "author": "Thị Minh Hiền Ngô",
+        "rating": 5,
+        "text": "Best Cocktail Bar ever 💃🕺🏻💃👏👏👏 solo trip nhưng vẫn cực chill khi ghé Elixer gặp ngay anh Quân và bé Ngọc kk . Hứa sẽ quay lại thêm …",
+        "when": "3 tháng trước"
+      },
+      {
+        "author": "Khánh Kim",
+        "rating": 5,
+        "text": "Nước ngon, 2 anh chủ và mấy anh chị nhân viên đều dễ thương 10đ không nhưng gần trung tâm dễ đi",
+        "when": "4 tháng trước"
+      },
+      {
+        "author": "Nhu In",
+        "rating": 5,
+        "text": "Quán siêu nhiệt tình, từ anh chủ đến tất cả nhân viên luôn í. Tâm trạng có tệ thì vào cũng không thể khó chịu nổi, anh chủ và nhân viên take care liên tục từ khẩu vị độ cồn tới cả tâm trạng. Không hài lòng bảo quán là quán chỉnh cho vừa khẩu vị liền",
+        "when": "4 tháng trước"
+      },
+      {
+        "author": "QUỲNH ANH",
+        "rating": 5,
+        "text": "Quán nhỏ ấm cúng , a chủ dễ thg lém.rượu ngon nhen cỡ 189 1 ly á.Mn như ng nhà vị",
+        "when": "một tháng trước"
+      },
+      {
+        "author": "Thủy Tiên Trần Thái",
+        "rating": 5,
+        "text": "Không gian ấm cúng, các anh chị bartender siêu đáng yêu, thân thiện gần gũi nhưng chuyên nghiệp, cocktail signature rất độc đáo và ấn tượng, must tryyyyyyy",
+        "when": "6 tháng trước"
+      }
+    ],
+    "source": "google-maps"
+  },
+  "monaco-bar-restaurant-da-lat-x1": {
+    "lat": 11.9566641,
+    "lng": 108.4380011,
+    "img": "images/monaco-bar-restaurant-da-lat-x1.jpg",
+    "photos": [
+      "images/monaco-bar-restaurant-da-lat-x1.jpg",
+      "images/monaco-bar-restaurant-da-lat-x1-2.jpg",
+      "images/monaco-bar-restaurant-da-lat-x1-3.jpg",
+      "images/monaco-bar-restaurant-da-lat-x1-4.jpg"
+    ],
+    "phone": "0941239999",
+    "rating": 4.5,
+    "reviews": 215,
+    "comments": [
+      {
+        "author": "Hang Le",
+        "rating": 5,
+        "text": "bar đà lạt vui, nhạc hay, mọi người nên ghé nhé",
+        "when": "5 tháng trước"
+      },
+      {
+        "author": "Top’s Bin",
+        "rating": 5,
+        "text": "Nhân viên dễ thương, chơi vui giá rẻ, giải trí lắm ạ",
+        "when": "5 tháng trước"
+      },
+      {
+        "author": "Hằng",
+        "rating": 5,
+        "text": "Quán này chơi vui quá, nhạc hay, mọi thứ tuyệt vời. Đồ ăn ngon lắm",
+        "when": "5 tháng trước"
+      },
+      {
+        "author": "Luong Quangdai",
+        "rating": 1,
+        "text": "1 đánh giá k OK xuống nhạc 1h30  Nen cẦn lưu ý ạ",
+        "when": "4 tháng trước"
+      },
+      {
+        "author": "Thai An Sinh",
+        "rating": 5,
+        "text": "Nhạc hay, đồ uống ngon, nhân viên dễ thương",
+        "when": "5 tháng trước"
+      },
+      {
+        "author": "Uyên Nhi Nguyễn Ngọc",
+        "rating": 5,
+        "text": "Không gian quán sang, đẹp, rộng rãi, ấm áp. DJ chơi nhạc hay , sung. Âm thanh ánh sáng đỉnh. Nhân viên phục vụ chu đáo , chuyên nghiệp nhất định sẽ quay lại quán 🥰 …",
+        "when": "3 năm trước"
+      },
+      {
+        "author": "Mytrang Chu",
+        "rating": 5,
+        "text": "Đã vào quán chơi nhiều lần, nhạc hay ánh sáng đẹp quán rất la sang luôn . Nhiều trai xinh gái đẹp nữa chứ 😝😝 sẽ ghé quán chơi nhìu 👌👌 …",
+        "when": "3 năm trước"
+      },
+      {
+        "author": "Hồng Lại Thị",
+        "rating": 5,
+        "text": "bar đà lạt vui nhất mà tui từng đi",
+        "when": "5 tháng trước"
+      },
+      {
+        "author": "Lennox Wilde",
+        "rating": 5,
+        "text": "Không gian sang trọng, view hồ đẹp, hải sản tươi ngon. Nhân viên chu đáo, giá ~280k/người. Rất hài lòng!",
+        "when": "10 tháng trước"
+      },
+      {
+        "author": "Hoàng Việt",
+        "rating": 5,
+        "text": "Mình đi một mình mà vẫn thấy chill. Gọi một phần đồ ăn, một ly rượu vang, ngồi ngắm người ta nhảy cũng vui rồi.",
+        "when": "10 tháng trước"
+      }
+    ],
+    "source": "google-maps"
+  },
+  "the-balcony-speakeasy-bar-x1": {
+    "lat": 11.9433773,
+    "lng": 108.4560212,
+    "img": "images/the-balcony-speakeasy-bar-x1.jpg",
+    "photos": [
+      "images/the-balcony-speakeasy-bar-x1.jpg",
+      "images/the-balcony-speakeasy-bar-x1-2.jpg",
+      "images/the-balcony-speakeasy-bar-x1-3.jpg",
+      "images/the-balcony-speakeasy-bar-x1-4.jpg"
+    ],
+    "price": 1,
+    "phone": "0778638961",
+    "rating": 4.9,
+    "reviews": 1079,
+    "comments": [
+      {
+        "author": "Mai Do",
+        "rating": 5,
+        "text": "Quán có view & tranh trí đẹp, có nhiều góc chụp hình chill. Nước uống cũng ngon & các bạn nhân viên dễ thương & rất ư là nhiệt tình chụp hình, phục vụ cho khách. Lần sau đến Đalat mình sẽ đến nữa & chỉ cho bạn bè biết.",
+        "when": "2 tháng trước"
+      },
+      {
+        "author": "Nguyễn Hải Đăng",
+        "rating": 5,
+        "text": "Tuyệt vời. Các bạn nhân viên siêu vui vẻ nhiệt tình. Nước ngon đúng gu mình\nSau này mình sẽ ghé lại và giới thiệu với các người bạn của mình đến đây",
+        "when": "2 tháng trước"
+      },
+      {
+        "author": "Nghi Ái",
+        "rating": 5,
+        "text": "Cảm ơn bạn Minh và Trúc đã tiếp đãi quá nhiệt tình 🥰 Chuyến du lịch trở lại Đà Lạt trong tương lai mình sẽ ghé quán 🫶 …",
+        "when": "một tháng trước"
+      },
+      {
+        "author": "Hoài Ân Nguyễn Thị",
+        "rating": 5,
+        "text": "Lần đầu thấy tuyết ở Đà Lạt 😎😎, kỉ niệm không bao giờ quên tại The Balcony Speakeasy Bar. Đồ uống ngon, các bạn nhân viên nhiệt tình, và chu đáo. Thức uống, không gian, âm nhạc hài hòa, chill thật sự ạ …",
+        "when": "3 tháng trước"
+      },
+      {
+        "author": "0547_Thạch Trần Thiên Thanh",
+        "rating": 5,
+        "text": "Vô tình được bạn giới thiệu đến quán, nhân viên nhiệt tình nhẹ nhàng take care mình rất tận tâm, pha chế theo khẩu vị và ngon. Có dịp mình vẫn sẽ quay lại và recommend các bạn đến trải nghiệm nhé.",
+        "when": "3 tháng trước"
+      },
+      {
+        "author": "Thanh Bình Lê",
+        "rating": 5,
+        "text": "Các bạn nhân viên quán cute, nhiệt tình.\nGhé quán ngẫu nhiên vào 1 đêm bình thường. Nên hôm đó quán vắng dữ lắm, chỉ có bàn tụi mình thui, tha hồ chill. …",
+        "when": "7 tháng trước"
+      },
+      {
+        "author": "NGOI THEN",
+        "rating": 5,
+        "text": "quán nhân viên phục vụ nhiệt tình , nước uống ngon , kêu tới 2 combo , bửa đi chơi vui đáng nhớ nhất",
+        "when": "3 tháng trước"
+      },
+      {
+        "author": "Hoàng Lan Bùi",
+        "rating": 5,
+        "text": "quán siêu chill luôn í, bạn nào đang tìm nơi uống thư giãn thoải mái thì mình rất rcm lun á. nhân viên rất nhiệt tình dễ thương lun, nói chung là 10đ kh có nhưng",
+        "when": "10 tháng trước"
+      },
+      {
+        "author": "Trinh Nguyen",
+        "rating": 5,
+        "text": "Một đêm Đà Lạt đầy bất ngờ và ấm áp tại quán cocktail xinh xắn này!\n\nMình ghé quán khá khuya, định chỉ ngồi một chút chill nhẹ với vài ly cocktail. …",
+        "when": "một năm trước"
+      },
+      {
+        "author": "Lợi Phúc",
+        "rating": 5,
+        "text": "Cocktails ngon, giá hợp lí\nService ổn, nhân viên thân thiện hài hước lắm\nKhông gian theo mình thấy hơi nhỏ, nhưng được cái view ngồi ngoài chill lắm",
+        "when": "một năm trước"
+      }
+    ],
+    "source": "google-maps"
+  },
+  "420-sunset-cocktail-bar-dalat-x1": {
+    "lat": 11.9230839,
+    "lng": 108.44083,
+    "img": "images/420-sunset-cocktail-bar-dalat-x1.jpg",
+    "photos": [
+      "images/420-sunset-cocktail-bar-dalat-x1.jpg",
+      "images/420-sunset-cocktail-bar-dalat-x1-2.jpg",
+      "images/420-sunset-cocktail-bar-dalat-x1-3.jpg",
+      "images/420-sunset-cocktail-bar-dalat-x1-4.jpg"
+    ],
+    "price": 1,
+    "phone": "0981298420",
+    "rating": 4.6,
+    "reviews": 488,
+    "comments": [
+      {
+        "author": "Loan Diễm",
+        "rating": 5,
+        "text": "Cocktail và Food cực ngon nên thử. Giá hợp lý, view và âm thanh chill. Hôm mình đi 3người hơi trễ và trời mưa nên ko thấy hoàng hôn.",
+        "when": "4 tuần trước"
+      },
+      {
+        "author": "My Huynh",
+        "rating": 5,
+        "text": "Quán rất dễ thương , mình đi hơn chục lần rùi mà quên review :)) năm nào cũng đến hết. Nước siêu ngonn, highly reccommend Charming với Tiramisu ở đâyyyy. Mấy bạn nhân viên rất cưng nghenn, rất dễ thương lịch sự lun :))",
+        "when": "4 tháng trước"
+      },
+      {
+        "author": "Nghia Luu",
+        "rating": 5,
+        "text": "quán không gian chill, dj đánh nhạc hay\nchiều thì ít cảnh đẹp nếu không có nắng, tối thì chụp hình chill hơn\nđồ nóng sẽ bị nguội sau 10p, salad thì ăn lạnh vẫn ok",
+        "when": "5 tháng trước"
+      },
+      {
+        "author": "Dat Nguyen",
+        "rating": 5,
+        "text": "Mỗi lần lên đà lạt chắc chắn mình phải ghé quán 1 lần. Điều mình thích là list nhạc của quán, không gian, cho mình cảm giác được thư giãn nhất. Đồ ăn thì rất ổn, mình hay uống các dòng classic cocktails cảm giác cũng rất ok.",
+        "when": "7 tháng trước"
+      },
+      {
+        "author": "Annie Nguyen",
+        "rating": 4,
+        "text": "Không gian thoáng. Chill nhưng hơi trầm buồn. Đi vào hẻm tối, đường xấu. Không dành cho bạn nào đi 1 mình hoặc 2 mình sợ ma 😅😂\nĐồ uống vừa miệng. Món ăn ngon. Nhân viên thân thiện. Nếu trời mưa thì không …",
+        "when": "8 tháng trước"
+      },
+      {
+        "author": "Phuong Anh Nguyen",
+        "rating": 5,
+        "text": "Đồ uống ngon, nhân viên nhiệt tình. Mình ghé vào lúc hoàng hôn cuối tuần có DJ chơi nhạc siêu hay.",
+        "when": "6 tháng trước"
+      },
+      {
+        "author": "Anh Huỳnh",
+        "rating": 5,
+        "text": "Quán nhẹ nhàng chill chill trên đồi ngắm xuống thành phố. Có bếp lửa nhỏ và hát live cuối tuần nên rất chill. Menu nhìn hơi rối, phải lựa 1 lúc lâu. Đường đi vào hơi tối và quanh co đúng đặc sản ĐL. Mình đi hôm vắng vẻ nên yên tĩnh thoải mái.",
+        "when": "6 tháng trước"
+      },
+      {
+        "author": "Aleksandra Vucinic",
+        "rating": 5,
+        "text": "Đồ ăn ngon, nhân viên rất nhiệt tình, không gian rất chi là đà lạt. Đi từ năm ngoái nay mới nhớ ra tên quán hihi.",
+        "when": "7 tháng trước"
+      },
+      {
+        "author": "Dao Diep",
+        "rating": 5,
+        "text": "Chưa có cocktail bar nào làm mình ấn tượng, nhưng 4:20 thì có. Ly nào hương-vị cũng haif hoà, giấu cồn tốt. Các bạn pha chế rất nhiệt tình, vui vẻ, sáng tạo. 4 chúng tôi uống hết 6 ly, được mời thêm shot rịu nhà làm ngon điêng",
+        "when": "5 tháng trước"
+      },
+      {
+        "author": "Vân Lê",
+        "rating": 3,
+        "text": "Mình có 1 số góp ý với quán như sau ạ:\nMình đi ăn trên tinh thần du lịch nên chỉ có vài ngày ở đà Lạt nên mình thật sự muốn trải nghiệm mọi thứ trọn vẹn nhất, mình đi ăn vào ngày thứ 2 nên bếp chính …",
+        "when": "10 tháng trước"
+      }
+    ],
+    "source": "google-maps"
+  },
+  "mizu-bar-dalat-x1": {
+    "lat": 11.9429896,
+    "lng": 108.4266924,
+    "img": "images/mizu-bar-dalat-x1.jpg",
+    "photos": [
+      "images/mizu-bar-dalat-x1.jpg",
+      "images/mizu-bar-dalat-x1-2.jpg",
+      "images/mizu-bar-dalat-x1-3.jpg",
+      "images/mizu-bar-dalat-x1-4.jpg"
+    ],
+    "price": 1,
+    "phone": "0975281179",
+    "rating": 4.8,
+    "reviews": 166,
+    "comments": [
+      {
+        "author": "Minh Quang Huỳnh",
+        "rating": 5,
+        "text": "Một quán bar dành cho người thích không gian yên tĩnh, muốn những ly rượu ngon, độc đáo và những trải nghiệm vị giác mới lạ tại Đà Lạt",
+        "when": "4 tuần trước"
+      },
+      {
+        "author": "Khanh Nguyen",
+        "rating": 5,
+        "text": "Hidden cocktail bar local tại Dalat. Cocktail được pha tailor theo mood và khẩu vị của khách. Không gian cozy, ấm cúng, có phòng riêng cho nhóm nhỏ cần ngồi riêng. Quán có limited seats nên cần đặt trước để được hướng dẫn đường vào.",
+        "when": "5 tháng trước"
+      },
+      {
+        "author": "Hong Phat Pham",
+        "rating": 5,
+        "text": "1 hidden bar đúng nghĩa, quán nằm trong 1 hẻm sâu nên khá là khó tìm nhất là buổi tối, nên liên hệ với quán trước khi đến để được dẫn vào tránh lạc đường. Vào đây sẽ không có menu, quán sẽ dựa trên cảm xúc, sở thích…. để cho ra 1 loại …",
+        "when": "6 tháng trước"
+      },
+      {
+        "author": "Bình Bay Bổng",
+        "rating": 5,
+        "text": "Một quán private bar ở Đà Lạt, với không gian nhỏ nhắn và ấm cúng. Quán không có Menu, nhân viên sẽ làm theo yêu cầu của khách hoặc khách sẽ điền một tờ form về một số thông tin như tâm trạng, ghét vị gì, thích hương gì,… từ đó nhân viên sẽ …",
+        "when": "5 tháng trước"
+      },
+      {
+        "author": "Dương Thuỳ",
+        "rating": 5,
+        "text": "Nói với ảnh là muốn uống trà bưởi múi, thế là ảnh pha cho, dịu nhé 🤌🏻\nLove this place ❤️ …",
+        "when": "3 tháng trước"
+      },
+      {
+        "author": "Nhật Hưng Phan Văn",
+        "rating": 5,
+        "text": "Một trải nghiệm thật sự đặc biệt, chú trọng từng chi tiết nhỏ từ đồ uống, trang phục, dụng cụ, ly tách kể cả cách bài trí dù trong một ko gian nhỏ vẫn mang lại cảm giác rất đặc biệt và chuyên nghiệp. Ở đây thật sự là một trong những nơi pha …",
+        "when": "3 tháng trước"
+      },
+      {
+        "author": "Lan Ngọc",
+        "rating": 5,
+        "text": "Ngày 05/02/25\nTại mizu bar chúng tôi đã có trãi nghiệm vui vẻ và khó quên không khí quán ấm cúng, nước ngon và hợp khẩu vị …",
+        "when": "một năm trước"
+      },
+      {
+        "author": "Dương Thùy",
+        "rating": 5,
+        "text": "Rất yên tĩnh và được des phần uống của mỗi người theo sở thích và tâm trạng. Quán đúng là hidden bar luôn, mình tìm mãi mới ra, dốc cũng khá cao. …",
+        "when": "10 tháng trước"
+      },
+      {
+        "author": "Hieu Nguyen",
+        "rating": 5,
+        "text": "Không phải bar nào cũng khiến mình nhớ. Nhưng ở đây, mọi thứ đều vừa đủ: ánh đèn trầm, không gian ấm áp.\nKhông cần menu. Không cần gọi tên. …",
+        "when": "9 tháng trước"
+      },
+      {
+        "author": "Tran Hang",
+        "rating": 5,
+        "text": "Lần nào có dịp lên Đà Lạt cũng phải ghé qua Mizu làm vài round 🍷Nhất là những ngày cuối năm ngoài trời lạnh buốt bước vào sau cánh cửa là một không gian ấm cúng, có các anh trai nồng nhiệt đón tiếp với khăn nóng lau tay và giúp treo áo …",
+        "when": "Thời gian chỉnh sửa: 2 năm trước"
+      }
+    ],
+    "source": "google-maps"
+  },
+  "rainy-rhythm-hidden-cocktail-bar-x1": {
+    "lat": 11.944162,
+    "lng": 108.4649929,
+    "img": "images/rainy-rhythm-hidden-cocktail-bar-x1.jpg",
+    "photos": [
+      "images/rainy-rhythm-hidden-cocktail-bar-x1.jpg",
+      "images/rainy-rhythm-hidden-cocktail-bar-x1-2.jpg",
+      "images/rainy-rhythm-hidden-cocktail-bar-x1-3.jpg",
+      "images/rainy-rhythm-hidden-cocktail-bar-x1-4.jpg"
+    ],
+    "price": 1,
+    "phone": "0328909062",
+    "rating": 4.9,
+    "reviews": 148,
+    "comments": [
+      {
+        "author": "Đi chơi thuii",
+        "rating": 5,
+        "text": "Một quán rượu khá thú vị nằm ở bên dưới toà nhà, mình được bạn giới thiệu đến đây và rất thíchhh. Không gian ấm áp và rất có gu nhạc. Mình được bạn Bartender giới thiệu món cô ấy tự sáng tạo và nó thật tuyệt vời với mùi thơm ngọt của đào. …",
+        "when": "một năm trước"
+      },
+      {
+        "author": "Lệ Hạ Dung Trần",
+        "rating": 5,
+        "text": "Không gian đặc biệt, nối với Rain coffee, chủ quán làm quầy tại nhà, pha ngẫu nhiên theo tính cách khách hàng, tình cờ biết được địa điểm và vào thưởng thức. Anh Nam chủ quán rất oke và pha hợp tính cách người uống. Bên ngoài khuất nhưng vào bên trong không gian mở và có chất riêng.",
+        "when": "4 năm trước"
+      },
+      {
+        "author": "HD Entertainment",
+        "rating": 5,
+        "text": "Đúng chất hiphop free style, nhạc DJ chơi đĩa than hay 👏 đi du lịch vô trải nghiệm cũng hay …",
+        "when": "một năm trước"
+      },
+      {
+        "author": "Ngọc Bích Bích (BN)",
+        "rating": 5,
+        "text": "Một quán Bar lạ kỳ bạn nên ghé.\nQuán trông khá cổ điển từ không gian đến âm nhạc nhưng cái gã pha rượu ở đây thì lại là dân chơi híp hớp né vờ đai. …",
+        "when": "3 năm trước"
+      },
+      {
+        "author": "Janie Lin",
+        "rating": 5,
+        "text": "Chời ơi đi về rồi mà nhớ nhung, nghiện quán còn hơn nghiện người yêu nữa 🥹\n\nUpdate: Mỗi tháng đi ĐL đều ghé và vẫn vui như ngày nào. Mình sắp có được 1 bộ sưu tập cocktail ở đây rồi 🤣🤣 …",
+        "when": "Thời gian chỉnh sửa: 3 năm trước"
+      },
+      {
+        "author": "Hoang Anh Nguyen",
+        "rating": 5,
+        "text": "Bạn Nam chủ quán nói chuyện rất duyên, uống theo cảm nhận của từng người, chứ ko theo formula nào cả. Nếu ai đã đi các Pub ở EU thì thấy style ở đây rất ổn. Thanks Nam vs bé Vy pha chế vì trải nghiệm tuyệt vời này!",
+        "when": "3 năm trước"
+      },
+      {
+        "author": "Thanh Tùng Lưu",
+        "rating": 5,
+        "text": "Một buổi tối cuối tuần khá thú vị khi lang thang Đà Lạt. Không gian kín đáo, gần gũi và rất chill với âm nhạc chất lượng, phù hợp cho những người thích trải nghiệm những thứ mới lạ như mình. Rất thích người anh em bartender, nói chuyện khá …",
+        "when": "2 năm trước"
+      },
+      {
+        "author": "Khải Lê Tuấn",
+        "rating": 5,
+        "text": "Quán nằm nép mình trong con hẻm nhưng lại đem đến những trải nghiệm rất tuyệt vời cho khách hàng. Từ thái độ cho đến đồ uống mọi thứ đều hoàn hảo! Xứng đáng trở thành một điểm chill nhẹ nhàng cho buổi tối se lạnh.",
+        "when": "2 năm trước"
+      },
+      {
+        "author": "Hoàng Anh Phạm",
+        "rating": 5,
+        "text": "Đồ ăn lẫn đồ uống ngon xỉu. Nhất là cái không khí quán. Nhạc chill voãi ~~. Anh bartender hơi hướng nội thì phải 😂 …",
+        "when": "một năm trước"
+      },
+      {
+        "author": "Nguyễn Trần Anh Quân (Barista Đà Lạt)",
+        "rating": 5,
+        "text": "Quán gụ có không gian ấm cúng, rượu pha ổn đảm bảo không khiến mn thất vọng, Betty với Ri ( Nhân viên) rất dễ thương, siêu nhiệt tình luôn ạ!! Anh Nam (Boss) chơi nhạc rất đã tai luôn. 10 điểm ( 11 điểm sợ quán kiêu ngạo) :)))",
+        "when": "một năm trước"
+      }
+    ],
+    "source": "google-maps"
+  },
+  "tram-sac-bia-x1": {
+    "lat": 11.9457426,
+    "lng": 108.4409411,
+    "img": "images/tram-sac-bia-x1.jpg",
+    "photos": [
+      "images/tram-sac-bia-x1.jpg",
+      "images/tram-sac-bia-x1-2.jpg",
+      "images/tram-sac-bia-x1-3.jpg",
+      "images/tram-sac-bia-x1-4.jpg"
+    ],
+    "price": 1,
+    "phone": "0967250777",
+    "rating": 4.6,
+    "reviews": 483,
+    "comments": [
+      {
+        "author": "Mai Trần",
+        "rating": 5,
+        "text": "Đồ ăn ngon, nhân viên dễ thương. Mở trễ đến 2g.",
+        "when": "5 tháng trước"
+      },
+      {
+        "author": "vi doan",
+        "rating": 4,
+        "text": "Mình đi vào ngày thứ 2 nên quán không bị quá đông, nhân viên phục vụ vui vẻ nhiệt tình. Đồ ăn lên cũng ngon và khá hợp vị mình. Chỉ có món Bạch tuột ớt xiêm hơi tanh nhẹ, còn lại Lẩu thịt bò nhúng ớt, gỏi bò hay nghêu hấp thái đều khá ngon (nghêu hơi bé thịt)",
+        "when": "5 tháng trước"
+      },
+      {
+        "author": "Minh Ánh",
+        "rating": 1,
+        "text": "Cách phục vụ quán tệ. Ngồi 1 tiếng lên được vài món lèo tèo, nước chấm gọi 4 lần mới có. Đồ nướng ra nhưng ko ra bếp để nướng cũng phải gọi 3-4 lần mới đem. Kêu nvien giảm nhỏ nhạc nhưng lại tăng tiếng to hơn.... koo quay lại!!!! Nếu quán …",
+        "when": "4 tháng trước"
+      },
+      {
+        "author": "Kiều My Nguyễn Thái",
+        "rating": 5,
+        "text": "Đồ ăn ngon, nhân viên dễ thương hài hước, không gian rộng thoải mái. 10₫₫₫ ❤️",
+        "when": "6 tháng trước"
+      },
+      {
+        "author": "K_Y Lee",
+        "rating": 5,
+        "text": "Recommend mấy cục dàng đến thử. Ngon điên nhìn ảnh là biết nhaaaa",
+        "when": "3 tháng trước"
+      },
+      {
+        "author": "Di Tô Kim Thiên",
+        "rating": 5,
+        "text": "Chu đáo , nhiệt tình , nhân viên vui tính , đồ ăn ngon💗 …",
+        "when": "2 tháng trước"
+      },
+      {
+        "author": "Khang Nguyễn",
+        "rating": 5,
+        "text": "Quán thoáng mát, sạch sẽ, nhân viên vui tính nhiệt tình, Cô/Chú chủ quán hiền vui vẻ. Đáng để quay lại quán tiếp",
+        "when": "6 tháng trước"
+      },
+      {
+        "author": "Tiên Hồ",
+        "rating": 5,
+        "text": "Quán nhậu mở khuya, không gian rộng rãi, khá nhộn nhịp nên đôi lúc hơi ồn. Phù hợp cho những ai thích không khí sôi động. Quầy bếp mở nên nhìn được quá trình chế biến khá thú vị. Món ăn lên hơi chậm một chút nhưng bù lại nêm nếm đậm đà, trình bày bắt mắt",
+        "when": "3 tháng trước"
+      },
+      {
+        "author": "Thiên Bảo Lương",
+        "rating": 5,
+        "text": "Đồ ăn ngon, nhân viên nhiệt tình, giá cả phải chăng",
+        "when": "3 tháng trước"
+      },
+      {
+        "author": "Anh Nguyễn Thị Trâm",
+        "rating": 5,
+        "text": "Đồ ăn ngonnnn nhân viên nhiệt tình 🥰🥰 …",
+        "when": "2 tháng trước"
+      }
+    ],
+    "source": "google-maps"
+  },
+  "nobar-dalat-contemporary-original-cocktail-x1": {
+    "lat": 11.9441271,
+    "lng": 108.434335,
+    "img": "images/nobar-dalat-contemporary-original-cocktail-x1.jpg",
+    "photos": [
+      "images/nobar-dalat-contemporary-original-cocktail-x1.jpg",
+      "images/nobar-dalat-contemporary-original-cocktail-x1-2.jpg",
+      "images/nobar-dalat-contemporary-original-cocktail-x1-3.jpg",
+      "images/nobar-dalat-contemporary-original-cocktail-x1-4.jpg"
+    ],
+    "price": 1,
+    "phone": "0386726432",
+    "rating": 5,
+    "reviews": 210,
+    "comments": [
+      {
+        "author": "Lan Anh Nguyễn",
+        "rating": 5,
+        "text": "một quán bar ấm cúng, cocktail rất ngon, nếu các bạn chưa rõ mình muốn gì, thì có thể chia sẻ 1 chút khẩu vị mong muốn hay tâm trạng để có thể nhờ các anh tư vấn. 2 anh chủ rất tinh tế, nhẹ nhàng và luôn take care khách khi đến quán. đồng …",
+        "when": "4 tháng trước"
+      },
+      {
+        "author": "Hân Phạm",
+        "rating": 5,
+        "text": "Không gian ấm cúng chill lắm, nhỏ xinh nhưng biết các sắp xếp nên không hề có cảm giác chật chội, thiết kế quán lạ và sang\nMocktail ngonnnnn …",
+        "when": "3 tuần trước"
+      },
+      {
+        "author": "Nghi Phuong",
+        "rating": 5,
+        "text": "người ta hay nói đi đà lạt làm gì cũng dễ chịu, ăn gì uống gì cũng ngon, uống rượu chắc cũng vậy, đặc biệt là uống rượu ở NOBAR thì chắc chắn ngon. …",
+        "when": "3 tháng trước"
+      },
+      {
+        "author": "Duyên Huỳnh",
+        "rating": 5,
+        "text": "Quán nhỏ gần trung tâm Đà Lạt, hai anh bartender dí dỏm dễ thương. Nghe bảo các nguyên liệu đều được các anh làm thủ công và hạn chế dùng syrup gần như là tuyệt đối. Giá okay đủ nhăm nhi và ngồi quầy bar trò chuyện",
+        "when": "3 tháng trước"
+      },
+      {
+        "author": "Do Uyen",
+        "rating": 5,
+        "text": "về không gian và nước uống, mình không có kiến thức chuyên môn để đánh giá sâu.  Với mình là : thuận mắt và vừa uống. Dũng và Sơn thẳng thắn, chân thành đến mức mình chẳng buồn bịa ra 1 thân phận giả dạng nào đó như mấy tips trên mạng …",
+        "when": "3 tháng trước"
+      },
+      {
+        "author": "Ngọc Minh",
+        "rating": 5,
+        "text": "Quán có kiến trúc và nội thất khá hay ho. Vibe dễ chịu, nói chuyện không bị nhạc đè. …",
+        "when": "3 tháng trước"
+      },
+      {
+        "author": "Hào Nam Tần",
+        "rating": 5,
+        "text": "1 quán modern cocktail rất đáng để trải nghiệm đổi gió khi đến ĐL\nMình dùng ly Hỏi, là mùi thơm béo của cacao và dừa. Vị đắng nhẹ và béo kết hợp hậu vị cay nhẹ của tiêu rất là lạ. Cũng tương đối dễ tiếp cận cho những ai muốn …",
+        "when": "3 tháng trước"
+      },
+      {
+        "author": "Thuy Nguyen",
+        "rating": 5,
+        "text": "Cocktail ngon và mùi vị rất sáng tạo. Được bạn rủ tới bar vào đêm giao thừa, được bar welcome  bằng 1 ly sữa cồn và 1 chén chè hạt sen. Chắc uống cồn xong ăn hạt sen sẽ dễ ngủ :)) …",
+        "when": "6 tháng trước"
+      },
+      {
+        "author": "Kim Dư Ly THi",
+        "rating": 5,
+        "text": "1 chiếc bar ấm cúng, phù hợp nói chuyện tâm sự khi buổi tối không biết đi đâu ở ĐL. Anh chủ quán siêu dễ thương. Bar nằm cạnh chợ đêm nên rất tiện. Mình recommend bar này khi mn đến ĐL.",
+        "when": "4 tháng trước"
+      },
+      {
+        "author": "Thiên Vy Lê Hoàng",
+        "rating": 5,
+        "text": "Nước ngon. Phục vụ tốt\n\nDỡn á câu này là tui với anh bartender nói với nhau, rằng mấy chỗ khác nhiều khi …",
+        "when": "8 tháng trước"
+      }
+    ],
+    "source": "google-maps"
+  },
+  "on-the-rocks-cocktail-bar-modern-cocktail--x1": {
+    "lat": 11.944403,
+    "lng": 108.4342066,
+    "img": "images/on-the-rocks-cocktail-bar-modern-cocktail--x1.jpg",
+    "photos": [
+      "images/on-the-rocks-cocktail-bar-modern-cocktail--x1.jpg",
+      "images/on-the-rocks-cocktail-bar-modern-cocktail--x1-2.jpg",
+      "images/on-the-rocks-cocktail-bar-modern-cocktail--x1-3.jpg",
+      "images/on-the-rocks-cocktail-bar-modern-cocktail--x1-4.jpg"
+    ],
+    "price": 1,
+    "phone": "0702970268",
+    "rating": 4.7,
+    "reviews": 1066,
+    "comments": [
+      {
+        "author": "Đi Đâu Cuối Tuần",
+        "rating": 5,
+        "text": "Một quán Cocktail Bar cực có gu kế bên Drinkery trên đường Trương Công Định. Nước uống 9/10, nhân viên 10/10 nhiệt tìnn dễ thương, không gian 10++. Ghé quán một đêm mưa rả rích thật sự thú vị. …",
+        "when": "Thời gian chỉnh sửa: một tuần trước"
+      },
+      {
+        "author": "Vân Anh Trịnh",
+        "rating": 5,
+        "text": "- Không gian: Quán đi xuống dưới hẻm nên cần để ý không sẽ đi qua và để xe máy ở đối diện quán. Quầy rượu trang trí bắt mắt, list nhạc cũng khá sôi động.\n- Nhân viên: 2 bạn bartender (quên chưa hỏi tên 2 bạn :< ) bắt chuyện thoải mái …",
+        "when": "Thời gian chỉnh sửa: 7 tháng trước"
+      },
+      {
+        "author": "HuyĐăng",
+        "rating": 4,
+        "text": "Bar ngay khu Hoà Bình, không gian chill vừa uống vừa nói chuyện được.\nCocktail cũng khá ngon nhưng decor chưa đẹp lắm :)), bartender và nhân viên dễ thương. …",
+        "when": "5 tháng trước"
+      },
+      {
+        "author": "Quỳnh Vân Phạm",
+        "rating": 5,
+        "text": "On the Rocks là quán bar mình cực kỳ yêu thích vì những lý do chính đáng sau:\n\n- Địa điểm: nằm ngay trục đường chính Trương Công Định ốc đảo trung tâm khu chợ …",
+        "when": "5 tháng trước"
+      },
+      {
+        "author": "Loan Oanh",
+        "rating": 5,
+        "text": "Mình là khách quen của quán trong 2 năm trở lại đây. Không gian ấm cúng, nhân viên thân thiện. Chất lượng đồ uống lúc trước mình thấy ổn hơn, ly cocktail có nhiều tầng vị rất tinh tế, giờ thì k bằng lúc trước nên mình ưu tiên gọi ly quen …",
+        "when": "6 tháng trước"
+      },
+      {
+        "author": "Khởi Nguyên Nguyễn Hoàng",
+        "rating": 5,
+        "text": "Tận hưởng 1 tối tuyệt vời,\nBước vào quán với 1 mùi hương gỗ dịu nhẹ kì bí\nCác bạn đón tiếp rất chỉn chu …",
+        "when": "một tháng trước"
+      },
+      {
+        "author": "Ha My",
+        "rating": 5,
+        "text": "Quán rất xinh nha nằm trong ngõ nhỏ nên ko chú ý là ko thấy vì phố này khá nhiều pub và bar a\nĐã ghé vài lần rùi mà hôm nay mới có thời gian ngồi đánh giá …",
+        "when": "10 tháng trước"
+      },
+      {
+        "author": "Dao Diep",
+        "rating": 5,
+        "text": "Tui bảo bartender cho t 1 ly \"hương vị Đà Lạt\" và đó là 1 ly có hương khói, nó giống cái mùi than, mùi cháo khê đồ khi ngồi ở chợ Đà Lạt ăn bát cháo gà ấy :)))",
+        "when": "4 tháng trước"
+      },
+      {
+        "author": "Lương Nhật Phương",
+        "rating": 5,
+        "text": "On the rocks cocktail bar siu dễ thương. Rất rất nên ghé khi du lịch đà lạt! Nước ngon và các bạn phục vụ tư vấn mình rất tận tình! 100 điểm. Thật sự rất thoải mái khi bước vào!",
+        "when": "4 tháng trước"
+      },
+      {
+        "author": "Anh Kim",
+        "rating": 5,
+        "text": "Đêm tối Đà Lạt trở lạnh, On The Rocks là một sự lựa chọn mang đến trải nghiệm khá chill với mình. Nước ngon, không gian ấm cúng, nhân viên ở đây chu đáo và cực vui, siu mê❤️✨",
+        "when": "6 tháng trước"
+      }
+    ],
+    "source": "google-maps"
+  },
+  "blue-hour-tavern-x1": {
+    "lat": 11.9435513,
+    "lng": 108.4345156,
+    "img": "images/blue-hour-tavern-x1.jpg",
+    "photos": [
+      "images/blue-hour-tavern-x1.jpg",
+      "images/blue-hour-tavern-x1-2.jpg",
+      "images/blue-hour-tavern-x1-3.jpg",
+      "images/blue-hour-tavern-x1-4.jpg"
+    ],
+    "price": 1,
+    "phone": "0933025089",
+    "rating": 4.9,
+    "reviews": 96,
+    "comments": [
+      {
+        "author": "Clément",
+        "rating": 5,
+        "text": "Nước ngon nha, giá rất ổn, không gian quán nắm trong con hẻm ấm cúng. Anh chủ dễ thương lắm lắm lắm. 🫶🏻🫶🏻 …",
+        "when": "3 tháng trước"
+      },
+      {
+        "author": "Thuc Hoang Tran",
+        "rating": 5,
+        "text": "Mình với nhỏ bạn ghé thử vì thấy quán dễ thương, ấm cúng ở con dốc nhỏ 😁 tụi mình gọi theo gợi ý của bạn bartender nên không nhớ rõ tên món nhưng đồ uống ngon và giá rẻ. Quán có một bé chó trắng dễ thương, hiền vô cùng luôn. Buổi sáng hôm …",
+        "when": "11 tháng trước"
+      },
+      {
+        "author": "Bảo Phạm",
+        "rating": 5,
+        "text": "Mình đi một mình và gọi ly Thời Trang cũ kĩ. Món nước bài trí chỉnh chu. Vị rượu hơi over với mình, btw body dày cho mình cảm nhận rõ hương và vị. Lần tới mình sẽ gọi Whiskey Sour. Mình đi ngang qua khi đang khám phá chợ Đà Lạt. …",
+        "when": "một năm trước"
+      },
+      {
+        "author": "KIM ĐỊNH",
+        "rating": 5,
+        "text": "Đi Đà Lạt nhiều lần nhưng lần này mới có dịp đi bộ khám phá các con hẻm, mình vô tình bắt gặp cái quán đáng yêu này. Quán rượu có không gian ấm áp, phù hợp để ngồi suy tư và tám chuyện. Đồ uống ngon và chơi nhạc hay. Nghe nói buổi sáng có bán sữa hạt và cà phê trứng nữa. Hôm nào dậy sớm sẽ ghé thử. 😁 …",
+        "when": "một năm trước"
+      },
+      {
+        "author": "nguyen thuy",
+        "rating": 5,
+        "text": "Quán nhỏ trên dốc nhà làng. Không gian dễ chịu rất dễ thương, đồ uống ngon hợp guu tui và chủ quán cũng nhiệt tình nữa. Mọi người nên ghé nếu tới Đà lạt. 10 đỉm 👏👏 …",
+        "when": "một năm trước"
+      },
+      {
+        "author": "nhật nguyễn",
+        "rating": 5,
+        "text": "Con dốc cổ nhất đà lạt và chiếc quán nhỏ xinh xẻo vô cùng . Đồ uống ngon , giá hơp lý. Chủ quán siêu dễ thương. 10/10 điểm, đáng trãi nghiệm !",
+        "when": "một năm trước"
+      },
+      {
+        "author": "Dung Nguyen Viet",
+        "rating": 5,
+        "text": "Quán buổi sáng có bán cà phê còn buổi tối bán đồ uống có cồn . Mình đi thử cả 2 buổi và đều khá là thích vì không gian nhỏ thoải mái , quán ngay trung tâm nằm trên Dốc Nhà Làng lâu đời ở Đà Lạt , ngồi trong quán nhìn mọi người đi lại khá hay . Sẽ ghé nhiều .",
+        "when": "một năm trước"
+      },
+      {
+        "author": "Laura Jeany",
+        "rating": 5,
+        "text": "cocktails ngon nhất Đà Lạt đối với mình. Đồ uống ngon, chất, không gian ấm cúng với giá cả hợp lý\nSẽ ghé nhiều lần",
+        "when": "một năm trước"
+      },
+      {
+        "author": "Dalat Minsk Adventure",
+        "rating": 5,
+        "text": "quán xinh - ấm cúng nằm trên con dốc nhỏ nối liền phan đình phùng khu hoà bình mang nhiều hoài niệm về dalat xưa . decor nhỏ nhỏ xinh xinh nhưng kiểu rất riêng tư",
+        "when": "một năm trước"
+      },
+      {
+        "author": "Hạnh Lem Vườn Nhỏ",
+        "rating": 5,
+        "text": "Pub nhỏ dễ thương nằm ngay con dốc dễ thương, Dốc Nhà Làng.\nChị chủ quán trẻ, kiểu chất chất mà chất ẩn á, ẩn dưới vẻ ngoài bình thường là một người cá tính. Cảm nhận từ thức uống chị pha. …",
+        "when": "một năm trước"
+      }
+    ],
+    "source": "google-maps"
+  },
+  "woody-classic-bar-x1": {
+    "lat": 11.9437737,
+    "lng": 108.4346942,
+    "img": "images/woody-classic-bar-x1.jpg",
+    "photos": [
+      "images/woody-classic-bar-x1.jpg",
+      "images/woody-classic-bar-x1-2.jpg",
+      "images/woody-classic-bar-x1-3.jpg",
+      "images/woody-classic-bar-x1-4.jpg"
+    ],
+    "price": 1,
+    "phone": "02633993123",
+    "rating": 4.7,
+    "reviews": 351,
+    "comments": [
+      {
+        "author": "Anna",
+        "rating": 5,
+        "text": "Woody Bar là một trong những quán bar mình ấn tượng nhất trong chuyến đi. Không gian ấm cúng, thoải mái, rất phù hợp để ngồi thư giãn cùng bạn bè sau một ngày dài khám phá Đà Lạt. Đồ uống được pha chế rất chất lượng, hương vị cân bằng và …",
+        "when": "3 tuần trước"
+      },
+      {
+        "author": "Minh Phúc",
+        "rating": 5,
+        "text": "Đối với những ai muốn một không gian nhẹ nhàng để nói chuyện, phù hợp để ngồi chill 1 mình thì Woody ở Trương Công Định rất phù hợp, chi nhánh ở Khu Hoà Bình sẽ hợp hơn khi đi nhóm để chơi vì có boardgames và bida, hoặc bạn là người dễ …",
+        "when": "3 tháng trước"
+      },
+      {
+        "author": "Chu Chu Phung",
+        "rating": 5,
+        "text": "Giá cả hợp lí, không gian ổn, ngồi nhâm nhi mấy ly coctails hợp vị mình ghê. Các bạn nhân viên, batenders dễ thương, thân thiện và nhiệt tình 🌸. Sẽ còn quay lại vào những ngày cần không gian v mood ổn vậy nè! …",
+        "when": "4 tháng trước"
+      },
+      {
+        "author": "Penguin Working",
+        "rating": 5,
+        "text": "Quán ruộttt, nhân viên dễ thương, cocktails pha theo ý khách uống rất hợp. Countdown năm nào cũng có đồ ăn nhẹ. Giá cả rất hợp lý. Bước vào quán nó có một mùi thơm rất dễ chịu tựa như mùi gỗ 🪵\n10/10 khỏi phải bàn ⭐️⭐️⭐️⭐️⭐️ …",
+        "when": "6 tháng trước"
+      },
+      {
+        "author": "Phùng Minh (Aces Minh)",
+        "rating": 5,
+        "text": "Lần nào lên đà lạt cũng tới đây, cocktail rất có gu, ngồi chill chill với bạn bè rất hợp lý.",
+        "when": "3 tháng trước"
+      },
+      {
+        "author": "Tran Emma (Teru)",
+        "rating": 5,
+        "text": "Bartender tư vấn nhiệt tình, drinks ngon nhé. Quán có chỗ để khoảng 3-4 chiếc xe máy, không gian ấm cúng nước tầm 180k hoặc hơn, mình đi gọi 2 nước có tặng kèm snack",
+        "when": "3 năm trước"
+      },
+      {
+        "author": "Lư Duy Khang",
+        "rating": 5,
+        "text": "5 out of 5\nQuá tuyệt vời, không gian quá lý tưởng để uống cocktail tại đà lạt. Kèm theo đó là chất lượng ly nước do bartender làm ra quá xuất sắc.\nChắc chắn những lần đi đến đà lạt tiếp theo sẽ ghé lại quán",
+        "when": "một năm trước"
+      },
+      {
+        "author": "Kendy Miu",
+        "rating": 5,
+        "text": "Không khi vui vẻ\nNhân viên thân thiện\nGiá cả hợp lý !",
+        "when": "6 tháng trước"
+      },
+      {
+        "author": "An Bảo",
+        "rating": 5,
+        "text": "Mọi thứ ok. Siêu chill. Giá cả hợp lý!\nNhất định sẽ quay lại.",
+        "when": "4 tháng trước"
+      },
+      {
+        "author": "Phung Thi Thu Ha",
+        "rating": 5,
+        "text": "Chuyên bán cocktail và rượu, serve chung với ly snack vị khá dính. Mình thử Bed of Rose thấy cũng ra gì hay ho này nọ lắm 🥰 really make me surprise 😘, thơm thảo mộc chua nhẹ, vị nhẹ nhàng dễ thương ấm áp. Mình thích ngồi ngoài nên chưa thật …",
+        "when": "Thời gian chỉnh sửa: 2 năm trước"
+      }
+    ],
+    "source": "google-maps"
+  },
+  "warm-da-lat-x1": {
+    "lat": 11.9495775,
+    "lng": 108.4388411,
+    "img": "images/warm-da-lat-x1.jpg",
+    "photos": [
+      "images/warm-da-lat-x1.jpg",
+      "images/warm-da-lat-x1-2.jpg",
+      "images/warm-da-lat-x1-3.jpg",
+      "images/warm-da-lat-x1-4.jpg"
+    ],
+    "phone": "0774120888",
+    "rating": 4.2,
+    "reviews": 237,
+    "comments": [
+      {
+        "author": "Hoang Tran",
+        "rating": 5,
+        "text": "Bar vui dịch vụ khá hài lòng , nhạc hay , take care tốt , bạn Hoài Bảo nhiệt tình chu đáo 😆😆 …",
+        "when": "Thời gian chỉnh sửa: 4 tháng trước"
+      },
+      {
+        "author": "Cường Nguyễn",
+        "rating": 1,
+        "text": "1 trải nghiệm cực tệ và sẽ ko có lần t2. Lời khuyên dành cho các bạn muốn vui thì đừng nên ghé. Mình đi rất nhiều quán bar pub ở đà lạt, có những lần say vào cũng có, tỉnh cũng có nhưng chưa gặp trường hợp nào mà chơi trò dí bill như quán này. Đừng thấy khách say rồi thì muốn làm gì thì làm.",
+        "when": "một tháng trước"
+      },
+      {
+        "author": "Katherine Pham",
+        "rating": 5,
+        "text": "ở đây chơi ngày nào cũng vui lun ấy ❤️❤️ cám ơn warm vì 1 đêm tuyệt vời , mấy anh dj đeptraiii",
+        "when": "4 tháng trước"
+      },
+      {
+        "author": "Thuy Truongg",
+        "rating": 1,
+        "text": "-Nhạc thì không hay\n-Bảo vệ thì xô khách tận mấy lần. Không phải 1m mình bị nhé. Bảo vệ đưa khách vô bàn thì đưa tay ra là người ta né rồi, còn ấn đẩy ngkhac ra? Chứ tụi mình không …",
+        "when": "một năm trước"
+      },
+      {
+        "author": "tran duc",
+        "rating": 4,
+        "text": "Địa điểm có nhạc đánh hay\nTuy nhiên không gian quán hơi nhỏ\nCòn lại đều oke …",
+        "when": "2 năm trước"
+      },
+      {
+        "author": "Thanh Vũ Duy",
+        "rating": 2,
+        "text": "Dj và Mc chưa có hoà hợp trên sân khấu nên nhạc đánh chưa hay. Vô nghe để quẩy mà chưa thẩm được. Đổi sang nhạc Việt hát theo thì may ra",
+        "when": "3 tháng trước"
+      },
+      {
+        "author": "Thái Ngô",
+        "rating": 5,
+        "text": "Nhạc hay, nhân viên phục vụ nhiệt tình và chu đáo. Bên cạnh đó là gái đẹp :))), rất đẹp nha …",
+        "when": "3 năm trước"
+      },
+      {
+        "author": "DUC CR",
+        "rating": 5,
+        "text": "Ở đây không khí rất vui, âm nhạc Edm siêu cháy. Giá cả thì hợp túi tiền sinh viên. Nên trải nghiệm nhé các bạn",
+        "when": "Thời gian chỉnh sửa: 8 tháng trước"
+      },
+      {
+        "author": "Quân Nguyễn",
+        "rating": 5,
+        "text": "Quán vui nhạc hay dj đámh hay mc dễ thương",
+        "when": "4 tháng trước"
+      },
+      {
+        "author": "Dinh Mai",
+        "rating": 1,
+        "text": "nhạc đánh dở nha, lần đầu đi quán mà nhạc chán như vậy, dịch vụ cũng không có gì, nói chung đi cho biết",
+        "when": "4 tháng trước"
+      }
+    ],
+    "source": "google-maps"
+  },
+  "last-stop-bar-da-lat-x1": {
+    "lat": 11.9434435,
+    "lng": 108.4354622,
+    "img": "images/last-stop-bar-da-lat-x1.jpg",
+    "photos": [
+      "images/last-stop-bar-da-lat-x1.jpg",
+      "images/last-stop-bar-da-lat-x1-2.jpg",
+      "images/last-stop-bar-da-lat-x1-3.jpg",
+      "images/last-stop-bar-da-lat-x1-4.jpg"
+    ],
+    "price": 1,
+    "phone": "0354621616",
+    "rating": 4.9,
+    "reviews": 255,
+    "comments": [
+      {
+        "author": "Huy",
+        "rating": 5,
+        "text": "Quán bar này vui ác anh em ạ nên đi nhaa. Coktail ngon và rẻ nhe mn.",
+        "when": "7 tháng trước"
+      },
+      {
+        "author": "Khanh Lê",
+        "rating": 5,
+        "text": "Quán ruột của mình, quán rộng rãi, không gian thoải mái, vào bar tây nên cũng k cần cầu kì nhiều.\nNhân viên dễ thương, nhiệt tình\nNgay trung tâm, giá ổn",
+        "when": "8 tháng trước"
+      },
+      {
+        "author": "Huyền Nguyễn",
+        "rating": 5,
+        "text": "Quán đẹp, không gian tuyệt vời, nhân viên nhiệt tình, nhạc hay, recommend mọi người lên Đà Lạt hãy trải nghiệm quán ❤️❤️❤️",
+        "when": "một năm trước"
+      },
+      {
+        "author": "Miu Miu",
+        "rating": 5,
+        "text": "Vui quá trời lunn á, dj hết ca về rùi xong nhân viên lên đánh tiếp cho tụi mình chơi nèee, nhiều khách Tây cũng vui nữaaa Kkkk",
+        "when": "8 tháng trước"
+      },
+      {
+        "author": "Rơm Nấm",
+        "rating": 5,
+        "text": "Quán rộng rãi sạch sẻ\nNhân viên vui tinh thân thiện",
+        "when": "7 tháng trước"
+      },
+      {
+        "author": "Hoàng Nguyên",
+        "rating": 5,
+        "text": "Nhạc hay, không khí vui tươi, một trải nghiệm tuyệt vời 😊 …",
+        "when": "8 tháng trước"
+      },
+      {
+        "author": "Phươngg Viễn",
+        "rating": 5,
+        "text": "Quán oke nhân viên siêu nhiệt tình nhất là nhân viên Khôi Trung Cường và Uyên",
+        "when": "8 tháng trước"
+      },
+      {
+        "author": "NgocMy",
+        "rating": 5,
+        "text": "Siu vui, nhân viên thân thiện hài hước xỉuuuyy\nDj okiela\nNên điiii",
+        "when": "8 tháng trước"
+      },
+      {
+        "author": "Trần",
+        "rating": 3,
+        "text": "TẠI SAO WC BẨN QUÁ VẬY Ạ????\n\nBồn rửa tay tắc ống, không hề có nước để rửa tay; nhà vệ sinh thì lộn xộn, bẩn, …",
+        "when": "8 tháng trước"
+      },
+      {
+        "author": "Meow kawaii",
+        "rating": 5,
+        "text": "Đồ uống rất ngon,không gian thoải mái,quán đã cho mình một trải nghiệm tuyệt vời",
+        "when": "một năm trước"
+      }
+    ],
+    "source": "google-maps"
+  },
+  "fox-s-den-x1": {
+    "lat": 11.9442779,
+    "lng": 108.4346217,
+    "img": "images/fox-s-den-x1.jpg",
+    "photos": [
+      "images/fox-s-den-x1.jpg",
+      "images/fox-s-den-x1-2.jpg",
+      "images/fox-s-den-x1-3.jpg",
+      "images/fox-s-den-x1-4.jpg"
+    ],
+    "price": 1,
+    "phone": "0812612605",
+    "rating": 4.8,
+    "reviews": 210,
+    "comments": [
+      {
+        "author": "tqmkhoi1976",
+        "rating": 4,
+        "text": "Thích hợp khách hàng lowkey ! Không gian yên tỉnh để trò chuyện . Đồ uống không có gì đặc sắc !",
+        "when": "một tháng trước"
+      },
+      {
+        "author": "Thinh Nguyen",
+        "rating": 5,
+        "text": "Mình thích câu chuyện của quán. Có vibe rất riêng\nKhông gian ấm cúng, chill chill, nhạc không lời phù hợp cho các buổi deep talk\nBạn nhân viên ở quán rất thân thiện, nhiệt tình …",
+        "when": "2 tháng trước"
+      },
+      {
+        "author": "Trí Vương",
+        "rating": 5,
+        "text": "Mở cửa, xuống dốc là một thế giới tuyệt vời cho những kẻ mê ngồi trong cái không khí se se lạnh, trò chuyện, nhâm nhi cocktail.\nCác món của Fox's Den lấy cảm hứng từ phim hoạt hình cùng tên, nồng độ khá nhẹ …",
+        "when": "6 tháng trước"
+      },
+      {
+        "author": "Kieu Truong",
+        "rating": 5,
+        "text": "Phải để ý thì mới thấy quán. Đúng nghĩa \"fox den\" lun, một cái hang nhỏ, xinh xắn. Nước uống theo tính cách nhân vật trong câu chuyện \"The Fox and The Hound\". Bạn bartender nữ nói tiếng Anh tốt. Ngon nha. Chỗ này hẹn hò là chuẩn lun. Sẽ tiếp tục ủng hộ :)",
+        "when": "một năm trước"
+      },
+      {
+        "author": "Võ Phạm Huyền Trang",
+        "rating": 5,
+        "text": "Mình được bạn giới thiệu Fox’s , ấn tượng khi lối nhỏ vào quán và mùi hương rất dễ chịu. Không khí nhẹ nhàng, chậm rãi rất thích hợp tâm tình thủ thỉ 😁 …",
+        "when": "6 tháng trước"
+      },
+      {
+        "author": "Long Nguyễn",
+        "rating": 5,
+        "text": "Mình đến fox tầm 22h đi mấy vòng mới thấy ngỏ nhỏ bước xuống đúng chất hidden ..do mình đi vào đầu tuần nên quán ko mở phần trên gác.. decor rất ổn lun .. ko có nhìu dòng classic thường thấy như margarita hay negroni thay vào đó là các loại …",
+        "when": "một năm trước"
+      },
+      {
+        "author": "W Nguyen",
+        "rating": 5,
+        "text": "Bọn mình đến Fox’s den vào gần 11h đêm. Mình mê cái cầu thang nhỏ đi xuống, mê cái cách Fox’s den đúng là 1…fox’s den, nếu ko để ý kỹ sẽ bị đi lố cái lối xuống tiệm mất. Bao lần lỡ hẹn nơi đây, cuối cùng lần này đi ĐL, bọn mình đã tới được. …",
+        "when": "một năm trước"
+      },
+      {
+        "author": "Thu Hà",
+        "rating": 5,
+        "text": "Quán đúng tính chất của một hidden bar.\n\nMình gọi đây là “những chiếc bar yên tĩnh” bởi với phong cách của nó khác với …",
+        "when": "2 năm trước"
+      },
+      {
+        "author": "Thanh San",
+        "rating": 5,
+        "text": "Một hidden bar khá dễ thương trong lòng Đà Lạt. Lấy theme từ một cái hoạt hình ngày xưa về con cáo gì đó mà các bạn ấy thiết kế menu theo các nhân vật trong câu chuyện.\nĐồ uống bao ngon nhé!",
+        "when": "2 năm trước"
+      },
+      {
+        "author": "Nguyễn Vương",
+        "rating": 5,
+        "text": "Có thể những ngày tháng về sau, cảnh đẹp hoa xuân trăng thu chỉ còn là những hoài niệm của 2 đứa.\nĐếm ấy, ta gặp nhau giữa trời mưa giá rét …",
+        "when": "một năm trước"
+      }
+    ],
+    "source": "google-maps"
+  },
+  "the-roof-by-banla-dalat-x1": {
+    "lat": 11.9507217,
+    "lng": 108.461534,
+    "img": "images/the-roof-by-banla-dalat-x1.jpg",
+    "photos": [
+      "images/the-roof-by-banla-dalat-x1.jpg",
+      "images/the-roof-by-banla-dalat-x1-2.jpg",
+      "images/the-roof-by-banla-dalat-x1-3.jpg",
+      "images/the-roof-by-banla-dalat-x1-4.jpg"
+    ],
+    "price": 1,
+    "phone": "02633633777",
+    "rating": 4.8,
+    "reviews": 531,
+    "comments": [
+      {
+        "author": "Bửu Ngọc",
+        "rating": 5,
+        "text": "Mình đi buổi sáng, quán phục vụ các món nước và cafe. Giá ổn ko quá đắt. Concept vintage khá chill cho 1 buổi sáng bình yên của gia đình mình. Không khí mát mẻ, nhạc hay, phuc vu de thuong chieu khach 🥰 …",
+        "when": "4 tháng trước"
+      },
+      {
+        "author": "Diễm Quỳnh",
+        "rating": 5,
+        "text": "nhân viên ở đây cực kỳ dễ thương, luôn niềm nở, trò chuyện thân thiện và sẵn sàng gợi ý đồ uống hợp gu (đặt biệt yêu mến chị Phụng vô cùmg). menu đa dạng từ cocktail sáng tạo đến mocktail nhẹ nhàng",
+        "when": "6 tháng trước"
+      },
+      {
+        "author": "Quyền Ngô",
+        "rating": 5,
+        "text": "Cà phê ngon, nhạc hay, không gian yên tĩnh. Đặc biệt nhân viên pha chế nữ tiếp chuyện với khách rất chu đáo và hiểu ý. Ấn tượng bởi món cà phê SaBa đậm đà dễ uống, hợp khẩu vị và đúng yêu cầu của khách. 5 sao cho bạn pha chế, 5 sao cho dịch vụ tại đây. Perfect ❤️",
+        "when": "5 tháng trước"
+      },
+      {
+        "author": "HIỀN HÒA TRẦN HOÀNG",
+        "rating": 1,
+        "text": "Mình vừa cùng bạn uống cà phê tại tiệm, trong lúc chụp hình trước khi về mình có vô tình làm bể một chiếc ly của quán, mình biết là lỗi của mình và mình cũng sẵn sàng đền tiền cho ly mình làm bể, tuy nhiên thái độ ứng xử bạn nhân viên phục …",
+        "when": "6 tháng trước"
+      },
+      {
+        "author": "Uyên Lê",
+        "rating": 5,
+        "text": "Đồ uống ngon, không gian retro nhạc hay lắm, ban ngày có cafe, buổi tối là cocktails bar, đi tầm 5h có ban công ngắm hoàng hôn nữa",
+        "when": "6 tháng trước"
+      },
+      {
+        "author": "Bocau",
+        "rating": 5,
+        "text": "Không gian xinh đẹp nhạc hay mà không quá to, easy to nói chuyện mà không cần tăng volume. Hai bạn bartender (Phụng và Hien) phục vụ rất dễ thương và mix drinks rất ngon và hỏi khẩu vị mình như nào để modify lại. Hai bạn ấy nhìn như manga characters luôn siuuu cuteeeee 10/10",
+        "when": "6 tháng trước"
+      },
+      {
+        "author": "Lành ƠI",
+        "rating": 5,
+        "text": "Không gian nhẹ nhàng ấm cúng, gu mỹ thuật xịn xò, không quá ồn ào tấp nập , bartender nhẹ nhàng thanh lịch , rất thích hợp để nhâm nhi rượu và nói chuyện với bạn bè",
+        "when": "5 tháng trước"
+      },
+      {
+        "author": "Đan Mi Hoàng Nguyễn",
+        "rating": 5,
+        "text": "💕The Roof by Banla mang đến không gian ấm cúng, lãng mạn và đậm chất chill.\n😋Chị Lan Chi thân thiện xinh gái pha nước siu ngonnnn lunnn. Đồ uống pha chế tinh tế, trình bày đẹp mắt. …",
+        "when": "10 tháng trước"
+      },
+      {
+        "author": "Trinh Mai Loc",
+        "rating": 5,
+        "text": "Trải nghiệm siêu oke la không gian chill nhạc nhẹ nhàng lên đồ đi ngay cả nhà",
+        "when": "3 tuần trước"
+      },
+      {
+        "author": "Hoa Mi",
+        "rating": 2,
+        "text": "Mình từng là khách quay lại rất nhiều lần chỉ vì món rượu vang ở đây. Season cũ thật sự là điểm khác biệt của quán, hương vị hòa quyện, có chiều sâu và rất đáng nhớ. Đáng tiếc, season mới lại hoàn toàn ngược lại: vị khá nhạt nhòa, thiếu sự …",
+        "when": "4 tuần trước"
+      }
+    ],
+    "source": "google-maps"
+  },
+  "leme-craft-beer-x1": {
+    "lat": 11.9381322,
+    "lng": 108.4634869,
+    "img": "images/leme-craft-beer-x1.jpg",
+    "photos": [
+      "images/leme-craft-beer-x1.jpg",
+      "images/leme-craft-beer-x1-2.jpg",
+      "images/leme-craft-beer-x1-3.jpg",
+      "images/leme-craft-beer-x1-4.jpg"
+    ],
+    "price": 1,
+    "phone": "0328909062",
+    "rating": 5,
+    "reviews": 79,
+    "comments": [
+      {
+        "author": "Liz Dao",
+        "rating": 5,
+        "text": "Bia thủ công siêu ngon, siêu mượt. Các bạn nhân viên cũng cực kỳ dễ thương. Quay lại tận 2 lần trong chuyến đi 🫶❤️ …",
+        "when": "5 tháng trước"
+      },
+      {
+        "author": "Phu Tran Minh",
+        "rating": 5,
+        "text": "Quán nhỏ nhỏ thôi nhưng các bạn nhân viên vui vẻ thân thiện, nói chuyện rất vui. Beer ngon. Nếu bạn ở gần muốn tìm chỗ chill trong một đêm lạnh Đà Lạt, thì nên ghé thử.",
+        "when": "8 tháng trước"
+      },
+      {
+        "author": "Xuyên Hoàng",
+        "rating": 5,
+        "text": "Bia ngon, anh chị chủ quán và chị phục vụ dễ thương, nhanh nhẹn. Bia thủ công chủ tự nấu, đậm đà. Đồ nhắm cũng ngon, bá cháy, recommend mn thử trâu gác bếp.",
+        "when": "2 năm trước"
+      },
+      {
+        "author": "Kim Cương Nguyễn Thị",
+        "rating": 5,
+        "text": "Không gian quán nhỏ xinh, hôm bữa mình ghé có con bé nhân viên nói chuyện duyên cực kì, anh chủ cũng dễ thương nữa\nBia là anh chủ tự làm thủ công, bia trái cây theo mùa nên menu cũng thay đổi\nCó dịp lên Đà Lạt sẽ ghé lại",
+        "when": "một năm trước"
+      },
+      {
+        "author": "Ngọc Dương Thị Kim",
+        "rating": 5,
+        "text": "Một quán rất rất lowkey luôn, phải để ý kỹ mới thấy á, quán mở khá khuya nên hợp cho mấy bạn đến uống 1 ly chill chill rồi về ngủ. Các bạn nhân viên dễ thương, bia thơm ngon. Nhưng theo cảm giác của mình thì có vẻ bia khá đậm và khá nặng …",
+        "when": "3 tháng trước"
+      },
+      {
+        "author": "Huynh Han",
+        "rating": 5,
+        "text": "Mình đến vào lúc 9h kém, quán cũng không đông lắm.\nKhông gian quán khá nhỏ, bên trong thì tầm 6 chỗ ngồi ngay quầy bar, bên ngoài có ban công, có một bàn, ngồi được tầm 4,5 người. …",
+        "when": "một năm trước"
+      },
+      {
+        "author": "Vi Thị Hà Phương",
+        "rating": 5,
+        "text": "úi xời, phải nói là cái quán nó tuyệt vời lại cộng thêm anh chủ cute nữa thì auto những lần sau khách hàng đều muốn quay lại. Bia ở đây chất lượng! Thể hiện được cái tâm và sự tỉ mỉ của anh chủ đối với từng lượt bia được hoàn thiện ra. Quán …",
+        "when": "một năm trước"
+      },
+      {
+        "author": "Nguyen Anh",
+        "rating": 5,
+        "text": "Chủ quán hong dễ thương lắm, nhưng mê vợ chủ quán nhe mọi người. Bia gừng, bia bơ ngon (highly rec cho các bạn không muốn uống loại có cồn)\nQuán nhỏ xinh, không gian chuẩn chill, đồ nhắm cũng ngon nữa",
+        "when": "2 năm trước"
+      },
+      {
+        "author": "John Dinh",
+        "rating": 5,
+        "text": "thịt trâu gác bếp ăn với chẩm chéo siêu ngon. thịt trâu được rã ra mềm, ăn thơm ngon ngọt lắm 🤤 …",
+        "when": "11 tháng trước"
+      },
+      {
+        "author": "Hai Giang Vu",
+        "rating": 5,
+        "text": "Trải nghiệm tốt, bia craft khá ổn và có các menu bia seasonal , menu bia trung bình từ 50 tới 70k/ ly . Ngoài ra có món hambuger cực ổn.",
+        "when": "2 năm trước"
+      }
+    ],
+    "source": "google-maps"
+  },
+  "gold-beer-x1": {
+    "lat": 11.9596553,
+    "lng": 108.428945,
+    "img": "images/gold-beer-x1.jpg",
+    "photos": [
+      "images/gold-beer-x1.jpg",
+      "images/gold-beer-x1-2.jpg",
+      "images/gold-beer-x1-3.jpg",
+      "images/gold-beer-x1-4.jpg"
+    ],
+    "price": 1,
+    "phone": "0988479999",
+    "rating": 4.7,
+    "reviews": 19,
+    "comments": [
+      {
+        "author": "ngọc nguyễn",
+        "rating": 5,
+        "text": "Đồ ăn ngon, phục vụ tốt. Nhân viên thân thiện. Quán mở cửa lúc 10 giờ sáng, bạn nào ghé thăm nhớ chú ý thời gian nhé.",
+        "when": "2 năm trước"
+      },
+      {
+        "author": "Thanh Chi",
+        "rating": 5,
+        "text": "Đồ ăn ngon, nhân viễn dễ thương 😊 …",
+        "when": "3 năm trước"
+      },
+      {
+        "author": "Chuong Nguyen Khac",
+        "rating": 5,
+        "text": "Quán đẹp , đồ ăn ngon",
+        "when": "3 năm trước"
+      },
+      {
+        "author": "sửa chữa và nâng cấp ôtô-xe máy *vinh le quang*",
+        "rating": 5,
+        "text": "Không gian đẹp! Phục vụ tốt!",
+        "when": "3 năm trước"
+      },
+      {
+        "author": "HOME 2 LANA",
+        "rating": 5,
+        "text": "Không gian đẹp, sạch, ngon",
+        "when": "3 năm trước"
+      },
+      {
+        "author": "Khang Le",
+        "rating": 4,
+        "text": "Quán đã đóng cửa. Đangsang quán",
+        "when": "2 năm trước"
+      },
+      {
+        "author": "Nhẫn Nguyễn",
+        "rating": 5,
+        "text": "món ăn ngon",
+        "when": "3 năm trước"
+      },
+      {
+        "author": "Quoc Huy Dang",
+        "rating": 5,
+        "text": "Dịch vụ rất ok",
+        "when": "2 năm trước"
+      },
+      {
+        "author": "Thái Trần",
+        "rating": 5,
+        "text": "Tuyệt vời",
+        "when": "3 năm trước"
+      },
+      {
+        "author": "Tuan Thai",
+        "rating": 5,
+        "text": "Được rồi",
+        "when": "2 năm trước"
+      }
+    ],
+    "source": "google-maps"
+  },
+  "drinkery-restaurant-cocktail-garden-x1": {
+    "lat": 11.9430292,
+    "lng": 108.4880973,
+    "img": "images/drinkery-restaurant-cocktail-garden-x1.jpg",
+    "photos": [
+      "images/drinkery-restaurant-cocktail-garden-x1.jpg",
+      "images/drinkery-restaurant-cocktail-garden-x1-2.jpg",
+      "images/drinkery-restaurant-cocktail-garden-x1-3.jpg",
+      "images/drinkery-restaurant-cocktail-garden-x1-4.jpg"
+    ],
+    "price": 1,
+    "phone": "0943821916",
+    "rating": 4.2,
+    "reviews": 1645,
+    "comments": [
+      {
+        "author": "Dũng Nguyễn",
+        "rating": 5,
+        "text": "Đà Lạt có những nơi ban ngày đẹp một kiểu, nhưng tới tối lại đẹp theo một cảm giác hoàn toàn khác ✨\nVà Thung Lũng Đèn là một nơi mà Dũng rất thích dẫn khách đi chụp ảnh đêm 📸 …",
+        "when": "2 tháng trước"
+      },
+      {
+        "author": "Ryan Nguyen",
+        "rating": 5,
+        "text": "1 địa điểm rất đáng để thử khi đến Đà Lạt, không gian siêu rộng rãi, ăn các món nướng ngon nghe nhạc sống, và ngắm lồng đèn ở thung lũng phía dưới. Quán đẹp, không quá đông đúc, ăn nướng uống rượu mơ buổi tối lạnh lạnh cảm nhận không khí rất Đà Lạt 👍 …",
+        "when": "một tháng trước"
+      },
+      {
+        "author": "Mon Unu",
+        "rating": 4,
+        "text": "Mình tới ăn sáng, tới sớm nên quán chỉ có đoàn mình, nhưng lên đồ ăn hơi lâu.\nGiá từ 55k đến tầm 165k, mình thấy giá ăn sáng hơi cao, chưa tương xứng với món ăn, nhưng quán đầu tư rộng thì thu phí cao cũng hợp lý ở Đà Lạt. …",
+        "when": "4 tháng trước"
+      },
+      {
+        "author": "Vương Đế",
+        "rating": 4,
+        "text": "Món nướng của quán khá ngon theo khẩu vị riêng của mình đặc biệt là món chân gà nướng. View của quán quá là ổn áp khi chụp hình sống ảo vì có tiểu cảnh và góc chụp hướng về phía mặt trời lặn rất đẹp. Nhân viên rất nhiệt tình hướng dẫn và …",
+        "when": "4 tháng trước"
+      },
+      {
+        "author": "Kim Ngan Vu",
+        "rating": 5,
+        "text": "mình đi vào 27 tết. 5h30 chiều đón hoàng hôn chụp oke. ban nhạc chị nữ hát hay, anh nam hát hơi xót đôi khi bị hớ. tối 8h cảnh báo ở đó do áp suất nên luồng gió không khí hơi mạnh, lạnh nên mang ấm nha. đánh giá đồ ăn, mình đi nhóm 7ng, …",
+        "when": "4 tháng trước"
+      },
+      {
+        "author": "Khoa Ngoc",
+        "rating": 4,
+        "text": "Menu đa dạng, có cả lẩu, nướng, cơm niêu, cafe. Không gian rộng, chia nhiều khu ăn uống riêng. Tối có acoustic, rất chill",
+        "when": "2 tuần trước"
+      },
+      {
+        "author": "Nhân Lam",
+        "rating": 5,
+        "text": "Không gian thoáng đãng, view đẹp. Combo vừa cafe vừa nhà hành đi kèm không gian nhạc sống nhiều chủ đề. Rất đáng trải nghiệm khi đến Đà Lạt.",
+        "when": "5 tháng trước"
+      },
+      {
+        "author": "Khôi Trần",
+        "rating": 1,
+        "text": "1 trải nghiệm quá tệ. Điện thoại đặt bàn rồi, khi đến nơi thì nói chưa nhận được. Gọi món thì 1h chưa có món, gọi phục vụ thì báo là đông khách nên ko lên món đc, yêu cầu hủy món.",
+        "when": "2 tháng trước"
+      },
+      {
+        "author": "Hoàn Mỹ Hiếu",
+        "rating": 5,
+        "text": "Có dịp đến ăn cùng gia đình ngày 31/3/26. Cá tầm tươi ngon, phong cảnh đẹp vào buổi tối, món ăn ngon làm từ cá tầm",
+        "when": "3 tháng trước"
+      },
+      {
+        "author": "Nguyen Ngoc Huynh Phuong Thao (VITA YOGA)",
+        "rating": 5,
+        "text": "Đợt này đi vào dịp gần Tết nên tranh thủ đặt bàn sớm, vậy mà đến nơi hok có thông tin. Cũng may nhân viên khác kịp thời cho vào bàn. Chill chill nghe nhạc và nướng thoai. Đến đây lần thứ 4 roài 🤭 …",
+        "when": "4 tháng trước"
+      }
+    ],
+    "source": "google-maps"
+  },
+  "444-cocktail-lovers-x1": {
+    "lat": 11.9237777,
+    "lng": 108.4440256,
+    "img": "images/444-cocktail-lovers-x1.jpg",
+    "photos": [
+      "images/444-cocktail-lovers-x1.jpg",
+      "images/444-cocktail-lovers-x1-2.jpg",
+      "images/444-cocktail-lovers-x1-3.jpg",
+      "images/444-cocktail-lovers-x1-4.jpg"
+    ],
+    "price": 1,
+    "phone": "0373402444",
+    "rating": 4.5,
+    "reviews": 846,
+    "comments": [
+      {
+        "author": "Wanderlust P",
+        "rating": 2,
+        "text": "Chia sẻ đầu tiên, quán làm màu là chủ yếu.\nMình ngồi ở quầy bar, bartender không mang bao tay, dùng tay trần bóc đồ ăn cho khách, không lau khô ly, bố trí máy móc dụng cụ không hợp lý. quầy lộn xộn như …",
+        "when": "một tháng trước"
+      },
+      {
+        "author": "vi doan",
+        "rating": 1,
+        "text": "Thật sự hơi thất vọng nên mình quyết định viết review cho quán.\n1. Về dịch vụ:\nMình ngồi quầy bar, nên có thể thấy được bartender đang làm gì, mình hơi sốc với …",
+        "when": "5 tháng trước"
+      },
+      {
+        "author": "__ Adeline_",
+        "rating": 5,
+        "text": "Lần đầu mình đến vì theo gợi ý bạn bè. Dù đi 1 mình nhưng nhân viên takecare  rất kĩ từ khâu chọn view đến chọn đồ uống. Không gian khá chill, ấm áp. Buổi tối muốn tránh xô bồ thì ghé địa điểm này rất hợp lý. Có view ngắm thành phố oki lắm nè. Nếu có dịp lần sau mình vẫn sẽ ghé lại",
+        "when": "một tháng trước"
+      },
+      {
+        "author": "Vũ Thu Ngọc",
+        "rating": 4,
+        "text": "Tối mà ngồi ngoài là gió lùa siu rét nha nên mặc ấm ạ 🥹 quán có set up lửa trại (?) bên ngoài khá chill cơ mà khói nhé =)))\nĐồ uống ngon, bạn nào ko uống được rượu có thể note mức độ cồn là 0.25-0.5 nha …",
+        "when": "7 tháng trước"
+      },
+      {
+        "author": "Sugarindarain",
+        "rating": 4,
+        "text": "Bạn muốn tìm chỗ uống rượu có Dalat city view by night gió lạnh thổi mất não thì bạn tìm đúng chỗ rồi đó 😅\nNhưng menu đồ uống nếu bạn xem qua thấy \"hơi buồn\" giống mình thì cứ hỏi xin …",
+        "when": "3 tháng trước"
+      },
+      {
+        "author": "Lam Linh Nguyễn Thị",
+        "rating": 5,
+        "text": "Quán bar không khí OK, bạn staff Ms.Dy pha chế rất hợp ý tụi em ạ. Sẽ recommend cho bạn bè ạ. Tks quán và các staff.",
+        "when": "3 tuần trước"
+      },
+      {
+        "author": "Minh Quân Trần",
+        "rating": 5,
+        "text": "Cocktail được làm ngẫu nhiên theo mood của mình và làm mình rất bất ngờ với hương vị của món nước đó. Chắc chắn lần sau mình sẽ đi nữa",
+        "when": "một tháng trước"
+      },
+      {
+        "author": "Jay Ngo",
+        "rating": 3,
+        "text": "- Nước uống: khá ổn\n- Nhân viên: thân thiện nhưng do không biết mình đi ngày thường ít nhân viên hay quán chỉ có 2 nhân viên, 1 bartender và 1 bạn phục phụ, lúc tính bill khá chậm …",
+        "when": "9 tháng trước"
+      },
+      {
+        "author": "Thạch Nguyễn Đăng Phương",
+        "rating": 5,
+        "text": "Nước ngon, phục vụ nhiệt tình, view đẹp, thoải mái, hài lòng, có dịp sẽ quay lại",
+        "when": "một tháng trước"
+      },
+      {
+        "author": "Mai Anh Lê Thị",
+        "rating": 5,
+        "text": "Khoai tây lắc phô mai ngon. Rượu pha theo sở thích của khách cũng rất ngậy, thơm, đúng gu. Chỗ view thành phố thì hơi ít chỗ ngồi, ngồi quanh bếp củi cũng ok. Phù hợp cho 1 đêm lạnh ở Đà Lạt",
+        "when": "8 tháng trước"
+      }
+    ],
+    "source": "google-maps"
+  },
+  "tram-men-bia-thu-cong-thuong-hang-am-thuc--x1": {
+    "lat": 11.9493135,
+    "lng": 108.4343017,
+    "img": "images/tram-men-bia-thu-cong-thuong-hang-am-thuc--x1.jpg",
+    "photos": [
+      "images/tram-men-bia-thu-cong-thuong-hang-am-thuc--x1.jpg",
+      "images/tram-men-bia-thu-cong-thuong-hang-am-thuc--x1-2.jpg",
+      "images/tram-men-bia-thu-cong-thuong-hang-am-thuc--x1-3.jpg",
+      "images/tram-men-bia-thu-cong-thuong-hang-am-thuc--x1-4.jpg"
+    ],
+    "price": 1,
+    "phone": "0918400766",
+    "rating": 4.9,
+    "reviews": 238,
+    "comments": [
+      {
+        "author": "Bánh mì",
+        "rating": 5,
+        "text": "Choy quơ đồ ăn ngon nha . Món nào cũng ngon . Giá không mắc. Bia ngon 🤤 lần sau đi đalat sẽ ghé ủng hộ quán nữa …",
+        "when": "một tháng trước"
+      },
+      {
+        "author": "Tùng Mai Thanh",
+        "rating": 5,
+        "text": "Gần một năm rồi mới quay lại.\nRẤT NHIỀU craft beer hơn để lựa chọn.\nCó bia chai nhập để chọn. …",
+        "when": "5 tháng trước"
+      },
+      {
+        "author": "Sunny Nguyen",
+        "rating": 5,
+        "text": "Vô tình đi qua quán thấy decor đẹp nên ghé vô, không gian ấm cúng, ấn tượng với bức tường beer. Khi mình vô chỉ có bàn mình là người Việt. Bia craft ngon, đa dạng lựa chọn, đồ ăn cũng ngon miệng và đặc biệt là nhạc siêu hayyy",
+        "when": "4 tháng trước"
+      },
+      {
+        "author": "minh thanh le",
+        "rating": 5,
+        "text": "Tình cờ đi lang thang ở Đà Lạt, tìm quán beercraft đi chill một mình thì gặp quán này. Vị beer rất ổn, có set combo cho người khó chọn lựa như mình. Lần sau lang thang Đà Lạt lại ghé.",
+        "when": "5 tháng trước"
+      },
+      {
+        "author": "Tran Trang",
+        "rating": 5,
+        "text": "eh hơi bị thich nha, bia ngon, m thich nhất loai bia màu vàng nhạt ngon mà thắm, đồ an rat ngon, trang trí và tặng bánh kem miễn phí nếu tổ chức tiệc, cảm ơn bạn sale Cherry đã hỗ trợ rat nhanh nhẹn lien he qua zalo, anh quản lý đã giup …",
+        "when": "2 tháng trước"
+      },
+      {
+        "author": "Trân Mai",
+        "rating": 5,
+        "text": "Không gian đẹp, chill, thực đơn cực ngon, beer đậm vị, nhiên viên thân thiện phù hợp cho mời đối tác làm ăn.",
+        "when": "4 tháng trước"
+      },
+      {
+        "author": "Mai Huỳnh Trân",
+        "rating": 5,
+        "text": "Thực đơn good, beer thủ công đa dạng, không gian ấm cúng, thích hợp với những bạn muốn chill ko xô bồ.",
+        "when": "4 tháng trước"
+      },
+      {
+        "author": "Hong Ngoc Nguyen",
+        "rating": 5,
+        "text": "Nhạc nhẹ nhàng, đồ ăn cũng vừa, thích nhất menu, mô tả chi tiết cho mỗi loại bia craft quán bán.\nGiá không quá cao, đáng trải nghiệm. …",
+        "when": "4 tháng trước"
+      },
+      {
+        "author": "Thuan Huynh",
+        "rating": 5,
+        "text": "Tình cờ biết được quán thông qua Streamer nổi tiếng nên lưu lại để đi thử. Mình tới đây cùng hai người bạn của mình và uống bia ở đây. Theo cảm nhận của mình thì không gian quán thoáng đãng, không quá ồn ào phù hợp với nhóm thích uống bia …",
+        "when": "6 tháng trước"
+      },
+      {
+        "author": "Nhulan hoang",
+        "rating": 5,
+        "text": "Lang thang Đà Lạt mà tìm được quán này\nBia ngon, giá phù hợp.\nMình order loại bia Belgian Triple uống khá ngon 😍 …",
+        "when": "2 tháng trước"
+      }
+    ],
+    "source": "google-maps"
+  },
+  "say-beer-garden-x1": {
+    "lat": 11.9498529,
+    "lng": 108.4628092,
+    "img": "images/say-beer-garden-x1.jpg",
+    "photos": [
+      "images/say-beer-garden-x1.jpg",
+      "images/say-beer-garden-x1-2.jpg",
+      "images/say-beer-garden-x1-3.jpg",
+      "images/say-beer-garden-x1-4.jpg"
+    ],
+    "phone": "0969731047",
+    "rating": 5,
+    "reviews": 10,
+    "comments": [
+      {
+        "author": "Thanh Nguyen",
+        "rating": 5,
+        "text": "Quán đồ ăn ngon hợp khẩu vị nhân viên nhiệt tình thoáng mát 20h có nhạc DJ siêu vui sẽ ghé lại nhiều lần ạ",
+        "when": "3 tuần trước"
+      },
+      {
+        "author": "Vỹ Xuân",
+        "rating": 5,
+        "text": "Uống là phải cháy- Quẩy là phải say 😂😂 …",
+        "when": "3 tháng trước"
+      },
+      {
+        "author": "Phạm Việt",
+        "rating": 5,
+        "text": "DJ đánh nhạc hay phết không gian mở thoáng mát đồ ăn cũng hợp túi tiền với ngon. Nói chung là quán tuyệt vời nha",
+        "when": "3 tháng trước"
+      },
+      {
+        "author": "Lâm Phan",
+        "rating": 5,
+        "text": "nhạc hay, nhân viên nhảy vui, nhiệt tình",
+        "when": "2 tháng trước"
+      },
+      {
+        "author": "Chi Kim",
+        "rating": 5,
+        "text": "Đồ ăn ngon; nhân viên phục vụ oke; dễ thuơng",
+        "when": "2 tháng trước"
+      },
+      {
+        "author": "Minh Nhật Trần",
+        "rating": 5,
+        "text": "Mình vừa ghé Bia hơi Hà Nội SAY BEER và thật sự rất ấn tượng!\n\nKhông gian quán rộng rãi, thoáng mát kiểu beer garden nên ngồi rất chill, đặc …",
+        "when": "3 tháng trước"
+      },
+      {
+        "author": "Tran Mai Ngoc Anh",
+        "rating": 5,
+        "text": "",
+        "when": "3 tháng trước"
+      },
+      {
+        "author": "Việt La",
+        "rating": 5,
+        "text": "",
+        "when": "3 tháng trước"
+      },
+      {
+        "author": "Tang Say Phu (Piesttee)",
+        "rating": 5,
+        "text": "",
+        "when": "3 tháng trước"
+      },
+      {
+        "author": "Nhật Long",
+        "rating": 5,
+        "text": "",
+        "when": "3 tháng trước"
+      }
+    ],
+    "source": "google-maps"
+  },
+  "don-quixote-x1": {
+    "lat": 11.9442028,
+    "lng": 108.4348393,
+    "img": "images/don-quixote-x1.jpg",
+    "photos": [
+      "images/don-quixote-x1.jpg",
+      "images/don-quixote-x1-2.jpg",
+      "images/don-quixote-x1-3.jpg",
+      "images/don-quixote-x1-4.jpg"
+    ],
+    "price": 1,
+    "phone": "0798919189",
+    "rating": 4.4,
+    "reviews": 370,
+    "comments": [
+      {
+        "author": "Nga Tran",
+        "rating": 5,
+        "text": "nhạc hay, ngồi chỗ quầy bar, dc xem bartender pha cocktail, nhân viên rất takecare khách nha 🎉10d khum có nhưng …",
+        "when": "một năm trước"
+      },
+      {
+        "author": "Tài Lê",
+        "rating": 5,
+        "text": "Đây là nơi vui nhất mà mình đến rượu ngon không gian sạch sẽ, giá ổn, nhạc hay quan trọng nhất là các bạn nhân viên ở đây nhiệt tình, vui vẻ bạn mình bị lạc mất điện thoại mặc dù quán đã đóng cửa nhưng vẫn vui vẻ giúp tụi mình tìm lại. Chắc chắn có dịp lên Đà Lạt mình sẽ quay lại đây.",
+        "when": "một năm trước"
+      },
+      {
+        "author": "Hiếu Nguyễn",
+        "rating": 5,
+        "text": "Quán đánh nhạc hay.\nNhân viên thân thiện và niềm nở.\nLoa nhạc ok . …",
+        "when": "Thời gian chỉnh sửa: một năm trước"
+      },
+      {
+        "author": "Thanh Anh Nguyen",
+        "rating": 5,
+        "text": "Quán vui vẻ giá cả OK!   nhưng có một chút điểm nhỏ về nhân viên\" cần tập trung vào công việc hơn và thái độ vui vẻ một chút với khách hàng nhé\"",
+        "when": "một năm trước"
+      },
+      {
+        "author": "Mỹ Hạnh",
+        "rating": 1,
+        "text": "Bạn mình có order 1 ly ramos gin fizz, nv bảo món này ko có trong menu nên sẽ ko áp dụng ct happy hour, mình vẫn vui vẻ đồng ý. Họ làm ra ly nước bị fail, lớp foam ko đông chảy nhều nhão ra ly, vậy mà cũng mang ra để lên bàn để phục vụ …",
+        "when": "Thời gian chỉnh sửa: một năm trước"
+      },
+      {
+        "author": "Vy Thảo",
+        "rating": 5,
+        "text": "Nhân viên siu thân thiện, cocktail siu ngon, nhạc hayyyy. 10 điểm ko coá nhưngg",
+        "when": "một năm trước"
+      },
+      {
+        "author": "Julep Linh Hay Đi",
+        "rating": 5,
+        "text": "Vuiiiii dì đau, thíc cánh cửa màu hồng mới.\nCòn dc checkin nhận quà , cocktail rẻ đồng giá 95k",
+        "when": "2 năm trước"
+      },
+      {
+        "author": "Trân CM",
+        "rating": 5,
+        "text": "Quán cocktail rất ngon, pha chế rất hợp gu mình, chua ngọt, rượu dịu nhẹ nhàng đến mạnh tùy lựa chọn. Nhạc hay, Bartender siêu dễ thương và pha chế rất điêu luyện.",
+        "when": "3 năm trước"
+      },
+      {
+        "author": "Trúc Vi Trần",
+        "rating": 5,
+        "text": "Giá nước có khung giờ vàng nên bọn mình được tính giá rẻ quá trời luôn. Quán có nhạc hay, không khí vui, mấy chị dancer đẹp xỉu 🤤 …",
+        "when": "3 năm trước"
+      },
+      {
+        "author": "Hằng Nguyễn",
+        "rating": 1,
+        "text": "Quán đóng cửa dẹp rồi mọi người đừng đi nha 😡 …",
+        "when": "5 tháng trước"
+      }
+    ],
+    "source": "google-maps"
+  },
+  "6th-floor-club-x1": {
+    "lat": 11.9520322,
+    "lng": 108.4391305,
+    "img": "images/6th-floor-club-x1.jpg",
+    "photos": [
+      "images/6th-floor-club-x1.jpg",
+      "images/6th-floor-club-x1-2.jpg",
+      "images/6th-floor-club-x1-3.jpg",
+      "images/6th-floor-club-x1-4.jpg"
+    ],
+    "price": 1,
+    "phone": "0902718887",
+    "rating": 3.7,
+    "reviews": 37,
+    "comments": [
+      {
+        "author": "David S",
+        "rating": 4,
+        "text": "Thật tiếc là quán vắng khách khi tôi đến, nhưng tôi vẫn rất thích nơi này. Quán có không gian trong nhà và ngoài trời tốt, giá cả phải chăng so với một quán bar trên sân thượng.",
+        "when": "4 tháng trước"
+      },
+      {
+        "author": "Natascha Wilson",
+        "rating": 5,
+        "text": "Một nơi thực sự tuyệt vời với những người thân thiện và âm nhạc hay, tôi rất thích Jenny - cô gái siêu thân thiện, rất nên đến đây. Nếu có dịp quay lại Đà Lạt, chúng tôi nhất định sẽ quay lại đây.",
+        "when": "một năm trước"
+      },
+      {
+        "author": "Lara Armstrong",
+        "rating": 5,
+        "text": "Người pha chế rất thân thiện, đồ uống mạnh giá rẻ.",
+        "when": "2 tháng trước"
+      },
+      {
+        "author": "catherine paalman",
+        "rating": 1,
+        "text": "Chúng tôi đang tìm một quán bar để đi chơi ở Dal Lat và tìm thấy quán này trên mạng. Trang web ghi là mở cửa đến 6 giờ sáng. Chúng tôi nhập địa chỉ vào Google Maps và đến đúng địa điểm… nhưng quán đó không tồn tại. Tôi gọi đến số điện thoại …",
+        "when": "2 năm trước"
+      },
+      {
+        "author": "Jenny Nguyen",
+        "rating": 5,
+        "text": "Những điệu nhảy tuyệt vời nhất từ ​​trước đến giờ haha",
+        "when": "một năm trước"
+      },
+      {
+        "author": "Youtube Travel Here",
+        "rating": 2,
+        "text": "Đây là một quán bar điển hình dành cho dân du lịch bụi. Bia có giá 40.000 VND, khá rẻ. Nhưng quán bar này thu hút những du khách bụi giá rẻ mặc dép xỏ ngón và áo ba lỗ. Hoạt động chính của họ là hút cần sa và hít khí cười từ bóng bay.",
+        "when": "2 năm trước"
+      },
+      {
+        "author": "Julie Stoil Fernandez",
+        "rating": 5,
+        "text": "Đừng bỏ lỡ quán bar này!! Mọi người bỏ tiền ra để tham quan \"ngôi nhà điên\" ở Đà Lạt. Nhưng tòa nhà này còn tuyệt vời hơn nhiều. Sáu tầng với kiến ​​trúc uốn lượn, điên rồ, giàu trí tưởng tượng và đẹp mắt, đưa bạn vào những khu rừng Đà Lạt …",
+        "when": "3 năm trước"
+      },
+      {
+        "author": "Lee Daniel",
+        "rating": 1,
+        "text": "Quán bar đó không cho phép người Việt vào dù tôi nói tiếng Việt khá tốt, ăn mặc chỉnh tề và có tiền trả. Nhưng vì lý do nào đó, họ lại rất niềm nở với người nước ngoài, tôi cảm thấy điều đó thật phân biệt chủng tộc.",
+        "when": "2 năm trước"
+      },
+      {
+        "author": "Ngoc Vu Bich",
+        "rating": 5,
+        "text": "Một nơi tuyệt vời, mọi người ở đó đến từ nhiều quốc gia khác nhau như Mỹ, Anh, Đức... Ai cũng rất thân thiện và âm nhạc cũng hay nữa. Quán bar tuyệt nhất vào lúc nửa đêm dành cho du khách nước ngoài.",
+        "when": "6 năm trước"
+      },
+      {
+        "author": "j",
+        "rating": 2,
+        "text": "Nơi này mang đậm phong cách nhà nghỉ bình dân dành cho dân du lịch bụi... và thu hút đủ loại người. Trừ khi bạn là sinh viên năm nhất đang nghỉ xuân, tôi không khuyên bạn nên đến đây.",
+        "when": "6 năm trước"
+      }
+    ],
+    "source": "google-maps"
+  },
+  "vu-truong-v-club-x1": {
+    "lat": 11.9403679,
+    "lng": 108.4369441,
+    "img": "images/vu-truong-v-club-x1.jpg",
+    "photos": [
+      "images/vu-truong-v-club-x1.jpg",
+      "images/vu-truong-v-club-x1-2.jpg",
+      "images/vu-truong-v-club-x1-3.jpg",
+      "images/vu-truong-v-club-x1-4.jpg"
+    ],
+    "price": 1,
+    "phone": "0984145555",
+    "rating": 3.6,
+    "reviews": 156,
+    "comments": [
+      {
+        "author": "Vũ Huỳnh Tuấn",
+        "rating": 4,
+        "text": "Đã đến 1 lần tháng 8/2022 nằm ở vị trí gọi là đắc địa của đà lat.không gian tuy không rộng như các quán bar sài gòn ngưng bố trí dẹp âm thanh hay và vui.",
+        "when": "3 năm trước"
+      },
+      {
+        "author": "Mê xe Vlog",
+        "rating": 4,
+        "text": "Quán đông vui nhân viên khá nhiệt tình chu đáo . Nhạc hay sôi động …\nNằm vị trí đắc địa .. Trãi nghiệm khá tốt",
+        "when": "3 năm trước"
+      },
+      {
+        "author": "Đà Lạt Homestay Booking",
+        "rating": 5,
+        "text": "Ngay trung tâm chợ Đà Lạt . Bar rộng rãi thường xuyên có chương trình giao lưu cùng ca sĩ cuối tuần .",
+        "when": "8 năm trước"
+      },
+      {
+        "author": "hung tran",
+        "rating": 5,
+        "text": "Tuyệt vời , khi đến đây",
+        "when": "6 năm trước"
+      },
+      {
+        "author": "Horny Unicorn",
+        "rating": 3,
+        "text": "Nhạc dở không lên nổi 😂😂 dô kêu beer nhân viên nhìn bằng nửa con mắt. Nói chung là lỏ …",
+        "when": "một năm trước"
+      },
+      {
+        "author": "Quỳnh Nguyễn",
+        "rating": 5,
+        "text": "Mình thấy nhạc rất hay. Đèn đẹp, nhân viên phục vụ chu đáo và chuyên nghiệp. Là nơi lí tưởng cho những người thích sôi động giống mình. Sẽ ghé thăm v clup vào một ngày không xa",
+        "when": "7 năm trước"
+      },
+      {
+        "author": "Huy Én",
+        "rating": 5,
+        "text": "Một buổi tối tuyệt vời bên bạn bè và ae",
+        "when": "6 năm trước"
+      },
+      {
+        "author": "Eic Truong",
+        "rating": 5,
+        "text": "Mọi thứ điều ok, âm thanh ánh sáng hiện đại,đội ngũ nhiên viên phục vụ nhiện tình, nói chung là ok,hiẹn dịp quay trở lại",
+        "when": "7 năm trước"
+      },
+      {
+        "author": "Bóp Hải",
+        "rating": 5,
+        "text": "Trải nghiệm ttuyệtvời, quán nhạc hay đèn đánh rất đẹp, mới bước vào cửa nhân viên đã đón tiếp rất nhiệt tình, cách phục vụ không chê vào đâu được.",
+        "when": "7 năm trước"
+      },
+      {
+        "author": "Ngân Khánh Trần",
+        "rating": 5,
+        "text": "💃💃💃💃nhạc hay, vietmix thì đốn ❤💙💚💛💜💓💖💗💝💟 toàn những bài  HIT HOT đang làm mưa làm gió trên thị trường👍👍👍👍👍 nhân viên nhiệt tình 💃💃 vô cùng dễ thương👯👯👯👯 …",
+        "when": "7 năm trước"
+      }
+    ],
+    "source": "google-maps"
+  },
+  "moi-craft-beer-x1": {
+    "lat": 11.9438965,
+    "lng": 108.434794,
+    "img": "images/moi-craft-beer-x1.jpg",
+    "photos": [
+      "images/moi-craft-beer-x1.jpg",
+      "images/moi-craft-beer-x1-2.jpg",
+      "images/moi-craft-beer-x1-3.jpg",
+      "images/moi-craft-beer-x1-4.jpg"
+    ],
+    "phone": "0786778568",
+    "rating": 4.5,
+    "reviews": 243,
+    "comments": [
+      {
+        "author": "Tran Minh Tuan",
+        "rating": 5,
+        "text": "Một nơi vừa chill, vừa ấm cúng tại Đà Lạt. Menu các loại bia craft đa dạng, có nhiều cấp độ cồn khác nhau từ rất nhẹ đến nặng hợp đi nhóm đông người. Menu đồ ăn thì ít món và khá mắc, chủ yếu để nhắm bia. Quán có nhiều nhân viên mèo tay vịn rất dễ thương và quấn người. Không gian có một lầu nên cũng rộng rãi.",
+        "when": "4 tháng trước"
+      },
+      {
+        "author": "Na Nguyen Phan Le",
+        "rating": 3,
+        "text": "Lần 1 đi, quán ổn.\nLần 2, trải nghiệm khá tệ.\n- Nhóm mình kêu 2 ly bia gừng nhưng đem ra bia vị ổi. Mình có báo thì bạn nhân …",
+        "when": "6 tháng trước"
+      },
+      {
+        "author": "Hà Nguyễn",
+        "rating": 5,
+        "text": "Bia ngon, bar đẹp,nhân viên nói tiếng anh rất tốt, có một chú mèo to béo ham ngủ dễ thương",
+        "when": "3 tháng trước"
+      },
+      {
+        "author": "Thảo Đặng",
+        "rating": 5,
+        "text": "Nếu vào một buổi tối se lạnh ở Đà Lạt mà bạn không biết đi đâu thì hãy ghé nơi này làm cốc bia Gừng mát lạnh nhưng uống vô thiệt sự ấm nóng rất đã",
+        "when": "7 tháng trước"
+      },
+      {
+        "author": "Du Vinh",
+        "rating": 1,
+        "text": "Hôm nay 21:53 phút ngày 10/6/2025\nTrải nghiệm tồi tệ chưa từng thấy tại đây,nv thái độ xem thường chúng tôi 1 cách vô văn hoá,chúng tôi đi nhóm 4 người ord beer sau đó 2 khách tây bước vào thì …",
+        "when": "một năm trước"
+      },
+      {
+        "author": "HUỆ Cao",
+        "rating": 5,
+        "text": "Bia rất hợp với mình\nLà những vị khách cuối cùng của quán\nquán. Nhân viên rất nhiệt tình và vui vẻ",
+        "when": "6 tháng trước"
+      },
+      {
+        "author": "Tuyet Thanh Le",
+        "rating": 5,
+        "text": "Thực sự mà nói thì quá là hợp vibe luoonnn\nNên cân nhắc trc khi order và nơi gọi tư vấn về khẩu vị trước nhaaa 😍😍\nOrder đc đúng ly ún quá đã chuẩn vịiii nhạc cũng oke luôn quá hợp lý. 10000000đ …",
+        "when": "11 tháng trước"
+      },
+      {
+        "author": "Thảo Nguyễn",
+        "rating": 5,
+        "text": "Một quán craft beer khá là ngon. Menu có nhiều bia trái cây lắm á. Bia gừng ngon thơm dễ uống. Bia hibiscus chua hơn, nặng độ hơn nha. 1 mình tui uống 2 ly này là muốn xỉn òi đó. Ngọt ngọt dễ uống nhưng mà say lắm nha :))",
+        "when": "2 năm trước"
+      },
+      {
+        "author": "Thảo Nguyễn",
+        "rating": 5,
+        "text": "Một quán bia ấm cúng giữa lòng Đà Lạt. Gia đình tôi đã thử bia ngọt và Lager rất ngon. Bạn nhân viên rất friendly gợi ý nhiều quán ăn ngon.",
+        "when": "một năm trước"
+      },
+      {
+        "author": "Thảo Trần Thị Phương",
+        "rating": 5,
+        "text": "Bia Me 10đ nha, không gian chill lắm 💯🍺, quán bia ruột ở ĐL của tui …",
+        "when": "một năm trước"
+      }
+    ],
+    "source": "google-maps"
+  },
+  "le-retour-x1": {
+    "lat": 11.9439775,
+    "lng": 108.4397295,
+    "img": "images/le-retour-x1.jpg",
+    "photos": [
+      "images/le-retour-x1.jpg",
+      "images/le-retour-x1-2.jpg",
+      "images/le-retour-x1-3.jpg",
+      "images/le-retour-x1-4.jpg"
+    ],
+    "price": 1,
+    "phone": "0368874938",
+    "rating": 4.9,
+    "reviews": 492,
+    "comments": [
+      {
+        "author": "Ty Do Xuan",
+        "rating": 5,
+        "text": "Quán chill thích hợp nhóm 2 - 10ng. Vang Cheese Platter ok cho buổi tối Đà Lạt mưa phùn đẹp và se lạnh.",
+        "when": "Thời gian chỉnh sửa: 3 tuần trước"
+      },
+      {
+        "author": "Que Huong Vo",
+        "rating": 5,
+        "text": "Đơn giản là hợp guu thì thấy thích thôi. Không có quá nhiều điều để comment.\nCó vang ngon\nCó không gian ấm cúng …",
+        "when": "6 tháng trước"
+      },
+      {
+        "author": "Trang Phan",
+        "rating": 5,
+        "text": "Không gian tuyệt vời , rượu ngon , cold cut chất lượng, nhân viên dễ thương. Trải nghiệm tuyệt vời với mình",
+        "when": "một tháng trước"
+      },
+      {
+        "author": "Thanh Truc Le",
+        "rating": 5,
+        "text": "Bạn đến Đà Lạt một mình nhưng ko muốn cô đơn, Le Retour sẽ bầu bạn với bạn cả ngày lẫn đêm",
+        "when": "5 tháng trước"
+      },
+      {
+        "author": "Phi Thái Nguyễn Ngọc",
+        "rating": 5,
+        "text": "quán nhìn rất ấm cúng và đẹp, hai anh chị nhân viên siêu nhiệt tình và dễ thương, hỗ trợ khách hết mình. Sẽ quay lại khi đến đà lạt",
+        "when": "5 tháng trước"
+      },
+      {
+        "author": "Hermione Nguyen",
+        "rating": 5,
+        "text": "Không gian ấm cúng, phô mai và cold cuts ngon, mật ong cũng ngonn. Nên thử ăn bánh mì bơ với mật ong hehe",
+        "when": "6 tháng trước"
+      },
+      {
+        "author": "Pham Truong Hoang Oanh",
+        "rating": 5,
+        "text": "Một không gian đẹp, ấm cúng với rượu ngon … nên ghé một lần để tận hưởng 🍀 …",
+        "when": "6 tháng trước"
+      },
+      {
+        "author": "Quỳnh Vân Phạm",
+        "rating": 5,
+        "text": "Ngày hôm đấy trời mưa nhẹ, tôi và chị bạn đồng nghiệp cũ có buổi hẹn hò thân mật ở quán bạn, dịch vụ và giá rượu, cũng như chất lượng rượu vang, món ăn kèm rất tuyệt vời. Tuy không gian nhỏ nhưng nơi này rất lãng mạn và dễ thương, nhân viên …",
+        "when": "một năm trước"
+      },
+      {
+        "author": "Oanh Pham",
+        "rating": 5,
+        "text": "1 chiếc bar quá ấm áp, đáng yêu và rượu ngon ofc! Lovely time with them ❤️\nNhất định phải đến nếu bạn yêu wine 🥰 …",
+        "when": "8 tháng trước"
+      },
+      {
+        "author": "my huyen",
+        "rating": 5,
+        "text": "Quán mở nhạc rất hay, có gu và hợp mood. Các bạn nhân viên nhiệt tình, vui vẻ. Đồ ăn và không khí trên cả tuyệt vời!!!",
+        "when": "5 tháng trước"
+      }
+    ],
+    "source": "google-maps"
+  },
+  "the-liquid-lab-coffee-cocktail-bar-x1": {
+    "lat": 11.9445245,
+    "lng": 108.4399253,
+    "img": "images/the-liquid-lab-coffee-cocktail-bar-x1.jpg",
+    "photos": [
+      "images/the-liquid-lab-coffee-cocktail-bar-x1.jpg",
+      "images/the-liquid-lab-coffee-cocktail-bar-x1-2.jpg",
+      "images/the-liquid-lab-coffee-cocktail-bar-x1-3.jpg",
+      "images/the-liquid-lab-coffee-cocktail-bar-x1-4.jpg"
+    ],
+    "price": 1,
+    "phone": "0905868795",
+    "rating": 5,
+    "reviews": 167,
+    "comments": [
+      {
+        "author": "Bùi Diễm Quỳnh Châu",
+        "rating": 5,
+        "text": "Quán này thật sự là highlight của chuyến đi Đà Lạt lần này. Quán nằm trong một con hẻm nhỏ gần khách sạn của mình nên mình đi bộ qua quán luôn.\nKhông gian quán ấm cúng, anh chủ là người pha chế. Mình không phải là người …",
+        "when": "7 tháng trước"
+      },
+      {
+        "author": "Ngọt Huyền",
+        "rating": 5,
+        "text": "Vô tình tìm thấy một quán cocktails cạnh chỗ ở, cũng vô tình gặp gỡ anh chủ dễ thương, mọi thứ điều là vô tình nhưng nó lại rất gì và này nọ. Mình khá thích món signature ở đây, không gian tuy nhỏ nhưng không làm cho mình thấy ngộp ngạt xíu …",
+        "when": "4 tháng trước"
+      },
+      {
+        "author": "SONG NGỌC CHANNEL",
+        "rating": 5,
+        "text": "Cafe ngon . Quán có không gian rất ấm áp, yên tĩnh, tạo cho cảm giác thoải mái. Quán tuy nhỏ nhưng được bài trí rất tinh tế, mang đến một sự ấm áp.\nĐiểm đặc biệt là chủ quán rất dễ thương và nhiệt tình...",
+        "when": "một năm trước"
+      },
+      {
+        "author": "Uyen Nguyen",
+        "rating": 5,
+        "text": "Quán quá là dễ thương luôn. Buổi sáng có bánh cà phê với các loại nước ngon lắm nè giá cũng rất rẻ nữa. Tui chính thức là khách ruột ở đây nha, hihi.",
+        "when": "một năm trước"
+      },
+      {
+        "author": "Tấn Lực Huỳnh",
+        "rating": 5,
+        "text": "Cocktail ngon, không gian ấm áp, rất chill và thư giản, tuy vô tình đến đây nhưng trãi nghiệm mang lại hết sức tuyệt vời. Cám ơn anh Chủ quán rất nhiều",
+        "when": "một năm trước"
+      },
+      {
+        "author": "Quân Minh",
+        "rating": 5,
+        "text": "quán decor đẹp private, chủ quán thân thiện nch với mình đến 1-2h sáng",
+        "when": "6 tháng trước"
+      },
+      {
+        "author": "Ha Nguyen",
+        "rating": 5,
+        "text": "Quán này vô tình mình kiếm thấy gần khách sạn khi đi bộ nên quyết định ghé sang. Quán ở dưới một con dốc nhỏ trong hẻm, biển hiệu rõ ràng nên dễ tìm thấy.\nKhông gian quán nhỏ nhưng ấm cúng, có thể ngồi trong quán hoặc có chỗ ngoài sân, …",
+        "when": "11 tháng trước"
+      },
+      {
+        "author": "Trúc Ngân",
+        "rating": 5,
+        "text": "Quán nằm ở vị trí khá yên tĩnh, ẩn mình dưới một con dốc. Không gian của quán rất ấm cúng, vừa có khu vực bên trong với ánh sáng dịu nhẹ tạo cảm giác thoải mái, lại vừa có không gian nhỏ ở ngoài cho những ai muốn thưởng thức cocktail trong …",
+        "when": "một năm trước"
+      },
+      {
+        "author": "Khoa Tong",
+        "rating": 5,
+        "text": "Quán có không gian rất ấm áp, yên tĩnh, tạo cho khách cảm giác thoải mái. Đồ uống rất ngon, đặc biệt anh chủ quán sẽ làm những ly cocktail không có trong menu, theo sở thích của từng khách. Nhất định có dịp mình sẽ ghé lại ủng hộ quán. Thời tiết lạnh, làm 1 ly thì còn gì bằng 😍 …",
+        "when": "một năm trước"
+      },
+      {
+        "author": "Trần Hồng Nhật",
+        "rating": 5,
+        "text": "Quán mang lại cảm giác ấm cúng, gần gũi, tự do, thoải mái. Nhân viên tận tâm nhiệt tình, đồ uống ngon, chất lượng, phù hợp với giá tiền.",
+        "when": "5 tháng trước"
+      }
+    ],
+    "source": "google-maps"
+  },
+  "me-craft-beer-dalat-x1": {
+    "lat": 11.9616285,
+    "lng": 108.4416158,
+    "img": "images/me-craft-beer-dalat-x1.jpg",
+    "photos": [
+      "images/me-craft-beer-dalat-x1.jpg",
+      "images/me-craft-beer-dalat-x1-2.jpg",
+      "images/me-craft-beer-dalat-x1-3.jpg",
+      "images/me-craft-beer-dalat-x1-4.jpg"
+    ],
+    "price": 1,
+    "phone": "0934536939",
+    "rating": 4.9,
+    "reviews": 177,
+    "comments": [
+      {
+        "author": "Hang Le",
+        "rating": 5,
+        "text": "Đang tìm các quán bia thủ công thì tìm thấy Mê. Hợp gu cả 2 vợ chồng mình luôn, chồng mình thử mấy vị bia thì vị nào cũng khen. Xiên nướng ướp gia vị ngon, salad lườn ngỗng thì phần da được làm xém, giòn thơm. Gần về còn được bạn quản lý …",
+        "when": "3 tháng trước"
+      },
+      {
+        "author": "Nguyễn Lê Quang Phúc",
+        "rating": 5,
+        "text": "Quán view đẹp, món ăn tây ngon, giá hợp lý. Bia đen rất ngon. Phù hợp cho bạn bè, gia đình dịp cuối tuần. Đặc biệt là dịp cuối năm để lại nhiều khoảnh khắc đáng nhớ.",
+        "when": "5 tháng trước"
+      },
+      {
+        "author": "Giang Nguyen",
+        "rating": 5,
+        "text": "Quán ăn ngon, không gian rộng rãi thoáng mát. Đồ ăn đa dạng, giá rẻ so với chất lượng, khẩu phần lớn thích hợp với đi nhóm. Anh bar chính thân thiện, mời bàn mình 1 cốc bia!! Sẽ quay lại để thử thêm nhìu món hơn 🤩 …",
+        "when": "7 tháng trước"
+      },
+      {
+        "author": "Hồ Lượng (Victor)",
+        "rating": 5,
+        "text": "Không gian nhỏ ấm cúng, nhân viên rất nhiệt tình và lịch sự. Đồ nhắm rất ngon và đậm đà. Bia uống thơm và hậu rất mượt mà. Rất đáng để quay lại",
+        "when": "2 tháng trước"
+      },
+      {
+        "author": "Tùng Mai Thanh",
+        "rating": 5,
+        "text": "BÁ CHÁY MẤY NÍ ƠI!\nKhông gian 8/10 điểm\nĐồ ăn 9/10 điểm …",
+        "when": "5 tháng trước"
+      },
+      {
+        "author": "8495_ Nguyễn Đức Anh Kiệt",
+        "rating": 5,
+        "text": "Quán ăn ngon, nhân viên nhiệt tình, dễ thương, bia cũng ngon nốt 🤣 Nói chung là 10₫ …",
+        "when": "7 tháng trước"
+      },
+      {
+        "author": "Mai Thanh",
+        "rating": 5,
+        "text": "Một trải nghiệm rất tuyệt vời, tất cả mọi thứ đều chỉnh chu từ không gian, phục  vụ đến chất lượng món ăn. Khay nướng tổng hợp siêu ngon luôn.\nMong quán sẽ luôn giữ vững phong độ và sẽ được nhiều thực khách biết đến hơn nha.",
+        "when": "4 tháng trước"
+      },
+      {
+        "author": "Khoa Khoa (Kei)",
+        "rating": 5,
+        "text": "100 đỉm. Đc bạn dẫn đi chứ k cũng k bik á. Chỗ vào hơi khó kiếm hơi dốc. Nhưng bên trong bầu k khí quá là ok. Thik hợp ngồi nhắm tâm tình blabla event kỷ niệm các kiểu. Đồ ăn ngonnnn. Bia dễ uống thơm lắmmm. Giá ok bất ngờ. …",
+        "when": "4 tháng trước"
+      },
+      {
+        "author": "Mễ Xinh",
+        "rating": 5,
+        "text": "Quán có không gian trong và ngoài trời đều xinh. Đồ ăn ngon. Bia ngon. Phục vụ tận tình, dễ thương. Mn tới hẹn hò, lai rai đều hợp. 10₫.",
+        "when": "4 tháng trước"
+      },
+      {
+        "author": "Hoa Nguyen",
+        "rating": 5,
+        "text": "Món ăn rất hợp khẩu vị, nhân viên nhiệt tình tư vấn chương trình. Đã vậy lại còn có Free Flow Beer hàng ngày nữa chứ. Với 1 người uống nhiều như tôi chỉ cần mua 1 vé thì đã có 3 tiếng đồng hồ uống bia thỏa thích. Tôi sẽ quay trở lại",
+        "when": "5 tháng trước"
+      }
+    ],
+    "source": "google-maps"
+  },
+  "paca-dalat-cocktails-craft-beer-bites-x1": {
+    "lat": 11.9365748,
+    "lng": 108.4289229,
+    "img": "images/paca-dalat-cocktails-craft-beer-bites-x1.jpg",
+    "photos": [
+      "images/paca-dalat-cocktails-craft-beer-bites-x1.jpg",
+      "images/paca-dalat-cocktails-craft-beer-bites-x1-2.jpg",
+      "images/paca-dalat-cocktails-craft-beer-bites-x1-3.jpg",
+      "images/paca-dalat-cocktails-craft-beer-bites-x1-4.jpg"
+    ],
+    "price": 1,
+    "rating": 4.9,
+    "reviews": 45,
+    "comments": [
+      {
+        "author": "Rose Isred",
+        "rating": 5,
+        "text": "Quán có beer thủ công. Không gian quán khá chill có cây cối, từ ngoài bước xuống quán như qua cánh cửa thần kì 🥹 đáng trải nghiệm …",
+        "when": "8 tháng trước"
+      },
+      {
+        "author": "Tuấn Nguyễn Hữu",
+        "rating": 5,
+        "text": "Đồ uống ngon, anh nhân viên take care khách rất nhẹ nhàng và từ tốn, quán khá loơkey, mn nên ghé",
+        "when": "9 tháng trước"
+      },
+      {
+        "author": "trâm trần",
+        "rating": 5,
+        "text": "Cocktail siu ngonn, món snack ‘ăn nhẹ’ mà ú ụ vừa miệng lắm luôn..\nQuán hidden vừa có vườn vừa có rất nhiều  ko gian chill kèm 2 em mèo ‘âm dương’ cưng xễu nữa..",
+        "when": "11 tháng trước"
+      },
+      {
+        "author": "quaggdai",
+        "rating": 5,
+        "text": "Quán rất là dethuong và rất là ukeeee để có thể chilll cùng bạn bè hihihihi",
+        "when": "5 tháng trước"
+      },
+      {
+        "author": "Tịt Lùn",
+        "rating": 5,
+        "text": "Không gian ấm cúng thư giãn, anh chị chủ nhiệt tình, có gu và siêu dễ thương!Cocktail ngon, không gian quán tuyệt vời. Quán có bé mèo dễ thương như cục bông ý 🥰\n10/10 …",
+        "when": "2 năm trước"
+      },
+      {
+        "author": "duc minh",
+        "rating": 5,
+        "text": "Vô tình vào ngày đẹp trời đi dạo trong tâm trạng bất ổn bắt gặp được 1 quán rựu nhỏ xinh nằm trong 1 góc ghé vào . Bước vô quán cảm nhận đầu tiên mình thấy quán không gian nhỏ ấm áp , yên tỉnh , nhạc nhẹ nhàng phù hợp với gu của mình. Sau …",
+        "when": "3 năm trước"
+      },
+      {
+        "author": "Jonny Tran",
+        "rating": 5,
+        "text": "Không gian nhẹ nhàng, nước uống ngon, có gu riêng. Một nơi thích hợp để trốn tránh sự xô bồ của phố xá 🥰 Mọi người nên thử nha 🥰 …",
+        "when": "3 năm trước"
+      },
+      {
+        "author": "Trung Quang",
+        "rating": 5,
+        "text": "Khung cảnh quán khá ấm cúm gần gũi, chủ quán nhiệt tình tư vấn lựa chọn đồ uống, giá đồ uống từ 170k trở lên.",
+        "when": "3 năm trước"
+      },
+      {
+        "author": "An Thanh Foodhealthy",
+        "rating": 5,
+        "text": "Phục vụ tốt quán toàn gái xinh",
+        "when": "11 tháng trước"
+      },
+      {
+        "author": "Vũ Hùng Phạm",
+        "rating": 5,
+        "text": "Ly rượu ngon nhất mình từng dùng 🥵 Không gian xinh, Anh Chị chủ đứng quầy siuuu cute dễ huông 🤭 Highly recommend 😚 …",
+        "when": "2 năm trước"
+      }
+    ],
+    "source": "google-maps"
+  },
+  "cu-ru-bar-x1": {
+    "lat": 11.9393272,
+    "lng": 108.4509887,
+    "img": "images/cu-ru-bar-x1.jpg",
+    "photos": [
+      "images/cu-ru-bar-x1.jpg",
+      "images/cu-ru-bar-x1-2.jpg",
+      "images/cu-ru-bar-x1-3.jpg",
+      "images/cu-ru-bar-x1-4.jpg"
+    ],
+    "price": 1,
+    "rating": 4.9,
+    "reviews": 143,
+    "comments": [
+      {
+        "author": "Linh Giang",
+        "rating": 5,
+        "text": "An artistic bar with a touch of vintage charm. The drinks are excellent, the music creates a great atmosphere, and the bartender has a unique style that adds to the overall experience. …",
+        "when": "2 tuần trước"
+      },
+      {
+        "author": "Cường Ngô",
+        "rating": 5,
+        "text": "Không gian nghệ thuật, yên tĩnh, c chủ dễ thươngggg, nhẹ nhàng, cà phê tương đối ổn trong tầm giá, cực kì thích cái vibe mà quán mang lạiii",
+        "when": "3 tháng trước"
+      },
+      {
+        "author": "Hong Giang Vo Chau",
+        "rating": 5,
+        "text": "Quán nhỏ nhắn có cô bán dễ thương. Mình với ba uống cà phê và trà nên ok lắm nha.",
+        "when": "10 tháng trước"
+      },
+      {
+        "author": "Chú Ong",
+        "rating": 5,
+        "text": "Mình tham gia ở đây khi có hội chợ trải nghiệm Shaman, đi ở đây sáng hay tối đều xịn mỗi góc là một câu chuyện riêng, mong các bạn cũng có những chuyến đi long nhong như chú Ong zui zero",
+        "when": "2 năm trước"
+      },
+      {
+        "author": "Huy Trần",
+        "rating": 4,
+        "text": "Cù Rú Bar\nNằm ở số 2 đường Phạm Hồng Thái, quán nằm ngay phía dưới khách sạn Cherry Luxury. Tuy là ở khách sạn này nhưng mình không biết là ngay dưới có quán bar. Phải …",
+        "when": "Thời gian chỉnh sửa: 2 năm trước"
+      },
+      {
+        "author": "Hai Dang Tran",
+        "rating": 5,
+        "text": "Quán bar quen thuộc thường lui tới khi ghé Đà Lạt. Bầu không khí đem lại những phút giây bay bổng của tâm hồn giúp bạn hoài niệm về những kỉ niệm xưa cũ. Gọi 1 shot rượu quế, nhấp 1 ngụm và nhắm mắt tận hưởng :)",
+        "when": "Thời gian chỉnh sửa: một năm trước"
+      },
+      {
+        "author": "Maxine",
+        "rating": 5,
+        "text": "Rất đẹp và lạ, có tay vịn cực xịn, gặp ai cũng ôm, đủ dv khám phá thiên nhiên, tập gym, ngắm sương, bida, vv.v. Kgian cực hay, ko hiểu nổi nhưng hay 😎 các em tiếp tân nhiệt tình, vào thì có sủa, đi về tiễn hẳn ra tận cửa, còn em giai tay vịn thì rất ocê …",
+        "when": "Thời gian chỉnh sửa: 6 tháng trước"
+      },
+      {
+        "author": "group El Sol",
+        "rating": 5,
+        "text": "Không gian nghệ thuật sắp đặt vô cùng đặc biệt . Nhiều loại rượu ngon tự ngâm. Quán lịch sự và thoáng đãng...",
+        "when": "Thời gian chỉnh sửa: 3 năm trước"
+      },
+      {
+        "author": "Win Zen",
+        "rating": 5,
+        "text": "Đồ Nhật hợp gu. Mì ramen chay xúc sắc. 10 đỉm ❤😌 …",
+        "when": "Thời gian chỉnh sửa: 9 tháng trước"
+      },
+      {
+        "author": "Liem Binh Luong Nguyen",
+        "rating": 5,
+        "text": "Uống rượu tốt cho sức khỏe! Cù Rú bar muôn năm!!!",
+        "when": "6 năm trước"
+      }
+    ],
+    "source": "google-maps"
+  },
+  "maze-bar-x1": {
+    "lat": 11.9446386,
+    "lng": 108.4375466,
+    "img": "images/maze-bar-x1.jpg",
+    "photos": [
+      "images/maze-bar-x1.jpg",
+      "images/maze-bar-x1-2.jpg",
+      "images/maze-bar-x1-3.jpg",
+      "images/maze-bar-x1-4.jpg"
+    ],
+    "price": 1,
+    "phone": "0903040202",
+    "rating": 4.6,
+    "reviews": 1775,
+    "comments": [
+      {
+        "author": "Hậu Nguyễn",
+        "rating": 5,
+        "text": "Quán đẹp, bên ngoài nhìn có vẻ nhỏ, nhưng vào rồi phía sau/trên không gian rộng bất ngờ; nhiều đường đi, giống như một thuỷ cung/địa đạo\nChị đứng quầy dễ thương, thân thiện. Khá phù hợp cho các bạn thích yên tĩnh và …",
+        "when": "một năm trước"
+      },
+      {
+        "author": "Tuấn Nguyễn",
+        "rating": 5,
+        "text": "Quán khá vui khi đi khám phá vì công nhận nó như mê cung, bù lại ở tầng cao nhất là bạn có thể nhìn dc toàn cảnh, khá đẹp nên thử",
+        "when": "một năm trước"
+      },
+      {
+        "author": "Duy Khôi",
+        "rating": 5,
+        "text": "Chắc mình là một trong số ít người Đà Lạ biết chỗ này ạ, mặc dù ở Đà Lạt 20 năm nhưng không nghĩ ngay trung tâm phía sau khu chợ mới lại có một quán cự kỳ thú vị như này luôn á, nhìn bên ngoài chỉ tưởng cà phê đồ gỗ cho tới khi vào bên …",
+        "when": "một năm trước"
+      },
+      {
+        "author": "Ken Mr",
+        "rating": 5,
+        "text": "Quán hơi độc lạ, khá tối và chỉ phù hợp với khách tây",
+        "when": "5 tháng trước"
+      },
+      {
+        "author": "Khanh Dinh",
+        "rating": 4,
+        "text": "Căn nhà có kiến trúc rất lạ.\nMua nước vào là được thăm quan. Không cần mua vé vào cửa.\nNhà có 2 tầng hầm, 5 tầng lầu và sân vườn ở tầng thượng. Đường đi trong căn nhà …",
+        "when": "5 năm trước"
+      },
+      {
+        "author": "Thoa Minh",
+        "rating": 4,
+        "text": "Không gian nơi đây rất huyền bí. Được trang trí như những người yêu mỹ thuật. Vì thấy trên lối đi có những bức tranh khá đẹp. Chỉ mới đi vào phía bên ngoài chưa xuống lối đi mê cung nữa. …",
+        "when": "7 năm trước"
+      },
+      {
+        "author": "Phuc Nguyen",
+        "rating": 5,
+        "text": "Quán nước các bạn nên đi một lần khi đến Đà Lạt. Nhóm mình đi 4 người nên mới dám đi lên đỉnh vào buổi tối. Anh em nào đi một mình nên ghé quán vào buổi sáng.",
+        "when": "5 năm trước"
+      },
+      {
+        "author": "Huyz",
+        "rating": 5,
+        "text": "Lần đầu đi bar của mình, và đây là một trải nghiệm rất độc đáo. Quán có 1 thiết kế có 1 không 2. Khi nhìn từ bên ngoài vào mình không thể tưởng tượng được design bên trong quán lại độc đáo như thế. Quán có nhiều khách nước ngoài ghé thăm. Một trải nghiệm buổi tối mà mình khuyên mọi người nên đến trải nghiệm",
+        "when": "một năm trước"
+      },
+      {
+        "author": "Uyen Dl",
+        "rating": 5,
+        "text": "Quán bar ngay trung tâm thành phố có thể nhìn thấy toàn thành phố trên sân vườn trước 9h tối.",
+        "when": "một năm trước"
+      },
+      {
+        "author": "Lâm Viên Nguyễn",
+        "rating": 5,
+        "text": "Thiết kế độc lạ, quán đang còn phát triển, lần sau quay lại Đà Lạt sẽ ghé quán",
+        "when": "8 năm trước"
+      }
+    ],
+    "source": "google-maps"
+  },
+  "lang-co-tich-x1": {
+    "lat": 11.9486391,
+    "lng": 108.402905,
+    "img": "images/lang-co-tich-x1.jpg",
+    "photos": [
+      "images/lang-co-tich-x1.jpg",
+      "images/lang-co-tich-x1-2.jpg",
+      "images/lang-co-tich-x1-3.jpg",
+      "images/lang-co-tich-x1-4.jpg"
+    ],
+    "phone": "0857204222",
+    "rating": 4.3,
+    "reviews": 851,
+    "comments": [
+      {
+        "author": "Văn Tiền Lê",
+        "rating": 5,
+        "text": "Làng cổ tích được trang trí và xây dựng bối cảnh khá đẹp mắt\nĐường đi dễ đến cho cả oto và xe máy\nNhân viên nhiệt tình dễ thương",
+        "when": "2 tháng trước"
+      },
+      {
+        "author": "Tô Long",
+        "rating": 5,
+        "text": "vé người lớn 90k, bãi đỗ xe rất rộng, nên đi vào hơi xa, xây dựng những lối đi rất cổ tích, tạm ổn trong tầm giá, vào uống sữa gạo nha mọi người 20-25k rất ngon",
+        "when": "10 tháng trước"
+      },
+      {
+        "author": "Thần Thoại",
+        "rating": 5,
+        "text": "Làng Cổ Tích Đà Lạt là điểm tham quan thú vị dành cho những ai thích chụp ảnh và trải nghiệm không gian mới lạ. Khuôn viên được thiết kế nhiều tiểu cảnh dễ thương, từ ngôi nhà gỗ nhỏ, cầu gỗ, đến các góc check-in mang hơi thở cổ tích. Đi …",
+        "when": "9 tháng trước"
+      },
+      {
+        "author": "MANH NGUYEN HUU",
+        "rating": 5,
+        "text": "Từ khoảnh khắc đặt chân vào Làng Cổ Tích, mình như lạc vào thế giới thần tiên giữa Đà Lạt: bước qua cổng là những ngôi nhà tí hon nép mình bên vườn hoa rực rỡ, cỏ non xanh mướt trải dài khắp lối đi, mời gọi mình dừng chân tạo dáng không …",
+        "when": "11 tháng trước"
+      },
+      {
+        "author": "Ma Dao",
+        "rating": 5,
+        "text": "Làng Cổ Tích – Chạm tay vào thế giới cổ tích giữa lòng Đà Lạt\n\nĐà Lạt từ lâu đã nổi tiếng với muôn vàn tọa độ “sống ảo” xịn sò, nhưng nếu bạn …",
+        "when": "một năm trước"
+      },
+      {
+        "author": "thiminhnguyet vo",
+        "rating": 5,
+        "text": "Đúng như tên gọi làng cổ tích, quá nhiều cảnh đẹp, nhân viên thân thiện. Có khu vực hầm rượu cũng đẹp tuyệt. Giá vé 90k cho người lớn quá hợp lý.",
+        "when": "9 tháng trước"
+      },
+      {
+        "author": "Thành Tâm Nguyễn Văn",
+        "rating": 4,
+        "text": "Tại đây có khu vui chơi, checkin khá rộng, nhiều chỗ để chụp ảnh, khu hầm rượu rất đẹp mọi người có thể thưởng thức rượu vang tại đây, nhân viên tại đây rất nhiệt tình.",
+        "when": "một năm trước"
+      },
+      {
+        "author": "Ngọc Khương Lâm",
+        "rating": 5,
+        "text": "Giá vé: 90k/người lớn\n\nMọi người nên đi Làng Cổ Tích vào ngày trời nắng thì chụp ảnh mới đẹp được …",
+        "when": "một năm trước"
+      },
+      {
+        "author": "Hiếu Nguyễn",
+        "rating": 5,
+        "text": "Được đi du lịch\nVào làng cảnh đẹp, không khí trong lành.\nCảnh chill …",
+        "when": "một năm trước"
+      },
+      {
+        "author": "Quoc Thanh Dinh",
+        "rating": 5,
+        "text": "Đà Lạt Fairytale Land hay còn gọi là Khu du lịch Thế Giới cổ Tích, là một điểm du lịch hấp dẫn và nên thơ, mới mẻ thuộc tập đoàn Rạng Đông đầu tư và khai thác.\nCách trung tâm thành phố Đà Lạt không xa lắm, đi về hướng đường Vạn Thành vào …",
+        "when": "4 năm trước"
+      }
+    ],
+    "source": "google-maps"
+  },
+  "la-dalat-khu-vui-choi-tre-em-x1": {
+    "lat": 11.9768471,
+    "lng": 108.4513228,
+    "img": "images/la-dalat-khu-vui-choi-tre-em-x1.jpg",
+    "photos": [
+      "images/la-dalat-khu-vui-choi-tre-em-x1.jpg",
+      "images/la-dalat-khu-vui-choi-tre-em-x1-2.jpg",
+      "images/la-dalat-khu-vui-choi-tre-em-x1-3.jpg",
+      "images/la-dalat-khu-vui-choi-tre-em-x1-4.jpg"
+    ],
+    "phone": "0986910606",
+    "rating": 4.3,
+    "reviews": 55,
+    "comments": [
+      {
+        "author": "Hyori Kim",
+        "rating": 3,
+        "text": "Khu vui chơi trẻ em nhiều quầy trò,khá vắng vẻ nên đi theo nhóm cho bé chơi đỡ buồn..\nKhông khí ẩm, đồ chơi cảm giác ko đc về sinh thường xuyên. khu vui chơi này …",
+        "when": "3 năm trước"
+      },
+      {
+        "author": "Hoang phuc Võ",
+        "rating": 5,
+        "text": "Nhân viên phục vụ chuyên nghiệp, chuẩn 5sao, phòng khách sạn ok , lần sau lên chắc chắn sẽ ghé",
+        "when": "một tháng trước"
+      },
+      {
+        "author": "Doi Tinh",
+        "rating": 4,
+        "text": "Tôi vừa ghé La DaLat cùng lũ trẻ, thấy ổn phết. Không gian khá rộng rãi, thoáng mát lại nằm ngay Mai Anh Đào nên vừa vào là cảm giác dễ chịu. Khu vui chơi đa dạng, nhiều trò chơi từ nhẹ nhàng đến vận động mạnh, nhưng mà một số chỗ trò chơi …",
+        "when": "4 tháng trước"
+      },
+      {
+        "author": "Nhện Vàng",
+        "rating": 5,
+        "text": "Mới ghé qua La DaLat hôm cuối tuần rồi, phải nói là trải nghiệm khá thích! Không gian rộng rãi, xanh mát, con mình chơi quên cả lối về luôn. Nhiều khu vui chơi an toàn, nhân viên nhiệt tình, dường như họ thật sự quan tâm đến việc đảm bảo …",
+        "when": "7 tháng trước"
+      },
+      {
+        "author": "Ninh Nguyễn",
+        "rating": 1,
+        "text": "Muốn chơi game phải mua xu??? Vậy bán combo full làm gì?? ...Quầy fastfood thì dở tệ ( order 90 phút...vẫn chưa có thức ăn..). Cho con trẻ đi chơi ..mà mua quá nhiều sự bực mình 😡😡😡 …",
+        "when": "5 năm trước"
+      },
+      {
+        "author": "Nguyen minh Sang",
+        "rating": 5,
+        "text": "Năng động , nhiệt tình, có tâm",
+        "when": "một tháng trước"
+      },
+      {
+        "author": "CAO XUÂN HIẾU",
+        "rating": 5,
+        "text": "Đêm đẹp lung linh luôn",
+        "when": "4 năm trước"
+      },
+      {
+        "author": "Trung Vũ Thành",
+        "rating": 5,
+        "text": "Tuyệt vời khi với những người bạn!",
+        "when": "4 năm trước"
+      },
+      {
+        "author": "BaMy's Organic Farm",
+        "rating": 4,
+        "text": "Ấn tượng với khu này, rất nhiều trò chơi, đa dạng các loại hình trò chơi, cảm giác mạnh đến nhẹ",
+        "when": "2 năm trước"
+      },
+      {
+        "author": "Chen Tommy",
+        "rating": 5,
+        "text": "Sang xịn mịn!",
+        "when": "một năm trước"
+      }
+    ],
+    "source": "google-maps"
+  },
+  "khu-du-lich-rex-kingdom-x1": {
+    "lat": 11.8996464,
+    "lng": 108.4243914,
+    "img": "images/khu-du-lich-rex-kingdom-x1.jpg",
+    "photos": [
+      "images/khu-du-lich-rex-kingdom-x1.jpg",
+      "images/khu-du-lich-rex-kingdom-x1-2.jpg",
+      "images/khu-du-lich-rex-kingdom-x1-3.jpg",
+      "images/khu-du-lich-rex-kingdom-x1-4.jpg"
+    ],
+    "phone": "0935919273",
+    "rating": 4.7,
+    "reviews": 91,
+    "comments": [
+      {
+        "author": "Triều Dương",
+        "rating": 2,
+        "text": "Khu Du Lịch mở cửa khai trương mùng 2 Tết 2026, mùng 12 mình và gia đình + bạn bè tới thì đc báo tạm ngưng hoạt động để sửa chữa.\nHoạt động 10 ngày và đóng cửa sửa chữa mà ko có thông báo nào trên trang Fb để …",
+        "when": "4 tháng trước"
+      },
+      {
+        "author": "26.Mỹ Trinh 12A2",
+        "rating": 5,
+        "text": "Tuyệt,  Khủng long như thật, cảnh gần hồ rất đẹp , view rừng thông vs hồ. Nhà hàng thì đồ ăn ngon, nhiều, rẻ. Quản lí và nhân viên rất nhiệt tìnhh. Chắc chắn sẽ quayy lại ạaaaaaaaa",
+        "when": "một tháng trước"
+      },
+      {
+        "author": "Khanh Tran",
+        "rating": 5,
+        "text": "Không gian hoang sơ,yên tĩnh,đẹp,rộng rãi.thức ăn và đồ uống đa dạng,phong phú.Nơi nghỉ dưỡng nhẹ nhàng đáng để thử",
+        "when": "4 tháng trước"
+      },
+      {
+        "author": "Quyet Le Quang",
+        "rating": 5,
+        "text": "Khoảng 20 con khủng long, khu mới mở mát mẻ đẹp có khu ăn uống đi khá xa thích hợp cho gia đình có em bé nhỏ",
+        "when": "4 tháng trước"
+      },
+      {
+        "author": "Tú Hàng",
+        "rating": 1,
+        "text": "Khu du lịch chưa hoàn thiện, đầy bụi bặm. Lác đác vài mô hình khủng long, hoa mới trồng sơ sài nhưng thu vé 120k/ người lớn và 100k/ con nít. Đi mồng 4 tết 2026, cảm giác như bị lừa.",
+        "when": "4 tháng trước"
+      },
+      {
+        "author": "Hiền Nguyễn",
+        "rating": 5,
+        "text": "KDL mới mở, hơi xa trung tâm nhưng đường đi đẹp, nhiều view rất chill, mát mẻ, tản bộ thư giãn. Nhiều khủng long cho các bé chụp hình. KDL rất rộng và thoáng, phù hợp cho gđ muốn thoải mái, chill và ko bon chen đông đúc xô bồ như nhà mình. …",
+        "when": "4 tháng trước"
+      },
+      {
+        "author": "như mai nguyễn",
+        "rating": 5,
+        "text": "Mình lên sớm, săn được ít ảnh; đi bộ hơi phê 💕💕💕 …",
+        "when": "4 tháng trước"
+      },
+      {
+        "author": "Justin",
+        "rating": 5,
+        "text": "Khu này mới, rất rộng nhưng có hỗ trợ xe điện. Nước uống ngon giá rẻ",
+        "when": "4 tháng trước"
+      },
+      {
+        "author": "Trang Tran",
+        "rating": 4,
+        "text": "Đẹp, nhiều mô hình giống thật, nước uống ngon\nTuy nhiên, lúc đầu khi mua vé thì có hướng dẫn rằng sẽ có xe điện chở mình về lại cổng khi tham quan xong (do dốc rất cao và dài) nhưng đến khi mình về thì lại …",
+        "when": "Thời gian chỉnh sửa: 4 tháng trước"
+      },
+      {
+        "author": "Mỹ Thi Quang",
+        "rating": 5,
+        "text": "Cảnh đẹp, nhân viên nhiệt tình dễ thương. khủng long nhìn như thật",
+        "when": "4 tháng trước"
+      }
+    ],
+    "source": "google-maps"
+  },
+  "du-thuyen-wonderland-x1": {
+    "lat": 11.8959589,
+    "lng": 108.4127443,
+    "img": "images/du-thuyen-wonderland-x1.jpg",
+    "photos": [
+      "images/du-thuyen-wonderland-x1.jpg",
+      "images/du-thuyen-wonderland-x1-2.jpg",
+      "images/du-thuyen-wonderland-x1-3.jpg",
+      "images/du-thuyen-wonderland-x1-4.jpg"
+    ],
+    "price": 1,
+    "phone": "0908292969",
+    "rating": 3.9,
+    "reviews": 1268,
+    "comments": [
+      {
+        "author": "Nguyen Phong (Amazing Kiss)",
+        "rating": 5,
+        "text": "Công viên được đầu tư nhiều tiểu cảnh sống ảo: vườn hoa, cầu gỗ, các mô hình khổng lồ và khu hồ nhân tạo, phù hợp để chụp ảnh cả ngày. Các trò chơi nhỏ (đu quay, xe điện, nhà hơi) thích hợp cho trẻ em; người lớn có thể thử khu trò mạo hiểm …",
+        "when": "3 tuần trước"
+      },
+      {
+        "author": "Nghi Đinh",
+        "rating": 1,
+        "text": "Nhân viên bán vé như sợ khách mua vé, thái độ khó chịu. Ngoài ra trượt phao, đi xe địa hình kh hấp dẫn như rv, nhà tuyết nước ướt rất dơ. Thỏ, ngựa,... dễ thương",
+        "when": "3 tuần trước"
+      },
+      {
+        "author": "James Lee",
+        "rating": 5,
+        "text": "vé khoảng 300k, cư dân với khách cư trú ở resort sẽ đc ưu điểm hơn.\nkhuôn viên rộng rãi, nhiều trò trải nghiệm\ntrải nghiệm thư giãn, mình thích chuyến quanh hồ tuyền lâm",
+        "when": "6 tháng trước"
+      },
+      {
+        "author": "Thùy Linh",
+        "rating": 4,
+        "text": "Trong này có cưỡi ngựa cưỡi đà điểu, đua chó, du thuyền, đua xe, nhà ma,…. Đi bộ 100% k có xe chở tới các điểm. Đi vào cuối tuần mà buổi chiều vắng lắm sáng chắc đông hơn.",
+        "when": "3 tháng trước"
+      },
+      {
+        "author": "18. Đặng Khánh",
+        "rating": 3,
+        "text": "Giá vé đắt so với trải nghiệm. Mình đi ngày lễ nhưng nơi này khá vắng khách nên Nv hỗ trợ cx ít nhưng bù lại thì ai cx rất nhiệt tình chu đáo. Nếu mình đi GĐ mà có ng trên 60t hoặc các bạn nhỏ k thể đi bộ đc có thể lưu ý k nên tới nơi đây …",
+        "when": "2 tháng trước"
+      },
+      {
+        "author": "nhat phuong",
+        "rating": 3,
+        "text": "Lâu đài tuyết, khu vui chơi game, chụp hình 3D sơ sài, chưa tới. Được khu chuồng ngựa và các bạn nhân viên khu vườn thú khá dễ thương bù điểm. Với hoạt động và cơ sở vật chất này chưa đủ làm du khách phải “quao” như quảng cáo.",
+        "when": "4 tháng trước"
+      },
+      {
+        "author": "Phương Nguyễn",
+        "rating": 5,
+        "text": "hôm đi mưa phùn ngồi trên thuyền giữa hồ tuyền lầm rất đẹp, mấy anh chị vườn thú cũng rất dễ thương",
+        "when": "8 tháng trước"
+      },
+      {
+        "author": "huong vu",
+        "rating": 1,
+        "text": "Giá cao – Chơi được ít –\nCách bán vé có vấn đề nghiêm trọng\nKỳ vọng nhiều nhưng về nhà với cảm giác bị \"hớ\" hoàn toàn. …",
+        "when": "3 tuần trước"
+      },
+      {
+        "author": "Hải Nguyễn",
+        "rating": 1,
+        "text": "Giá vé người lớn mua trên app: 330k. Trẻ em 190k.\nNhưng thật ra KHÔNG CÓ trãi nghiệm.\n1. Trượt phao: không nv hỗ trợ, chỉ đúng 1 người thả phao ở trên, lỡ có gì ai hỗ …",
+        "when": "5 tháng trước"
+      },
+      {
+        "author": "Đăng Hải",
+        "rating": 1,
+        "text": "Đây là nơi tệ nhất trong tất cả khu vui chơi mình đã tham quan. Mua vé vào cổng xong cảm giác bị lừa trầm trọng. 390k người lớn. Bạn sẽ nhận đc gì\n1. Tên khu vui chơi đặt rất mỹ miều và hay ho. …",
+        "when": "4 tháng trước"
+      }
+    ],
+    "source": "google-maps"
+  },
+  "vuon-thuong-uyen-bay-da-lat-x1": {
+    "lat": 11.9119617,
+    "lng": 108.4565754,
+    "img": "images/vuon-thuong-uyen-bay-da-lat-x1.jpg",
+    "photos": [
+      "images/vuon-thuong-uyen-bay-da-lat-x1.jpg",
+      "images/vuon-thuong-uyen-bay-da-lat-x1-2.jpg",
+      "images/vuon-thuong-uyen-bay-da-lat-x1-3.jpg",
+      "images/vuon-thuong-uyen-bay-da-lat-x1-4.jpg"
+    ],
+    "phone": "0798702323",
+    "rating": 3.9,
+    "reviews": 656,
+    "comments": [
+      {
+        "author": "Thần Thoại",
+        "rating": 4,
+        "text": "Không gian nhiều màu sắc, trang trí cầu kỳ với nhiều tiểu cảnh đẹp để chụp ảnh. Đi dạo trong Vườn Thượng Uyển Bay Đà Lạt cảm giác thoáng đãng, lên hình rất lung linh, tuy nhiên cuối tuần khá đông khách.",
+        "when": "9 tháng trước"
+      },
+      {
+        "author": "PHAN PHUONG",
+        "rating": 5,
+        "text": "Đúng như tên gọi của mình khu thiên đường bay được xây dựng xinh xắn và lung linh, bất kỳ ai khi bước vào đây đều sẽ như trở thành những thiên thần xinh đẹp. Nhờ đó mang đến những tấm tấm ảnh lưu niệm độc đáo và không kém phần ấn tượng. …",
+        "when": "2 năm trước"
+      },
+      {
+        "author": "bacha Bella",
+        "rating": 5,
+        "text": "Giá vé 100k/ người ,không bao gồm thức uống vì đã xứng đáng đầu tư công phu\nRất nhiều góc chụp ăn ảnh và đáng tiền\nRất nên đến để có các hình sống ảo",
+        "when": "2 năm trước"
+      },
+      {
+        "author": "Quyen Ngo",
+        "rating": 4,
+        "text": "Giá vé người lớn 100k người lớn, trẻ em 50k, cảnh quang khá rộng, thoáng mát, nhiều điểm chụp ảnh sống ảo, vô sâu có quán nước các bạn ngồi nghỉ ngơi giá cả phải chăng.",
+        "when": "3 năm trước"
+      },
+      {
+        "author": "Giáp Lê",
+        "rating": 5,
+        "text": "Vé vào cổng 100k 1 người nha gửi xe thì 10k 1 chiếc nói chung là chỗ này mới view đẹp bỏ 100k ra đi chụp hình mỏi tay có nhà vệ sinh 5* đáng đồng tiền bác gạo\nNên đi thử cho biết …",
+        "when": "6 năm trước"
+      },
+      {
+        "author": "Tai Kien",
+        "rating": 2,
+        "text": "Vé vào cổng 100k không hợp lý, cảnh nhân tạo cũng làm không tới. Phá hỏng cảnh quan thiên nhiên.\nCây cỏ không được chăm sóc, rác rưới cũng không dọn. …",
+        "when": "2 năm trước"
+      },
+      {
+        "author": "Tài Phan Sinh (Hướng Dẫn Viên)",
+        "rating": 1,
+        "text": "1. Bãi giữ xe máy mất 10k, bất hợp lý, vì giá vé ít ra thì đã 100k rồi, ko ổn.\n2. Cây cảnh hoa lá mới nên có sắc màu. Nhưng bố cục chưa hợp lý. Ý tưởng chắp vá. Hoạ tiết Ai Câp kèm theo cái cổng Bali ? Xích đu bay trong gió thì lại để ở …",
+        "when": "Thời gian chỉnh sửa: 6 năm trước"
+      },
+      {
+        "author": "Hồ Thành Đạt",
+        "rating": 3,
+        "text": "Tụi mình ở khu vực trung tâm ĐL, do bị động xíu về thời gian nên tụi mình đến đây tầm hơn 5h30p chiều, đường đến thì cũng dễ tìm, chạy xe cỡ hơn 25p đường đèo ( khúc gần vườn hoa không có đèn đường chiếu sáng nha mn) sau khi được sự hướng …",
+        "when": "6 năm trước"
+      },
+      {
+        "author": "PHUONG HOANG HUYNH",
+        "rating": 4,
+        "text": "Điểm du lịch khám phá mới, địa chỉ số 28, đường Khe Sanh, Thành phố Đà Lạt ( gần chùa Tàu và vườn hoa Minh Tâm ). Dự kiến mở cửa đón khách trước Tết Âm lịch 2020, nơi đây đang xây dựng, khung cảnh thiên nhiên đẹp, kết hợp nghỉ dưỡng.",
+        "when": "6 năm trước"
+      },
+      {
+        "author": "Quoc Lien",
+        "rating": 4,
+        "text": "Địa điểm thuận tiện, rất tốt. Cách trung tâm Đà Lạt chỉ khoảng 10 km. Chủ yếu là các loài hoa.\nQuy mô không lớn, xây dựng chưa xong nhưng vé vào cổng khá đắt. …",
+        "when": "6 năm trước"
+      }
+    ],
+    "source": "google-maps"
+  },
+  "cong-vien-anh-sang-x1": {
+    "lat": 11.938854,
+    "lng": 108.43686,
+    "img": "images/cong-vien-anh-sang-x1.jpg",
+    "photos": [
+      "images/cong-vien-anh-sang-x1.jpg",
+      "images/cong-vien-anh-sang-x1-2.jpg",
+      "images/cong-vien-anh-sang-x1-3.jpg",
+      "images/cong-vien-anh-sang-x1-4.jpg"
+    ],
+    "rating": 4.1,
+    "reviews": 1029,
+    "comments": [
+      {
+        "author": "ĐỜ - RA - MA",
+        "rating": 4,
+        "text": "Delight Park Dalat – Công viên Ánh Sáng Đà Lạt\nĐịa chỉ: 113 Hồ Xuân Hương, Đà Lạt\nGiờ mở cửa: 9:00 – 22:00 …",
+        "when": "4 tháng trước"
+      },
+      {
+        "author": "Bảo Trân Hoàng Ngọc",
+        "rating": 5,
+        "text": "Đẹp, có nhiều cây xanh, nguyên con đường mai anh đào nở rộ, không khí trong lành. Có thùng rác gốc xanh siu iu",
+        "when": "một năm trước"
+      },
+      {
+        "author": "Thanh Nguyễn",
+        "rating": 4,
+        "text": "Công viên rộng lớn, nhiều cây xanh được tạo dáng đẹp",
+        "when": "7 tháng trước"
+      },
+      {
+        "author": "Gia sinh Châu",
+        "rating": 5,
+        "text": "Bác tài dễ thương quá dịch vụ quá chu đáo tỉ mỉ sẽ còn những. Chuyến đi nữa cùng gia đình",
+        "when": "5 tháng trước"
+      },
+      {
+        "author": "Nguyễn Thái Duy (Nguyễn Thái Duy)",
+        "rating": 5,
+        "text": "Khi trời mưa ít người, nhưng vẫn có hướng dẫn viên riêng, cảm thất rất đặt biệt",
+        "when": "8 tháng trước"
+      },
+      {
+        "author": "LƯU QUỚI THÀNH",
+        "rating": 5,
+        "text": "View đẹp, nhiều laser, huyền ảo, như câu chuyện Cổ tích thần tiên.",
+        "when": "một năm trước"
+      },
+      {
+        "author": "Tran Tomey",
+        "rating": 5,
+        "text": "Không gian xanh giữa lòng thành phố, một hidden gem mà không nhiều người biết, đi sâu vào trong rất đẹp, như ở Châu Âu ấy. Tuy nhiên nếu đi vào mùa mưa sẽ có rêu trơn xíu, còn lại bài trí tiểu cảnh rất đẹp, có chòi nghỉ, có cầu nhỏ bắc qua …",
+        "when": "2 năm trước"
+      },
+      {
+        "author": "Quang Nguyễn",
+        "rating": 5,
+        "text": "Hey mọi người! Nếu đến Đà Lạt, đừng bỏ lỡ Light Park nhé! Ấn tượng đầu tiên là khung cảnh đẹp, đặc biệt vào ban đêm khi mọi thứ lung linh dưới ánh sáng. Công viên này là địa điểm lý tưởng để tụ tập bạn bè hoặc thậm chí đi dạo một mình cũng …",
+        "when": "4 tháng trước"
+      },
+      {
+        "author": "Ly Trinh",
+        "rating": 5,
+        "text": "Công Viên Ánh Sáng một trong những nơi chụp ảnh đẹp của Đà Lạt.\n\nCông viên trồng nhiều loại hoa đặt trưng nơi chụp hình lưu niệm kho đến …",
+        "when": "5 năm trước"
+      },
+      {
+        "author": "EKA Decor",
+        "rating": 4,
+        "text": "Vị trí nằm giữa trung tâm Đà Lạt, có thể thấy nhà hàng Thanh Thủy nổi tiếng ngay sát bên bờ Hồ Xuân Hương , cách không xa là khu chợ đêm Đà Lạt, rất tiện lợi cho những bạn không muốn di chuyển nhiều hoặc có ít thời gian để thăm thú Đà Lạt.",
+        "when": "6 năm trước"
+      }
+    ],
+    "source": "google-maps"
+  },
+  "vuon-nhiet-doi-khung-long-x1": {
+    "lat": 11.9784696,
+    "lng": 108.4090304,
+    "img": "images/vuon-nhiet-doi-khung-long-x1.jpg",
+    "photos": [
+      "images/vuon-nhiet-doi-khung-long-x1.jpg",
+      "images/vuon-nhiet-doi-khung-long-x1-2.jpg",
+      "images/vuon-nhiet-doi-khung-long-x1-3.jpg",
+      "images/vuon-nhiet-doi-khung-long-x1-4.jpg"
+    ],
+    "phone": "0829551227",
+    "rating": 3.6,
+    "reviews": 91,
+    "comments": [
+      {
+        "author": "Hung Vu",
+        "rating": 5,
+        "text": "Giá vé (06/2026)\nNgười lớn = 85k\nTrẻ em = 45k …",
+        "when": "4 tuần trước"
+      },
+      {
+        "author": "Trần Khánh",
+        "rating": 5,
+        "text": "Không biết mọi người có trải nghiệm như thế nào.\nNhưng để tôi đánh giá công tâm:\n1. Mọi người đang nhầm lẫn giữa 2 khu du lịch: 1 là khu này. 2 là địa chỉ khác …",
+        "when": "2 tháng trước"
+      },
+      {
+        "author": "Chí Hiếu (Bourbon)",
+        "rating": 1,
+        "text": "Không xứng đáng tiền vé một tý nào.\nĐiểm duy nhất cho các bé là: mô hình khủng long khoảng 10con.\n- Còn lại chẳng có gì. Khu cafe thì đóng, giá vé bao gồm 1 chai nước hoặc kem là …",
+        "when": "một năm trước"
+      },
+      {
+        "author": "Học Cơ Tạ",
+        "rating": 4,
+        "text": "Khu vui chơi có khu vực cát theo mình thì checkin chụp hinh khá ổn. Còn khu khủng long thì hơi ít, khi vực vui chơi cho con nít thì hơi ít cho. Nói chung mình thấy thì tạm ổn cho gia đình.",
+        "when": "một năm trước"
+      },
+      {
+        "author": "Trang Dang",
+        "rating": 4,
+        "text": "Cái đặc sắc nhất là các mô hình khủng long cử động là phát ra âm thanh. Rất hay, nhưg cần phải phát triển thêm nữa. Chứ chỉ có vậy thì hơi nhàm chán",
+        "when": "một năm trước"
+      },
+      {
+        "author": "Loan Ngo",
+        "rating": 1,
+        "text": "Quảng cáo kêu giảm 50% mà thu khách 100k không nước 120k kèm nước giống những KDL khác mà chẳng có gì ngoài mô hình máy con khủng long. Khủng long thì đẹp mà tiểu cảnh và cảnh quang quá xấu đi phí tiền không được gì",
+        "when": "2 năm trước"
+      },
+      {
+        "author": "Bách Việt Le",
+        "rating": 1,
+        "text": "Mình rất thất vọng từ khâu bán vé,khi nhan viên đưa tờ pursue quảng cáo combo giảm còn 100k + hoa hồng cho ks.nhưng khi mình đến cô bán vé nói ko có và đưa combo 120k và 140k, vòng vo mãi mình đành mua vé cho 7 người vào và hoa hồng trích cho tx taxi. Trong khi mình bắt taxi đến và nói rõ rang ngay từ đầu",
+        "when": "2 năm trước"
+      },
+      {
+        "author": "Thanh Mai Le",
+        "rating": 1,
+        "text": "Nhiều khu vực sửa chữa, khủng long lèo tèo vài con, hư hỏng, bán vé bảo có nước có bánh nhưng vào trong gọi món gì cũng bảo hết, ko có bánh, quảng cáo có buffer nhưng cũng ko mở cửa hoạt động, tóm lại là rất tệ, lần sau quán có như nào thì cập nhật tình hình như thế chứ đừng quảng cáo 1 đường rồi phục vụ 1 nẻo như thế ạ",
+        "when": "4 tháng trước"
+      },
+      {
+        "author": "Sao Mai Du Lịch Quốc Tế",
+        "rating": 5,
+        "text": "Điểm du lịch mới và phù hợp nhiều độ tuổi, có khu vui chơi giải trí các bé rất thích",
+        "when": "2 năm trước"
+      },
+      {
+        "author": "Phong Vo",
+        "rating": 4,
+        "text": "Khách đông, không có nhiều dịch vụ để trãi nghiệm cho bé. Nơi đây giống như khu vực giới thiệu sản phẩm langfarm.",
+        "when": "một năm trước"
+      }
+    ],
+    "source": "google-maps"
+  },
+  "nong-trai-hoa-tinh-dau-da-lat-nen-thom-khu-x1": {
+    "lat": 11.8891564,
+    "lng": 108.5675455,
+    "img": "images/nong-trai-hoa-tinh-dau-da-lat-nen-thom-khu-x1.jpg",
+    "photos": [
+      "images/nong-trai-hoa-tinh-dau-da-lat-nen-thom-khu-x1.jpg",
+      "images/nong-trai-hoa-tinh-dau-da-lat-nen-thom-khu-x1-2.jpg",
+      "images/nong-trai-hoa-tinh-dau-da-lat-nen-thom-khu-x1-3.jpg",
+      "images/nong-trai-hoa-tinh-dau-da-lat-nen-thom-khu-x1-4.jpg"
+    ],
+    "phone": "0345996219",
+    "rating": 5,
+    "reviews": 1092,
+    "comments": [
+      {
+        "author": "Jason B",
+        "rating": 5,
+        "text": "Jala Rosé – Hành trình từ biển mây đến vườn thảo dược ngát hương\n\nMột buổi sáng bắt đầu từ 4h sáng để đổi lấy biển mây bồng bềnh và kết thúc bằng …",
+        "when": "2 tháng trước"
+      },
+      {
+        "author": "Lê Thành Đạt",
+        "rating": 5,
+        "text": "Các loại cây ở nông trại có mùi rất thơm và thư giãn, cảnh thiên nhiên siêu đẹp và bình yên. Chị nhân viên thân thiện nhiệt tình dẫn khách đi tham quan vườn và cho biết về công dụng từng loại cây. Nước hoa ở đây bán rất thơm và lưu hương lâu. Có dịp sẽ quay lại",
+        "when": "6 tháng trước"
+      },
+      {
+        "author": "Kim Anh Nguyễn Thị",
+        "rating": 5,
+        "text": "Cách trung tâm ĐL khoảng 40p chạy xe. NV dẫn đi thăm khu vườn hương liệu rất nhiệt tình, hoa cỏ ở đây rất thơm. Workshop làm nến thơm từ 99k-400k, đa dạng nhiều loại nến, tinh dầu mua làm quà",
+        "when": "6 tháng trước"
+      },
+      {
+        "author": "Huong Ho",
+        "rating": 5,
+        "text": "Vào đồi chè Cầu Đất các bạn nhớ đi đến tuabin nha  sẽ thấy bảng chào rất dễ tìm và siêu thân thiện. Mình thích du lịch trải nghiệm như này, các bạn nhỉ được sờ vào hoa, sờ vào cây, ngửi, ngắm 🥰 các giác quan rất kích thích thú vị kk. Bạn nào muốn trải nghiệm làm workshop và tìm hiểu quy trình chiết xuất tinh dầu. Mùa hè thú vị 🤩😋 …",
+        "when": "10 tháng trước"
+      },
+      {
+        "author": "Kha Hoàngg",
+        "rating": 5,
+        "text": "Highly recommend, mình đến vào buổi trưa trải nghiệm làm nến. Phải nói là các bạn nhân viên đều rất vui vẻ và nhiệt tình. Thắc mắc bạn nam phải chủ nông trại ko do bạn tư vấn quá tâm huyết. 10đ ko có nhưng",
+        "when": "2 tháng trước"
+      },
+      {
+        "author": "An Nguyen",
+        "rating": 5,
+        "text": "Mấy bạn nhân viên rất dễ thương, hướng dẫn tận tình, lần đầu trải nghiệm làm nến thơm rất thú vị.",
+        "when": "6 tháng trước"
+      },
+      {
+        "author": "tien88 pham",
+        "rating": 5,
+        "text": "Trải nghiệm tuyệt vời, rất là thích nha, giá bình dân như giá sài gòn",
+        "when": "6 tháng trước"
+      },
+      {
+        "author": "Loan Lê",
+        "rating": 5,
+        "text": "Một trải nghiệm làm nến rất thú vị, các bạn nhỏ được biết quy trình làm ra một hộp nến thơm - đẹp mắt, view cối xay gió chill nữa nha.",
+        "when": "Thời gian chỉnh sửa: 3 tháng trước"
+      },
+      {
+        "author": "Thanh Thuỳ Linh Võ",
+        "rating": 5,
+        "text": "Có những chuyến đi không chỉ để ngắm nhìn mà còn để gặp lại chính mình. Có những nơi chỉ cần một lần đặt chân tới ký ức đã kịp gieo rễ. Nông Trại Hoa Tinh Dầu Nến Thơm - Jala Rose với mình là một nơi như vậy. Nơi hương hoa thoảng qua cùng …",
+        "when": "11 tháng trước"
+      },
+      {
+        "author": "R.E.D",
+        "rating": 5,
+        "text": "Trải nghiệm tuyệt vời! Các bé rất thích hoạt động tự làm nến. Điều đặc biệt là khu vườn quá đẹp và thơm ngào ngạt đúng như các bạn đã hướng dẫn. Một điểm đến lý tưởng cho gia đình! …",
+        "when": "8 tháng trước"
+      }
+    ],
+    "source": "google-maps"
+  },
+  "langbiang-land-khu-du-lich-vui-choi-giai-t-x1": {
+    "lat": 12.0195968,
+    "lng": 108.4350209,
+    "img": "images/langbiang-land-khu-du-lich-vui-choi-giai-t-x1.jpg",
+    "photos": [
+      "images/langbiang-land-khu-du-lich-vui-choi-giai-t-x1.jpg",
+      "images/langbiang-land-khu-du-lich-vui-choi-giai-t-x1-2.jpg",
+      "images/langbiang-land-khu-du-lich-vui-choi-giai-t-x1-3.jpg",
+      "images/langbiang-land-khu-du-lich-vui-choi-giai-t-x1-4.jpg"
+    ],
+    "rating": 4.5,
+    "reviews": 1282,
+    "comments": [
+      {
+        "author": "Trương Hoàng Tuấn",
+        "rating": 5,
+        "text": "Mình đến nơi khoỏng 8h30 cũng là lúc bắt đầu hơi đông đông khách. Khu du lịch không lớn lắm nhưng có bản đồ hướng dẫn rõ ràng nên khá dễ tham quan. Mình đến đúng lúc sân khấu có biểu diễn nhạc và nhảy múa xem khá thú vị. Trò go kart mua vé …",
+        "when": "4 tuần trước"
+      },
+      {
+        "author": "Apartment ở Đà Lạt Tâm",
+        "rating": 5,
+        "text": "Điểm du lịch mang phong cách Đại Ngàn của núi rừng Langbiang. Tại Lạc Dương nơi đồng bào K’Ho bản địa Đà Lạt xưa tập trung sinh sống, giúp giữ gìn và phát triển bản sắc văn hoá nơi đây. Khách đoàn có thể đặt cơm tối kết hợp giao lưu cồng …",
+        "when": "một tháng trước"
+      },
+      {
+        "author": "Hoang Dung",
+        "rating": 5,
+        "text": "Gia đình mình đã có 1 ngày vui vẻ ở đây. Nơi đây được cái không khí mát mẻ nên không bị mất sức, mệt mỏi khi đi bộ nhiều. Bàn ghế rất nhiều, lại không quá đông nên đi chơi rất thoải mái. Nhà vệ sinh thơm tho sạch sẽ. Hi vọng vẫn giữ được phong độ này.",
+        "when": "2 tuần trước"
+      },
+      {
+        "author": "Tâm Dương",
+        "rating": 5,
+        "text": "Khu du lịch có dịch vụ tặng móc khoá hình chụp, chào đón khách dễ thương! Nhiều tiết mục và cảnh chụp hình - có đầu tư.\nHôm mình đi hơi vắng khách nhưng vẫn diễn tiết mục múa - 💯 điểm! Tranh thủ đi tránh nắng , không đi mua cao điểm nên mọi thứ ổn áp …",
+        "when": "4 tuần trước"
+      },
+      {
+        "author": "Anh Huynh Thi Ngoc",
+        "rating": 4,
+        "text": "Đang mùa hè, rất đông, chơi trò chơi phải xếp hàng 1 tiếng để chơi 1 trò quá phê, trang khá nhiều cây xanh mái che nên cũng ko nắng lắm",
+        "when": "2 tuần trước"
+      },
+      {
+        "author": "hanglee đặng",
+        "rating": 5,
+        "text": "Đến Đà Lạt nên trải nghiệm đến LangBiang . Để lên độ cao 1950m mình phải mua vé xe chuyên dụng 120.000vnđ/ người cho lượt đi và về, bạn sẽ không hối tiếc khi tốn thời gian và tiền bạc ở đây.",
+        "when": "một tháng trước"
+      },
+      {
+        "author": "Trường Hồ",
+        "rating": 4,
+        "text": "Một trong những nơi đáng tham quan khi đến Đà Lạt\nLangbiang Land là khu du lịch sinh thái – giải trí nằm dưới chân núi Langbiang — một trong những biểu tượng nổi tiếng nhất của Đà Lạt đầy sương mù và rừng …",
+        "when": "4 tháng trước"
+      },
+      {
+        "author": "Cường Lê",
+        "rating": 5,
+        "text": "Tổ hợp khu vui chơi có nhiều trò như trượt phao, trượt thúng, xe trượt. Có nhiều tượng khủng long, có chuồn thù với nhiều thú thân thiện, có vườn dâu và biểu diễn văn nghệ.có điều leo lên leo xuống nhiều lần hơi mỏi chân.có dịp sẽ quay lại",
+        "when": "một tháng trước"
+      },
+      {
+        "author": "Hương Đỗ",
+        "rating": 4,
+        "text": "Lần thứ 2 mình ghé đến đây. Giá vé vẫn như cũ, vẫn hơi mắc. Vừa vào mình đã được nghe các tiết mục biểu diễn Tây Nguyên, có lẽ đi vào lễ nên mọi người ca múa cả ngày, rất hay. …",
+        "when": "5 tháng trước"
+      },
+      {
+        "author": "Hạnh Hiển Hạt Hiên",
+        "rating": 4,
+        "text": "🌄 MỘT NGÀY Ở LANGBIANG – ĐI ĐỂ SỐNG CHẬM LẠI\nCó những ngày, chỉ cần rời khỏi nhịp sống quen thuộc một chút…\nlà đã đủ để trái tim “thở” nhẹ hơn. …",
+        "when": "2 tháng trước"
+      }
+    ],
+    "source": "google-maps"
+  },
+  "khu-da-ngoai-lux-camp-da-lat-x1": {
+    "lat": 11.8791154,
+    "lng": 108.4167778,
+    "img": "images/khu-da-ngoai-lux-camp-da-lat-x1.jpg",
+    "photos": [
+      "images/khu-da-ngoai-lux-camp-da-lat-x1.jpg",
+      "images/khu-da-ngoai-lux-camp-da-lat-x1-2.jpg",
+      "images/khu-da-ngoai-lux-camp-da-lat-x1-3.jpg",
+      "images/khu-da-ngoai-lux-camp-da-lat-x1-4.jpg"
+    ],
+    "phone": "0777829668",
+    "rating": 4.8,
+    "reviews": 31,
+    "comments": [
+      {
+        "author": "Nhã Nguyễn Thanh",
+        "rating": 5,
+        "text": "Cảm nhận đầu tiên khi đến Lux Camp là “ngộp”. Đúng, ngộp vl luôn vì:\n- Hôm đấy mưa tầm tả, đường bùn lầy khó đi\n- Mình chưa ngủ nghỉ trong lều bao giờ, dẫn tới vào lều sao thấy nó bé quá …",
+        "when": "2 năm trước"
+      },
+      {
+        "author": "Long Quan Vu",
+        "rating": 5,
+        "text": "Tôi đã từng đến nơi này 3 năm trước, hồi đó còn để tên là Forest Camping Đà Lạt.\nKhu camping rất ok, cảnh đẹp, mát mẻ, lều rộng rãi (đủ cho 4 người), đồ nướng ăn …",
+        "when": "2 tháng trước"
+      },
+      {
+        "author": "Duy Key",
+        "rating": 5,
+        "text": "Không gian yên tĩnh . Nhẹ nhàng .. sẽ đẹp hơn khi ngày có nắng. Trải nghiệm thật tuyệt khi đến đây. Camping Đà Lạt - Cắm trại hồ Tuyền Lâm",
+        "when": "4 năm trước"
+      },
+      {
+        "author": "Web Da Lat",
+        "rating": 5,
+        "text": "Gia đình mình đã đi tour cắm trại tại Lux Camp Đà Lạt và đặc biệt các bé có được những trải nghiệm ngoài thiên nhiên cực kỳ vui và thú vị. Dịch vụ rất tốt, lều trại đẹp, thưởng thức tiệc nướng BBQ buổi tối rất ngon trong không khí se lạnh. …",
+        "when": "Thời gian chỉnh sửa: 4 năm trước"
+      },
+      {
+        "author": "Xuân Nguyễn thị",
+        "rating": 5,
+        "text": "Trải nghiệm quá tuyệt vời, uxcamp Đà Lạt hướng dẫn viên nhiệt tình chú đáo! Cảm ơn bạn Bình và đội ngũ luxcamp Đà Lạt, nếu có dịp chắc chắn sẽ trở lại",
+        "when": "4 năm trước"
+      },
+      {
+        "author": "Trung Tran",
+        "rating": 5,
+        "text": "Khách sạn siêu mới, hiện đại, sạch sẽ, xung quanh là các quán ăn ngon, cách chợ 3p xe máy...anh chị chủ siêu cool...",
+        "when": "5 năm trước"
+      },
+      {
+        "author": "Chilling Boy",
+        "rating": 5,
+        "text": "Mình ở khách sạn 3 ngày 2 đêm trên đà lạt. Rất thích khách sạn này vì dịch vụ chuyên nghiệp vị trí lại gần trung tâm. Nhân viên mến khách và thân thiện. Giá thì khá rẻ so với những khách sạn kiểu như này. Vậy nên vote cho khách sạn 5 sao ^^",
+        "when": "5 năm trước"
+      },
+      {
+        "author": "Quynh Ngan",
+        "rating": 4,
+        "text": "(+) Phòng nhỏ xinh , sạch sẽ , view đẹp , vị trí gần trung tâm thuận tiện đi lại . Nhân viên nhiệt tình , dọn phòng mỗi ngày tươm tất\n(-) Bồn rửa mặt để trong góc hẹp ko thể cuối xuống rửa mặt đc mình fai ra chỗ …",
+        "when": "5 năm trước"
+      },
+      {
+        "author": "Nhật Quỳnh",
+        "rating": 5,
+        "text": "Anh chị chủ rất dễ thương, phòng đầy đủ tiện nghi mà giá cũng ổn nữa, team mình thuê xe máy tại khách sạn nên di chuyển cũng rất thuận tiện, hy vọng sẽ sớm được quay lại :D",
+        "when": "5 năm trước"
+      },
+      {
+        "author": "An An",
+        "rating": 5,
+        "text": "Phòng thoáng mát, sạch sẽ. Có nhiều loại phòng: phù hợp cá nhân, cặp đôi, gia đinh hay cả đội nhóm khi tổ chức picnic, phượt,... Dịch vụ chu đáo, thân thiện. Địa điểm nằm ngay gần trung tâm thành phố: rất thuận lợi trong việc di chuyển thăm quan các cảnh quan, thả bộ,...Đánh giá trên 5 sao^^",
+        "when": "5 năm trước"
+      }
+    ],
+    "source": "google-maps"
+  },
+  "lavini-house-x1": {
+    "lat": 11.9536753,
+    "lng": 108.4709156,
+    "img": "images/lavini-house-x1.jpg",
+    "photos": [
+      "images/lavini-house-x1.jpg",
+      "images/lavini-house-x1-2.jpg",
+      "images/lavini-house-x1-3.jpg",
+      "images/lavini-house-x1-4.jpg"
+    ],
+    "price": 1,
+    "phone": "0339545969",
+    "rating": 4.5,
+    "reviews": 105,
+    "comments": [
+      {
+        "author": "phuc truong",
+        "rating": 0,
+        "text": "Phòng ở đây OK giá rẻ, không gian yên tĩnh, chị quản gia quá nhiệt tình, có sân để nướng BBQ và phòng bếp đầy đủ tiện nghi, chắc chắn nếu đi gia đình mình sẽ quay lại",
+        "when": ""
+      },
+      {
+        "author": "Nhị Võ",
+        "rating": 0,
+        "text": "Home đẹp, mới , sạch sẽ, view nhiều cây xanh và hoa. Có đầy đủ tiện nghi cho nấu ăn,bbq và giặt sấy.  Chị quản gia rất nhiệt tình và dễ thương. Mình đi nhóm gia đình 6 người ở căn 3 phòng ngủ rất hài lòng. Nếu có dịp quay lại Đà Lạt sẽ tiếp tục lựa chọn  home.",
+        "when": ""
+      },
+      {
+        "author": "Điệp Hoàng Ngọc",
+        "rating": 0,
+        "text": "Không có nước nóng.phòng ẩm mốc,cảm giác không sạch sẽ, giá cho một đêm vậy là cao ấy ah.chị chủ xinh gái dễ thương,khuôn viên đẹp. Chỉ mong chỉnh chu hơn sẽ phù hợp với giá tiền khách bỏ ra.vẫn cho 5* sẽ quay lại",
+        "when": ""
+      },
+      {
+        "author": "Nhu K",
+        "rating": 0,
+        "text": "Khách sạn xinh xắn, thiết kế hiện đại nhưng vẫn mang nét Đà Lạt cổ điển. Mình thích ban công nhìn ra đồi thông, buổi sáng sương mờ rất đẹp. Dịch vụ tốt, nhân viên thân thiện.",
+        "when": ""
+      },
+      {
+        "author": "Đặng Văn Tuấn",
+        "rating": 0,
+        "text": "Villa cách trung tâm khoảng 6km, yên tĩnh có nhiều lựa chọn cho khách với 1,2,3 phòng ngủ phù hợp với từng nhóm khách. Phòng ốc sạch sẽ gọn gàng tuy nhiên khăn tắm, ga gối có thể hơi cũ một chút nhưng sạch sẽ. Villa 3 phòng ngủ có phòng …",
+        "when": ""
+      },
+      {
+        "author": "Hưng Lê",
+        "rating": 0,
+        "text": "Phòng sạch, khu viên đẹp, lịch sự, có chỗ để oto, 5s!",
+        "when": ""
+      },
+      {
+        "author": "Huynh Thi Hoang Yen",
+        "rating": 0,
+        "text": "10 điểm, quá là tuyệt vời\n1. Phòng ốc: quá tuyệt, sạch lắm lắm! ưng nhất là tấm nệm, rất là cứng nên thẳng lưng, ko đau cột sống, gối nằm thấp. chứng tỏ chủ nhà cũng rất coi trọng cột …",
+        "when": ""
+      },
+      {
+        "author": "Ngân Đàm",
+        "rating": 0,
+        "text": "Xung quanh xe cộ ồn ào\nCskh yc cọc trước khi đến\nĐến nơi chưa tới 5p yc thanh toán đủ …",
+        "when": ""
+      },
+      {
+        "author": "Trần Hưng (Harvey)",
+        "rating": 0,
+        "text": "Villa hơi xa trung tâm, thích hợp nghỉ dưỡng. Chị quản gia hỗ trợ rất nhiệt tình 👍👍 …",
+        "when": ""
+      },
+      {
+        "author": "Binh Le",
+        "rating": 0,
+        "text": "Tổng quan là tốt trong tầm giá. Mọi thứ đều OK chỉ có cái chỗ đậu xe hơi thì hơi dốc nhưng đặc thù ở Đà Lạt thì cái này cũng khá phổ biến.",
+        "when": ""
+      }
+    ],
+    "source": "google-maps"
+  },
+  "cong-vien-yersin-x1": {
+    "lat": 11.9397271,
+    "lng": 108.4466601,
+    "img": "images/cong-vien-yersin-x1.jpg",
+    "photos": [
+      "images/cong-vien-yersin-x1.jpg",
+      "images/cong-vien-yersin-x1-2.jpg",
+      "images/cong-vien-yersin-x1-3.jpg",
+      "images/cong-vien-yersin-x1-4.jpg"
+    ],
+    "phone": "0964549666",
+    "rating": 4.3,
+    "reviews": 1006,
+    "comments": [
+      {
+        "author": "Nam Thuận",
+        "rating": 5,
+        "text": "Quảng trường Đà Lạt, nơi để chụp ảnh check in phía dưới là một Siêu thị",
+        "when": "2 tháng trước"
+      },
+      {
+        "author": "Thanh Tam Nguyen",
+        "rating": 5,
+        "text": "Công viên Yersin là một công viên công cộng, là một công trình đẹp ngay trung tâm tp Đà Lạt gần ngay cạnh quảng trường lâm viên và nhìn ra hồ Xuân hương\nNơi đây rộng rãi sạch, nhiều bồn hoa, thảm hoa đẹp, có nhà vệ sinh công cộng và …",
+        "when": "8 tháng trước"
+      },
+      {
+        "author": "linh pdn",
+        "rating": 5,
+        "text": "công viên yersin tọa lạc bên hồ xuân hương, rộng khoảng 11ha bao gồm 6 khu vực: khu trung hoa viên, vườn ươm, nhà triển lãm, trung tâm thương mại quốc tế, khu vực trồng cây xanh và hồ lắng. …",
+        "when": "một năm trước"
+      },
+      {
+        "author": "Quốc Khánh",
+        "rating": 5,
+        "text": "Một nơi tuyệt vời để nằm dài trên bãi cỏ, ngắm mây trôi.",
+        "when": "5 tháng trước"
+      },
+      {
+        "author": "hanglee đặng",
+        "rating": 5,
+        "text": "Một địa điểm đẹp ,ngay trung tâm tp.Đà Lạt, tôn vinh một  bác sỹ người Pháp dành trọn đời cho đất nước Việt Nam.",
+        "when": "11 tháng trước"
+      },
+      {
+        "author": "Yunkirito Chan",
+        "rating": 5,
+        "text": "Hôm mình đi buổi tối, có chỗ gửi xe không mất phí nhưng cũng không có người coi, mọi người khoá xe cẩn thận nhe.\nCông viên mát mẻ, đẹp xỉu, lần đầu mình tự đi :3 cảnh đẹp quá",
+        "when": "một năm trước"
+      },
+      {
+        "author": "vanngon nguyen",
+        "rating": 5,
+        "text": "Công viên rất nhiều góc ảnh đẹp nhưng ít người biết",
+        "when": "11 tháng trước"
+      },
+      {
+        "author": "Thống Trần Quốc",
+        "rating": 5,
+        "text": "Công viên mát mẻ, sạch sẽ, có chỗ ngồi nghi. Xung quanh nhiều hoa đẹp đa dạng. Thích hợp ngồi nghỉ ngơi, thư giãn, đi dạo. Mọi người có thể gửi xe ở Go quảng trường rồi đi bộ qua",
+        "when": "một năm trước"
+      },
+      {
+        "author": "Ngọc Khương Lâm",
+        "rating": 5,
+        "text": "Tới Đà Lạt thì chắc hẳn đây là địa điểm đầu tiên nên đi tới\n\nCó thể đi dạo quanh hồ (cỡ 5km) …",
+        "when": "một năm trước"
+      },
+      {
+        "author": "Nguyễn Huy",
+        "rating": 5,
+        "text": "Công viên nhiều hoa và rừng thông ngay sau lưng.Sáng ra ngồi ở đây không khí trong lành và nhìn ra hồ Xuân Hương rất yên bình và xanh mát.Trước khi đi nên mua 1 tách cafe và một chút đồ ăn vặt kiếm 1 Chiếc ghế và bàn ta cùng nhâm nhi sự yên bình 🏕 …",
+        "when": "2 năm trước"
+      }
+    ],
+    "source": "google-maps"
+  },
+  "rung-giao-huong-x1": {
+    "lat": 11.941282,
+    "lng": 108.4064008,
+    "img": "images/rung-giao-huong-x1.jpg",
+    "photos": [
+      "images/rung-giao-huong-x1.jpg",
+      "images/rung-giao-huong-x1-2.jpg",
+      "images/rung-giao-huong-x1-3.jpg",
+      "images/rung-giao-huong-x1-4.jpg"
+    ],
+    "phone": "0905120668",
+    "rating": 4.6,
+    "reviews": 613,
+    "comments": [
+      {
+        "author": "MIN STUDIO ĐÀ LẠT",
+        "rating": 5,
+        "text": "Chào anh em. Sáng nay tôi đi bộ vào một khu vực mà nói thật, đứng ở góc độ một người làm nghề hình ảnh, tôi bị hớp hồn. Không gian ở đây rộng, rặng thông bao quanh một mặt hồ xanh ngắt, bối cảnh lên hình lên phim thì đúng là chuẩn chỉ, …",
+        "when": "một tháng trước"
+      },
+      {
+        "author": "04 Quỳnh Anh 12A17",
+        "rating": 4,
+        "text": "Mình thấy ở đây có rất nhiều chỗ chụp đẹp và view ổn, nhưng hôm mình đi lại mưa nhưng vẫn rất ư là đẹp, hồ siêu rộng , nhưng nuớc thì trung bình quá nhiều đá, giá vé 120k/ng thì mình thấy bth ksao, nhưng hôm mình đi có 2 nhân viên :))) đã …",
+        "when": "4 tháng trước"
+      },
+      {
+        "author": "Thu Anh",
+        "rating": 5,
+        "text": "Quán đẹp, khu vực ngồi ngoài trời là chính nhưng vì có cây xanh - cây thông nhiều nên ngồi rất mát. Quán có điểm nhấn là hồ xang mát và khí cầu, lên ảnh bao xinh. Các bạn nv nhiệt tình đặc biệt là anh Hiếu anh Lâm, hỗ trợ chụp ảnh 10 điểm. Có 3 bé mèo xinh 😙 …",
+        "when": "một tháng trước"
+      },
+      {
+        "author": "Niyo",
+        "rating": 2,
+        "text": "Vé 150k 1 người. Vào chọn free 1 phần nước và 1 phần bắp hoặc snack.\nVới mức giá 150k, mình kỳ vọng một view được đầu tư chỉn chu hơn. Tuy nhiên, view của quán khá bừa bộn và chưa được quy hoạch thẩm mỹ …",
+        "when": "một tháng trước"
+      },
+      {
+        "author": "Người hay đi",
+        "rating": 4,
+        "text": "Vô mấy chỗ này chủ yếu chill ngắm cảnh thui chứ cf ăn uống ko ngon đâu. Đi đúng bữa vắng nên chill. Thả mấy cái khinh khí cầu dưới hồ mà ko có gió nó nằm bẹp dí lun =)))) ko có lên nổi. Nói chung dc có cái hồ cũng chill chill chứ còn lại bình thường",
+        "when": "một tháng trước"
+      },
+      {
+        "author": "Tan Van Nghiem",
+        "rating": 5,
+        "text": "Một nơi thật gần gũi với thiên nhiên! Thật yên bình, thât thơ mộng !!!\nCó đến đây mới thấy được tâm huyết của chủ đầu tư! Hy vọng nơi đây luôn luôn giữ được phong cách thiết kế như hiện tại🍻 …",
+        "when": "3 tuần trước"
+      },
+      {
+        "author": "Trúc Linh Hoàng",
+        "rating": 5,
+        "text": "Trời ơiiii, chỗ này cần được viral hơn thế nữa\n\"Rừng Giao Hưởng\" ở đây có đủ núi - sông siêu đẹp\n✔️Chú bảo vệ ở đây dễ thương, nhiệt tình …",
+        "when": "5 tháng trước"
+      },
+      {
+        "author": "Josephine",
+        "rating": 5,
+        "text": "Thời tiết đẹp, mát mẻ. Hồ khá rộng, chụp hình lên rất đẹp. Vé vào cổng bao gồm tiền nước. Nước uống ở đây chỉ ở mức khá. Đường vào đây dễ đi cho cả xe máy và ô tô.",
+        "when": "4 tháng trước"
+      },
+      {
+        "author": "Duyênn Duyên",
+        "rating": 1,
+        "text": "Mình đi mùng 8 tết , quán ế ít khách nhưng ra nước rất lâu (4 ly đợi hơn 25 phút), quán nói dối khách hàng lúc mình đi vào có ông chú bán vé 150k/ ng chú có giới thiệu vé đã bao gồm nước và 1 phần bánh, trên vé cũng để note như vậy NHƯNG …",
+        "when": "4 tháng trước"
+      },
+      {
+        "author": "Nhân Thanh",
+        "rating": 1,
+        "text": "Mình đi mùng 8 tết , quán ế ít khách nhưng ra nước rất lâu (4 ly đợi hơn 25 phút), quán nói dối khách hàng lúc mình đi vào có ông chú bán vé 150k/ ng chú có giới thiệu vé đã bao gồm nước và 1 phần bánh, trên vé cũng để note như vậy NHƯNG …",
+        "when": "4 tháng trước"
+      }
+    ],
+    "source": "google-maps"
+  },
+  "doi-da-phu-x1": {
+    "lat": 11.9820625,
+    "lng": 108.4038125,
+    "img": "images/doi-da-phu-x1.jpg",
+    "photos": [
+      "images/doi-da-phu-x1.jpg",
+      "images/doi-da-phu-x1-2.jpg",
+      "images/doi-da-phu-x1-3.jpg",
+      "images/doi-da-phu-x1-4.jpg"
+    ],
+    "rating": 4.5,
+    "reviews": 904,
+    "comments": [
+      {
+        "author": "Sunny Châu",
+        "rating": 5,
+        "text": "đường dốc lên hơi khó đi nhưng cố gắng giữ thăng bằng là có thể chạy xe máy lên cảnh rất đẹp và chill. trên đồi có quán cafe container hồng nhỏ xinh bên đồi ngắm trọn đồi lang biang đôi diện. highly recommended",
+        "when": "3 tuần trước"
+      },
+      {
+        "author": "Hoàng Thành",
+        "rating": 5,
+        "text": "Đẹp lắm, leo bằng xe máy được tận đỉnh nếu tay lái cứng. Dậy từ 3h sáng lên đây thấy xứng đáng, khá lạnh, gió rít. Lên đến nơi tầm 5h, 1 trải nghiệm đáng nhớ khi tới Đà Lạt",
+        "when": "3 tuần trước"
+      },
+      {
+        "author": "Trung Hieu Nguyen",
+        "rating": 4,
+        "text": "Đồi Đa Phú thực sự là một viên ngọc thô tuyệt đẹp của Đà Lạt! Mình đã có một chuyến campin 1 mình tại đây vào tháng 11 năm 2023, và đến tận bây giờ, những ký ức về cảnh sắc nơi này vẫn vô cùng trọn vẹn. …",
+        "when": "3 tháng trước"
+      },
+      {
+        "author": "Phuc Tho Tran",
+        "rating": 4,
+        "text": "Nơi thích hợp cho các hoạt động dã ngoại camping tự túc, hướng chạy xe lên hơi dốc mọi người nên cẩn thận nhất là đi vào mùa mưa nhé.",
+        "when": "4 tháng trước"
+      },
+      {
+        "author": "Vy Tường",
+        "rating": 5,
+        "text": "Để xe dưới cai đi bộ lên xíu .. chứ đi nguy hiểm nha .. mưa là thua luôn cảnh đẹp",
+        "when": "một tháng trước"
+      },
+      {
+        "author": "Hang Pham",
+        "rating": 5,
+        "text": "Không gian yên tĩnh, thoáng đãng, rất hợp để ngắm cảnh và thư giãn. Từ trên đồi có thể nhìn ra toàn cảnh núi rừng, đặc biệt đẹp vào sáng sớm hoặc chiều hoàng hôn. Những hàng thông cao tạo cảm giác rất chill, đi dạo giữa rừng cây cực kỳ dễ …",
+        "when": "3 tháng trước"
+      },
+      {
+        "author": "Hùng Nguyễn Mạnh",
+        "rating": 5,
+        "text": "Mình đi bộ đường bên cạnh khách sạn Đa Phú khá dốc, khuyến cáo các bạn yếu tay lái ko nên đi đường này. Bù lại cảnh trên đồi rất đẹp, nếu đi xe máy có thể đi thêm 3,4 đỉnh đồi đằng xa rất chill. Mình đi lúc gần hoàng hôn nên càng đẹp hơn, bình minh chắc còn đẹp nữa.",
+        "when": "5 tháng trước"
+      },
+      {
+        "author": "Hương Nguyễn",
+        "rating": 5,
+        "text": "Ở đây cắm trại rất thú vị . Cảnh đẹp / sáng sớm săn mây / ngắm bình minh / trưa nhóm lửa nấu ăn . Chiều đón hoàn hôn , nướng thịt ngắm cảnh chiu chíu / gió mát rượi . Không tốn tiền mua vé gì cả .",
+        "when": "2 tháng trước"
+      },
+      {
+        "author": "Josie",
+        "rating": 5,
+        "text": "Nơi đây đẹp, đường không có ai nhưng cũng có nhiều người... lần sau nếu đến sẽ đem nhang.\nCảnh trên đồi đẹp lắm. Yên tĩnh rất đáng trải nghiệm. Nếu đi đường từ chùa thì …",
+        "when": "một năm trước"
+      },
+      {
+        "author": "Dũng Đoàn",
+        "rating": 2,
+        "text": "Biết nói sao giờ. Mình thật sự không khuyến khích bạn nào yếu tay lái đi lê đâu nhe. Lên đây tụi mình tốn 60k/ng lên xe zip để lên đỉnh đồi. Trải nghiệm đi xe zip là nó rất tưng (và mình cũng rất tửng 😅). Cảnh vật xung quanh thì mình không …",
+        "when": "4 tháng trước"
+      }
+    ],
+    "source": "google-maps"
+  },
+  "cay-thong-co-don-x1": {
+    "lat": 12.0203409,
+    "lng": 108.3840885,
+    "img": "images/cay-thong-co-don-x1.jpg",
+    "photos": [
+      "images/cay-thong-co-don-x1.jpg",
+      "images/cay-thong-co-don-x1-2.jpg",
+      "images/cay-thong-co-don-x1-3.jpg",
+      "images/cay-thong-co-don-x1-4.jpg"
+    ],
+    "rating": 4.5,
+    "reviews": 774,
+    "comments": [
+      {
+        "author": "MIN STUDIO ĐÀ LẠT",
+        "rating": 5,
+        "text": "hành trình của chúng tôi đó chính là cây thông cô đơn, một biểu tượng mộc mạc và hoang sơ mà bất kỳ ai yêu vẻ đẹp tự nhiên của Đà Lạt cũng muốn một lần đặt chân đến. Để có được những khoảnh khắc trọn vẹn nhất tại đây, ê-kíp chúng tôi đã …",
+        "when": "một tháng trước"
+      },
+      {
+        "author": "Chouchou",
+        "rating": 5,
+        "text": "Có thể lái xe máy xuống nhưng nên cân nhắc nha mọi người, dốc khá chúi và hơi khó đi. Phương án an toàn hơn là đi tàu qua, giá chiều đi về tầm 100k/ người và có thể trả giá.",
+        "when": "3 tháng trước"
+      },
+      {
+        "author": "Le Tu Thanh",
+        "rating": 5,
+        "text": "Cây thông cô đơn nơi đây không đặc biệt lắm nhưng khung cảnh chung khu vực rất đẹp, hoang dã và tự nhiên. Bạn có thể chạy xe máy xuống tận nơi. Nhưng đường đi dốc và dễ gây tại nạn nếu bạn chậm xử lý. Do vậy có cây chắn nơi nhà của Ban bảo …",
+        "when": "5 tháng trước"
+      },
+      {
+        "author": "Choou Phạm",
+        "rating": 3,
+        "text": "Địa điểm dễ đi, có thể đón bình minh và săn mây (trộm día đi camping 5-6 lần thì lần nào cảnh cũng đẹp nhứt nách)",
+        "when": "một tháng trước"
+      },
+      {
+        "author": "Review Việt Nam",
+        "rating": 5,
+        "text": "Một địa điểm check in miễn phí thật đẹp tại Đà Lạt, không khí khá trong lành chụp ảnh đẹp,\nCác bạn có dịp ghé check in nha....",
+        "when": "3 tháng trước"
+      },
+      {
+        "author": "Dũng Lữ Trí",
+        "rating": 5,
+        "text": "Cây thông cô đơn có thể đi tàu cho nhanh nên khá hợp các bạn thích đổi gió hoặc tay lái yếu. Hôm mình đi là giữa tuần nên vắng và chụp khá nhiều ảnh",
+        "when": "6 tháng trước"
+      },
+      {
+        "author": "Lucas Nguyen",
+        "rating": 5,
+        "text": "Xem review nhiều rồi nhưng đây mới là lần đầu tiên đến nơi này.\nBan đầu cứ nghĩ oto đi tận nơi được nhưng bị chặn từ lâu rồi thì phải.\nĐi đò chú Tiến qua nhé mng, 100k/1ng/2 chiều đi về. …",
+        "when": "6 tháng trước"
+      },
+      {
+        "author": "Lisa Ceo",
+        "rating": 5,
+        "text": "Say wow từ lúc đến cho tới khi về luôn mng ah một buổi trải nghiệm cực kì cảm xúc, lưu luyến, cực chill, cực Đà Lạt không có Nhưng. Hãy cho bản thân những ngày xa rời thành phố đô thị, xa rời tiếng ồn ào của xe cộ, mặc kệ những lời phán xét …",
+        "when": "6 tháng trước"
+      },
+      {
+        "author": "Phamvantan",
+        "rating": 5,
+        "text": "Cây thông cô đơn Đà Lạt (hồ Suối Vàng) là biểu tượng của sự bình yên, lãng mạn và chút buồn man mác, thường gắn liền với thông điệp về tự do, lòng kiên cường và sự tự tại.",
+        "when": "Thời gian chỉnh sửa: 3 tháng trước"
+      },
+      {
+        "author": "Thành Nhân Lê",
+        "rating": 5,
+        "text": "Xứng đang để đi. Sáng chiều gì cũng đẹp nhưng mà nên đi đông và về sớm chứ chiều tối đường đèo không có điện đường nguy hiểm. Dọc đường chụp cũng khá là xinh",
+        "when": "5 tháng trước"
+      }
+    ],
+    "source": "google-maps"
+  },
+  "dalat-camp-x1": {
+    "lat": 12.0065228,
+    "lng": 108.3432017,
+    "img": "images/dalat-camp-x1.jpg",
+    "photos": [
+      "images/dalat-camp-x1.jpg",
+      "images/dalat-camp-x1-2.jpg",
+      "images/dalat-camp-x1-3.jpg",
+      "images/dalat-camp-x1-4.jpg"
+    ],
+    "phone": "0903119440",
+    "rating": 4.4,
+    "reviews": 396,
+    "comments": [
+      {
+        "author": "Dũng Nguyễn",
+        "rating": 5,
+        "text": "Có những nơi ở Đà Lạt mà chỉ cần bước vào là tự nhiên muốn lấy máy ảnh ra chụp liền 🌲📸\nVà Dalat Camp là một nơi Dũng rất thích dẫn khách tới mỗi khi muốn chụp kiểu ảnh …",
+        "when": "2 tháng trước"
+      },
+      {
+        "author": "Lam Phuc",
+        "rating": 5,
+        "text": "Mình đến với Camp vào một buổi sáng thứ 7. Camp hơi vắng nhưng mình lại thích không khí này, dễ chịu, yên tĩnh và đủ để \"chill\" một cách lowkey.\nHơi tiếc khi biết Camp không còn làm lưu trú và chỉ đón khách tham quan. Mọi người nếu muốn tìm một nơi yên tĩnh và nhìu góc chụp đẹp thì hãy đến Camp nhé",
+        "when": "một tháng trước"
+      },
+      {
+        "author": "Thu Huong",
+        "rating": 5,
+        "text": "Cứ tới mùa hoa nở sẽ đến Đà Lạt Camp, ngoài checkin ra thì mọi thứ ở đây đều rất chill.",
+        "when": "8 tháng trước"
+      },
+      {
+        "author": "ttrinh nguyen",
+        "rating": 5,
+        "text": "Đẹp chấn động quý vị ơi, vé nước 100k/ng, chỗ thì rộng chụp ê hề nha, chắc chắn mình sẽ ghé lại mỗi tội hơi xa trung tâm ở tận tà nung ...đường từ trung tâm đến qán k nói gì mà đầu đường vô quán hơi khó chút ý nhất là vào ngày mưa thuiii ....còn lại không gì để bàn cãi mọi thứ quá là oki đii",
+        "when": "7 tháng trước"
+      },
+      {
+        "author": "NGỌC NGÂN PHẠM THỊ",
+        "rating": 5,
+        "text": "Đường đi hơi khó nên chắc ít người đến, nhưng đổi lại nhiều góc chụp đẹp, anh chủ dễ thương, giá cả phải chăng",
+        "when": "2 tháng trước"
+      },
+      {
+        "author": "Ánh Lưu Ngọc",
+        "rating": 5,
+        "text": "Được giới thiệu vào Dalat Camp chụp hình. Đường đi khúc gần tới hơi khó tìm. Với có 1 đoạn đường chạy vào hơi khó, kiểu đoạn nhỏ chưa làm đường.\nNhưng vô tới quán thì rất là ưng luôn. Nhiều góc chụp ảnh được set up rất chu …",
+        "when": "8 tháng trước"
+      },
+      {
+        "author": "Khôi Nguyên",
+        "rating": 5,
+        "text": "- Quán đẹp, nhiều cảnh quan với rừng cây bao quanh và dòng suối chảy qua nên khá mát. Hình chụp lên ở khu vườn hoa xinh. Có em chó dễ thương đi theo mình từ ngoài vào. …",
+        "when": "11 tháng trước"
+      },
+      {
+        "author": "Junn Nàaa",
+        "rating": 5,
+        "text": "Một địa điểm mà ny mình từng ghé nên đợt này dẫn mình đi để chill.\n\nĐường vào hơi xa và hơi ghồ ghề, giá vé 100k nhưng rất xứng đáng, vì có rất …",
+        "when": "10 tháng trước"
+      },
+      {
+        "author": "Rin Nguyễn",
+        "rating": 5,
+        "text": "Chạy xe 20km để tắm nắng cao nguyên 🤌🏻\nMình tưởng đây là chỗ camping và cafe thôi, không ngờ còn là địa điểm chụp ảnh cưới, lúc đến còn gặp cô dâu chú rể đang chụp cơ. …",
+        "when": "10 tháng trước"
+      },
+      {
+        "author": "Trân Phương",
+        "rating": 1,
+        "text": "đi mà không nhắn tin hỏi trước.. google map chỉ đi đường đập ankroet sợ chết đi được cũng rán kiếm đi lên.. lên tới nơi đường nó xấu ớn luôn đi vào thấy đóng cửa, má nó xa rồi còn gặp",
+        "when": "6 tháng trước"
+      }
+    ],
+    "source": "google-maps"
+  },
+  "delight-park-dalat-x1": {
+    "lat": 11.9430292,
+    "lng": 108.4880973,
+    "img": "images/delight-park-dalat-x1.jpg",
+    "photos": [
+      "images/delight-park-dalat-x1.jpg",
+      "images/delight-park-dalat-x1-2.jpg",
+      "images/delight-park-dalat-x1-3.jpg",
+      "images/delight-park-dalat-x1-4.jpg"
+    ],
+    "price": 1,
+    "phone": "0943821916",
+    "rating": 4.2,
+    "reviews": 1645,
+    "comments": [
+      {
+        "author": "Dũng Nguyễn",
+        "rating": 5,
+        "text": "Đà Lạt có những nơi ban ngày đẹp một kiểu, nhưng tới tối lại đẹp theo một cảm giác hoàn toàn khác ✨\nVà Thung Lũng Đèn là một nơi mà Dũng rất thích dẫn khách đi chụp ảnh đêm 📸 …",
+        "when": "2 tháng trước"
+      },
+      {
+        "author": "Ryan Nguyen",
+        "rating": 5,
+        "text": "1 địa điểm rất đáng để thử khi đến Đà Lạt, không gian siêu rộng rãi, ăn các món nướng ngon nghe nhạc sống, và ngắm lồng đèn ở thung lũng phía dưới. Quán đẹp, không quá đông đúc, ăn nướng uống rượu mơ buổi tối lạnh lạnh cảm nhận không khí rất Đà Lạt 👍 …",
+        "when": "một tháng trước"
+      },
+      {
+        "author": "Mon Unu",
+        "rating": 4,
+        "text": "Mình tới ăn sáng, tới sớm nên quán chỉ có đoàn mình, nhưng lên đồ ăn hơi lâu.\nGiá từ 55k đến tầm 165k, mình thấy giá ăn sáng hơi cao, chưa tương xứng với món ăn, nhưng quán đầu tư rộng thì thu phí cao cũng hợp lý ở Đà Lạt. …",
+        "when": "4 tháng trước"
+      },
+      {
+        "author": "Vương Đế",
+        "rating": 4,
+        "text": "Món nướng của quán khá ngon theo khẩu vị riêng của mình đặc biệt là món chân gà nướng. View của quán quá là ổn áp khi chụp hình sống ảo vì có tiểu cảnh và góc chụp hướng về phía mặt trời lặn rất đẹp. Nhân viên rất nhiệt tình hướng dẫn và …",
+        "when": "4 tháng trước"
+      },
+      {
+        "author": "Kim Ngan Vu",
+        "rating": 5,
+        "text": "mình đi vào 27 tết. 5h30 chiều đón hoàng hôn chụp oke. ban nhạc chị nữ hát hay, anh nam hát hơi xót đôi khi bị hớ. tối 8h cảnh báo ở đó do áp suất nên luồng gió không khí hơi mạnh, lạnh nên mang ấm nha. đánh giá đồ ăn, mình đi nhóm 7ng, …",
+        "when": "4 tháng trước"
+      },
+      {
+        "author": "Khoa Ngoc",
+        "rating": 4,
+        "text": "Menu đa dạng, có cả lẩu, nướng, cơm niêu, cafe. Không gian rộng, chia nhiều khu ăn uống riêng. Tối có acoustic, rất chill",
+        "when": "2 tuần trước"
+      },
+      {
+        "author": "Nhân Lam",
+        "rating": 5,
+        "text": "Không gian thoáng đãng, view đẹp. Combo vừa cafe vừa nhà hành đi kèm không gian nhạc sống nhiều chủ đề. Rất đáng trải nghiệm khi đến Đà Lạt.",
+        "when": "5 tháng trước"
+      },
+      {
+        "author": "Khôi Trần",
+        "rating": 1,
+        "text": "1 trải nghiệm quá tệ. Điện thoại đặt bàn rồi, khi đến nơi thì nói chưa nhận được. Gọi món thì 1h chưa có món, gọi phục vụ thì báo là đông khách nên ko lên món đc, yêu cầu hủy món.",
+        "when": "2 tháng trước"
+      },
+      {
+        "author": "Hoàn Mỹ Hiếu",
+        "rating": 5,
+        "text": "Có dịp đến ăn cùng gia đình ngày 31/3/26. Cá tầm tươi ngon, phong cảnh đẹp vào buổi tối, món ăn ngon làm từ cá tầm",
+        "when": "3 tháng trước"
+      },
+      {
+        "author": "Nguyen Ngoc Huynh Phuong Thao (VITA YOGA)",
+        "rating": 5,
+        "text": "Đợt này đi vào dịp gần Tết nên tranh thủ đặt bàn sớm, vậy mà đến nơi hok có thông tin. Cũng may nhân viên khác kịp thời cho vào bàn. Chill chill nghe nhạc và nướng thoai. Đến đây lần thứ 4 roài 🤭 …",
+        "when": "4 tháng trước"
+      }
+    ],
+    "source": "google-maps"
+  },
+  "lang-tho-little-hobbiton-x1": {
+    "lat": 11.9046768,
+    "lng": 108.3427608,
+    "img": "images/lang-tho-little-hobbiton-x1.jpg",
+    "photos": [
+      "images/lang-tho-little-hobbiton-x1.jpg",
+      "images/lang-tho-little-hobbiton-x1-2.jpg",
+      "images/lang-tho-little-hobbiton-x1-3.jpg",
+      "images/lang-tho-little-hobbiton-x1-4.jpg"
+    ],
+    "rating": 4.9,
+    "reviews": 225,
+    "comments": [
+      {
+        "author": "MANH NGUYEN HUU",
+        "rating": 5,
+        "text": "Mình vẫn chưa quên được cảm giác bình yên khi vừa bước vào Làng Thỏ Little Hobbiton: không bóng dáng ồn ào, chỉ có tiếng thỏ rúc rích, hươu sao ngơ ngác liếc nhìn và tiếng vịt quang quác gọi nhau dưới ánh nắng chiều. Vé 60k kèm chai nước …",
+        "when": "11 tháng trước"
+      },
+      {
+        "author": "HUONGMIT",
+        "rating": 4,
+        "text": "Gia đình mình đã từng đi rất nhiều KDL lớn ở Đà Lạt nên khi đến đây cảm thấy hơi buồn, vì ít thú để xem. Giá vào cổng 60k/1 người.",
+        "when": "một năm trước"
+      },
+      {
+        "author": "Thu Huong",
+        "rating": 5,
+        "text": "Rất dễ tìm vì làng thỏ ngay bên đường. Khu này rộng, thoáng, sạch sẽ. Vé vào của 60k/ người, mỗi người 1 chai nước suối mát 500ml.\nNên mang tiền mặt cho tiện nhé mọi người. …",
+        "when": "một năm trước"
+      },
+      {
+        "author": "Đông Nghi Nguyễn Hoàng",
+        "rating": 5,
+        "text": "Nơi này không chạy quảng cáo nên lúc mình đến chỉ có mỗi mình tụi mình. Dù ít khách nhưng cô vẫn chăm chút nơi này. Mình được cho thỏ ăn, hưu ăn, cô còn cho mình thu trứng vịt nhưng lúc đó trễ rồi mình phải về sớm. Trải nghiệm tuyệt vời 10/10",
+        "when": "một năm trước"
+      },
+      {
+        "author": "Vy Yyy",
+        "rating": 5,
+        "text": "Vé 60k/ng kèm nước suối, đổi qua các loại nước khác thêm 10k hoặc 15k.\nMấy bé thỏ xinh vs ngoan cực. Anh chị nv cũng rất dth và hỗ trợ nhiệt tình. Chụp hình đẹp cực nha. …",
+        "when": "2 năm trước"
+      },
+      {
+        "author": "Quỳnh Anh Phạm",
+        "rating": 5,
+        "text": "Nên đi buổi sáng vì trời đẹp nha mình đi vào buổi chiều nên có mưa cơ mà may chỉ lác đác thôi nên ksao cả. Nvien nhiệt tình lắm do buổi chiều có mỗi 2 đứa mình thôi à. Giá vé 80k/ng lớn kèm chai nước lọc. Có váy đồ thuê để mặc giá hạt rẻ …",
+        "when": "3 năm trước"
+      },
+      {
+        "author": "Steven Nguyen",
+        "rating": 5,
+        "text": "Trên đường đi từ The Florest về thì mình tình cờ thấy chỗ này nên ghé thử. Vé chỉ có 60k thôi mà thấy vô đây còn vui hơn đi The Florest. …",
+        "when": "một năm trước"
+      },
+      {
+        "author": "Janie Lin",
+        "rating": 5,
+        "text": "Chỗ này là nơi mình thích nhất trong cả chuyến đi!!\n\nThỏ 🐰 rất đông được chăm kĩ nên mập mạp và không có mùi. Thỏ cũng rất quấn người …",
+        "when": "một năm trước"
+      },
+      {
+        "author": "226 Go",
+        "rating": 5,
+        "text": "Nằm trên cung đường đèo Tà Nung, tuy xa trung tâm nhưng đây là khu rất thích hợp để trẻ em trải nghiệm vui đùa & cho thỏ ăn. Nhân viên  hổ trợ vui vẻ nhiệt tình. Vé vào cổng 80k/ người lớn free chai nước suối, trẻ em 40k (dưới 1m3 free) . Ở …",
+        "when": "Thời gian chỉnh sửa: 3 năm trước"
+      },
+      {
+        "author": "Trâm Nguyễn",
+        "rating": 5,
+        "text": "Hơi xa trung tâm, địa điểm mới nổi, kinh doanh theo mô hình gia đình. Nhân viên dễ thương, hướng dẫn khách kĩ, chụp hình cho khách siu xinh 🫶. Nước kèm vé k ngon lắm 🥲, nhma chỗ này chủ yếu chụp hình nên mng có thể bỏ qua vụ đó. …",
+        "when": "3 năm trước"
+      }
+    ],
+    "source": "google-maps"
+  },
+  "trung-tam-hoat-dong-thanh-thieu-nhi-tinh-l-x1": {
+    "lat": 11.9486828,
+    "lng": 108.442199,
+    "img": "images/trung-tam-hoat-dong-thanh-thieu-nhi-tinh-l-x1.jpg",
+    "photos": [
+      "images/trung-tam-hoat-dong-thanh-thieu-nhi-tinh-l-x1.jpg",
+      "images/trung-tam-hoat-dong-thanh-thieu-nhi-tinh-l-x1-2.jpg",
+      "images/trung-tam-hoat-dong-thanh-thieu-nhi-tinh-l-x1-3.jpg",
+      "images/trung-tam-hoat-dong-thanh-thieu-nhi-tinh-l-x1-4.jpg"
+    ],
+    "phone": "02633822158",
+    "rating": 4.1,
+    "reviews": 1005,
+    "comments": [
+      {
+        "author": "徳善",
+        "rating": 5,
+        "text": "Lâu rồi mới ghé lại đây chơi, nói chung cũng giữ nét xưa cũ từ thời mình còn nhỏ. Ở đây lâu lâu áp lực nhìn những đứa trẻ vô tư chơi đùa mình đôi khi cũng thấy an nhiên trong lòng",
+        "when": "3 tháng trước"
+      },
+      {
+        "author": "Lieu Tran",
+        "rating": 5,
+        "text": "Khu vui chơi trẻ em rất rộng rãi, mát mẻ, nhiều trò chơi, giá cả bình dân.",
+        "when": "5 tháng trước"
+      },
+      {
+        "author": "Minh Trí Nguyễn Cao",
+        "rating": 5,
+        "text": "Nhiều trò chơi cho bé, giá rẻ, rộng thoáng",
+        "when": "4 tháng trước"
+      },
+      {
+        "author": "Josephine Ng",
+        "rating": 5,
+        "text": "Rộng rãi, yên tĩnh, khá nhiều cây xanh và các trò chơi trẻ em giá bình dân. Các khóa học ở đây cũng khá đa dạng. Kiến trúc khá đẹp!",
+        "when": "9 tháng trước"
+      },
+      {
+        "author": "Ben Da",
+        "rating": 5,
+        "text": "Thú thật, mình hơi bất ngờ khi lần đầu ghé qua khu vui chơi trẻ em ở Đà Lạt. Nơi đây khá ấm cúng, không gian tươi sáng và sạch sẽ. Các trò chơi đa dạng từ vận động đến trí tuệ, phù hợp cho mọi độ tuổi. Chú nhân viên cũng nhiệt tình, luôn …",
+        "when": "7 tháng trước"
+      },
+      {
+        "author": "Fiona Doan",
+        "rating": 5,
+        "text": "Nhà thiếu nhi rất an toàn và yên bình cho tụi nhóc được thoả chí chơi đùa.\nNhưng do là khu vui chơi ngoài trời nên chỉ thích hợp cho trẻ em từ 3-12 tuổi và chỉ mở đến tầm 5PM.\nUpdate tháng 4.2019",
+        "when": "7 năm trước"
+      },
+      {
+        "author": "Nhuận Nguyễn",
+        "rating": 2,
+        "text": "⛔⛔ CHÚ Ý\n- Khán đài với các dãy ghế sống ảo đã bị niêm phong khóa cổng khoảng 2 năm nay.\n- Do cô dâu chú rể, khách du lịch, đến đây tham quan chụp hình, ý thức kém, văn …",
+        "when": "6 năm trước"
+      },
+      {
+        "author": "M HOANG",
+        "rating": 1,
+        "text": "Nói chung nên cân nhắc giữa ở đây với khu vui chơi tại siêu thị,  chứ dắt con qua nó đòi phiền. Xàm nhất là khu bán vé trò chơi. Ko phải tiếc tiền mà dịch vụ kém. Mua 20k cho trẻ em , phải mua vé người lớn mà trẻ 3 tuổi chưa biết chơi cha mẹ có muốn mua vé cũng ko mua đc.",
+        "when": "3 năm trước"
+      },
+      {
+        "author": "Nha Khoa TENSHI Đà Lạt",
+        "rating": 5,
+        "text": "Một khu có nhiều hoạt động vui chơi và nơi đào tạo các chương trình bổ ích cho các em thanh thiếu nhi Lâm Đồng.",
+        "when": "một năm trước"
+      },
+      {
+        "author": "SmartHome Đà Lạt",
+        "rating": 5,
+        "text": "Trung tâm văn hóa Thanh thiến niên Đà Lạt trở thành nơi sống ảo của nhiều bạn trẻ có dịp đặt chân đến miền đất mơ màng này. Nếu đến đây, chắc chắn bạn sẽ phải trầm trồ bởi khung cảnh chụp hình đẹp không khác gì trời Tây. …",
+        "when": "9 năm trước"
+      }
+    ],
+    "source": "google-maps"
+  },
+  "pink-valley-da-lat-x1": {
+    "lat": 11.9536367,
+    "lng": 108.3878829,
+    "img": "images/pink-valley-da-lat-x1.jpg",
+    "photos": [
+      "images/pink-valley-da-lat-x1.jpg",
+      "images/pink-valley-da-lat-x1-2.jpg",
+      "images/pink-valley-da-lat-x1-3.jpg",
+      "images/pink-valley-da-lat-x1-4.jpg"
+    ],
+    "phone": "0888620444",
+    "rating": 4.6,
+    "reviews": 850,
+    "comments": [
+      {
+        "author": "Vũ NGọc Thảo Diễm",
+        "rating": 5,
+        "text": "Mình được một cô người Đlat gthieu chỗ này. Giá vé 100k/người có sẵn nước suối và 1 lần chơi zipline + 1 lần chơi xe lượn trên đường ray. Nếu thích dùng các loại nước trà, sữa gạo... thì 120k/người. …",
+        "when": "6 tháng trước"
+      },
+      {
+        "author": "Thanh Thuỳ (Thanh Thuỳ)",
+        "rating": 3,
+        "text": "Giá vé vào kèm một chai nước khoáng 350ml là 100k . Vé đưa mình là đã xé cùi sẵn , hơi nhàu. Trong đây ngoài các luống hoa trồng đang nở rộ thì còn lại đều cũ do thời gian đã lâu . Không gian rộng nhưng kiểu đã lâu ko cải tạo .",
+        "when": "một tháng trước"
+      },
+      {
+        "author": "Ngô Ngọc Huy",
+        "rating": 5,
+        "text": "Giá vé mình đi ngày 21/04 là 120k/người kèm nước tự chọn. Nhìn chung thì ở đây có nhiều điểm không có thuận mắt lắm, với lại kiểu cũng lâu rồi. Mình chỉ vào chơi 2 trò chơi có trong vé mỗi trò được chơi 1 lần. Về phần tàu lượn thì mình thấy …",
+        "when": "2 tháng trước"
+      },
+      {
+        "author": "Trang Phạm",
+        "rating": 5,
+        "text": "Nhóm 5 gia đình của mình 20 người lớn nhỏ vừa từ Pink Valley về. Phải nói là không có gì để chê ạ. Đường đi cũng dễ, lối vào sẽ có 1 đoạn 2 bên đồi thông chill lắm luôn. Giá vé thì 100k-60k bao gồm nc suối hoặc 120k-80k nước tự chọn. Theo …",
+        "when": "7 tháng trước"
+      },
+      {
+        "author": "Chris Tran",
+        "rating": 5,
+        "text": "Pink Valley đáng được nhiều ngừoi biết tới. Nhân viên nhiệt tình, cảnh đẹp, nước pha rất ngon, Zipline và những trò chơi khác đều không giới hạn. Có dịp lần sau dẫn người nhà tới đây chơi.",
+        "when": "một tháng trước"
+      },
+      {
+        "author": "Thanh Lâm Lê",
+        "rating": 5,
+        "text": "Thung Lũng Hồng (Pink Valley) nằm khá gần trung tâm Đà Lạt nên việc di chuyển rất thuận tiện. Nếu đi xe máy thì đường dễ đi, không quá dốc hay khó tìm, còn đi xe hơi cũng thoải mái vì đường rộng và tương đối thông thoáng. Đây là một điểm …",
+        "when": "4 tháng trước"
+      },
+      {
+        "author": "Hiệp Dương",
+        "rating": 4,
+        "text": "Giá vé nước suối là 100k và 120k có nước tự chọn.\nCảnh tương đối đẹp có 2 trò là zipline (đu dây vượt thun lũn) và tàu dằn tốc độ nhanh khá hấp dẫn cho người chưa ăn sáng. …",
+        "when": "2 tháng trước"
+      },
+      {
+        "author": "Trúc Nhi Hoàng Nguyễn",
+        "rating": 5,
+        "text": "Bạn có thể dùng nội dung sau:\n\nPink Valley là điểm đến có không gian đẹp, nhiều hoạt động trải nghiệm hấp dẫn. …",
+        "when": "2 tuần trước"
+      },
+      {
+        "author": "KIM MINH Hoang",
+        "rating": 4,
+        "text": "Nhân viên thân thiện, hỗ trợ nhiệt tình, tạo cảm giác thoải mái khi tham quan.\nGiá vé 120k (bao gồm 1 chai nước suối) mình thấy hợp lý so với những gì được trải nghiệm vào dịp lễ Tết nhất là thời gian chờ tới lượt cho các trò chơi. …",
+        "when": "4 tháng trước"
+      },
+      {
+        "author": "Thi Nguyen",
+        "rating": 4,
+        "text": "Được cái có trò đu dây và tàu lượn. Chứ cảnh nhân tạo nhiều quá, cái hồ cũng nhân tạo luôn, trải bạt dưới rồi bơm nước vô à ko phải hồ thật. Cà phê 35k ly mà dở nha hút 1 hơi là hết. Có lạc đà, ngựa, cừu. Mà thấy cừu ko đc chăm tốt lắm.",
+        "when": "một tháng trước"
+      }
+    ],
+    "source": "google-maps"
+  },
+  "khu-vui-choi-tre-em-happy-kids-coffee-da-l-x1": {
+    "lat": 11.9549504,
+    "lng": 108.4402088,
+    "img": "images/khu-vui-choi-tre-em-happy-kids-coffee-da-l-x1.jpg",
+    "photos": [
+      "images/khu-vui-choi-tre-em-happy-kids-coffee-da-l-x1.jpg",
+      "images/khu-vui-choi-tre-em-happy-kids-coffee-da-l-x1-2.jpg",
+      "images/khu-vui-choi-tre-em-happy-kids-coffee-da-l-x1-3.jpg",
+      "images/khu-vui-choi-tre-em-happy-kids-coffee-da-l-x1-4.jpg"
+    ],
+    "phone": "0333888837",
+    "rating": 4.8,
+    "reviews": 80,
+    "comments": [
+      {
+        "author": "VÕ THỊ NGỌC HÀ (GIÀU TOÀN DIỆN)",
+        "rating": 4,
+        "text": "Quán cafe khu vui chơi trẻ em này sạch sẽ , đồ chơi mới và có nhiều trò chơi phù hợp với các bé nhỏ từ 6tuổi trở xuống nè cả nhà .\nMình rất thích các khối xếp hình logo bự vừa cho bé chơi phát triển trí não rất …",
+        "when": "2 năm trước"
+      },
+      {
+        "author": "Hang Nguyen",
+        "rating": 5,
+        "text": "Quán không gian rộng và sạch sẽ, nhiều đồ chơi cho các bé. Có bàn ngồi chờ và ổ cắm tiện lợi cho phụ huynh.\nNước uống + đồ ăn ngon, giá hợp lý. Một địa điểm nên ghé cho các bạn nhỏ vui …",
+        "when": "một năm trước"
+      },
+      {
+        "author": "R A C H E L 25",
+        "rating": 5,
+        "text": "Không gian dễ thương, sạch sẽ, nhiều mẫu tượng xinh xắn cho bé lựa chọn. Màu an toàn, dễ tô, đầy đủ dụng cụ. Nhân viên thân thiện, hỗ trợ nhiệt tình. Bé nhà mình rất thích, chơi mãi không muốn về!",
+        "when": "một năm trước"
+      },
+      {
+        "author": "Cuong Nguyen Manh",
+        "rating": 5,
+        "text": "Khu vui chơi sạch sẽ. Giá cả phải chăng. Những gđ có bé nhỏ đi du lịch ở đà lạt thì đây cũng là 1 địa điểm cho bé vui chơi",
+        "when": "một năm trước"
+      },
+      {
+        "author": "david giang",
+        "rating": 5,
+        "text": "Quán rộng rãi có chỗ để ô tô, mình khách du lịch ghé dễ tìm vì nằm ở ngay trung tâm thành phố. Giá rẻ, sạch sẽ lắm. Cuối tuần quán còn có chương trình Tặng quà cho bé nữa. Mn nên ghé nha",
+        "when": "một năm trước"
+      },
+      {
+        "author": "Luan Vo",
+        "rating": 4,
+        "text": "Khu trò chơi diện tích không rộng lắm, mình dẫn bé đến vào buổi trưa khoảng 1g, mặc dù có mở quạt nhưng vẫn nóng và hầm, không mát như khu vui chơi khác. Mức độ đầu tư trung bình, đồ chơi hơi cũ, bé nhà mình chơi xíu là chán nên phải chở bé đi tìm khu trò chơi khác.",
+        "when": "Thời gian chỉnh sửa: một năm trước"
+      },
+      {
+        "author": "phuong van",
+        "rating": 5,
+        "text": "Quán không gian rộng và sạch sẽ, nhiều đồ chơi mới cho các bé thoả sức vui đùa, sáng tạo.\nNước uống, đồ ăn ngon, giá hợp lý. …",
+        "when": "một năm trước"
+      },
+      {
+        "author": "Lam Nguyen",
+        "rating": 5,
+        "text": "Quán sạch sẽ, nay có nhiều trò chơi mới lắm. Rộng rãi lắm mn cho con ghé ok nha, đồ uống ngon với nhiều lắm",
+        "when": "một năm trước"
+      },
+      {
+        "author": "Tồ Vân",
+        "rating": 5,
+        "text": "Kvc rộng rãi, nhiều đồ chơi thú vị. Con mình chơi cả ngày không muốn về, đồ ăn nước uống rất ngon ạ",
+        "when": "Thời gian chỉnh sửa: một năm trước"
+      },
+      {
+        "author": "Hoàng Anh Phạm Thị",
+        "rating": 5,
+        "text": "Sáng nay mình ghé khách đông nghịt luôn. Bọn trẻ con đùa vui lắm. Nhạc hay quán rộng rãi sạch sẽ lắm. Thích món sinh tố việt quất chỗ này làm nhiều giá tốt với ngon hơn mấy chỗ khác mình đi. Cho 5 sao phục vụ dễ thương nhiệt tình trời mưa tầm tã che ô cho khách ra tận xe ô tô lun",
+        "when": "một năm trước"
+      }
+    ],
+    "source": "google-maps"
+  },
+  "dalat-minsk-adventure-tour-trai-nghiem-da--x1": {
+    "lat": 11.953261,
+    "lng": 108.4241291,
+    "img": "images/dalat-minsk-adventure-tour-trai-nghiem-da--x1.jpg",
+    "photos": [
+      "images/dalat-minsk-adventure-tour-trai-nghiem-da--x1.jpg",
+      "images/dalat-minsk-adventure-tour-trai-nghiem-da--x1-2.jpg",
+      "images/dalat-minsk-adventure-tour-trai-nghiem-da--x1-3.jpg",
+      "images/dalat-minsk-adventure-tour-trai-nghiem-da--x1-4.jpg"
+    ],
+    "phone": "0965637767",
+    "rating": 4.9,
+    "reviews": 56,
+    "comments": [
+      {
+        "author": "Hiền Trần",
+        "rating": 5,
+        "text": "“một trải nghiệm rất đáng nhớ với Dalat Minsk Adventure\". Lần đầu mình đi tour là vào năm 2020, cũng là lần đầu thử cảm giác cắm trại qua đêm. Anh Trung đã recommend cho tụi mình một cung đường dễ đi và cực kỳ phù hợp cho người mới. …",
+        "when": "một tháng trước"
+      },
+      {
+        "author": "Malaki White",
+        "rating": 5,
+        "text": "Đã đồng hành cùng Dalat Minsk Adventure nhiều lần, nhưng chuyến hạ trại ở khu vực cây thông cô đơn chắc chắn là kỷ niệm làm mình nhớ nhất. Cả hành trình không hề có chút mệt mỏi nào, ngược lại cực kỳ \"chill\" và tràn ngập niềm vui. Cảm giác …",
+        "when": "một tháng trước"
+      },
+      {
+        "author": "Vi Pham",
+        "rating": 5,
+        "text": "Team đi với Dalat Minsk rất nhiều lần, rất vui, anh chủ tour rất thân thiện, nhóm mình đi giống như anh em trong gia đình, rất thân thiện, mỗi lần teams mình lên đà lạt là nhớ tới anh chủ dễ thương này, và book tour",
+        "when": "một tháng trước"
+      },
+      {
+        "author": "khôi đình",
+        "rating": 5,
+        "text": "lần đầu trải nghiệm camping mình thấy ae bên đây quá nhiệt tình\nview đẹp, thức  ăn ngon, khi mình ngủ ae vẫn thay ca trực đêm......tuyệt vời",
+        "when": "một tháng trước"
+      },
+      {
+        "author": "Thu Quyên",
+        "rating": 5,
+        "text": "10đ cho cảnh đẹp, 10đ cho chất lượng dịch vụ, 💯 điểm cho anh tourguide siêu nhiệt tình và tinh tế luôn.\nHai ngày trải nghiệm tour của DMA mình được ngắm cảnh đẹp, được ăn ngon, nghe …",
+        "when": "một năm trước"
+      },
+      {
+        "author": "Phi Cao",
+        "rating": 5,
+        "text": "team tụi mình đã đi nhiều lần và mỗi lần đều là 1 trải nghiệm tuyệt vời khi đến với Đà Lạt Minsk, tụi mình đc trải nghiệm Đà Lạt 1 cách khác lạ gần gũi nhất, như anh em gia đình là cảm giác mà mọi người trong team đem lại.",
+        "when": "8 tháng trước"
+      },
+      {
+        "author": "Ngô Hoàng Hoài An",
+        "rating": 5,
+        "text": "Mình vừa trải nghiệm tour thác Phát Chi - Cầu Đất của nhà #DM. Một trải nghiệm vô cùng thú vị... Băng rừng, lội suối, leo núi... nói chung là bao phê. Tour với độ khó trung bình nên nam hay nữ đều có thể trải nghiệm được luôn ạ! Các anh dẫn …",
+        "when": "một năm trước"
+      },
+      {
+        "author": "0733_Phạm Võ Quốc Tín",
+        "rating": 5,
+        "text": "Mình đá có dịp được trãi nghiệm tour camping đồi núi và tại đà lạt cùng với team\nTeam Dalat mink rất tâm huyết nha mọi người, chơi và rất nhiệt tình vs các bạn …",
+        "when": "một năm trước"
+      },
+      {
+        "author": "Nguyễn Chánh Công",
+        "rating": 5,
+        "text": "Một trong những tour camping trải nghiệm đáng để đi nhất khi đến Đà Lạt. Khung cảnh thiên nhiên đẹp mê hồn, các anh em dẫn tour đẹp trai vui tính, nấu ăn ngon, chu đáo tận tình. Đặc biệt có món cá hồi áp chảo và beefsteak ngon nhức nách như …",
+        "when": "một năm trước"
+      },
+      {
+        "author": "Horny Unicorn",
+        "rating": 5,
+        "text": "Best camping service in town ! Chưa bao giờ mà mình đi một tour camping tuyệt vời đến vậy. Anh chủ take care siêu tốt. Chỗ vị trí camping thì quá đẹp hoà hợp với thiên nhiên. Giá cả bao ăn luôn thì quá hợp lý rùiiii",
+        "when": "Thời gian chỉnh sửa: một năm trước"
+      }
+    ],
+    "source": "google-maps"
+  },
+  "little-town-cua-hang-qua-tang-luu-niem-x1": {
+    "lat": 11.9430219,
+    "lng": 108.4353129,
+    "img": "images/little-town-cua-hang-qua-tang-luu-niem-x1.jpg",
+    "photos": [
+      "images/little-town-cua-hang-qua-tang-luu-niem-x1.jpg",
+      "images/little-town-cua-hang-qua-tang-luu-niem-x1-2.jpg",
+      "images/little-town-cua-hang-qua-tang-luu-niem-x1-3.jpg",
+      "images/little-town-cua-hang-qua-tang-luu-niem-x1-4.jpg"
+    ],
+    "phone": "0964851540",
+    "rating": 4.9,
+    "reviews": 1122,
+    "comments": [
+      {
+        "author": "anh tuyet",
+        "rating": 5,
+        "text": "Post mình có giá cụ thể từng món ở đây. Mn xem tham khảo nhé. Từ giá nhỏ đến giá to bự thoải mái chọn làm quà vừa túi tiền tất cả mọi người. Đa dạng tập trung nhiêu . Cửa hàng 2 gian rộng rãi khá nhiều đồ thủ công.......",
+        "when": "7 tháng trước"
+      },
+      {
+        "author": "Trường Nguyễn",
+        "rating": 5,
+        "text": "quán xinh nhân viên dễ thưn đồ trong rất đáng yêu nha mng",
+        "when": "4 tháng trước"
+      },
+      {
+        "author": "Minh Tuấn Huỳnh",
+        "rating": 2,
+        "text": "Tôi đã mua 1 figure để kỉ niệm Đà lạt Nhưng cảm giác nhưng lại trúng hàng lỗi bị trầy nhưng shop kh cho đổi lại",
+        "when": "4 tháng trước"
+      },
+      {
+        "author": "Hien Nguyen",
+        "rating": 5,
+        "text": "Tiệm dễ thương, nhiều mặt hàng lưu niệm teen. Giá cũng phù hợp. Ngay gần khu Hòa Bình và bánh mì Liên Hoa nên thuận tiện ghé.",
+        "when": "10 tháng trước"
+      },
+      {
+        "author": "Hoàng Linh",
+        "rating": 5,
+        "text": "Nhân viên dễ thương, các mặt hàng độc lạ và đáng yêu",
+        "when": "5 tháng trước"
+      },
+      {
+        "author": "Mya Kaming",
+        "rating": 5,
+        "text": "Đây là cửa hàng bán đồ lưu niệm ngay trung tâm.\nTrang trí lại ấm áp.\nNhiều mặt hàng lưu niệm để lựa chọn. …",
+        "when": "một năm trước"
+      },
+      {
+        "author": "Khánh Linh Thái",
+        "rating": 5,
+        "text": "Little town là một cửa tiệm bán đồ lưu niệm được rất xinh.\n\nNhiều series Pop mart mà ở store không có nhưng ở đây có, như Hirono. …",
+        "when": "11 tháng trước"
+      },
+      {
+        "author": "Cong Minh Doan",
+        "rating": 5,
+        "text": "Cửa hàng bán đồ lưu niệm rất đẹp và dễ thương. Có nhiều mô hình giá cả phải chăng. Đối với ng ko quá chuyên thì như vậy là quá đủ!",
+        "when": "một năm trước"
+      },
+      {
+        "author": "Hiền Nhi",
+        "rating": 5,
+        "text": "Ai thích blind box, quà lưu niệm .... thì nên ghé ở đây nha, mình mua ở đây nhiều lần rùi, nhân viên thân thiện, dễ thương, các sản phẩm cũng mới, theo trend và đẹp lắm ạ. 100 điểm",
+        "when": "một năm trước"
+      },
+      {
+        "author": "Melanie Chan",
+        "rating": 5,
+        "text": "Cửa tiệm gần ở chợ nên nổi bật và dễ thu hút những vị khách thích những đồ lưu niệm đáng yêu như mình. Là một nơi có thể đến xem xem và chọn những món đồ linh tinh về làm quà cho bạn bè. Nhưng mà với mình thì mình thích nhất là quầy tinh …",
+        "when": "một năm trước"
+      }
+    ],
+    "source": "google-maps"
+  },
+  "tiem-dieu-nho-be-cua-hang-qua-luu-niem-da--x1": {
+    "lat": 11.9434469,
+    "lng": 108.4350756,
+    "img": "images/tiem-dieu-nho-be-cua-hang-qua-luu-niem-da--x1.jpg",
+    "photos": [
+      "images/tiem-dieu-nho-be-cua-hang-qua-luu-niem-da--x1.jpg",
+      "images/tiem-dieu-nho-be-cua-hang-qua-luu-niem-da--x1-2.jpg",
+      "images/tiem-dieu-nho-be-cua-hang-qua-luu-niem-da--x1-3.jpg",
+      "images/tiem-dieu-nho-be-cua-hang-qua-luu-niem-da--x1-4.jpg"
+    ],
+    "rating": 4.9,
+    "reviews": 7,
+    "comments": [
+      {
+        "author": "Nguyễn Đỗ Thùy Linh",
+        "rating": 5,
+        "text": "nhiều mặt hàng dễ thương, giá cả hợp lý",
+        "when": "một tháng trước"
+      },
+      {
+        "author": "Trinh Trinh",
+        "rating": 5,
+        "text": "Nhiều đỗ dễ thương lắm lận, giá cũng oki lắm luôn",
+        "when": "một tháng trước"
+      },
+      {
+        "author": "Yến Lý",
+        "rating": 5,
+        "text": "Đồ lưu niệm đa dạng, không gian decor siêu xinh xắn lun",
+        "when": "một tháng trước"
+      },
+      {
+        "author": "MidJourney",
+        "rating": 4,
+        "text": "Những đồ lưu niệm thủ công Việt kool",
+        "when": "một tuần trước"
+      },
+      {
+        "author": "An Khánh",
+        "rating": 5,
+        "text": "Đồ zt, rẻ",
+        "when": "một tháng trước"
+      },
+      {
+        "author": "Toan Chu",
+        "rating": 5,
+        "text": "Tiệm đẹp nhiều đồ dễ thương giá cả cũng rẻ,",
+        "when": "một tháng trước"
+      },
+      {
+        "author": "Huy Vũ",
+        "rating": 5,
+        "text": "",
+        "when": "một tháng trước"
+      }
+    ],
+    "source": "google-maps"
+  },
+  "quoa-dac-san-da-lat-x1": {
+    "lat": 11.9426927,
+    "lng": 108.4357825,
+    "img": "images/quoa-dac-san-da-lat-x1.jpg",
+    "photos": [
+      "images/quoa-dac-san-da-lat-x1.jpg",
+      "images/quoa-dac-san-da-lat-x1-2.jpg",
+      "images/quoa-dac-san-da-lat-x1-3.jpg",
+      "images/quoa-dac-san-da-lat-x1-4.jpg"
+    ],
+    "phone": "0898981589",
+    "rating": 5,
+    "reviews": 235,
+    "comments": [
+      {
+        "author": "Yến Phạm",
+        "rating": 5,
+        "text": "Đặc sản ngon phong phú giá cả hợp lí , nhân viên nhiệt tình chu đáo vui vẻ , một trải nghiệm đáng giá.",
+        "when": "một tháng trước"
+      },
+      {
+        "author": "Thuy Duong Nguyen",
+        "rating": 5,
+        "text": "Nhân viên thân thiện, sản phẩm đẹp và chất lượng, rất lý tưởng để du khách ghé thăm và mua quà tặng",
+        "when": "một tháng trước"
+      },
+      {
+        "author": "nghi nguyen",
+        "rating": 5,
+        "text": "Sản phẩm chất lượng , nhân viên nhiệt tình dễ thương",
+        "when": "3 tuần trước"
+      },
+      {
+        "author": "Quynh Mi Nguyen",
+        "rating": 5,
+        "text": "Ngon lắm nên minh mua về làm quà",
+        "when": "3 tuần trước"
+      },
+      {
+        "author": "Trần Hoàng Lin",
+        "rating": 5,
+        "text": "Sản phẩm chất lượng\nNhân viên thân thiện",
+        "when": "4 tuần trước"
+      },
+      {
+        "author": "Bùi Thị Mai",
+        "rating": 5,
+        "text": "Đồ ăn đa dạng ; uy tín",
+        "when": "2 tuần trước"
+      },
+      {
+        "author": "Ngọc Khánh Võ",
+        "rating": 5,
+        "text": "Ngon lắm ạ mình mua hoài",
+        "when": "2 tuần trước"
+      },
+      {
+        "author": "Thanh Phạm",
+        "rating": 5,
+        "text": "Rất ngon và lạ",
+        "when": "4 tuần trước"
+      },
+      {
+        "author": "Liên Mai (Ty)",
+        "rating": 5,
+        "text": "Rất nhiều món để lựa chọn. Ngon. Giá cả hợp lí. Ngay trung tâm.",
+        "when": "3 tháng trước"
+      },
+      {
+        "author": "yen nguyen",
+        "rating": 5,
+        "text": "Đã mua nhiều lần. ngon nha",
+        "when": "3 tuần trước"
+      }
+    ],
+    "source": "google-maps"
+  },
+  "goc-cua-nho-cua-hang-qua-tang-luu-niem-da--x1": {
+    "lat": 11.9432484,
+    "lng": 108.4354454,
+    "img": "images/goc-cua-nho-cua-hang-qua-tang-luu-niem-da--x1.jpg",
+    "photos": [
+      "images/goc-cua-nho-cua-hang-qua-tang-luu-niem-da--x1.jpg",
+      "images/goc-cua-nho-cua-hang-qua-tang-luu-niem-da--x1-2.jpg",
+      "images/goc-cua-nho-cua-hang-qua-tang-luu-niem-da--x1-3.jpg",
+      "images/goc-cua-nho-cua-hang-qua-tang-luu-niem-da--x1-4.jpg"
+    ],
+    "rating": 5,
+    "reviews": 35,
+    "comments": [
+      {
+        "author": "Cam Huynh",
+        "rating": 5,
+        "text": "Pin bên tiệm này nhiều mẫu , tha hồ lựa mng ạ, giá ổn áp nữa. Lần sau nhất định mình sẽ ghé lại nè 🫶🏻 …",
+        "when": "7 tháng trước"
+      },
+      {
+        "author": "Ngocanh Nguyen",
+        "rating": 5,
+        "text": "Giỏ đan bằng len và cói rất đẹp",
+        "when": "2 tháng trước"
+      },
+      {
+        "author": "Như Vũ",
+        "rating": 5,
+        "text": "dthww giá cả hợp lý có dịp lần sau sẽ ghé",
+        "when": "7 tháng trước"
+      },
+      {
+        "author": "Tuấn Phạm Anh",
+        "rating": 5,
+        "text": "Shop dễ thương, có nhiều đồ xinh lắm",
+        "when": "7 tháng trước"
+      },
+      {
+        "author": "Nguyên Đăng",
+        "rating": 5,
+        "text": "Đồ lưu niệm ở đây dễ thương lắm nha",
+        "when": "7 tháng trước"
+      },
+      {
+        "author": "Huy Nguyễn",
+        "rating": 5,
+        "text": "đẹp nhiều mẫu mã giá cả hợp lý",
+        "when": "7 tháng trước"
+      },
+      {
+        "author": "Van Nguyen",
+        "rating": 5,
+        "text": "Mình vừa ghé shop hôm qua,shop dễ thương,có nhiều món cute lắm,giá cũng OK nữa!",
+        "when": "11 tháng trước"
+      },
+      {
+        "author": "Thái Trần Phương",
+        "rating": 5,
+        "text": "Giá ổn, hợp lí, nhân viên dễ thương,tư vấn rất nhiệt tình, nhiều quà để lựa chọn",
+        "when": "7 tháng trước"
+      },
+      {
+        "author": "0851 팜 탄 뛰엗풍",
+        "rating": 5,
+        "text": "tiệm dễ thương, nhiều thứ để lựa chọn làm  quà. nhân viên nhiệt tình ^^",
+        "when": "7 tháng trước"
+      },
+      {
+        "author": "Jenny Ho",
+        "rating": 5,
+        "text": "Mình ghé tiệm giữa đầu tháng 8, cùng các cháu mình. Shop dễ thương và hàng hoá đa dạng.",
+        "when": "10 tháng trước"
+      }
+    ],
+    "source": "google-maps"
+  },
+  "cua-hang-qua-luu-niem-da-lat-x1": {
+    "lat": 11.9430219,
+    "lng": 108.4353129,
+    "img": "images/cua-hang-qua-luu-niem-da-lat-x1.jpg",
+    "photos": [
+      "images/cua-hang-qua-luu-niem-da-lat-x1.jpg",
+      "images/cua-hang-qua-luu-niem-da-lat-x1-2.jpg",
+      "images/cua-hang-qua-luu-niem-da-lat-x1-3.jpg",
+      "images/cua-hang-qua-luu-niem-da-lat-x1-4.jpg"
+    ],
+    "phone": "0964851540",
+    "rating": 4.9,
+    "reviews": 1122,
+    "comments": [
+      {
+        "author": "anh tuyet",
+        "rating": 5,
+        "text": "Post mình có giá cụ thể từng món ở đây. Mn xem tham khảo nhé. Từ giá nhỏ đến giá to bự thoải mái chọn làm quà vừa túi tiền tất cả mọi người. Đa dạng tập trung nhiêu . Cửa hàng 2 gian rộng rãi khá nhiều đồ thủ công.......",
+        "when": "7 tháng trước"
+      },
+      {
+        "author": "Trường Nguyễn",
+        "rating": 5,
+        "text": "quán xinh nhân viên dễ thưn đồ trong rất đáng yêu nha mng",
+        "when": "4 tháng trước"
+      },
+      {
+        "author": "Minh Tuấn Huỳnh",
+        "rating": 2,
+        "text": "Tôi đã mua 1 figure để kỉ niệm Đà lạt Nhưng cảm giác nhưng lại trúng hàng lỗi bị trầy nhưng shop kh cho đổi lại",
+        "when": "4 tháng trước"
+      },
+      {
+        "author": "Hien Nguyen",
+        "rating": 5,
+        "text": "Tiệm dễ thương, nhiều mặt hàng lưu niệm teen. Giá cũng phù hợp. Ngay gần khu Hòa Bình và bánh mì Liên Hoa nên thuận tiện ghé.",
+        "when": "10 tháng trước"
+      },
+      {
+        "author": "Hoàng Linh",
+        "rating": 5,
+        "text": "Nhân viên dễ thương, các mặt hàng độc lạ và đáng yêu",
+        "when": "5 tháng trước"
+      },
+      {
+        "author": "Mya Kaming",
+        "rating": 5,
+        "text": "Đây là cửa hàng bán đồ lưu niệm ngay trung tâm.\nTrang trí lại ấm áp.\nNhiều mặt hàng lưu niệm để lựa chọn. …",
+        "when": "một năm trước"
+      },
+      {
+        "author": "Khánh Linh Thái",
+        "rating": 5,
+        "text": "Little town là một cửa tiệm bán đồ lưu niệm được rất xinh.\n\nNhiều series Pop mart mà ở store không có nhưng ở đây có, như Hirono. …",
+        "when": "11 tháng trước"
+      },
+      {
+        "author": "Cong Minh Doan",
+        "rating": 5,
+        "text": "Cửa hàng bán đồ lưu niệm rất đẹp và dễ thương. Có nhiều mô hình giá cả phải chăng. Đối với ng ko quá chuyên thì như vậy là quá đủ!",
+        "when": "một năm trước"
+      },
+      {
+        "author": "Hiền Nhi",
+        "rating": 5,
+        "text": "Ai thích blind box, quà lưu niệm .... thì nên ghé ở đây nha, mình mua ở đây nhiều lần rùi, nhân viên thân thiện, dễ thương, các sản phẩm cũng mới, theo trend và đẹp lắm ạ. 100 điểm",
+        "when": "một năm trước"
+      },
+      {
+        "author": "Melanie Chan",
+        "rating": 5,
+        "text": "Cửa tiệm gần ở chợ nên nổi bật và dễ thu hút những vị khách thích những đồ lưu niệm đáng yêu như mình. Là một nơi có thể đến xem xem và chọn những món đồ linh tinh về làm quà cho bạn bè. Nhưng mà với mình thì mình thích nhất là quầy tinh …",
+        "when": "một năm trước"
+      }
+    ],
+    "source": "google-maps"
+  },
+  "tiem-qua-thong-x1": {
+    "lat": 11.9448536,
+    "lng": 108.4358062,
+    "img": "images/tiem-qua-thong-x1.jpg",
+    "photos": [
+      "images/tiem-qua-thong-x1.jpg",
+      "images/tiem-qua-thong-x1-2.jpg",
+      "images/tiem-qua-thong-x1-3.jpg",
+      "images/tiem-qua-thong-x1-4.jpg"
+    ],
+    "phone": "0918271248",
+    "rating": 4.7,
+    "reviews": 31,
+    "comments": [
+      {
+        "author": "Ân Thiên",
+        "rating": 2,
+        "text": "tiệm nhỏ xinh dễ thương giá cả hạt dẻ nhma mình mua cả gần 900k mà không có bill cũng như quà tặng hay giảm giá gì cả, nhân viên cũng kh nhiệt tình cho lắm.Mong tiệm cải thiện",
+        "when": "5 tháng trước"
+      },
+      {
+        "author": "Lê Thu Minh",
+        "rating": 5,
+        "text": "Tiệm nhỏ nhắn, xinh xắn. Nhiều vật phẩm, quà lưu niệm đẹp, giá cả rõ ràng.\nĐiểm mình thấy hơi bất tiện là tiệm không xuất hoá đơn.",
+        "when": "11 tháng trước"
+      },
+      {
+        "author": "Văn Sâm Lê",
+        "rating": 5,
+        "text": "Sản phẩm chất lượng, đa dạng, nhân viên dễ thương\nNên mua ạ😍 …",
+        "when": "2 tháng trước"
+      },
+      {
+        "author": "Khâm Lê",
+        "rating": 5,
+        "text": "Quà lưu niệm đa dạng ,chất lượng và phục vụ nhiệt tình quá ạ",
+        "when": "2 tháng trước"
+      },
+      {
+        "author": "Minhtien Võ",
+        "rating": 5,
+        "text": "Khi ghé \"Tiệm Quả Thông\" bạn có thể rinh về nhà nhiều món đồ yêu thích vì ở đây có rất nhiều món siêu cute luôn. Yêu lắm tiệm này.",
+        "when": "4 năm trước"
+      },
+      {
+        "author": "Easy share",
+        "rating": 5,
+        "text": "Quán nhỏ nhắn\nXinh xắn\nBán vớ, găng, các mặt hàng decor\nGiá du lịch",
+        "when": "3 năm trước"
+      },
+      {
+        "author": "Bui Nguyen An (Annie)",
+        "rating": 5,
+        "text": "Tiệm lifestyle dth có nhiều ý tưởng mua quà cho tất cả mọi người. Nếu muốn thoải mái mua quà thì nên đem tí tiền.",
+        "when": "3 năm trước"
+      },
+      {
+        "author": "Happy Pasta",
+        "rating": 5,
+        "text": "21/02/2025\nTiệm nhỏ xinh với nhiều quà lưu niệm dễ thương, có thể mua làm quà tặng khi du lịch Đà Lạt về. Mình thích ku Shin nên có mua được vài mẫu móc khóa khá cute.",
+        "when": "một năm trước"
+      },
+      {
+        "author": "Thanh Trâm Nguyễn",
+        "rating": 5,
+        "text": "Tiệm nhiều đồ dễ thương dễ lựa, gần trung tâm nữa, lần sau nhất định sẽ ghé",
+        "when": "4 năm trước"
+      },
+      {
+        "author": "Túnn",
+        "rating": 5,
+        "text": "Dù đã về biên quà nhưng toi đã luỵ đl và luỵ cả chiếc quán này 🥺\nCó dịp sẽ quay trở lại ạ. …",
+        "when": "một năm trước"
+      }
+    ],
+    "source": "google-maps"
+  },
+  "shop-qua-tang-hang-doc-x1": {
+    "lat": 11.9430219,
+    "lng": 108.4353129,
+    "img": "images/shop-qua-tang-hang-doc-x1.jpg",
+    "photos": [
+      "images/shop-qua-tang-hang-doc-x1.jpg",
+      "images/shop-qua-tang-hang-doc-x1-2.jpg",
+      "images/shop-qua-tang-hang-doc-x1-3.jpg",
+      "images/shop-qua-tang-hang-doc-x1-4.jpg"
+    ],
+    "phone": "0964851540",
+    "rating": 4.9,
+    "reviews": 1122,
+    "comments": [
+      {
+        "author": "anh tuyet",
+        "rating": 5,
+        "text": "Post mình có giá cụ thể từng món ở đây. Mn xem tham khảo nhé. Từ giá nhỏ đến giá to bự thoải mái chọn làm quà vừa túi tiền tất cả mọi người. Đa dạng tập trung nhiêu . Cửa hàng 2 gian rộng rãi khá nhiều đồ thủ công.......",
+        "when": "7 tháng trước"
+      },
+      {
+        "author": "Trường Nguyễn",
+        "rating": 5,
+        "text": "quán xinh nhân viên dễ thưn đồ trong rất đáng yêu nha mng",
+        "when": "4 tháng trước"
+      },
+      {
+        "author": "Minh Tuấn Huỳnh",
+        "rating": 2,
+        "text": "Tôi đã mua 1 figure để kỉ niệm Đà lạt Nhưng cảm giác nhưng lại trúng hàng lỗi bị trầy nhưng shop kh cho đổi lại",
+        "when": "4 tháng trước"
+      },
+      {
+        "author": "Hien Nguyen",
+        "rating": 5,
+        "text": "Tiệm dễ thương, nhiều mặt hàng lưu niệm teen. Giá cũng phù hợp. Ngay gần khu Hòa Bình và bánh mì Liên Hoa nên thuận tiện ghé.",
+        "when": "10 tháng trước"
+      },
+      {
+        "author": "Hoàng Linh",
+        "rating": 5,
+        "text": "Nhân viên dễ thương, các mặt hàng độc lạ và đáng yêu",
+        "when": "5 tháng trước"
+      },
+      {
+        "author": "Mya Kaming",
+        "rating": 5,
+        "text": "Đây là cửa hàng bán đồ lưu niệm ngay trung tâm.\nTrang trí lại ấm áp.\nNhiều mặt hàng lưu niệm để lựa chọn. …",
+        "when": "một năm trước"
+      },
+      {
+        "author": "Khánh Linh Thái",
+        "rating": 5,
+        "text": "Little town là một cửa tiệm bán đồ lưu niệm được rất xinh.\n\nNhiều series Pop mart mà ở store không có nhưng ở đây có, như Hirono. …",
+        "when": "11 tháng trước"
+      },
+      {
+        "author": "Cong Minh Doan",
+        "rating": 5,
+        "text": "Cửa hàng bán đồ lưu niệm rất đẹp và dễ thương. Có nhiều mô hình giá cả phải chăng. Đối với ng ko quá chuyên thì như vậy là quá đủ!",
+        "when": "một năm trước"
+      },
+      {
+        "author": "Hiền Nhi",
+        "rating": 5,
+        "text": "Ai thích blind box, quà lưu niệm .... thì nên ghé ở đây nha, mình mua ở đây nhiều lần rùi, nhân viên thân thiện, dễ thương, các sản phẩm cũng mới, theo trend và đẹp lắm ạ. 100 điểm",
+        "when": "một năm trước"
+      },
+      {
+        "author": "Melanie Chan",
+        "rating": 5,
+        "text": "Cửa tiệm gần ở chợ nên nổi bật và dễ thu hút những vị khách thích những đồ lưu niệm đáng yêu như mình. Là một nơi có thể đến xem xem và chọn những món đồ linh tinh về làm quà cho bạn bè. Nhưng mà với mình thì mình thích nhất là quầy tinh …",
+        "when": "một năm trước"
+      }
+    ],
+    "source": "google-maps"
+  },
+  "huong-vi-da-lat-dac-san-da-lat-x1": {
+    "lat": 11.9405779,
+    "lng": 108.4378212,
+    "img": "images/huong-vi-da-lat-dac-san-da-lat-x1.jpg",
+    "photos": [
+      "images/huong-vi-da-lat-dac-san-da-lat-x1.jpg",
+      "images/huong-vi-da-lat-dac-san-da-lat-x1-2.jpg",
+      "images/huong-vi-da-lat-dac-san-da-lat-x1-3.jpg",
+      "images/huong-vi-da-lat-dac-san-da-lat-x1-4.jpg"
+    ],
+    "phone": "0886218044",
+    "rating": 4.3,
+    "reviews": 165,
+    "comments": [
+      {
+        "author": "Thu Nguyen",
+        "rating": 5,
+        "text": "nhiều loại hoa, nhân viên tư vấn nhiệt tình lắm luôn",
+        "when": "3 tháng trước"
+      },
+      {
+        "author": "Đinh Trọng Thanh Đinh",
+        "rating": 5,
+        "text": "Giữa lòng Đà Lạt mộng mơ, có một tiệm hoa nhỏ xinh mà bước chân vào là như lạc giữa khu vườn cổ tích. Mỗi bông hoa ở đây đều tươi tắn, rực rỡ và được chăm chút tỉ mỉ, khiến không gian vừa thơm ngát vừa ngập tràn sắc màu. Không chỉ đẹp ở …",
+        "when": "9 tháng trước"
+      },
+      {
+        "author": "lin Nguyễn",
+        "rating": 5,
+        "text": "quan ăn ngon bình dân bo rẻ cho bạn 5 sao nhé lần sau sẽ ghé ủng hộ",
+        "when": "một tháng trước"
+      },
+      {
+        "author": "phan duc the",
+        "rating": 5,
+        "text": "Hoa rất đẹp, vị trí cửa hàng trung tâm",
+        "when": "6 tháng trước"
+      },
+      {
+        "author": "NGỌC TRÂM NGUYỄN",
+        "rating": 5,
+        "text": "Mình chỉ thích mua cây và hoa ở đây\nCây chơi rất bền\nHo đẹp và cắm tươi lâu …",
+        "when": "9 tháng trước"
+      },
+      {
+        "author": "Hannah Le",
+        "rating": 5,
+        "text": "Mình hay tìm mua những chậu sống đời ở đây. Giá phải chăng và xinh xắn. Rất phù hợp làm quà tặng\nKhông gian bài trí gọn gàng và có giá rõ ràng để khách dễ lựa chọn\nBãi xe rộng",
+        "when": "một năm trước"
+      },
+      {
+        "author": "Linh Thùy",
+        "rating": 1,
+        "text": "Hôm 02/12 mình có đi vô mua hoa tặng sinh nhật thì có để ý bó hồng vàng. Nhờ nhân viên gói hoa giùm đc báo giá tiền công 40k. Sau đó mình thấy có thêm bông bi, giá bông bi 45k, mình muốn gói chung với bó hồng vàng thì được báo là nếu bó …",
+        "when": "một năm trước"
+      },
+      {
+        "author": "Quân Minh",
+        "rating": 5,
+        "text": "Một nơi tuyệt vời khi bạn muốn tìm hiểu hoặc mua các loại hoa. Nơi đây không chỉ là cửa hàng mà còn là nơi để check-in, giao lưu và thư giãn thật chill!",
+        "when": "một năm trước"
+      },
+      {
+        "author": "Dinh Thanh Tam",
+        "rating": 4,
+        "text": "Vị trí ngay trung tâm chợ nên dễ tìm, dễ mua.\nHoa chậu cũng khá đa dạng và trang trí dễ thương, lịch sự, phù hợp để mua biếu tặng người thân, bạn bè!",
+        "when": "5 năm trước"
+      },
+      {
+        "author": "Web Da Lat",
+        "rating": 5,
+        "text": "Dalat Hasfarm là một trong những công ty hoa lớn nhất tại Đà Lạt. Showroom nằm ngay vị trí trung tầm thành phố, gần chợ Đà Lạt nên rất thuận tiện. Sản phẩm đa dạng, giá cả cũng ổn.",
+        "when": "3 năm trước"
+      }
+    ],
+    "source": "google-maps"
+  },
+  "dac-san-da-lat-bazan-x1": {
+    "lat": 11.9437497,
+    "lng": 108.4405684,
+    "img": "images/dac-san-da-lat-bazan-x1.jpg",
+    "photos": [
+      "images/dac-san-da-lat-bazan-x1.jpg",
+      "images/dac-san-da-lat-bazan-x1-2.jpg",
+      "images/dac-san-da-lat-bazan-x1-3.jpg",
+      "images/dac-san-da-lat-bazan-x1-4.jpg"
+    ],
+    "phone": "0786481088",
+    "rating": 4.6,
+    "reviews": 14,
+    "comments": [
+      {
+        "author": "Châu Quyên Nguyễn",
+        "rating": 5,
+        "text": "Mình đi Đà Lạt thấy chỗ này nên ghé mua luôn. Ăn thử xong ngon quá.",
+        "when": "5 tháng trước"
+      },
+      {
+        "author": "Hạnh Trần Thị Mỹ",
+        "rating": 5,
+        "text": "Shop bán đa dạng mặt hàng sấy khô, nông sản Đà Lạt. Giá cả so với Langfarm và Lata’s Đà Lạt thì rẻ hơn một ít.\nỞ đây có một món mình rất thích là Thẻ gừng và Thẻ Nghệ sấy. Ăn khá là ngon, ấm bụng và bổ dưỡng. Mua về làm quà cho người lớn tuổi vô cùng phù hợp",
+        "when": "một năm trước"
+      },
+      {
+        "author": "Thảo Đặng",
+        "rating": 5,
+        "text": "Đồ rất ngon, rcm mọi người mứt quả atiso và cam sấy mật ong, mấy món sấy thấy cái nào cũng okela. Đặc biệt nhất là nhân viên rất nhiệt tình, mình rất thích và hài lòng với thái độ của các bạn và quá trình sử dụng dịch vụ cũng như sau khi mua hàng tại đây.",
+        "when": "4 tháng trước"
+      },
+      {
+        "author": "Linh Giang Nguyễn",
+        "rating": 5,
+        "text": "Quán đa dạng đặc sản, giá cả phải chăng, được ăn thử trước khi mua. Anh chủ quán và nhân viên rất nhiệt tình. Diện tích quán nhỏ hơn so với mình nghĩ. Nói chung là nên ghé thăm.",
+        "when": "2 năm trước"
+      },
+      {
+        "author": "Phương Trần",
+        "rating": 5,
+        "text": "Sản phẩm đa dạng, giá cả hợp lí",
+        "when": "một năm trước"
+      },
+      {
+        "author": "nghia vo",
+        "rating": 5,
+        "text": "Anh Chủ Tiệm niềm nở, nhiệt tình.\nNhân viên chu đáo, cẩn thận\nSản phẩm đa dạng, bao bì in ấn đẹp và đặc biệt là giá cả phải chăng.\nRất hài lòng  và sẽ quay lại cùng bạn bè.",
+        "when": "2 năm trước"
+      },
+      {
+        "author": "Hello",
+        "rating": 5,
+        "text": "Đặc sản giá rẻ, uy tín, chất lượng nha, có món yaua ngon nhức náck ở đây cũng okla lắm",
+        "when": "Thời gian chỉnh sửa: một năm trước"
+      },
+      {
+        "author": "Thao Pham",
+        "rating": 5,
+        "text": "Giá cả ok",
+        "when": "11 tháng trước"
+      },
+      {
+        "author": "TienssDat",
+        "rating": 5,
+        "text": "Chất lượng tuyệt vời",
+        "when": "một năm trước"
+      },
+      {
+        "author": "Trung Le",
+        "rating": 3,
+        "text": "Không được nhiệt tình cho lắm",
+        "when": "một năm trước"
+      }
+    ],
+    "source": "google-maps"
+  },
+  "khu-rung-nho-x1": {
+    "lat": 11.9425182,
+    "lng": 108.4345272,
+    "img": "images/khu-rung-nho-x1.jpg",
+    "photos": [
+      "images/khu-rung-nho-x1.jpg",
+      "images/khu-rung-nho-x1-2.jpg",
+      "images/khu-rung-nho-x1-3.jpg",
+      "images/khu-rung-nho-x1-4.jpg"
+    ],
+    "rating": 4.4,
+    "reviews": 85,
+    "comments": [
+      {
+        "author": "Hao Dang",
+        "rating": 4,
+        "text": "Tiệm lưu niệm nhỏ xinh trên đường Hai Bà Trưng với nhiều mặt hàng nhỏ xinh và dễ thương phù hợp với mục đích lưu niệm, trang trí cũng như làm quà tặng, tuy một vài sản phẩm có giá hơi đắt. …",
+        "when": "4 tuần trước"
+      },
+      {
+        "author": "Bùi Lâm",
+        "rating": 5,
+        "text": "Đồ trong tiệm này xinh khủng khiếp, giá ở khu phố này không hề rẻ nhưng chất lượng đi đôi với giá cả\nBạn nhân viên gói đồ kĩ, trước khi đóng gói bạn còn phủi bụi và lau kĩ đồ cho khách. Dễ thương lắm luôn",
+        "when": "một năm trước"
+      },
+      {
+        "author": "Hương Ly Đào",
+        "rating": 2,
+        "text": "Đồ trong quán xinh, dễ thương nhưng thái độ nhân viên bán hàng rất khó chịu, khách hỏi giá thì trả lời với thái độ cáu kỉnh, trong khi mình mua rất nhiều đồ để mang về làm quà cho bạn bè, gia đình Đồ xinh nhưng nếu lần sau quay lại Đà Lạt …",
+        "when": "6 tháng trước"
+      },
+      {
+        "author": "Tiểu Myy Trần",
+        "rating": 4,
+        "text": "Quán bán mấy đồ lưu niệm xinh xinh, kiểu cute, handmade và vintage\nMình ghé mua đồ giúp bạn, có bạn nhân viên của mình kêu là ở đây bán bông tai các mẫu, chỉ về theo đợt\nNhiều đồ dễ thương",
+        "when": "2 năm trước"
+      },
+      {
+        "author": "Nguyễn Thanh Hoàng",
+        "rating": 3,
+        "text": "Đã mua hàng vài lần, đi ĐL lần nào cũng ghé dù giá có hơi cao 1 chút. Nhưng lần này thật sự thất vọng vì mình mua tinh dầu còn nguyên seal trong hộp nhưng chỉ còn ½ chai. …",
+        "when": "một năm trước"
+      },
+      {
+        "author": "Việt Hùng Nguyễn",
+        "rating": 5,
+        "text": "Tiệm nhỏ nằm gần khu chợ Đà Lạt và bán nhiều đồ lưu niệm, đồ trang trí dễ thương. Thích nhất ở đây chắc là mấy đồ trang trí hình mèo, rất nhiều và dễ thương. Có cả đồ trang trí hình Avengers nữa mà thấy cũng không đặc biệt lắm. Đến đây mua quà lưu niệm cũng khá ổn.",
+        "when": "5 năm trước"
+      },
+      {
+        "author": "bach kim",
+        "rating": 5,
+        "text": "Quán có quá nhiều đồ siêu siêu cưng luôn\nNằm gần khu Hoà Bình nên đi bộ gần lắm nè",
+        "when": "5 năm trước"
+      },
+      {
+        "author": "Nguyen Hong",
+        "rating": 5,
+        "text": "Có nhiều ly, tách và đồ trang trí dễ thương quá chừng. Còn có mấy đồ cho tụi con gái bọn mh điệu đà nữa như cài tóc, bông tai vintage nữa :))))",
+        "when": "6 năm trước"
+      },
+      {
+        "author": "Toan Duong",
+        "rating": 4,
+        "text": "Tiệm nhỏ xinh có nhiều quà lưu niệm độc đáo và giá cả cũng tương đối",
+        "when": "5 năm trước"
+      },
+      {
+        "author": "Laura",
+        "rating": 5,
+        "text": "Tiệm này cùng kiểu với The little town nhưng nhỏ hơn nhiều.",
+        "when": "8 tháng trước"
+      }
+    ],
+    "source": "google-maps"
+  },
+  "miue-healing-gifts-shop-cs2-x1": {
+    "lat": 11.943531,
+    "lng": 108.4352557,
+    "img": "images/miue-healing-gifts-shop-cs2-x1.jpg",
+    "photos": [
+      "images/miue-healing-gifts-shop-cs2-x1.jpg",
+      "images/miue-healing-gifts-shop-cs2-x1-2.jpg",
+      "images/miue-healing-gifts-shop-cs2-x1-3.jpg",
+      "images/miue-healing-gifts-shop-cs2-x1-4.jpg"
+    ],
+    "phone": "0919946962",
+    "rating": 5,
+    "reviews": 611,
+    "comments": [
+      {
+        "author": "Cherry Do",
+        "rating": 5,
+        "text": "Bạn nhân viên tên Mai nhiệt tình và support 10 điểm, muốn custom hay điều chỉnh gì theo ý thích bản thân cũng được. Tiệm xinh xắn và bán đá xịn, nhiều lựa chọn từ vòng tay đến nhẫn, đá năng lượng đá chiêu tài. Một điểm đến must try ở Đà Lạt",
+        "when": "một tháng trước"
+      },
+      {
+        "author": "Anh Thư Nguyễn",
+        "rating": 5,
+        "text": "Quán siêu xinh\nNhân viên dễ thương nhiệt tình tư vấn\nSẽ quay lại ☺️☺️☺️",
+        "when": "một tháng trước"
+      },
+      {
+        "author": "Vũ Anh",
+        "rating": 5,
+        "text": "Bước vào tiệm là nghe mùi Santo Palo siêu thơm. Nhìn góc nào cũng lấp lánh chiếu chiếu cứ bị ghiền áhhhhh",
+        "when": "2 tuần trước"
+      },
+      {
+        "author": "Quỳnh Phạm",
+        "rating": 5,
+        "text": "quán xinh iu mình đã ghé mua lại lần thứ 2 mỗi khi đi Đà Lạt, tiệm rất đẹp và đá lẫn các sản phẩm rất đẹp và chỉnh chu.",
+        "when": "6 tháng trước"
+      },
+      {
+        "author": "Nguyen Tran",
+        "rating": 5,
+        "text": "Shop siu cuti, nhân viên tận tâm. Nói chung là 10 điểm ko chê;))",
+        "when": "một tháng trước"
+      },
+      {
+        "author": "Ngọc Châu",
+        "rating": 5,
+        "text": "Bước vào là cảm nhận được năng lượng chữa lành. Mua được một chiếc vòng ưng ý. Cảm ơn tiệm",
+        "when": "một tháng trước"
+      },
+      {
+        "author": "Phuong Linh Duong",
+        "rating": 5,
+        "text": "Tiệm dễ thương các loại đá phong thủy và sage santapalo thanh tẩy đem lại năng lượng tích cực may mắn cho không gian nhà ở của bạn các vật phẩm hàng lưu niệm rất dễ thương❤️",
+        "when": "một năm trước"
+      },
+      {
+        "author": "Thy Bảo",
+        "rating": 5,
+        "text": "Trải nghiệm tuyệt vời,5 sao thượng hạng,nhân viên chị Phương Anh nhiệt tình,thân thiện,ngầu ,cháy bỏng",
+        "when": "3 tuần trước"
+      },
+      {
+        "author": "Vui Vui",
+        "rating": 5,
+        "text": "Tiệm thơm lắmmm, có bạn mèo xám cute, bạn nv Phương Anh tư vấn nhiệt tình mà dễ thương lắm ❤",
+        "when": "3 tháng trước"
+      },
+      {
+        "author": "Ngọc Linhh",
+        "rating": 5,
+        "text": "Nhân viên dễ thương và thân thiện lắm ! Không gian chữa lành và siêu dễ chịu luônnn 💕 …",
+        "when": "một tháng trước"
+      }
+    ],
+    "source": "google-maps"
+  },
+  "dac-san-ngon-la-da-lat-3-2-x1": {
+    "lat": 11.9430572,
+    "lng": 108.4351969,
+    "img": "images/dac-san-ngon-la-da-lat-3-2-x1.jpg",
+    "photos": [
+      "images/dac-san-ngon-la-da-lat-3-2-x1.jpg",
+      "images/dac-san-ngon-la-da-lat-3-2-x1-2.jpg",
+      "images/dac-san-ngon-la-da-lat-3-2-x1-3.jpg",
+      "images/dac-san-ngon-la-da-lat-3-2-x1-4.jpg"
+    ],
+    "phone": "0898981589",
+    "rating": 4.9,
+    "reviews": 350,
+    "comments": [
+      {
+        "author": "Ngocnhi Huynh",
+        "rating": 5,
+        "text": "Lần đầu mình mua ở đây giá rất là hợp lý luôn. Không có ngáo giá như chổ khác. Nhân viên nhiệt tình dễ thương lắm. Mua quà về tặng là hợp lý lắm nha. Nên thử đi ạ",
+        "when": "một tháng trước"
+      },
+      {
+        "author": "Chun",
+        "rating": 5,
+        "text": "Cửa hàng có đa dạng sản phẩm. Nhân viên niềm nở, thân thiện, tư vấn và hỗ trợ khách mua quà nhiệt tình. Mình quay lại lần 2 rồi và vẫn rất thích cửa hàng này.",
+        "when": "3 tuần trước"
+      },
+      {
+        "author": "Nhật An",
+        "rating": 5,
+        "text": "Các bạn nhân viên nhiệt tình, tư vấn chi tiết và hỗ trợ rất nhiều. Sản phẩm đa dạng, trái cây sấy rất ngon. Mua có quà đem về!",
+        "when": "một tháng trước"
+      },
+      {
+        "author": "Tiên Xuân",
+        "rating": 5,
+        "text": "Nhân viên cực kỳ dễ thương, nhiều món đa dạng, giá cả cực kỳ hợp lý nè",
+        "when": "một tháng trước"
+      },
+      {
+        "author": "Chúi",
+        "rating": 5,
+        "text": "Nhân viên dễ thương, thân thiện. Tư vấn siêu nhiệt tình ạ 🥰 …",
+        "when": "3 tuần trước"
+      },
+      {
+        "author": "Hùng Lương",
+        "rating": 5,
+        "text": "cửa hàng nằm gần chợ Đà Lạt, bán nhiều đặc sản phù hợp mua làm quà người thân",
+        "when": "một tháng trước"
+      },
+      {
+        "author": "Huyền Trang Trịnh Thị",
+        "rating": 5,
+        "text": "Các bạn nhân viên rất dễ thương và nhiệt tình, nhiều sản phẩm để lựa chọn 100₫",
+        "when": "5 tháng trước"
+      },
+      {
+        "author": "Trần Kỳ Huy",
+        "rating": 5,
+        "text": "Đóng gói siêu đẹp, sản phẩm nhiều và ngon nữa, nhân viên dễ thương và nhiệt tình. Mua cỡ này là hiểu rồi á!!",
+        "when": "6 tháng trước"
+      },
+      {
+        "author": "Thủy Trần",
+        "rating": 5,
+        "text": "Tiệm bán hồng rất ngon nhaa , bé nhân viên đeo mắt kiếng tư vấn rất thiệt tình luôn 😻 …",
+        "when": "8 tháng trước"
+      },
+      {
+        "author": "Tien Truong",
+        "rating": 5,
+        "text": "Minh la khach trung thanh cua tiệm cũng may nam roi, lan nao đi ĐL cung ghe tiem de mua mứt.. Dac biet la mut ổi say dẻo, no ngon lắm lun, an het t đat online ship ve..tiem co nhiu loai mứt đa dạng dễ mua về làm quà.. Ngon chất lượng 👌 …",
+        "when": "5 tháng trước"
+      }
+    ],
+    "source": "google-maps"
+  },
+  "tiem-do-luu-niem-o-day-co-hanh-phuc-x1": {
+    "lat": 11.9462378,
+    "lng": 108.4358847,
+    "img": "images/tiem-do-luu-niem-o-day-co-hanh-phuc-x1.jpg",
+    "photos": [
+      "images/tiem-do-luu-niem-o-day-co-hanh-phuc-x1.jpg",
+      "images/tiem-do-luu-niem-o-day-co-hanh-phuc-x1-2.jpg",
+      "images/tiem-do-luu-niem-o-day-co-hanh-phuc-x1-3.jpg",
+      "images/tiem-do-luu-niem-o-day-co-hanh-phuc-x1-4.jpg"
+    ],
+    "rating": 4.3,
+    "reviews": 12,
+    "comments": [
+      {
+        "author": "Khánh Hân Trần",
+        "rating": 2,
+        "text": "mình và các bạn có ghé trải nghiệm, store nhỏ, nhiều đồ dth nhma mình hơi thất vọng về chất lượng dịch vụ, khác hẳn với tên store. Không biết bạn là nhân viên hay chủ mà thái độ coi thường khách hàng, mình nghĩ shop nên cải thiện để phát triển hơn.",
+        "when": "4 tháng trước"
+      },
+      {
+        "author": "Hannah Thanh Truc",
+        "rating": 5,
+        "text": "Sao lại có 1 tiệm toàn đồ dễ thương thế này ở Đà Lạt mà tới bây giờ mình mới biết nhỉ. Tiệm nằm 1 bên chợ Đà Lạt á. Đồ thì nhỏ nhỏ xinh xinh yêu yêu cưng lắm mọi người ơi. Với những ai thích những thứ nhỏ nhắn xinh xắn thì đây đúng là thế giới trong mơ luôn. Giá cả cũng hợp lý, vừa túi tiền lắm, tha hồ mà lựa nha mấy ní",
+        "when": "10 tháng trước"
+      },
+      {
+        "author": "Nhật Huy",
+        "rating": 5,
+        "text": "Gần chợ đà lạt, tiệm nhỏ nhỏ xinh xinh nhưng bán những món đồ vô cùng dễ thương. Rất đa dạng từ khăn choàng, túi tote cho đến vớ và cả chén, đĩa cũng như những con gấu bông nhỏ xinh khác. Đây là lần đầu tiên mình tới nhưng có trải nghiệm khá hài lòng với tiệm. Sẽ ghé qua vào lần sau.",
+        "when": "một năm trước"
+      },
+      {
+        "author": "Paus Yang",
+        "rating": 3,
+        "text": "Tiệm có nhiều đồ xinh làm quà lưu niệm. Nhưng không biết chủ tiệm hay nhân viên ngồi trực đợt mình vào mua đồ, mặt hầm hầm khó chịu. Thiết nghĩ nếu muốn cửa kéo luôn mở thì nên dán tờ thông báo ngay cửa để báo khách đừng đóng cửa lại. Chứ không phải tỏ thái độ khó chịu bực dọc với khách. Làm dịch vụ mà vầy thì thua rồi.",
+        "when": "một năm trước"
+      },
+      {
+        "author": "Nguyen Canh",
+        "rating": 5,
+        "text": "Cái tên tiệm cũng làm cho khách dịu lòng. Có nhiều món hàng nhỏ xinh để mua,nhiều gốm sứ Nhật, bao tay len, tinh dầu, nến thơm …",
+        "when": "một năm trước"
+      },
+      {
+        "author": "Hà Yến Nhi",
+        "rating": 1,
+        "text": "Có 0 sau là đánh giá rồi, nhân viên thái độ tệ vô cùng, tiệm nên xem lại.",
+        "when": "4 tháng trước"
+      },
+      {
+        "author": "Mon Unu",
+        "rating": 5,
+        "text": "Tiệm có nhiều đồ bé xinh",
+        "when": "một năm trước"
+      },
+      {
+        "author": "Ay Kuan Woo",
+        "rating": 5,
+        "text": "Tôi tình cờ tìm thấy cửa hàng quà tặng này. Hầu hết các món quà đều thu hút sự chú ý của tôi và khiến tôi muốn mang chúng về nhà ❤️ Giá cả cũng hợp lý.",
+        "when": "10 tháng trước"
+      },
+      {
+        "author": "David Loh",
+        "rating": 5,
+        "text": "Tháng 5 năm 2025\n\nQuà lưu niệm rất đẹp và có nhiều lựa chọn.",
+        "when": "một năm trước"
+      },
+      {
+        "author": "Alexandr Pepelyaev",
+        "rating": 5,
+        "text": "Một cửa hàng nhỏ xinh xắn với giá cả hợp lý và dịch vụ tốt. Hàng hóa đáng yêu. Đồ gốm sứ tuyệt vời, gợi nhớ đến đồ gốm Nhật Bản.",
+        "when": "một tuần trước"
+      }
+    ],
+    "source": "google-maps"
+  },
+  "dac-san-ngon-la-da-lat-x1": {
+    "lat": 11.9432365,
+    "lng": 108.4354567,
+    "img": "images/dac-san-ngon-la-da-lat-x1.jpg",
+    "photos": [
+      "images/dac-san-ngon-la-da-lat-x1.jpg",
+      "images/dac-san-ngon-la-da-lat-x1-2.jpg",
+      "images/dac-san-ngon-la-da-lat-x1-3.jpg",
+      "images/dac-san-ngon-la-da-lat-x1-4.jpg"
+    ],
+    "phone": "0898981589",
+    "rating": 4.8,
+    "reviews": 548,
+    "comments": [
+      {
+        "author": "Uyen Hoang",
+        "rating": 5,
+        "text": "Khi nào đến Đà Lạt mà muốn ăn vặt hay mua đồ về làm quà thì mình luôn đến đây.\nỞ đây có mẫu thử để xem vị có hợp với mình k trước khi mua nên rất tiện, từ đồ healthy đến đồ ăn vặt nhâm nhi rất đa dạng. …",
+        "when": "4 tháng trước"
+      },
+      {
+        "author": "Phương Dung",
+        "rating": 5,
+        "text": "Đặc sản ở đây rất ngon và đa dạng. Mình thích nhất là hồng treo gió và mứt dâu tây, vị ngọt thanh tự nhiên chứ không bị gắt. Quán nằm ngay trung tâm, dễ tìm. Đồ đóng gói bao bì đẹp, sạch sẽ, thích hợp mua làm quà tặng. Giá cả hợp lý so với chất lượng.",
+        "when": "một tháng trước"
+      },
+      {
+        "author": "Yu Yu",
+        "rating": 5,
+        "text": "Mỗi lần lên ĐL đều ghé shop mua quà về, đợt này còn được giảm thêm 10% nhờ đi show bên The Moment Muse nữa. Shop bán đồ ăn ngon nha",
+        "when": "6 tháng trước"
+      },
+      {
+        "author": "Huong Ngan Nguyen",
+        "rating": 5,
+        "text": "Đi vào nhìn cái gì cũng muốn mua, nhân viên nhiệt tình support. Có dịp quay lại Đà Lạt sẽ ghé đây tiếp 🥰 …",
+        "when": "7 tháng trước"
+      },
+      {
+        "author": "Mai Phuong Le",
+        "rating": 5,
+        "text": "Bài trí gọn gàng bắt mắt, món nào cũng ngon, nhiều đặc sản của Đà Lạt, mua làm quà dễ thương",
+        "when": "2 tháng trước"
+      },
+      {
+        "author": "Ngoc Khong",
+        "rating": 5,
+        "text": "Giá cả hợp lí và nhân viên nhiệt tình hỗ trợ. Đồ rất mới",
+        "when": "một tháng trước"
+      },
+      {
+        "author": "Trang Tran",
+        "rating": 5,
+        "text": "Đã mua 3 lần rồi quán rất oke nha mn",
+        "when": "một tháng trước"
+      },
+      {
+        "author": "quynh khong",
+        "rating": 5,
+        "text": "Lần nào lên Đà Lạt cũng ghé nơi đây mua đồ về làm quà. Đồ chất lượng, uy tin",
+        "when": "một tháng trước"
+      },
+      {
+        "author": "Minh Phương Nguyễn",
+        "rating": 5,
+        "text": "Quán có nhiều đặc sản ngon, có cả đồ lưu niệm cute nữa, nhân viên cũng nhiệt tình lém ạ. Bọn mình xách được hẳn 2 túi quà đầy về HN 🥰🥰 …",
+        "when": "7 tháng trước"
+      },
+      {
+        "author": "Anh Huy (Huy Vigor)",
+        "rating": 5,
+        "text": "Mua tại chỗ ship về, rẻ hơn mua trên Shopee nhiều, tiết kiệm được rất nhiều. Mình nhiều năm đi Đà Lạt đều thích ghé chỗ này, hình như đây là tiệm Ngon Lạ Đà Lạt đầu tiên luôn ý, quán nhỏ xinh, nhân viên thân thiện, L'angfarm sau này mới xuất hiện cạnh tranh và chưa ghé vô đó lần nào, vẫn trung thành với Ngon Lạ Đà Lạt hơn.",
+        "when": "một tháng trước"
+      }
+    ],
+    "source": "google-maps"
+  },
+  "o-day-co-mot-con-meo-x1": {
+    "lat": 11.9435122,
+    "lng": 108.4351781,
+    "img": "images/o-day-co-mot-con-meo-x1.jpg",
+    "photos": [
+      "images/o-day-co-mot-con-meo-x1.jpg",
+      "images/o-day-co-mot-con-meo-x1-2.jpg",
+      "images/o-day-co-mot-con-meo-x1-3.jpg",
+      "images/o-day-co-mot-con-meo-x1-4.jpg"
+    ],
+    "rating": 4.3,
+    "reviews": 76,
+    "comments": [
+      {
+        "author": "Thùy Dương Nguyễn",
+        "rating": 5,
+        "text": "Tiệm quà lưu niệm xinh xinh, đa dạng mặt hàng, ví dụ mà bí quà Đà Lạt nma hong muốn mua đồ ăn đặc sản thì có thể ghé Một Con Mèo gói ghém mấy món đáng iu về tặng cũng rất đc nhe",
+        "when": "6 tháng trước"
+      },
+      {
+        "author": "boo huy",
+        "rating": 5,
+        "text": "1 chiếc shop bán đồ lưu niệm và HandMade hết sức dễ thương. Đặc biệt là rất nhiều món đồ nho nhỏ đáng yêu từ vòng tay, nến thơm cho đến móc khoá nha\nAi có dịp đến đà lạt thì nên ghé qua đây coi tiệm nằm đối diện quán hoa sữa bán sữa đậu nành đà lạt",
+        "when": "một năm trước"
+      },
+      {
+        "author": "Nam Phương Nguyễn Hoàng",
+        "rating": 5,
+        "text": "Tiệm đồ lưu niệm dễ thương nằm ngay trung tâm đà lạt\nGiá cả phải chăng phù hợp mua về lm qà cho bbe\nKhông gian tiệm xinh xắn, có khăn quàng cổ bao tay xinh iu và siu nhìu món khác ❤️❤️❤️",
+        "when": "một năm trước"
+      },
+      {
+        "author": "Huy Lam",
+        "rating": 5,
+        "text": "Tiệm nhỏ xinh với không gian ấm cúng, decor dễ thương và đậm chất “mèo”. Bên trong bày bán nhiều món quà lưu niệm, đồ thủ công, thú bông và phụ kiện cực kỳ dễ thương, thích hợp để tặng bạn bè hoặc tự thưởng cho bản thân. Nhân viên thân …",
+        "when": "một năm trước"
+      },
+      {
+        "author": "Bad Luck",
+        "rating": 4,
+        "text": "Đồ cute đẹp nhưng giá cao xíu do khu du lịch, lúc nào tới ĐL cũng ghé tìm mua",
+        "when": "10 tháng trước"
+      },
+      {
+        "author": "Dat Tran",
+        "rating": 4,
+        "text": "- Cửa hàng nhỏ mà xinh, decor dễ thương và setup đẹp\n- Quà lưu niệm theo mình hơi đắt, được cái nhiều món đẹp độc và lạ. Nếu shop bán giá hợp lý hơn thì mình sẽ mua …",
+        "when": "3 năm trước"
+      },
+      {
+        "author": "Thuy Nguyen",
+        "rating": 5,
+        "text": "Tiệm bán đồ lưu niệm nhỏ xinh, ấm cúng. Rất nhiều mẫu mã quà tặng dễ thương liên quan đến mèo, giá cả hợp lý",
+        "when": "một năm trước"
+      },
+      {
+        "author": "Hồ Lan",
+        "rating": 5,
+        "text": "Tinh dầu quế của shop thơm rất tự nhiên. Shop bày bán nhiều quà lưu niệm nhỏ dễ thương với mức giá đa dạng. Những \"bó\" hoa khô nhỏ xíu mộc mạc. Nhánh cây khô treo bóng đèn và những trái thông khô điểm tô căn phòng thêm phần nghệ thuật. Những hình vẽ mèo ngộ nghĩnh đáng yêu. Good vibe 💚 …",
+        "when": "3 năm trước"
+      },
+      {
+        "author": "Vivian Pham",
+        "rating": 5,
+        "text": "Bước vô đây như lạc vào thế giới thần tiên, nhìn món gì cũng muốn mua, muốn đem về, giá thì be bé như chính các món đồ lưu niệm, làm quà rất ư là tinh tế và thú vị",
+        "when": "3 năm trước"
+      },
+      {
+        "author": "Ngan Ha Nguyen",
+        "rating": 5,
+        "text": "Đồ lưu niệm ở đây dễ thương, mua tặng người thân rất hợp ví, nhiều món lạ lần đầu thấy luôn á",
+        "when": "2 năm trước"
+      }
+    ],
+    "source": "google-maps"
+  },
+  "dalavi-dac-san-da-lat-x1": {
+    "lat": 11.9432502,
+    "lng": 108.4513547,
+    "img": "images/dalavi-dac-san-da-lat-x1.jpg",
+    "photos": [
+      "images/dalavi-dac-san-da-lat-x1.jpg",
+      "images/dalavi-dac-san-da-lat-x1-2.jpg",
+      "images/dalavi-dac-san-da-lat-x1-3.jpg",
+      "images/dalavi-dac-san-da-lat-x1-4.jpg"
+    ],
+    "phone": "0914107107",
+    "rating": 4.5,
+    "reviews": 79,
+    "comments": [
+      {
+        "author": "bong vo",
+        "rating": 5,
+        "text": "Mình vô tình thử được đặc sản của Dalavi và bị mê mẩn bởi vị ngon \"TINH TẾ\" của những món mứt của thương hiệu. Đây là lần đầu tiên mình đến Đà Lạt và có rất nhiều đặc sản và mình cũng thử rất nhiều nhưng DaLaVi là sự khác biệt.",
+        "when": "Thời gian chỉnh sửa: 6 tháng trước"
+      },
+      {
+        "author": "Nhu Thang Nguyen",
+        "rating": 5,
+        "text": "Dalavi thực sự là một điểm đến không thể bỏ qua cho những ai yêu thích nông sản Việt và muốn khám phá những sản phẩm độc đáo, chất lượng. Trước khi đến trực tiếp, tôi đã có dịp thưởng thức Hồng treo gió của họ, và điều đó đã để lại ấn tượng …",
+        "when": "một năm trước"
+      },
+      {
+        "author": "Trân Nguyễn",
+        "rating": 5,
+        "text": "DaLaVi – thương hiệu đặc sản nổi bật của Đà Lạt, nổi tiếng với các dòng trái cây sấy như: Hồng sấy gió công nghệ Nhật Bản – mềm dẻo, ngọt tự nhiên\nDâu tây sấy dẻo – giữ nguyên vị chua ngọt đặc trưng, rất dễ ăn. Cùng các loại …",
+        "when": "một năm trước"
+      },
+      {
+        "author": "Thảo Lê",
+        "rating": 1,
+        "text": "Dâu tây mua tại cửa hàng, mặt trên ko sao nhưng mặt dưới quả nào quả nấy mốc xanh, chị bán hàng chối bảo kphai, nhưng mình ăn thứ 1 quả cái đau bụng luôn :) hộp ko ghi ngày thu hoạch ai bit thu hái ngày nào, dâu ko thuốc thì ko để dc lâu,",
+        "when": "một năm trước"
+      },
+      {
+        "author": "Trịnh Minh",
+        "rating": 5,
+        "text": "Mình đi du lịch nên tìm mua làm quà cho bạn bè, ghé random quán gần mà ưng ý. Quán ở trong ngõ khá ngoằn ngoèo nhưg follow map vẫn khá dễ đi. Bạn nhân viên vui vẻ nhiệt tình. Trái cây sấy dẻo ngon, đóng gói sạch sẽ. …",
+        "when": "một năm trước"
+      },
+      {
+        "author": "Thế Vũ Huỳnh",
+        "rating": 5,
+        "text": "Đã mua hàng ở đây nhiều lần mỗi khi lên Đà Lạt. Bánh mứt kẹo, trái cây sấy, các loại trà, nước cốt ép trái cây... đặc sản Đà Lạt, giá hợp lý, rẻ hơn Langfarm nhưng đắt hơn chợ. Được cái sản phẩm hàng công ty có nguồn gốc, nhãn mác bao bì rõ …",
+        "when": "một năm trước"
+      },
+      {
+        "author": "Trúc Giang Hàng Thị",
+        "rating": 5,
+        "text": "Anh chị nhân viên nhiệt tình, hỗ trợ hết mình, giá cả phải chăng, mặc dù em có đổi hàng tối vẫn hỗ trợ đổi hàng cho em ạ. 10 điểm cho shop ạ",
+        "when": "8 tháng trước"
+      },
+      {
+        "author": "nguyen tham",
+        "rating": 5,
+        "text": "Mãng cầu sấy dẻo, hôm nay được dùng thử quá là ngon, ăn miếng đầu tiên sẽ muốn ăn miếng thứ hai. Sản phẩm sẽ rất tốt cho các chị em đang chế độ siết eo và thích tìm kiếm những sản phẩm tốt cho sức khoẻ👍 …",
+        "when": "một năm trước"
+      },
+      {
+        "author": "le huong nguyen thi",
+        "rating": 5,
+        "text": "Dầu Mắc ca của shop ngon và lành, ship nhanh và cẩn thận; Dầu Mắc ca mùi dễ chịu hơn Dầu Oliu",
+        "when": "6 tháng trước"
+      },
+      {
+        "author": "ONESE Việt Nam",
+        "rating": 5,
+        "text": "Tết rồi công ty đặt quà tặng rất VIP, có hóa đơn đầy đủ, giao rất nhanh.\n\nSang năm ủng hộ tiếp.",
+        "when": "3 tháng trước"
+      }
+    ],
+    "source": "google-maps"
+  },
+  "lata-s-dac-san-da-lat-cn-cho-dem-da-lat-x1": {
+    "lat": 11.9427461,
+    "lng": 108.4364849,
+    "img": "images/lata-s-dac-san-da-lat-cn-cho-dem-da-lat-x1.jpg",
+    "photos": [
+      "images/lata-s-dac-san-da-lat-cn-cho-dem-da-lat-x1.jpg",
+      "images/lata-s-dac-san-da-lat-cn-cho-dem-da-lat-x1-2.jpg",
+      "images/lata-s-dac-san-da-lat-cn-cho-dem-da-lat-x1-3.jpg",
+      "images/lata-s-dac-san-da-lat-cn-cho-dem-da-lat-x1-4.jpg"
+    ],
+    "phone": "0779945686",
+    "rating": 4.2,
+    "reviews": 223,
+    "comments": [
+      {
+        "author": "Tùn không gờ",
+        "rating": 5,
+        "text": "Lata’s Đà Lạt là một địa điểm khá phù hợp để mua đặc sản về làm quà, đặc biệt là các loại đồ khô và trái cây sấy. Sản phẩm ở đây khá đa dạng như dâu tây sấy, mít sấy, khoai lang sấy và nhiều loại mứt đặc trưng của Đà Lạt. Hương vị nhìn …",
+        "when": "3 tháng trước"
+      },
+      {
+        "author": "Thanh Thuỳ (Thanh Thuỳ)",
+        "rating": 5,
+        "text": "Các loại đồ sấy mình thấy ngon , k bị dầu dính tay . Nhất là món khoai lang sấy . Riêng gói rau củ sấy tổng hợp thì toàn chuối . Mứt có thử qua , k ngon bằng .Hình như ko có nhiều chi nhánh . Cửa hàng ngay chợ Đà Lạt .",
+        "when": "4 tháng trước"
+      },
+      {
+        "author": "CÔNG HÙNG LÊ",
+        "rating": 4,
+        "text": "Cảm nhận về Lata’s Đặc Sản Đà Lạt - Chi nhánh Chợ Đêm\nTọa lạc ngay tuyến đường sầm uất Nguyễn Thị Minh Khai, gần khu vực Chợ đêm Đà Lạt, Lata’s là điểm mua sắm quen thuộc của nhiều du khách khi ghé phố núi. …",
+        "when": "4 tháng trước"
+      },
+      {
+        "author": "Nguyễn Minh Sang",
+        "rating": 5,
+        "text": "[T3/2026]\n\nĐịa điểm: Có vài chi nhánh ở ĐL, tuy nhiên mình vừa chỉ mua ở chi nhánh chợ đêm …",
+        "when": "2 tháng trước"
+      },
+      {
+        "author": "Fung Kim",
+        "rating": 4,
+        "text": "• lata’s đặc sản đà lạt chi nhánh chợ đêm nằm ngay trung tâm đường nguyễn thị minh khai, rất thuận tiện cho khách du lịch mua quà sau khi dạo phố. cửa hàng chuyên các loại đặc sản nổi tiếng như mứt, trái cây sấy, hạt dinh dưỡng và trà đà …",
+        "when": "8 tháng trước"
+      },
+      {
+        "author": "Mai Nguyen",
+        "rating": 5,
+        "text": "Đồ ăn rẻ, mình ăn thấy món nào cũng ngon. Đặc biệt là cái dâu sấy ko đường này nó siêu đỉnh luôn. Nước cốt atiso uống cũng ngon lắm luôn, mình đãi khách ai cũng khen ngon hết",
+        "when": "4 tháng trước"
+      },
+      {
+        "author": "Ngân Huỳnh",
+        "rating": 4,
+        "text": "Lần nào đến Đà Lạt mình cũng ghé đây mua quà mang về, giá ở đây mình thấy ok hơn những chỗ khác. Nằm ngay chợ đêm nên khá dễ tìm.",
+        "when": "7 tháng trước"
+      },
+      {
+        "author": "Tony Nguyen",
+        "rating": 3,
+        "text": "Giá ở đây bán có vẻ thấp hơn so với các trung tâm mua sắm khác! Tôi có mua rượu hồng ngâm nhưng cảm giác uống như rượu đế miền tây vậy, không hề có vị hồng nào cả và thấy công dụng ghi trên nhãn không trung thực cho lắm! Được cái ấn tượng về món khoai lang sấy mật ông ở đây bán ngon.",
+        "when": "6 tháng trước"
+      },
+      {
+        "author": "Khai Duong Tuan",
+        "rating": 1,
+        "text": "Món duy nhất mình muốn thử tại đây. Nhưng thất vọng rất nhiều.\n1 bịt 250g có khoảng 6-7 trái. Mình đã ăn một nữa số trái này.\nKết quả là: tất cả đều có dấu hiệu của khoai bị hư (khoai sùng), tất cả ăn đều …",
+        "when": "7 tháng trước"
+      },
+      {
+        "author": "Duyên Hồ",
+        "rating": 2,
+        "text": "Lần nào lên đà lạt tôi cũng ghé mua rất nhiều đồ, lần này tôi thấy thất vọng, hạt ghì lép gắc dầu hầu như hơn nữa hủ",
+        "when": "3 tháng trước"
+      }
+    ],
+    "source": "google-maps"
+  },
+  "quay-co-thanh-ngoc-dac-san-da-lat-x1": {
+    "lat": 11.9429536,
+    "lng": 108.4368184,
+    "img": "images/quay-co-thanh-ngoc-dac-san-da-lat-x1.jpg",
+    "photos": [
+      "images/quay-co-thanh-ngoc-dac-san-da-lat-x1.jpg",
+      "images/quay-co-thanh-ngoc-dac-san-da-lat-x1-2.jpg",
+      "images/quay-co-thanh-ngoc-dac-san-da-lat-x1-3.jpg",
+      "images/quay-co-thanh-ngoc-dac-san-da-lat-x1-4.jpg"
+    ],
+    "phone": "0983868811",
+    "rating": 5,
+    "reviews": 16,
+    "comments": [
+      {
+        "author": "Quyền Lê Thanh",
+        "rating": 5,
+        "text": "Cô chủ dễ thương vui vẻ, buôn bán có tâm. Hàng mang về ai cũng khen.",
+        "when": "Thời gian chỉnh sửa: một năm trước"
+      },
+      {
+        "author": "Nguyễn Trân",
+        "rating": 5,
+        "text": "Chị chủ dth nhiệt tình, đến mua là cứ lấy cho ăn thử quài quài luôn. Mn có đi dalat chơi thì ghé chị này nek🫶🏻🥰 …",
+        "when": "một năm trước"
+      },
+      {
+        "author": "Đầu trọc",
+        "rating": 5,
+        "text": "Cô chủ rất là nhiệt tình với lại siêu dễ thương",
+        "when": "một năm trước"
+      },
+      {
+        "author": "Thảo Linh Hoàng",
+        "rating": 5,
+        "text": "Cô chủ rất nhiệt tình, trái cây sấy ngon cực kì, 10 điểm uy tín nha các bạn😂😂😂 …",
+        "when": "một năm trước"
+      },
+      {
+        "author": "Nguyễn Hoàng Phúc Duy",
+        "rating": 5,
+        "text": "Sản phẩm dùng ngon lắm  Shop yêu quá dễ thương luôn 😘😘😘 hàng ngon lắm nha rất đáng để mua rất tuyệt vời . …",
+        "when": "một năm trước"
+      },
+      {
+        "author": "Kiều Thuý Lê Hoàng",
+        "rating": 5,
+        "text": "Hàng ngon, cô chủ quá là dễ thương. Tuyệt cà là vời🤩 …",
+        "when": "một năm trước"
+      },
+      {
+        "author": "Sang Nguyễn Trường",
+        "rating": 5,
+        "text": "Đồ ăn rẻ và ngon, ủng hộ nha mn",
+        "when": "một năm trước"
+      },
+      {
+        "author": "Nguyễn Thị Trúc",
+        "rating": 5,
+        "text": "Cô Ngọc dễ thương, hay tặng quà 🥰❤️ …",
+        "when": "một năm trước"
+      },
+      {
+        "author": "Khanh Bui Phan Duyen",
+        "rating": 5,
+        "text": "Cô dễ thương, đồ ăn ngon",
+        "when": "một năm trước"
+      },
+      {
+        "author": "Chương DLAQH",
+        "rating": 5,
+        "text": "Cô chủ Thân thiện, giá cả phải chăng,mn thử thoải mái nha .hàng mua về dùng ok",
+        "when": "một năm trước"
+      }
+    ],
+    "source": "google-maps"
+  },
+  "cua-hang-dac-san-thong-da-lat-x1": {
+    "lat": 11.9422037,
+    "lng": 108.4358113,
+    "img": "images/cua-hang-dac-san-thong-da-lat-x1.jpg",
+    "photos": [
+      "images/cua-hang-dac-san-thong-da-lat-x1.jpg",
+      "images/cua-hang-dac-san-thong-da-lat-x1-2.jpg",
+      "images/cua-hang-dac-san-thong-da-lat-x1-3.jpg",
+      "images/cua-hang-dac-san-thong-da-lat-x1-4.jpg"
+    ],
+    "rating": 4.9,
+    "reviews": 24,
+    "comments": [
+      {
+        "author": "Thanh Uyên Nguyễn Hoàng",
+        "rating": 5,
+        "text": "Hồng treo Mama ngon, giòn ngoài mềm dai bên trong. Đúng là đặc sản Đà Lạt",
+        "when": "7 tháng trước"
+      },
+      {
+        "author": "duongthi hanh",
+        "rating": 5,
+        "text": "Hồng treo rất ngon nha. Mọng nước và dẻo. Nằm ngủ tuyến đường rất dễ mua về làm quà. 🎁 …",
+        "when": "một tháng trước"
+      },
+      {
+        "author": "Tram Dang",
+        "rating": 5,
+        "text": "Hồng treo bên này rất ngon, từ việc chọn lọc hồng ăn vào là giòn bên ngoài mềm bên trong rất khác với hàng kém chất lượng. Đóng gói cũng rất chỉnh chu. Thích hợp uống cùng trà Atiso",
+        "when": "7 tháng trước"
+      },
+      {
+        "author": "Tu Nguyen",
+        "rating": 5,
+        "text": "Đặc sản ở đây rất ngon . Đặc biệt là hồng treo gió.",
+        "when": "một tháng trước"
+      },
+      {
+        "author": "ActionCOACH CHT FIRM",
+        "rating": 5,
+        "text": "Các món quà đều rất ngon, đẹp và giá trị. Nhân viên thân thiện. Mua về làm. quà ai cũng thích và đặt thêm.",
+        "when": "một năm trước"
+      },
+      {
+        "author": "Duy Trương",
+        "rating": 5,
+        "text": "Món ổi hồng muối ớt rất ngon",
+        "when": "một tháng trước"
+      },
+      {
+        "author": "Nguyên Duy (Nuk)",
+        "rating": 5,
+        "text": "nhân viên bán hàng thân thiện, được thử các loại đặc sản trc khi mua, có đầy đủ các loại đặc sản Đà Lạt, mình rất thích các loại mức sấy ở đây đặc biệt là hồng treo gió, có ship mọi nơi luôn nha ☺️",
+        "when": "2 năm trước"
+      },
+      {
+        "author": "MINH LÊ",
+        "rating": 5,
+        "text": "Hồng treo rất ngon, mama rất dễ thương",
+        "when": "một tháng trước"
+      },
+      {
+        "author": "Túc Trần Văn",
+        "rating": 5,
+        "text": "Nơi cung cấp sản phẩm đặc sản ngon, uy tín của Đà Lạt. Đặc biệt là sản phẩm Hồng Treo Gió",
+        "when": "một năm trước"
+      },
+      {
+        "author": "phong le",
+        "rating": 5,
+        "text": "Ân cần, vui vẻ. Có món Hồng treo gió rất ngon",
+        "when": "10 tháng trước"
+      }
+    ],
+    "source": "google-maps"
+  },
+  "quay-dac-san-da-lat-da-thao-x1": {
+    "lat": 11.9289588,
+    "lng": 108.4601296,
+    "img": "images/quay-dac-san-da-lat-da-thao-x1.jpg",
+    "photos": [
+      "images/quay-dac-san-da-lat-da-thao-x1.jpg",
+      "images/quay-dac-san-da-lat-da-thao-x1-2.jpg",
+      "images/quay-dac-san-da-lat-da-thao-x1-3.jpg",
+      "images/quay-dac-san-da-lat-da-thao-x1-4.jpg"
+    ],
+    "phone": "0949082162",
+    "rating": 5,
+    "reviews": 2,
+    "comments": [
+      {
+        "author": "Nguyen Quoc Thang",
+        "rating": 5,
+        "text": "Đã ghé và mua, giá hợp lý, chủ dễ thưn dễ chịu, đáng trải nghiệm. Không tin thì thử đi",
+        "when": "2 tháng trước"
+      },
+      {
+        "author": "Lan Nguyen",
+        "rating": 5,
+        "text": "Mình ghé mua quà mang về và khá bất ngờ vì đặc sản ở đây đa dạng, hàng nhìn chất lượng, vị ngon hơn nhiều chỗ mình từng mua, đặc biệt ở đây giá cả rất phải chăng hợp lý so với những khu vực du lịch khác. Chủ quán dễ thương, tư vấn có tâm, không chèo kéo khách, muốn ăn gì thử gì đều rất thoải mái.  Rất đáng ghé khi đến Đà Lạt 👍 …",
+        "when": "2 tháng trước"
+      }
+    ],
+    "source": "google-maps"
+  },
+  "qua-tang-labox-dalat-x1": {
+    "lat": 11.937281,
+    "lng": 108.4268074,
+    "img": "images/qua-tang-labox-dalat-x1.jpg",
+    "photos": [
+      "images/qua-tang-labox-dalat-x1.jpg",
+      "images/qua-tang-labox-dalat-x1-2.jpg",
+      "images/qua-tang-labox-dalat-x1-3.jpg",
+      "images/qua-tang-labox-dalat-x1-4.jpg"
+    ],
+    "rating": 5,
+    "reviews": 1,
+    "comments": [
+      {
+        "author": "Van Phiem",
+        "rating": 5,
+        "text": "",
+        "when": "4 năm trước"
+      }
+    ],
+    "source": "google-maps"
+  },
+  "co-so-mut-dac-san-da-lat-anh-thu-cam-tu-x1": {
+    "lat": 11.9776379,
+    "lng": 108.4495245,
+    "img": "images/co-so-mut-dac-san-da-lat-anh-thu-cam-tu-x1.jpg",
+    "photos": [
+      "images/co-so-mut-dac-san-da-lat-anh-thu-cam-tu-x1.jpg",
+      "images/co-so-mut-dac-san-da-lat-anh-thu-cam-tu-x1-2.jpg",
+      "images/co-so-mut-dac-san-da-lat-anh-thu-cam-tu-x1-3.jpg",
+      "images/co-so-mut-dac-san-da-lat-anh-thu-cam-tu-x1-4.jpg"
+    ],
+    "phone": "0988612822",
+    "rating": 4,
+    "reviews": 140,
+    "comments": [
+      {
+        "author": "Tony Tran",
+        "rating": 5,
+        "text": "Rất nhiều loại sản phẩm từ bánh mứt, rượu, trà,... cho ăn thử miễn phí, giá có vẻ cao hơn bên ngoài một tí, nhưng thái đồ phục vụ tốt và nhiệt tình.\nMàu Tím nhận diện thương hiệu nổi nhất làng.",
+        "when": "6 tháng trước"
+      },
+      {
+        "author": "Tony Vu",
+        "rating": 5,
+        "text": "Mình có ghé qua đây cùng với đoàn để mua mứt về cho người thân. Ở đây bán đầy đủ các loại mứt, khô, trà và rươu. Có cho khách hàng dùng thử và uống nước trà thoải mái. Nhân viên nhiệt tình, thân thiện …",
+        "when": "một năm trước"
+      },
+      {
+        "author": "Phương Nguyên",
+        "rating": 5,
+        "text": "Giá cũng phải chăng hợp lý.\nCơ sở và nhân viên đều có màu chủ đạo là TÍM.\nMình thích nhất bảng nội quy ở đây, dễ thương.",
+        "when": "4 tháng trước"
+      },
+      {
+        "author": "Happy Lee",
+        "rating": 1,
+        "text": "bán rất mắc giá gấp 3-4 lần bán ở chợ Đà Lạt … đoàn của mình đã đến mua rất nhiều và sau khi về chợ Đà Lạt thì mới biết đã bị chặt chém",
+        "when": "4 tháng trước"
+      },
+      {
+        "author": "Thi Hoa Tran",
+        "rating": 4,
+        "text": "Quầy ăn thử thoải mái, cơ sở tư vấn nhiệt tình, giá dĩ nhiên sẽ cao hơn ngoài chợ.\nẢnh có kèm giá. …",
+        "when": "một năm trước"
+      },
+      {
+        "author": "Hiếu Nguyễn",
+        "rating": 4,
+        "text": "Vào mua quà lưu niệm.\nĐầy đủ đặc sản sấy.\nNhân viên niềm nở …",
+        "when": "Thời gian chỉnh sửa: một năm trước"
+      },
+      {
+        "author": "Việt Bằng Phan",
+        "rating": 5,
+        "text": "Quá ấn tượng màu tím toàn tập. Ăn thử tử gà luôn. Đa dạng sản phẩm",
+        "when": "một năm trước"
+      },
+      {
+        "author": "THONG VICTOR",
+        "rating": 5,
+        "text": "Cơ sản sản xuất buôn bán các loại trái cây khô, mứt ở Đà Lạt, sản phẩm rất phong phú đa dạng đảm bảo chất lượng sản phẩm, phù hợp với du khách không có thời gian đi chợ, tìm mua quà Đà Lạt thì nơi đây chính là sự lựa chọn hàng đầu của khách, vị trí ngang khu Thung Lũng Tình Yêu.",
+        "when": "một năm trước"
+      },
+      {
+        "author": "Anh Nguyen",
+        "rating": 5,
+        "text": "Đặc sản Dâu, mứt dành cho tín đồ yêu màu tím",
+        "when": "4 tháng trước"
+      },
+      {
+        "author": "Nguyễn Thái Vân An",
+        "rating": 5,
+        "text": "Nhân viên lịch sự, thân thiện. Mọi người nên tránh mấy người bán chả trước của quán nha! Chả không ngon mà chèo kéo du khách",
+        "when": "một năm trước"
+      }
+    ],
+    "source": "google-maps"
+  },
+  "song-sinh-house-2-phu-kien-va-qua-tang-da--x1": {
+    "lat": 11.9543985,
+    "lng": 108.4416579,
+    "img": "images/song-sinh-house-2-phu-kien-va-qua-tang-da--x1.jpg",
+    "photos": [
+      "images/song-sinh-house-2-phu-kien-va-qua-tang-da--x1.jpg",
+      "images/song-sinh-house-2-phu-kien-va-qua-tang-da--x1-2.jpg",
+      "images/song-sinh-house-2-phu-kien-va-qua-tang-da--x1-3.jpg",
+      "images/song-sinh-house-2-phu-kien-va-qua-tang-da--x1-4.jpg"
+    ],
+    "phone": "0964961946",
+    "rating": 4.9,
+    "reviews": 550,
+    "comments": [
+      {
+        "author": "Nguyễn Hồ Huyền Trang",
+        "rating": 5,
+        "text": "Không gian mới nhiều món phụ kiện đáng iu dễ thương hơn bên chi nhánh cũ:>> rcm mng nên đi tới chi nhánh mới này nhaaa",
+        "when": "7 tháng trước"
+      },
+      {
+        "author": "Bảo Vy",
+        "rating": 5,
+        "text": "Không gian quán khá rộng, sạch sẽ,có nhiều phụ kiện xinh yêu, đa dạng, từ mĩ phẩm cho tới đồ tặng quà, đồ gia dụng,... dễ thương lắm luôn.",
+        "when": "9 tháng trước"
+      },
+      {
+        "author": "Minh Thư Đặng Thị",
+        "rating": 5,
+        "text": "shop bán đồ dễ thương, mấy bạn nhân viên ca tối nhiệt tình,thân thiện chu đáo.Có cơ hội mình sẽ ghé shop ủng hộ nhiều hơn 💞 …",
+        "when": "một tháng trước"
+      },
+      {
+        "author": "Ý Như",
+        "rating": 5,
+        "text": "shop xinh lắm luon ạ, nhân viên cũng dễ thương nữ, không gian shop sạch sẽ, thoáng.",
+        "when": "8 tháng trước"
+      },
+      {
+        "author": "duyen be",
+        "rating": 1,
+        "text": "hôm nay mình có vô mua hàng, nhưng không hiểu sao mấy b ca tối lại toát ra vẻ mặt khó chịu, thái độ với mình và cả bạn mình , mình là khách du lịch thấy trên tik tới mua xem sao mà như này mình thấy khá buồn và thất vọng mong quản lí xem\nxét lại thái độ của các bạn nhân viên ấy",
+        "when": "một tháng trước"
+      },
+      {
+        "author": "Kiệt Gia",
+        "rating": 3,
+        "text": "Nhân viên ở trong quán rất nhiệt tình ,phụ kiện thì mình thấy cũng rất đầy đủ nhưng mình không hài lòng lắm với thái độ của bảo vệ mình đậu xe ở quán và lúc vào mình cũng đã nhắc bảo vệ xe mình dễ ngã nhm lúc sau xe mình dù có các bạn trông …",
+        "when": "6 tháng trước"
+      },
+      {
+        "author": "Thúy Nhi Lê Phạm",
+        "rating": 5,
+        "text": "Sản phẩm giá rẻ, nhân viên nhiệt tình, có nhiều sự lựa chọn cho khách. Chị nhân viên dễ thương lắm ạ",
+        "when": "một năm trước"
+      },
+      {
+        "author": "thienngan su",
+        "rating": 5,
+        "text": "2 bạn nhân viên đứng quầy rất nhiệt tình, khi hỏi đến pin không có thì bạn chạy đi mua.",
+        "when": "một tháng trước"
+      },
+      {
+        "author": "Thảo Thanh",
+        "rating": 5,
+        "text": "Đã mua nhiều lần hàng dễ thương, nhân viên nhiệt tình",
+        "when": "7 tháng trước"
+      },
+      {
+        "author": "Ngọc Thảo",
+        "rating": 5,
+        "text": "nhân viên thân thiện, giá cả phải chăng phù hợp hssv",
+        "when": "7 tháng trước"
+      }
+    ],
+    "source": "google-maps"
+  },
+  "dac-san-da-lat-thanh-thao-x1": {
+    "lat": 11.9431945,
+    "lng": 108.4371319,
+    "img": "images/dac-san-da-lat-thanh-thao-x1.jpg",
+    "photos": [
+      "images/dac-san-da-lat-thanh-thao-x1.jpg",
+      "images/dac-san-da-lat-thanh-thao-x1-2.jpg",
+      "images/dac-san-da-lat-thanh-thao-x1-3.jpg",
+      "images/dac-san-da-lat-thanh-thao-x1-4.jpg"
+    ],
+    "phone": "0908521747",
+    "rating": 5,
+    "reviews": 117,
+    "comments": [
+      {
+        "author": "Kieu Oanh Ngoc",
+        "rating": 5,
+        "text": "Mua hàng của chị thích nhất là cái sự dễ thương, nhiệt tình. Người đã duyên mà đồ của chị chọn cái nào ra cái nấy, chất lượng miễn chê luôn.",
+        "when": "3 tuần trước"
+      },
+      {
+        "author": "Thuy Linh",
+        "rating": 5,
+        "text": "Quầy dễ tìm, nhỏ nhưng đa dạng, ngon, giá hợp lý.\nChị chủ chuẩn bị rất nhiều đồ ăn thử thoải mái trước khi mua. Ủng hộ chị khi quay lại Đà Lạt.",
+        "when": "2 tháng trước"
+      },
+      {
+        "author": "Tuấn Trọng Nguyễn",
+        "rating": 5,
+        "text": "Quầy nhỏ nhưng sản phẩm đa dạng, ngon, giá hợp lý\nVị trí trong chợ Đà Lạt rất dễ tìm\nChị chủ chuẩn bị rất nhiều đồ ăn thử, tha hồ thử trước khi lựa chọn, rất ưng ý. Chắc chắc sẽ quay lại khi đến ĐL",
+        "when": "một năm trước"
+      },
+      {
+        "author": "Annaviee Tr.",
+        "rating": 5,
+        "text": "Chị chủ dễ thương, vui vẻ, tư vấn nhiệt tình. Các món ở quầy ngon, dễ mua dễ ăn, không bị quá ngọt như các loại mứt trước đây mình từng ăn. Mọi người đi thẳng vào phía trong chợ có sạp, số sạp 232-233 là đúng nghen! Mua một bịch bự chà bá tưởng đâu sắp xuất ngoại á 😂 …",
+        "when": "một năm trước"
+      },
+      {
+        "author": "Y Bình Đinh",
+        "rating": 5,
+        "text": "Chị chủ dễ thương, nhiệt tình và thân thiện. Chị cho mình ăn thử thoải mái và tư vấn siêu có tâm dù mình mua không nhiều, đáng để mua lắm nha!",
+        "when": "2 năm trước"
+      },
+      {
+        "author": "Tiểu Ngư",
+        "rating": 5,
+        "text": "Bán đa dạng các loại đặc sản của đà lạt. Chị chủ dễ thương, nhiệt tình, cho ăn thử thoải mái. Tiệm nằm ở quầy 232-233 chợ Đà Lạt.",
+        "when": "một năm trước"
+      },
+      {
+        "author": "Ngọc Tuyền Lê Thị",
+        "rating": 5,
+        "text": "Mình lên gg kiếm chỗ mua quà, thì thấy quầy của chị nên ghé sang thử, quầy ở chợ dễ kiếm, 2 vk ck thân thiện, mua lần đầu tiên thấy cũng khá ổn,   mặt hàng thì có vẻ khá giống nhau giữa các sạp, giá thành chỗ chị bán hợp lí, chiếm dc cảm tình do sự cute của chị chủ",
+        "when": "một năm trước"
+      },
+      {
+        "author": "Chi Nhi Yên",
+        "rating": 5,
+        "text": "Anh chị chủ thân thiện, cho thử thoải mái luôn ạ. Các loại trái cây sấy không quá ngọt",
+        "when": "một năm trước"
+      },
+      {
+        "author": "Bảo Trân Trần",
+        "rating": 5,
+        "text": "Anh chủ cũng dễ thương, bán đặc sản cho ăn thử trước luôn ấy. Tới chợ rẻ trái là thấy liền. Mn nên ghé mua nhaaa.",
+        "when": "3 năm trước"
+      },
+      {
+        "author": "trmanh",
+        "rating": 5,
+        "text": "Chị chủ siu dthg với cực kì nhiệt tình lun ạ\ncho thử thoải mái với tư vấn kỹ lắm lun mua mà còn tặng quà thim nữa nên ghé mua ở sạp của chị nheee",
+        "when": "4 tháng trước"
+      }
+    ],
+    "source": "google-maps"
+  },
+  "cua-hang-dac-san-da-lat-mai-quynh-x1": {
+    "lat": 11.9706043,
+    "lng": 108.441864,
+    "img": "images/cua-hang-dac-san-da-lat-mai-quynh-x1.jpg",
+    "photos": [
+      "images/cua-hang-dac-san-da-lat-mai-quynh-x1.jpg",
+      "images/cua-hang-dac-san-da-lat-mai-quynh-x1-2.jpg",
+      "images/cua-hang-dac-san-da-lat-mai-quynh-x1-3.jpg",
+      "images/cua-hang-dac-san-da-lat-mai-quynh-x1-4.jpg"
+    ],
+    "phone": "0913181414",
+    "rating": 4,
+    "reviews": 518,
+    "comments": [
+      {
+        "author": "Nguyễn Xuân Vĩnh Hưng",
+        "rating": 3,
+        "text": "bán đầy đủ các đặc sảnĐà Lạt, có dùng thử, giá sẽ cao hơn nếu mua ở chợ Đà Lạt",
+        "when": "Thời gian chỉnh sửa: 11 tháng trước"
+      },
+      {
+        "author": "Trần Huỳnh Yến Nhi",
+        "rating": 2,
+        "text": "Ở đây bán đầy đủ sản phẩm đặc sản Đà Lạt, tuy nhiên mua dâu thì mọi người lưu ý. Mình cứ nghĩ để hộp như vầy thì dâu đỡ bị như, nhưng không bị thối rất nhiều ạ, các trái bị hư, dập được quay phía dưới, mình mua về hôm sau dở ra ăn thì hết …",
+        "when": "một năm trước"
+      },
+      {
+        "author": "tram tran thi",
+        "rating": 5,
+        "text": "Cửa hàng đặc sản khá lớn . Bán gần như đủ các loại đặc sản bánh mứt trà , cà phê Đà Lạt . Khách được miễn phí thưởng thức các loại mứt và trà nóng trước khi mua .",
+        "when": "4 năm trước"
+      },
+      {
+        "author": "Thanh Nhã Đỗ",
+        "rating": 5,
+        "text": "Bán nhiều đặc sản, giá vừa phải, nhân viên tiếp đón và giới thiệu dùng thử sản phẩm rất chu đáo👍 …",
+        "when": "một năm trước"
+      },
+      {
+        "author": "ramp service",
+        "rating": 5,
+        "text": "Nhân viên Tuyền  tư vấn nhiệt tình. Uy tín Đáng mua khi lên Đà Lạt du lịch !",
+        "when": "6 tháng trước"
+      },
+      {
+        "author": "Lâm Thanh Tùng Channel",
+        "rating": 5,
+        "text": "Chỗ bán đặc sản các kiểu uy tín như LangFarm, đoàn nào đi đông ghé vào sẽ được thưởng thức mứt và trà free\nGiá cả niêm yết rõ ràng",
+        "when": "4 năm trước"
+      },
+      {
+        "author": "Alex Phan",
+        "rating": 3,
+        "text": "1. Không gian\nKhá rộng rãi và thoáng mát\n2. Hàng hóa …",
+        "when": "4 năm trước"
+      },
+      {
+        "author": "nguyễn Văn Khánh (Minh My Travel)",
+        "rating": 4,
+        "text": "Cửa hàng đặc sản với đầy đủ các sản phẩm của Đà Lạt, hàng chất lượng vs mức giá niêm yết phải chăng và minh bạch.",
+        "when": "2 năm trước"
+      },
+      {
+        "author": "Huong Lan",
+        "rating": 4,
+        "text": "Cửa hàng rộng rãi. Tuy nhiên nhân viên chưa đủ thân thiện",
+        "when": "2 năm trước"
+      },
+      {
+        "author": "Nguyễn Thanh Dũng",
+        "rating": 5,
+        "text": "Nhà hàng bán đô đăc sản Đà lat uy tin!\nNhân viên nhiệt tình, chu đáo",
+        "when": "5 năm trước"
+      }
+    ],
+    "source": "google-maps"
+  },
+  "labata-handmade-shop-x1": {
+    "lat": 11.9435763,
+    "lng": 108.4351824,
+    "img": "images/labata-handmade-shop-x1.jpg",
+    "photos": [
+      "images/labata-handmade-shop-x1.jpg",
+      "images/labata-handmade-shop-x1-2.jpg",
+      "images/labata-handmade-shop-x1-3.jpg",
+      "images/labata-handmade-shop-x1-4.jpg"
+    ],
+    "phone": "0918361890",
+    "rating": 4.9,
+    "reviews": 178,
+    "comments": [
+      {
+        "author": "Thuy Ngo",
+        "rating": 5,
+        "text": "Tiệm rất có phong cách. Đồ được chọn lọc khá kỹ. Đặc biệt là các quyển sổ làm bằng tay, rất độc và lạ - do bạn Chủ tiệm tự chọn nguyên vật liệu và lên thiết kế luôn. Bạn Chủ tên Thư rất dễ thương và có gout thẩm mỹ! Mình đã chọn được 2 quyển sổ rất đẹp 1 quyển tặng và 1 quyển cho mình! Rất ưng ý!",
+        "when": "Thời gian chỉnh sửa: 6 tháng trước"
+      },
+      {
+        "author": "CAM TU TRAN",
+        "rating": 5,
+        "text": "Tiệm bán đồ lưu niệm xinh và mang lại cảm thấy các giác quan được đánh thức một cách dịu dàng- ở Đà Lạt",
+        "when": "6 tháng trước"
+      },
+      {
+        "author": "Ngân Kim",
+        "rating": 5,
+        "text": "Tiệm gì mà dễ thương dữ vậy cà. Mình đi dạo dạo thì tình cờ gặp tiệm này. Tiệm rất xinh luôn á, bạn nào muốn mua quà lưu niệm về tặng hoặc làm kỉ niệm thì hãy thử ghé Labata nhé vì tiệm khác hẳn những tiệm khác ở Đà Lạt luôn á (mình thấy vậy). Mình có mua đc 1 vòng cổ và 2 hột quẹt. Giá cả theo mình thấy là rẻ á. Dễ thương vô cùng",
+        "when": "một năm trước"
+      },
+      {
+        "author": "Nam Phương Nguyễn Hoàng",
+        "rating": 5,
+        "text": "Tiệm cửa hàng lưu niệm thủ công nằm gần chợ đà lạt, mình bị ấn tượng bởi cách decor của tiệm nên ghé vào xem thử.\nKhông gian dễ chịu, mọi thứ làm rất tỉ mỉ. Mình có mua 1 lọ nến thơm hết 200k …",
+        "when": "một năm trước"
+      },
+      {
+        "author": "LE TRUNG NGO",
+        "rating": 5,
+        "text": "MÌNH ĐÃ DỪNG CHÂN TRONG GÓC CỬA HÀNG NHỎ NÀY CẢ 1 TIẾNG!!!\n\nĐúng vậy, bạn ko đọc nhầm đâu! 😝 Thực sự mình đã ở trong shop rất lâu đó, chỉ để …",
+        "when": "11 tháng trước"
+      },
+      {
+        "author": "Xuân Nghi",
+        "rating": 5,
+        "text": "Mình tình cờ ghé Labata thui nhưng siu thích đồ handmade ở đây. Vào trong đây thấy được healing sao í. Tuy nhiên giá khá cao đối với mình nhưng phù hợp với giá trị của món handmade ❤️",
+        "when": "một năm trước"
+      },
+      {
+        "author": "Nhi Uyển",
+        "rating": 5,
+        "text": "Mình xem youtube của Hanz vũ và đến tiệm 1 lần xem thử. Tiệm nằm ngay trung tâm khu Hoà bình, dễ tìm và có 1 mặt tiền đầy hoa rất xinh.\nTiệm mát mẻ, decor dễ nhìn và không bị rối mắt, có nhiều đồ thủ công, vòng tay, …",
+        "when": "2 năm trước"
+      },
+      {
+        "author": "Minh Thy Vo",
+        "rating": 5,
+        "text": "Bán nhiều đồ cưng lắm, mình mua được nhiều món rất là ưng. Bạn nhân viên cũng dễ thương nữa. …",
+        "when": "một năm trước"
+      },
+      {
+        "author": "nhat nguyen",
+        "rating": 5,
+        "text": "Shop toàn những món handmade cực dễ thương - đã mở rộng và fancy nhiều hơn so với chỗ cũ trước kia (be bé xinh xinh hơn), nhưng vẫn rất có chất riêng của cô chủ ;) Rất nên ghé nếu bạn tìm quà tặng ý nghĩa cho người thân. Hàng signature là sổ thêu tay. Đặc biệt có tranh vẽ do cô chủ em sáng tác rất là hay ho.",
+        "when": "2 năm trước"
+      },
+      {
+        "author": "quocdreamer",
+        "rating": 5,
+        "text": "Shop coa nhiều sản phẩm cực kì lạ mắt và style vô cùng độc đáo. Mấy bạn thích đồ handmade thì không nên bỏ qua địa chỉ này khi tới Đà Lạt nha. Chị chủ rất dễ thương, những món đồ trong tiệm là do chị tự tay thiết kế rồi đưa cho nghệ nhân …",
+        "when": "3 năm trước"
+      }
+    ],
+    "source": "google-maps"
   }
 };

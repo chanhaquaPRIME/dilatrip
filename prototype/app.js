@@ -45,6 +45,33 @@ const state = {
   theme: "dark",
 };
 
+/* ---------------- persistence ---------------- */
+const STATE_KEY = "dalat_state";
+function saveState() {
+  try {
+    localStorage.setItem(STATE_KEY, JSON.stringify({
+      days: state.days, activeDay: state.activeDay,
+      persona: state.persona, pace: state.pace,
+      start: byId("startDate").value || "", end: byId("endDate").value || "",
+    }));
+  } catch (e) {}
+}
+function loadState() {
+  let d = null;
+  try { d = JSON.parse(localStorage.getItem(STATE_KEY)); } catch (e) {}
+  if (!d) return null;
+  if (Array.isArray(d.days) && d.days.length) {
+    state.days = d.days
+      .filter((day) => day && Array.isArray(day.items))
+      .map((day) => ({ items: day.items.filter((it) => it && (it.bucket ? bucketMap[it.bucket] : placeMap[it.id])) }));
+    if (!state.days.length) state.days = [{ items: [] }];
+    state.activeDay = Math.min(Number(d.activeDay) || 0, state.days.length - 1);
+  }
+  if (personaMap[d.persona]) state.persona = d.persona;
+  if (["relaxed", "balanced", "packed"].includes(d.pace)) state.pace = d.pace;
+  return d;
+}
+
 /* ---------------- helpers ---------------- */
 const pad = (n) => String(n).padStart(2, "0");
 const toHHMM = (min) => `${pad(Math.floor(min / 60) % 24)}:${pad(Math.round(min) % 60)}`;
@@ -170,9 +197,10 @@ function score(place) {
 
 /* photos + synthesized comments for the detail view */
 function detailData(p) {
-  let photos;
+  let photos, realPhotos = false, realComments = false;
   if (p.photos && p.photos.length) {
     photos = p.photos.slice(0, 5); // real Google Maps photos from the scraper
+    realPhotos = true;
   } else {
     const pool = CATEGORY_PHOTOS[p.category] || [];
     photos = [p.img];
@@ -181,6 +209,7 @@ function detailData(p) {
   let comments;
   if (p.comments && p.comments.length) {
     // real latest reviews scraped from Google Maps
+    realComments = true;
     comments = p.comments.slice(0, 10).map((c) => ({
       user: c.author || c.user || "Khách",
       rating: c.rating || 0,
@@ -202,7 +231,7 @@ function detailData(p) {
       text: t, when: "",
     }));
   }
-  return { photos, comments };
+  return { photos, comments, realPhotos, realComments };
 }
 
 /* ---------------- schedule time engine ---------------- */
@@ -260,6 +289,17 @@ function filteredPlaces() {
     .sort((a, b) => score(b) - score(a));
 }
 
+/* Transparent ranking: mirrors the factors used in score(). */
+function whyRanked(p) {
+  const bits = [];
+  bits.push(p.rating >= 4.5 ? "điểm ★ rất cao" : p.rating >= 4.0 ? "điểm ★ cao" : `★ ${p.rating}`);
+  if (p.reviews >= 5000) bits.push("rất nhiều đánh giá");
+  else if (p.reviews >= 500) bits.push("nhiều đánh giá");
+  const c = tagCounts(p.id);
+  if (c[state.persona] > 0) bits.push(`được gắn thẻ hợp ${personaMap[state.persona].label.toLowerCase()}`);
+  return bits.join(" · ");
+}
+
 function cardHTML(p) {
   const counts = tagCounts(p.id);
   const order = ["solo", "couple", "friends", "family"].sort((a, b) => counts[b] - counts[a]);
@@ -287,6 +327,7 @@ function cardHTML(p) {
         <span class="price">${priceStr(p.price)}</span>
         <span>· ${p.area}</span>
       </div>
+      <div class="why" title="Vì sao xếp hạng ở đây">✨ Gợi ý vì: ${whyRanked(p)}</div>
       ${tagsRow}
       <p class="desc">${p.desc}</p>
       <div class="hl-row">${hls}</div>
@@ -296,7 +337,13 @@ function cardHTML(p) {
 
 function renderExplore() {
   const list = filteredPlaces();
-  byId("cardList").innerHTML = list.map(cardHTML).join("");
+  if (list.length === 0) {
+    byId("cardList").innerHTML = `<div class="empty-hint"><span class="big">🔎</span>
+      Không tìm thấy địa điểm nào phù hợp.<br/>
+      <button class="btn-ghost" id="clearFilters">Xoá bộ lọc</button></div>`;
+  } else {
+    byId("cardList").innerHTML = list.map(cardHTML).join("");
+  }
   byId("exploreCount").textContent = `${list.length} địa điểm`;
   byId("cardList").querySelectorAll("img").forEach((img) => { img.onerror = () => { img.style.display = "none"; }; });
 }
@@ -317,13 +364,20 @@ function dayDateLabel(i) {
 
 function renderDayTabs() {
   const multi = state.days.length > 1;
+  // compact date pickers, visible on mobile only (header inputs are hidden there)
+  const fmt = (fp) => fp && fp.selectedDates[0]
+    ? fp.selectedDates[0].toLocaleDateString("vi-VN", { day: "2-digit", month: "2-digit" })
+    : "—";
+  const dateChips = `<button class="day-tab date-chip" data-datechip="start" title="Ngày đi">📅 ${fmt(fpStart)}</button>` +
+    `<button class="day-tab date-chip" data-datechip="end" title="Ngày về">→ ${fmt(fpEnd)}</button>`;
   const tabs = state.days.map((d, i) => {
     const dl = dayDateLabel(i);
     return `<button class="day-tab ${i === state.activeDay ? "active" : ""}" data-day="${i}">
       Ngày ${i + 1}${dl ? ` · ${dl}` : ""} <small>(${d.items.length})</small>${multi ? `<span class="day-del" data-del="${i}" title="Xoá ngày">×</span>` : ""}
     </button>`;
   }).join("");
-  byId("dayTabs").innerHTML = tabs + `<button class="day-tab day-add" id="addDay">+ Thêm ngày</button>`;
+  byId("dayTabs").innerHTML = dateChips + tabs + `<button class="day-tab day-add" id="addDay">+ Thêm ngày</button>`;
+  saveState();
 }
 
 function placeItemHTML(r, idx) {
@@ -402,6 +456,7 @@ function renderSchedule() {
   wireDropzone();
   wireScheduleItems();
   ensureTravelTimes(); // fetch accurate driving times in the background
+  saveState();
 }
 
 function renderDaySummary(rows) {
@@ -435,7 +490,7 @@ function updateMap() {
   if (state.focusId && placeMap[state.focusId]) {
     const p = placeMap[state.focusId];
     const mk = L.marker([p.lat, p.lng]).addTo(markerLayer).bindPopup(`<b>${p.name}</b>`).openPopup();
-    mk.on("click", () => { state.focusId = null; updateMap(); }); // click again to zoom back out
+    mk.on("click", () => openDetail(p.id)); // show the place card (zoom back out via "← Tất cả")
     map.setView([p.lat, p.lng], 15);
     byId("mapSub").textContent = p.name;
   } else {
@@ -448,7 +503,8 @@ function updateMap() {
       list.forEach((p) => {
         const m = L.marker([p.lat, p.lng]).addTo(markerLayer)
           .bindPopup(`<b>${p.name}</b><br>★ ${p.rating} · ${catMap[p.category].label}`);
-        m.on("click", () => { state.focusId = p.id; updateMap(); });
+        // Click a place on the map → focus it AND open its info card.
+        m.on("click", () => { state.focusId = p.id; updateMap(); openDetail(p.id); });
         pts.push([p.lat, p.lng]);
       });
       map.fitBounds(pts, { padding: [40, 40], maxZoom: 15 });
@@ -484,10 +540,15 @@ function wireCards() {
     removePlaceholder();
   });
   cl.addEventListener("click", (e) => {
+    if (e.target.closest("#clearFilters")) {
+      state.search = ""; state.cat = "all"; byId("search").value = "";
+      renderChips(); renderExplore(); updateMap();
+      return;
+    }
     const add = e.target.closest("[data-add]");
     if (add) { addToDay(add.dataset.add); return; }
     const card = e.target.closest(".card");
-    if (card) { state.focusId = card.dataset.id; updateMap(); openDetail(card.dataset.id); }
+    if (card) openDetail(card.dataset.id);
   });
 }
 
@@ -532,8 +593,18 @@ function wireScheduleItems() {
   });
   byId("scheduleList").querySelectorAll("[data-remove]").forEach((btn) => {
     btn.addEventListener("click", () => {
-      state.days[state.activeDay].items.splice(Number(btn.dataset.remove), 1);
+      const dayIdx = state.activeDay;
+      const idx = Number(btn.dataset.remove);
+      const [removed] = state.days[dayIdx].items.splice(idx, 1);
       renderSchedule(); renderDayTabs(); updateMap();
+      const name = removed.bucket ? (removed.label || bucketMap[removed.bucket].label) : placeMap[removed.id].name;
+      showToast(`Đã xoá “${name}”`, "Hoàn tác", () => {
+        if (!state.days[dayIdx]) return;
+        const items = state.days[dayIdx].items;
+        items.splice(Math.min(idx, items.length), 0, removed);
+        state.activeDay = dayIdx;
+        renderSchedule(); renderDayTabs(); updateMap();
+      });
     });
   });
 }
@@ -568,51 +639,168 @@ function wireDropzone() {
   });
   zone.addEventListener("drop", (e) => {
     e.preventDefault(); zone.classList.remove("over");
-    const items = state.days[state.activeDay].items;
-    // index = number of non-dragging items shown before the placeholder gap
-    let idx = items.length;
-    const ph = zone.querySelector(".drop-placeholder");
-    if (ph) {
-      idx = 0;
-      for (const el of zone.children) {
-        if (el === ph) break;
-        if (el.classList.contains("sched-item") && !el.classList.contains("dragging")) idx++;
-      }
-    }
-    removePlaceholder();
-    if (dragKind === "new") {
-      items.splice(idx, 0, { id: dragId, dur: placeMap[dragId].visitMin });
-      state.focusId = dragId;
-    } else if (dragKind === "new-bucket") {
-      items.splice(idx, 0, { bucket: dragBucket, dur: bucketMap[dragBucket].dur });
-    } else if (dragKind === "move") {
-      const [moved] = items.splice(dragIdx, 1);
-      if (dragIdx < idx) idx--;
-      items.splice(idx, 0, moved);
-    }
-    dragKind = dragId = dragIdx = dragBucket = null;
-    renderSchedule(); renderDayTabs(); updateMap();
+    performDrop(zone);
   });
 }
 
+/* Shared by native (mouse) and touch drag paths. */
+function performDrop(zone) {
+  const items = state.days[state.activeDay].items;
+  // index = number of non-dragging items shown before the placeholder gap
+  let idx = items.length;
+  const ph = zone.querySelector(".drop-placeholder");
+  if (ph) {
+    idx = 0;
+    for (const el of zone.children) {
+      if (el === ph) break;
+      if (el.classList.contains("sched-item") && !el.classList.contains("dragging")) idx++;
+    }
+  }
+  removePlaceholder();
+  if (dragKind === "new") {
+    items.splice(idx, 0, { id: dragId, dur: defaultDur(placeMap[dragId]) });
+    state.focusId = dragId;
+  } else if (dragKind === "new-bucket") {
+    items.splice(idx, 0, { bucket: dragBucket, dur: bucketMap[dragBucket].dur });
+  } else if (dragKind === "move") {
+    const [moved] = items.splice(dragIdx, 1);
+    if (dragIdx < idx) idx--;
+    items.splice(idx, 0, moved);
+  }
+  dragKind = dragId = dragIdx = dragBucket = null;
+  renderSchedule(); renderDayTabs(); updateMap();
+}
+
+/* Pace stretches or compresses the default visit duration of newly added places. */
+const PACE_FACTOR = { relaxed: 1.3, balanced: 1, packed: 0.75 };
+function defaultDur(place) {
+  return Math.max(15, Math.round((place.visitMin * PACE_FACTOR[state.pace]) / 15) * 15);
+}
+
+function flashNewItem(idx) {
+  const el = byId("scheduleList").querySelector(`.sched-item[data-idx="${idx}"]`);
+  if (!el) return;
+  el.classList.add("flash");
+  if (el.offsetParent) el.scrollIntoView({ block: "nearest", behavior: "smooth" });
+}
+
+/* ---------------- touch drag (mobile) ----------------
+   HTML5 DnD does not fire on touch. Long-press (250ms) a schedule item or a
+   bucket chip to lift it, drag to reorder / insert, release to drop.
+   Cards→schedule on mobile stays via the + button (panes are tabs there). */
+let touchDrag = null, touchTimer = null, touchStart = null, touchEl = null;
+
+function tdMoveGhost(x, y) {
+  touchDrag.ghost.style.left = x + "px";
+  touchDrag.ghost.style.top = (y - 12) + "px";
+}
+
+function tdBegin() {
+  touchTimer = null;
+  const el = touchEl;
+  if (el.classList.contains("bucket-chip")) {
+    dragKind = "new-bucket"; dragBucket = el.dataset.bucket; dragId = dragIdx = null;
+  } else {
+    dragKind = "move"; dragId = el.dataset.id; dragIdx = Number(el.dataset.idx); dragBucket = null;
+  }
+  const r = el.getBoundingClientRect();
+  const ghost = el.cloneNode(true);
+  ghost.classList.add("touch-ghost");
+  ghost.style.width = r.width + "px";
+  document.body.appendChild(ghost);
+  el.classList.add("dragging");
+  touchDrag = { el, ghost };
+  tdMoveGhost(touchStart.x, touchStart.y);
+  if (navigator.vibrate) navigator.vibrate(15);
+}
+
+function tdCancelTimer() { clearTimeout(touchTimer); touchTimer = null; }
+
+function tdPointerDown(e) {
+  if (e.pointerType === "mouse") return; // mouse uses native DnD
+  const el = e.target.closest(".sched-item, .bucket-chip");
+  if (!el || e.target.closest("select, a, button")) return;
+  touchEl = el;
+  touchStart = { x: e.clientX, y: e.clientY };
+  touchTimer = setTimeout(tdBegin, 250);
+}
+
+function tdPointerMove(e) {
+  if (touchTimer) { // pre-drag: movement means the user is scrolling
+    if (Math.hypot(e.clientX - touchStart.x, e.clientY - touchStart.y) > 8) tdCancelTimer();
+    return;
+  }
+  if (!touchDrag) return;
+  tdMoveGhost(e.clientX, e.clientY);
+  const zone = byId("dropzone");
+  if (!zone) return;
+  const zr = zone.getBoundingClientRect();
+  const inside = e.clientX >= zr.left && e.clientX <= zr.right && e.clientY >= zr.top && e.clientY <= zr.bottom;
+  zone.classList.toggle("over", inside);
+  if (inside) {
+    const after = getDragAfterElement(zone, e.clientY);
+    const ph = getPlaceholder();
+    if (after == null) zone.appendChild(ph); else zone.insertBefore(ph, after);
+    const sl = byId("scheduleList");
+    const sr = sl.getBoundingClientRect();
+    if (e.clientY < sr.top + 48) sl.scrollTop -= 10;
+    else if (e.clientY > sr.bottom - 48) sl.scrollTop += 10;
+  } else {
+    removePlaceholder();
+  }
+}
+
+function tdPointerUp() {
+  tdCancelTimer();
+  if (!touchDrag) return;
+  const { el, ghost } = touchDrag;
+  touchDrag = null;
+  ghost.remove();
+  el.classList.remove("dragging");
+  const zone = byId("dropzone");
+  if (zone && zone.querySelector(".drop-placeholder")) {
+    zone.classList.remove("over");
+    performDrop(zone);
+  } else {
+    removePlaceholder();
+    dragKind = dragId = dragIdx = dragBucket = null;
+  }
+}
+
+function wireTouchDrag() {
+  document.addEventListener("pointerdown", tdPointerDown);
+  document.addEventListener("pointermove", tdPointerMove);
+  document.addEventListener("pointerup", tdPointerUp);
+  document.addEventListener("pointercancel", tdPointerUp);
+  // block page scroll only while actually dragging
+  document.addEventListener("touchmove", (e) => { if (touchDrag) e.preventDefault(); }, { passive: false });
+}
+
 function addToDay(id) {
-  state.days[state.activeDay].items.push({ id, dur: placeMap[id].visitMin });
+  state.days[state.activeDay].items.push({ id, dur: defaultDur(placeMap[id]) });
   state.focusId = id;
   renderSchedule(); renderDayTabs(); updateMap();
-  flashTab("schedule");
+  flashNewItem(state.days[state.activeDay].items.length - 1);
+  if (window.innerWidth <= 1100 && state.tab !== "schedule") {
+    showToast(`Đã thêm vào Ngày ${state.activeDay + 1}`, "Xem", () => { state.tab = "schedule"; syncTabs(); });
+  }
 }
 
 function addBucket(type) {
   const b = bucketMap[type];
   state.days[state.activeDay].items.push({ bucket: type, dur: b.dur });
   renderSchedule(); renderDayTabs();
-  flashTab("schedule");
+  flashNewItem(state.days[state.activeDay].items.length - 1);
 }
 
 /* ---------------- Detail modal ---------------- */
+let detailPrevFocus = null; // map focus to restore when the modal closes
 function openDetail(id) {
+  detailPrevFocus = state.focusId;
+  state.focusId = id;
+  updateMap();
   const p = placeMap[id];
-  const { photos, comments } = detailData(p);
+  const { photos, comments, realPhotos, realComments } = detailData(p);
   const tc = tagCounts(p.id);
   const fit = tc[state.persona] > 0;
   byId("detailBody").innerHTML = `
@@ -628,6 +816,7 @@ function openDetail(id) {
         ${fit ? `<span class="fit-badge">Hợp ${personaMap[state.persona].label.toLowerCase()}</span>` : ""}
       </div>
       <div class="meta">★ ${p.rating} · ${p.reviews.toLocaleString("vi-VN")} đánh giá · ${priceStr(p.price)} · ${catMap[p.category].label} · ${p.area}</div>
+      ${realPhotos || realComments ? `<div class="attrib">Ảnh và đánh giá: nguồn Google Maps</div>` : ""}
       <p class="desc">${p.desc}</p>
       <div class="detail-facts">
         <span>🕗 ${p.hours === "24h" ? "Mở cả ngày" : "Mở " + p.hours}</span>
@@ -642,7 +831,7 @@ function openDetail(id) {
           ${window.PERSONAS.map((per) => `<button class="tag-chip${userHasTag(p.id, per.id) ? " on" : ""}" data-tag="${per.id}">${per.emoji} ${per.label} <span class="tag-count">${tc[per.id]}</span></button>`).join("")}
         </div>
       </div>
-      <h3 class="comments-title">Bình luận nổi bật</h3>
+      <h3 class="comments-title">${realComments ? "Bình luận nổi bật <span class='attrib'>· từ Google Maps</span>" : "Bình luận minh hoạ <span class='attrib'>· dữ liệu mẫu</span>"}</h3>
       <div class="comments">
         ${comments.map((c) => `
           <div class="comment">
@@ -656,6 +845,7 @@ function openDetail(id) {
     </div>`;
 
   byId("detailModal").hidden = false;
+  lockScroll(true);
   const main = byId("galMain");
   main.onerror = () => (main.style.background = "var(--ig-gradient)");
   byId("detailBody").querySelectorAll("[data-gal]").forEach((t) => {
@@ -681,7 +871,14 @@ function openDetail(id) {
     });
   });
 }
-function closeDetail() { byId("detailModal").hidden = true; }
+function closeDetail() {
+  byId("detailModal").hidden = true;
+  lockScroll(false);
+  state.focusId = detailPrevFocus;
+  detailPrevFocus = null;
+  updateMap();
+}
+function lockScroll(on) { document.body.style.overflow = on ? "hidden" : ""; }
 
 /* ---------------- Export modal + PDF ---------------- */
 function openExport() {
@@ -709,7 +906,9 @@ function openExport() {
   if (!any) html += `<p>Chưa có hoạt động nào. Hãy thêm địa điểm vào lịch trình trước.</p>`;
   byId("exportContent").innerHTML = html;
   byId("exportModal").hidden = false;
+  lockScroll(true);
 }
+function closeExport() { byId("exportModal").hidden = true; lockScroll(false); }
 
 async function generatePDF() {
   const node = byId("exportContent");
@@ -758,6 +957,29 @@ function openDayMap() {
   if (places.length === 0) { alert("Ngày này chưa có địa điểm."); return; }
   const path = places.map((it) => `${placeMap[it.id].lat},${placeMap[it.id].lng}`).join("/");
   window.open(`https://www.google.com/maps/dir/${path}`, "_blank");
+}
+
+/* ---------------- toast ---------------- */
+let toastTimer = null;
+function hideToast() { byId("toastWrap").innerHTML = ""; clearTimeout(toastTimer); toastTimer = null; }
+function showToast(msg, actionLabel, onAction) {
+  const wrap = byId("toastWrap");
+  wrap.innerHTML = "";
+  const t = document.createElement("div");
+  t.className = "toast";
+  const span = document.createElement("span");
+  span.textContent = msg;
+  t.appendChild(span);
+  if (actionLabel) {
+    const b = document.createElement("button");
+    b.className = "toast-act";
+    b.textContent = actionLabel;
+    b.addEventListener("click", () => { hideToast(); onAction(); });
+    t.appendChild(b);
+  }
+  wrap.appendChild(t);
+  clearTimeout(toastTimer);
+  toastTimer = setTimeout(hideToast, 4000);
 }
 
 /* ---------------- theme ---------------- */
@@ -825,35 +1047,64 @@ function syncTabs() {
   byId("mobileNav").querySelectorAll("button").forEach((b) => b.classList.toggle("active", b.dataset.tab === state.tab));
   if (map && state.tab === "map") setTimeout(() => map.invalidateSize(), 60);
 }
-function flashTab(tab) { if (window.innerWidth <= 1100) { state.tab = tab; syncTabs(); } }
+
+/* ---------------- dates ↔ days ---------------- */
+let fpStart, fpEnd;
+function syncDaysToDates() {
+  const s = fpStart.selectedDates[0], e = fpEnd.selectedDates[0];
+  if (!s || !e) return;
+  const n = Math.min(30, Math.max(1, Math.round((e - s) / 86400000) + 1));
+  while (state.days.length < n) state.days.push({ items: [] });
+  // only trim empty trailing days — never silently delete planned days
+  while (state.days.length > n && state.days[state.days.length - 1].items.length === 0) state.days.pop();
+  if (state.activeDay >= state.days.length) state.activeDay = state.days.length - 1;
+  renderDayTabs(); renderSchedule(); updateMap();
+}
 
 /* ---------------- init ---------------- */
 async function init() {
   await loadTagCounts();
+  const saved = loadState();
   const t = new Date(); const end = new Date(); end.setDate(t.getDate() + 2);
   const dateOpts = { dateFormat: "Y-m-d", altInput: true, altFormat: "d/m/Y", disableMobile: true };
-  flatpickr(byId("startDate"), { ...dateOpts, defaultDate: t, onChange: () => renderDayTabs() });
-  flatpickr(byId("endDate"), { ...dateOpts, defaultDate: end });
+  fpStart = flatpickr(byId("startDate"), {
+    ...dateOpts, defaultDate: (saved && saved.start) || t,
+    onChange: (dates) => { if (dates[0]) fpEnd.set("minDate", dates[0]); syncDaysToDates(); },
+  });
+  fpEnd = flatpickr(byId("endDate"), {
+    ...dateOpts, defaultDate: (saved && saved.end) || end,
+    onChange: () => syncDaysToDates(),
+  });
+  if (fpStart.selectedDates[0]) fpEnd.set("minDate", fpStart.selectedDates[0]);
+  byId("pace").value = state.pace;
 
-  let saved = "dark"; try { saved = localStorage.getItem("dalat_theme") || "dark"; } catch (e) {}
-  applyTheme(saved);
+  let savedTheme = "dark"; try { savedTheme = localStorage.getItem("dalat_theme") || "dark"; } catch (e) {}
+  applyTheme(savedTheme);
 
   initMap();
   render();
   wireCards();
+  wireTouchDrag();
 
   byId("personaTabs").addEventListener("click", (e) => {
     const b = e.target.closest("[data-persona]"); if (!b) return;
-    state.persona = b.dataset.persona; renderPersonaTabs(); renderExplore();
+    state.persona = b.dataset.persona; renderPersonaTabs(); renderExplore(); saveState();
   });
   byId("catChips").addEventListener("click", (e) => {
     const b = e.target.closest("[data-cat]"); if (!b) return;
     state.cat = b.dataset.cat; state.focusId = null; renderChips(); renderExplore(); updateMap();
   });
+  let searchTimer = null;
   byId("search").addEventListener("input", (e) => {
-    state.search = e.target.value; state.focusId = null; renderExplore(); updateMap();
+    clearTimeout(searchTimer);
+    searchTimer = setTimeout(() => {
+      state.search = e.target.value; state.focusId = null; renderExplore(); updateMap();
+    }, 200);
   });
-  byId("pace").addEventListener("change", (e) => { state.pace = e.target.value; });
+  byId("pace").addEventListener("change", (e) => {
+    state.pace = e.target.value; saveState();
+    showToast(`Nhịp độ “${e.target.selectedOptions[0].text}” — áp dụng cho địa điểm thêm mới`);
+  });
 
   byId("bucketBar").addEventListener("click", (e) => {
     const b = e.target.closest("[data-bucket]"); if (!b) return;
@@ -870,13 +1121,27 @@ async function init() {
   });
 
   byId("dayTabs").addEventListener("click", (e) => {
+    const dc = e.target.closest("[data-datechip]");
+    if (dc) {
+      const fp = dc.dataset.datechip === "start" ? fpStart : fpEnd;
+      fp.set("positionElement", dc);
+      fp.open();
+      return;
+    }
     const del = e.target.closest("[data-del]");
     if (del) {
       const i = Number(del.dataset.del);
-      state.days.splice(i, 1);
+      const [removedDay] = state.days.splice(i, 1);
       if (state.activeDay >= state.days.length) state.activeDay = state.days.length - 1;
       else if (state.activeDay > i) state.activeDay--;
       renderDayTabs(); renderSchedule(); updateMap();
+      if (removedDay.items.length) {
+        showToast(`Đã xoá Ngày ${i + 1} (${removedDay.items.length} mục)`, "Hoàn tác", () => {
+          state.days.splice(Math.min(i, state.days.length), 0, removedDay);
+          state.activeDay = Math.min(i, state.days.length - 1);
+          renderDayTabs(); renderSchedule(); updateMap();
+        });
+      }
       return;
     }
     if (e.target.closest("#addDay")) { state.days.push({ items: [] }); renderDayTabs(); return; }
@@ -900,7 +1165,14 @@ async function init() {
     if (e.target.id === "detailModal" || e.target.closest("[data-close-detail]")) closeDetail();
   });
   byId("exportModal").addEventListener("click", (e) => {
-    if (e.target.id === "exportModal" || e.target.closest("[data-close-export]")) byId("exportModal").hidden = true;
+    if (e.target.id === "exportModal" || e.target.closest("[data-close-export]")) closeExport();
+  });
+
+  document.addEventListener("keydown", (e) => {
+    if (e.key !== "Escape") return;
+    if (!byId("detailModal").hidden) closeDetail();
+    else if (!byId("exportModal").hidden) closeExport();
+    else if (!byId("tour").hidden) endTour();
   });
 
   byId("mobileNav").addEventListener("click", (e) => {

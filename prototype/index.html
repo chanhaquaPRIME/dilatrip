@@ -3,12 +3,18 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Lịch trình Đà Lạt — Prototype</title>
+  <title>Đilatrip - Plan your trip</title>
   <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/flatpickr@4.6.13/dist/flatpickr.min.css" />
   <link rel="stylesheet" href="styles.css" />
 </head>
-<body>
+<body data-theme="dark">
+  <script>
+    try {
+      if (localStorage.getItem("dalat_theme") === "light")
+        document.body.setAttribute("data-theme", "light");
+    } catch (e) {}
+  </script>
   <header class="app-header">
     <div class="brand">
       <span class="logo">✈️</span>
@@ -34,7 +40,7 @@
       <div class="persona-tabs" id="personaTabs"></div>
 
       <button class="icon-btn" id="helpBtn" title="Hướng dẫn sử dụng">?</button>
-      <button class="icon-btn" id="themeToggle" title="Chế độ tối/sáng">🌙</button>
+      <button class="icon-btn" id="themeToggle" title="Chế độ tối/sáng">☀️</button>
       <button class="btn-primary" id="exportBtn">Xuất lịch trình</button>
     </div>
   </header>
@@ -123,6 +129,9 @@
       <div id="exportContent" class="export-sheet"></div>
     </div>
   </div>
+
+  <!-- Toasts (thông báo nhanh) -->
+  <div class="toast-wrap" id="toastWrap"></div>
 
   <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/flatpickr@4.6.13"></script>

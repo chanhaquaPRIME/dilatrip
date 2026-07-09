@@ -30,6 +30,14 @@ window.CATEGORIES = [
   { id: "shopping",  label: "Mua sắm",    emoji: "🛍️" },
 ];
 
+// Supported cities. `box` bounds accepted scraped coordinates (rejects wrong-city).
+window.CITIES = [
+  { id: "dalat",    label: "Đà Lạt",    center: { lat: 11.9404, lng: 108.4583 }, zoom: 13, box: { minLat: 11.5, maxLat: 12.3,  minLng: 108.0, maxLng: 108.95 } },
+  { id: "nhatrang", label: "Nha Trang", center: { lat: 12.2388, lng: 109.1967 }, zoom: 13, box: { minLat: 11.9, maxLat: 12.55, minLng: 108.9, maxLng: 109.45 } },
+];
+function cityLabel(id) { const c = window.CITIES.find((x) => x.id === id); return c ? c.label : "Đà Lạt"; }
+function cityBox(id) { const c = window.CITIES.find((x) => x.id === id); return c ? c.box : null; }
+
 const IMG = "https://images.unsplash.com/", OPT = "?w=640&q=80&auto=format&fit=crop";
 const PHOTOS = {
   visit: ["1519681393784-d120267933ba", "1506748686214-e9df14d4d9d0", "1474487548417-781cb71495f3", "1490750967868-88aa4486c946", "1528127269322-539801943592", "1558981403-c5f9899a28bc"],
@@ -44,8 +52,9 @@ const _pi = {};
 function ph(cat) { const a = PHOTOS[cat] || PHOTOS.visit; const i = _pi[cat] || 0; _pi[cat] = i + 1; return IMG + "photo-" + a[i % a.length] + OPT; }
 function noDia(s) { return s.normalize("NFD").replace(/[̀-ͯ]/g, "").replace(/đ/g, "d").replace(/Đ/g, "D"); }
 function P(o) {
+  o.city = o.city || "dalat";
   o.img = ph(o.category);
-  o.mapsUrl = "https://www.google.com/maps/search/?api=1&query=" + encodeURIComponent(o.name + " Đà Lạt");
+  o.mapsUrl = "https://www.google.com/maps/search/?api=1&query=" + encodeURIComponent(o.name + " " + cityLabel(o.city));
   o.personas = o.personas || ["solo", "couple", "friends", "family"];
   o.highlights = o.highlights || [];
   if (!("phone" in o)) o.phone = "";
@@ -189,28 +198,33 @@ RAW.forEach((p, i) => {
   p.id = noDia(p.name).toLowerCase().replace(/[^a-z0-9]+/g, "-").replace(/^-|-$/g, "").slice(0, 42) + "-" + i;
 });
 
-/* Append extra places discovered from Google Maps (discover-maps.mjs). */
-if (Array.isArray(window.PLACES_EXTRA)) {
+/* Append extra places discovered from Google Maps (discover-maps.mjs), per city. */
+function appendExtras(arr, defaultCity) {
+  if (!Array.isArray(arr)) return;
   const have = new Set(RAW.map((p) => p.id));
-  for (const e of window.PLACES_EXTRA) {
+  for (const e of arr) {
     if (!e.id || have.has(e.id)) continue;
+    e.city = e.city || defaultCity;
     e.personas = e.personas || ["solo", "couple", "friends", "family"];
     e.highlights = e.highlights || [];
     if (!("phone" in e)) e.phone = "";
     if (!e.img) e.img = ph(e.category);
-    if (!e.mapsUrl) e.mapsUrl = "https://www.google.com/maps/search/?api=1&query=" + encodeURIComponent(e.name + " Đà Lạt");
+    if (!e.mapsUrl) e.mapsUrl = "https://www.google.com/maps/search/?api=1&query=" + encodeURIComponent(e.name + " " + cityLabel(e.city));
     RAW.push(e);
     have.add(e.id);
   }
 }
+appendExtras(window.PLACES_EXTRA, "dalat");
+appendExtras(window.PLACES_NHATRANG, "nhatrang");
 
 /* Merge real Google Maps photos/prices scraped into place-media.js (if present). */
 if (window.PLACE_MEDIA) {
   for (const p of RAW) {
     const m = window.PLACE_MEDIA[p.id];
     if (!m) continue;
-    // real coords for accurate travel time — only if inside Lâm Đồng (reject HCMC etc.)
-    if (m.lat != null && m.lng != null && m.lat >= 11.5 && m.lat <= 12.3 && m.lng >= 108.0 && m.lng <= 108.95) { p.lat = m.lat; p.lng = m.lng; }
+    // real coords for accurate travel time — only if inside the place's city box (reject wrong-city)
+    const box = cityBox(p.city);
+    if (m.lat != null && m.lng != null && (!box || (m.lat >= box.minLat && m.lat <= box.maxLat && m.lng >= box.minLng && m.lng <= box.maxLng))) { p.lat = m.lat; p.lng = m.lng; }
     if (m.img) p.img = m.img;
     if (m.photos && m.photos.length) p.photos = m.photos;
     if (m.comments && m.comments.length) p.comments = m.comments;

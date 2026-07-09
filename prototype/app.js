@@ -35,42 +35,71 @@ const CATEGORY_PHOTOS = {
 const NAMES = ["Minh Anh", "Hoàng Nam", "Thuỳ Linh", "Quốc Bảo", "Phương Vy", "Đức Huy", "Ngọc Hân", "Tuấn Kiệt"];
 
 const state = {
+  city: "dalat",
   persona: "couple",
   pace: "balanced",
   days: [{ items: [] }, { items: [] }, { items: [] }],
   activeDay: 0,
+  tripsByCity: {}, // { cityId: { days, activeDay } } — schedule kept separately per city
   focusId: null,
   cat: "all",
   search: "",
   tab: "explore",
   theme: "dark",
 };
+function cityInfo() { return window.CITIES.find((c) => c.id === state.city) || window.CITIES[0]; }
 
 /* ---------------- persistence ---------------- */
 const STATE_KEY = "dalat_state";
 function saveState() {
   try {
+    state.tripsByCity[state.city] = { days: state.days, activeDay: state.activeDay };
     localStorage.setItem(STATE_KEY, JSON.stringify({
-      days: state.days, activeDay: state.activeDay,
+      city: state.city, tripsByCity: state.tripsByCity,
       persona: state.persona, pace: state.pace,
       start: byId("startDate").value || "", end: byId("endDate").value || "",
     }));
   } catch (e) {}
 }
+function cleanDays(days) {
+  const out = (days || [])
+    .filter((day) => day && Array.isArray(day.items))
+    .map((day) => ({ items: day.items.filter((it) => it && (it.bucket ? bucketMap[it.bucket] : placeMap[it.id])) }));
+  return out.length ? out : [{ items: [] }];
+}
 function loadState() {
   let d = null;
   try { d = JSON.parse(localStorage.getItem(STATE_KEY)); } catch (e) {}
   if (!d) return null;
-  if (Array.isArray(d.days) && d.days.length) {
-    state.days = d.days
-      .filter((day) => day && Array.isArray(day.items))
-      .map((day) => ({ items: day.items.filter((it) => it && (it.bucket ? bucketMap[it.bucket] : placeMap[it.id])) }));
-    if (!state.days.length) state.days = [{ items: [] }];
-    state.activeDay = Math.min(Number(d.activeDay) || 0, state.days.length - 1);
+  if (d.city && window.CITIES.some((c) => c.id === d.city)) state.city = d.city;
+  // per-city schedules, with back-compat for the old flat {days, activeDay} format
+  const trips = d.tripsByCity || (Array.isArray(d.days) ? { [state.city]: { days: d.days, activeDay: d.activeDay } } : {});
+  state.tripsByCity = {};
+  for (const [cid, t] of Object.entries(trips)) {
+    if (!t) continue;
+    const days = cleanDays(t.days);
+    state.tripsByCity[cid] = { days, activeDay: Math.min(Number(t.activeDay) || 0, days.length - 1) };
   }
+  const cur = state.tripsByCity[state.city];
+  if (cur) { state.days = cur.days; state.activeDay = cur.activeDay; }
   if (personaMap[d.persona]) state.persona = d.persona;
   if (["relaxed", "balanced", "packed"].includes(d.pace)) state.pace = d.pace;
   return d;
+}
+function switchCity(id) {
+  if (id === state.city || !window.CITIES.some((c) => c.id === id)) return;
+  state.tripsByCity[state.city] = { days: state.days, activeDay: state.activeDay }; // stash current trip
+  state.city = id;
+  const t = state.tripsByCity[id];
+  state.days = t ? t.days : [{ items: [] }, { items: [] }, { items: [] }];
+  state.activeDay = t ? t.activeDay : 0;
+  state.focusId = null; state.cat = "all"; state.search = "";
+  const sb = byId("search"); if (sb) sb.value = "";
+  saveState();
+  const ci = cityInfo();
+  if (map) map.setView([ci.center.lat, ci.center.lng], ci.zoom);
+  render();
+  showToast(`Đã chuyển sang ${ci.label}`);
 }
 
 /* ---------------- helpers ---------------- */
@@ -285,6 +314,7 @@ function renderChips() {
 function filteredPlaces() {
   const q = state.search.trim().toLowerCase();
   return window.PLACES
+    .filter((p) => (p.city || "dalat") === state.city)
     .filter((p) => state.cat === "all" || p.category === state.cat)
     .filter((p) => !q || (p.name + " " + p.desc + " " + p.area).toLowerCase().includes(q))
     .sort((a, b) => score(b) - score(a));
@@ -478,7 +508,8 @@ function renderDaySummary(rows) {
 /* ---------------- Map (Leaflet) ---------------- */
 let map, markerLayer;
 function initMap() {
-  map = L.map("map", { zoomControl: true }).setView([DALAT_CENTER.lat, DALAT_CENTER.lng], 13);
+  const ci = cityInfo();
+  map = L.map("map", { zoomControl: true }).setView([ci.center.lat, ci.center.lng], ci.zoom);
   L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", { maxZoom: 19, attribution: "© OpenStreetMap" }).addTo(map);
   markerLayer = L.layerGroup().addTo(map);
   setTimeout(() => map.invalidateSize(), 200);
@@ -497,8 +528,9 @@ function updateMap() {
   } else {
     const list = filteredPlaces();
     if (list.length === 0) {
-      map.setView([DALAT_CENTER.lat, DALAT_CENTER.lng], 13);
-      byId("mapSub").textContent = "Đà Lạt";
+      const ci = cityInfo();
+      map.setView([ci.center.lat, ci.center.lng], ci.zoom);
+      byId("mapSub").textContent = ci.label;
     } else {
       const pts = [];
       list.forEach((p) => {
@@ -885,7 +917,7 @@ function lockScroll(on) { document.body.style.overflow = on ? "hidden" : ""; }
 /* ---------------- Export modal + PDF ---------------- */
 function openExport() {
   const persona = personaMap[state.persona];
-  let html = `<h1>✈️ Lịch trình Đà Lạt</h1>
+  let html = `<h1>✈️ Lịch trình ${cityInfo().label}</h1>
     <div class="ex-sub">Nhóm: ${persona.emoji} ${persona.label} · Nhịp độ: ${byId("pace").selectedOptions[0].text}</div>`;
   let any = false;
   state.days.forEach((day, i) => {
@@ -1107,6 +1139,14 @@ async function init() {
     state.pace = e.target.value; saveState();
     showToast(`Nhịp độ “${e.target.selectedOptions[0].text}” — áp dụng cho địa điểm thêm mới`);
   });
+
+  // City switcher
+  const citySel = byId("citySelect");
+  if (citySel) {
+    citySel.innerHTML = window.CITIES.map((c) => `<option value="${c.id}">${c.label}</option>`).join("");
+    citySel.value = state.city;
+    citySel.addEventListener("change", (e) => switchCity(e.target.value));
+  }
 
   byId("bucketBar").addEventListener("click", (e) => {
     const b = e.target.closest("[data-bucket]"); if (!b) return;

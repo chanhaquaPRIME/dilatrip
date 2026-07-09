@@ -18,8 +18,15 @@
   <header class="app-header">
     <div class="brand">
       <span class="logo">✈️</span>
-      <span>Đilatrip</span>
-      <select id="citySelect" class="city-select" title="Chọn thành phố"></select>
+      <span class="brand-name">Đilatrip</span>
+      <div class="city-switch" id="citySwitch">
+        <button class="city-btn" id="cityBtn" type="button" aria-haspopup="listbox" aria-expanded="false" title="Chọn thành phố">
+          <span class="city-pin" aria-hidden="true">📍</span>
+          <span class="city-name" id="cityBtnLabel">Đà Lạt</span>
+          <span class="city-caret" aria-hidden="true">▾</span>
+        </button>
+        <div class="city-menu" id="cityMenu" role="listbox" hidden></div>
+      </div>
     </div>
 
     <div class="trip-controls">

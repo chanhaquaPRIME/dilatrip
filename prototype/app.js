@@ -1140,12 +1140,30 @@ async function init() {
     showToast(`Nhịp độ “${e.target.selectedOptions[0].text}” — áp dụng cho địa điểm thêm mới`);
   });
 
-  // City switcher
-  const citySel = byId("citySelect");
-  if (citySel) {
-    citySel.innerHTML = window.CITIES.map((c) => `<option value="${c.id}">${c.label}</option>`).join("");
-    citySel.value = state.city;
-    citySel.addEventListener("change", (e) => switchCity(e.target.value));
+  // City switcher (custom dropdown)
+  const citySwitch = byId("citySwitch"), cityBtn = byId("cityBtn"), cityMenu = byId("cityMenu");
+  if (citySwitch && cityBtn && cityMenu) {
+    const paintCity = () => {
+      byId("cityBtnLabel").textContent = cityInfo().label;
+      cityMenu.innerHTML = window.CITIES.map((c) => `
+        <button class="city-opt${c.id === state.city ? " active" : ""}" role="option" data-city="${c.id}">
+          <span class="co-pin" aria-hidden="true">📍</span><span>${c.label}</span><span class="co-check" aria-hidden="true">✓</span>
+        </button>`).join("");
+    };
+    const openCity = (open) => {
+      citySwitch.classList.toggle("open", open);
+      cityMenu.hidden = !open;
+      cityBtn.setAttribute("aria-expanded", open ? "true" : "false");
+    };
+    paintCity();
+    cityBtn.addEventListener("click", (e) => { e.stopPropagation(); openCity(cityMenu.hidden); });
+    cityMenu.addEventListener("click", (e) => {
+      const opt = e.target.closest("[data-city]"); if (!opt) return;
+      openCity(false);
+      if (opt.dataset.city !== state.city) { switchCity(opt.dataset.city); paintCity(); }
+    });
+    document.addEventListener("click", (e) => { if (!citySwitch.contains(e.target)) openCity(false); });
+    document.addEventListener("keydown", (e) => { if (e.key === "Escape") openCity(false); });
   }
 
   byId("bucketBar").addEventListener("click", (e) => {

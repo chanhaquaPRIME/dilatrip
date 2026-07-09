@@ -55,11 +55,19 @@ const LIMIT = Number(getArg("limit", "0")) || 0;
 const START = Number(getArg("start", "0")) || 0;
 const ONLY = getArg("only", "");
 const FORCE = !!getArg("force", false);
+const CITY = getArg("city", ""); // "" = all cities; else only that city's places
 
 const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
 const rand = (a, b) => a + Math.random() * (b - a);
 
-// Places whose name+"Đà Lạt" search resolves to the wrong listing — use a precise query.
+// Per-city search label + accepted-coordinate box (rejects wrong-city listings).
+const CITY_META = {
+  dalat:    { label: "Đà Lạt",    box: { minLat: 11.5, maxLat: 12.3,  minLng: 108.0, maxLng: 108.95 } },
+  nhatrang: { label: "Nha Trang", box: { minLat: 11.9, maxLat: 12.55, minLng: 108.9, maxLng: 109.45 } },
+};
+const meta = (p) => CITY_META[p.city || "dalat"] || CITY_META.dalat;
+
+// Places whose name+city search resolves to the wrong listing — use a precise query.
 const QUERY_OVERRIDES = {
   "may-lang-thang-82": "Mây Lang Thang Phố Bên Đồi Đà Lạt",
 };
@@ -67,8 +75,10 @@ const QUERY_OVERRIDES = {
 /* ---------- load places from the prototype data ---------- */
 function loadPlaces() {
   const win = {};
-  const extra = resolve(PROTO, "places-extra.js");
-  if (existsSync(extra)) new Function("window", readFileSync(extra, "utf8"))(win);
+  for (const f of ["places-extra.js", "places-nhatrang.js"]) {
+    const fp = resolve(PROTO, f);
+    if (existsSync(fp)) new Function("window", readFileSync(fp, "utf8"))(win);
+  }
   new Function("window", readFileSync(resolve(PROTO, "data.js"), "utf8"))(win);
   return win.PLACES;
 }
@@ -223,8 +233,10 @@ async function main() {
   if (!existsSync(IMG_DIR)) mkdirSync(IMG_DIR, { recursive: true });
 
   let places = loadPlaces();
+  if (CITY) places = places.filter((p) => (p.city || "dalat") === CITY);
   if (ONLY) places = places.filter((p) => p.category === ONLY);
   places = places.slice(START, LIMIT ? START + LIMIT : undefined);
+  console.log(`Scraping ${places.length} places${CITY ? ` in ${CITY}` : ""}${ONLY ? ` / ${ONLY}` : ""}`);
 
   const media = loadMedia();
   // Use the user's installed Google Chrome (not bundled Chromium).
@@ -246,7 +258,7 @@ async function main() {
       console.log(`= skip (done): ${place.name}`); skip++; continue;
     }
     try {
-      const q = encodeURIComponent(QUERY_OVERRIDES[place.id] || (place.name + " Đà Lạt"));
+      const q = encodeURIComponent(QUERY_OVERRIDES[place.id] || (place.name + " " + meta(place).label));
       await page.goto(`https://www.google.com/maps/search/${q}`, { waitUntil: "domcontentloaded", timeout: 60000 });
       if (!consentDone) { await handleConsent(page); consentDone = true; }
       await sleep(rand(2500, 3800));
@@ -264,8 +276,9 @@ async function main() {
       const cm = page.url().match(/!3d(-?\d+\.\d+)!4d(-?\d+\.\d+)/);
       if (cm) {
         const la = parseFloat(cm[1]), ln = parseFloat(cm[2]);
-        // only accept coords inside Lâm Đồng (reject same-named places in HCMC etc.)
-        if (la >= 11.5 && la <= 12.3 && ln >= 108.0 && ln <= 108.95) { rec.lat = la; rec.lng = ln; }
+        // only accept coords inside the place's city box (reject same-named places elsewhere)
+        const b = meta(place).box;
+        if (la >= b.minLat && la <= b.maxLat && ln >= b.minLng && ln <= b.maxLng) { rec.lat = la; rec.lng = ln; }
       }
       if (KEEP_PHOTOS && rec.photos && rec.photos.length) {
         // keep already-downloaded photos; only refresh metadata (phone/price/rating)

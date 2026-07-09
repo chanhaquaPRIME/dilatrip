@@ -34,30 +34,39 @@ function getArg(name, fb) {
 }
 const HEADLESS = !!getArg("headless", false);
 const ONLY = getArg("only", "");
+const CITY = getArg("city", "dalat");
 
 const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
 
-const TARGETS = { visit: 50, cafe: 50, eat: 50, stay: 50, nightlife: 50, activity: 50, shopping: 50 };
-// Đà Lạt + immediate surroundings (Lạc Dương, Tuyền Lâm, Trại Mát). Anything
-// outside this box (e.g. HCMC, Biên Hòa) is rejected.
-const BOX = { minLat: 11.75, maxLat: 12.20, minLng: 108.25, maxLng: 108.80 };
-const QUERIES = {
-  visit: "địa điểm tham quan du lịch Đà Lạt",
-  cafe: "quán cà phê Đà Lạt",
-  eat: "quán ăn nhà hàng Đà Lạt",
-  stay: "khách sạn homestay Đà Lạt",
-  nightlife: "quán bar pub beer club Đà Lạt",
-  activity: "khu du lịch trải nghiệm vui chơi Đà Lạt",
-  shopping: "cửa hàng đặc sản quà lưu niệm Đà Lạt",
+// Per-city config: search center, accepted-coordinate box, output file + global var, id suffix.
+const CITIES = {
+  dalat:    { label: "Đà Lạt",    center: "@11.9404,108.4583,12z", box: { minLat: 11.5, maxLat: 12.3,  minLng: 108.0, maxLng: 108.95 }, out: "places-extra.js",    varName: "PLACES_EXTRA",    idSuffix: "x"  },
+  nhatrang: { label: "Nha Trang", center: "@12.2388,109.1967,13z", box: { minLat: 11.9, maxLat: 12.55, minLng: 108.9, maxLng: 109.45 }, out: "places-nhatrang.js", varName: "PLACES_NHATRANG", idSuffix: "nt" },
 };
+const CFG = CITIES[CITY];
+if (!CFG) { console.error(`Unknown --city "${CITY}". Options: ${Object.keys(CITIES).join(", ")}`); process.exit(1); }
+const EXTRA_OUT = resolve(PROTO, CFG.out);
+
+const TARGETS = { visit: 50, cafe: 50, eat: 50, stay: 50, nightlife: 50, activity: 50, shopping: 50 };
+const BOX = CFG.box; // anything outside the city box is rejected
+const BASE_Q = {
+  visit: "địa điểm tham quan du lịch",
+  cafe: "quán cà phê",
+  eat: "quán ăn nhà hàng",
+  stay: "khách sạn homestay",
+  nightlife: "quán bar pub beer club",
+  activity: "khu du lịch trải nghiệm vui chơi",
+  shopping: "cửa hàng đặc sản quà lưu niệm",
+};
+const QUERIES = Object.fromEntries(Object.entries(BASE_Q).map(([k, v]) => [k, `${v} ${CFG.label}`]));
 const DEFAULTS = {
-  visit: { hours: "07:00-17:00", visitMin: 60, price: 1, personas: ["couple", "family", "friends"], desc: "Điểm tham quan nổi bật tại Đà Lạt." },
-  cafe: { hours: "07:00-22:00", visitMin: 60, price: 1, personas: ["solo", "couple", "friends"], desc: "Quán cà phê được yêu thích tại Đà Lạt." },
-  eat: { hours: "10:00-21:00", visitMin: 75, price: 1, personas: ["solo", "couple", "friends", "family"], desc: "Quán ăn / nhà hàng tại Đà Lạt." },
-  stay: { hours: "24h", visitMin: 30, price: 2, personas: ["couple", "family", "solo"], desc: "Nơi lưu trú tại Đà Lạt." },
-  nightlife: { hours: "18:00-00:00", visitMin: 90, price: 1, personas: ["couple", "friends"], desc: "Địa điểm vui chơi về đêm tại Đà Lạt." },
-  activity: { hours: "07:30-17:00", visitMin: 120, price: 1, personas: ["friends", "family", "couple"], desc: "Hoạt động trải nghiệm tại Đà Lạt." },
-  shopping: { hours: "08:00-21:00", visitMin: 45, price: 1, personas: ["couple", "family", "friends", "solo"], desc: "Điểm mua sắm / đặc sản tại Đà Lạt." },
+  visit: { hours: "07:00-17:00", visitMin: 60, price: 1, personas: ["couple", "family", "friends"], desc: "Điểm tham quan nổi bật" },
+  cafe: { hours: "07:00-22:00", visitMin: 60, price: 1, personas: ["solo", "couple", "friends"], desc: "Quán cà phê được yêu thích" },
+  eat: { hours: "10:00-21:00", visitMin: 75, price: 1, personas: ["solo", "couple", "friends", "family"], desc: "Quán ăn / nhà hàng" },
+  stay: { hours: "24h", visitMin: 30, price: 2, personas: ["couple", "family", "solo"], desc: "Nơi lưu trú" },
+  nightlife: { hours: "18:00-00:00", visitMin: 90, price: 1, personas: ["couple", "friends"], desc: "Địa điểm vui chơi về đêm" },
+  activity: { hours: "07:30-17:00", visitMin: 120, price: 1, personas: ["friends", "family", "couple"], desc: "Hoạt động trải nghiệm" },
+  shopping: { hours: "08:00-21:00", visitMin: 45, price: 1, personas: ["couple", "family", "friends", "solo"], desc: "Điểm mua sắm / đặc sản" },
 };
 
 function noDia(s) { return s.normalize("NFD").replace(/[̀-ͯ]/g, "").replace(/đ/g, "d").replace(/Đ/g, "D"); }
@@ -90,8 +99,8 @@ async function handleConsent(page) {
 }
 
 async function discover(page, category, need) {
-  // @lat,lng,zoom locks the search to Đà Lạt so we don't get same-named places elsewhere
-  await page.goto(`https://www.google.com/maps/search/${encodeURIComponent(QUERIES[category])}/@11.9404,108.4583,12z`, { waitUntil: "domcontentloaded", timeout: 60000 });
+  // @lat,lng,zoom locks the search to the city so we don't get same-named places elsewhere
+  await page.goto(`https://www.google.com/maps/search/${encodeURIComponent(QUERIES[category])}/${CFG.center}`, { waitUntil: "domcontentloaded", timeout: 60000 });
   await handleConsent(page);
   await page.waitForSelector('a[href*="/maps/place/"]', { timeout: 20000 }).catch(() => {});
   await sleep(2500);
@@ -132,7 +141,8 @@ function parseResult(r, category) {
   return {
     name: r.name,
     category,
-    area: "Đà Lạt",
+    city: CITY,
+    area: CFG.label,
     lat: ll ? parseFloat(ll[1]) : null,
     lng: ll ? parseFloat(ll[2]) : null,
     rating: rm ? parseFloat(rm[1] + "." + rm[2]) : 4.2,
@@ -142,18 +152,20 @@ function parseResult(r, category) {
     visitMin: d.visitMin,
     personas: d.personas,
     highlights: [],
-    desc: d.desc,
+    desc: `${d.desc} tại ${CFG.label}.`,
     mapsUrl: r.href.split("?")[0],
   };
 }
 
 async function main() {
-  const existing = loadExisting();
+  // Only consider places already in THIS city (so Nha Trang isn't blocked by Đà Lạt names/counts).
+  const existing = loadExisting().filter((p) => (p.city || "dalat") === CITY);
   const existingNames = new Set(existing.map((p) => norm(p.name)));
   const existingNorms = existing.map((p) => norm(p.name)).filter((s) => s.length >= 6);
   const seenCores = new Set(existing.map((p) => core(p.name)).filter((s) => s.length >= 5));
   const existingCount = {};
   for (const p of existing) existingCount[p.category] = (existingCount[p.category] || 0) + 1;
+  console.log(`City: ${CFG.label} (${CITY}) — output ${CFG.out}`);
 
   let cats = Object.keys(TARGETS);
   if (ONLY) cats = cats.filter((c) => c === ONLY);
@@ -186,10 +198,10 @@ async function main() {
       if (ck.length >= 5 && seenCores.has(ck)) continue;           // same core name as another place
       const p = parseResult(r, category);
       if (p.lat == null) continue;               // need coords for the map
-      if (p.lat < BOX.minLat || p.lat > BOX.maxLat || p.lng < BOX.minLng || p.lng > BOX.maxLng) continue; // outside Đà Lạt
+      if (p.lat < BOX.minLat || p.lat > BOX.maxLat || p.lng < BOX.minLng || p.lng > BOX.maxLng) continue; // outside the city box
       existingNames.add(key);
       if (ck.length >= 5) seenCores.add(ck);
-      let id = slug(p.name) + "-x";
+      let id = slug(p.name) + "-" + CFG.idSuffix;
       let n = 1; let uid = id + n;
       while (usedIds.has(uid)) { n++; uid = id + n; }
       usedIds.add(uid);
@@ -203,12 +215,12 @@ async function main() {
 
   await browser.close();
 
-  writeFileSync(EXTRA_JS,
-    "/* Auto-generated by scripts/discover-maps.mjs — extra places from Google Maps.\n" +
-    "   Merged into PLACES by data.js. Run scrape-maps.mjs --force for real photos. */\n" +
-    "window.PLACES_EXTRA = " + JSON.stringify(extras, null, 2) + ";\n", "utf8");
-  console.log(`\nDone. Wrote ${extras.length} extra places -> ${EXTRA_JS}`);
-  console.log("Next: node scrape-maps.mjs --force   (downloads real photos for all, incl. these)");
+  writeFileSync(EXTRA_OUT,
+    `/* Auto-generated by scripts/discover-maps.mjs --city ${CITY} — places from Google Maps.\n` +
+    `   Merged into PLACES by data.js. Run scrape-maps.mjs --city ${CITY} --force for real photos. */\n` +
+    `window.${CFG.varName} = ` + JSON.stringify(extras, null, 2) + ";\n", "utf8");
+  console.log(`\nDone. Wrote ${extras.length} places -> ${EXTRA_OUT}`);
+  console.log(`Next: node scrape-maps.mjs --city ${CITY} --force   (downloads real photos for all, incl. these)`);
 }
 
 main().catch((e) => { console.error(e); process.exit(1); });

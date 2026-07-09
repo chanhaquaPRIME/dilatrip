@@ -63,10 +63,12 @@ a { color: inherit; }
 .brand .city { color: var(--muted); font-weight: 600; font-size: 13px; }
 .city-select {
   font: inherit; font-size: 13px; font-weight: 700; cursor: pointer;
-  color: var(--text); background: var(--card); border: 1px solid var(--border);
+  color: var(--text); background: var(--surface-2); border: 1px solid var(--border);
   border-radius: 999px; padding: 5px 12px; margin-left: 2px; line-height: 1.2;
 }
-.city-select:hover { border-color: var(--pink, #d94f7a); }
+.city-select:hover { border-color: #d94f7a; }
+/* the native dropdown popup — force readable colors in both themes */
+.city-select option { color: var(--text); background: var(--surface); }
 
 .trip-controls { margin-left: auto; display: flex; align-items: center; gap: 12px; flex-wrap: wrap; }
 .control { display: flex; align-items: center; gap: 7px; font-size: 13px; color: var(--muted); }

@@ -74,7 +74,7 @@ function loadState() {
   let d = null;
   try { d = JSON.parse(localStorage.getItem(STATE_KEY)); } catch (e) {}
   if (!d) return null;
-  if (d.city && window.CITIES.some((c) => c.id === d.city)) state.city = d.city;
+  // Always open on the default city (Đà Lạt); per-city schedules below are still restored.
   // per-city schedules, with back-compat for the old flat {days, activeDay} format
   const trips = d.tripsByCity || (Array.isArray(d.days) ? { [state.city]: { days: d.days, activeDay: d.activeDay } } : {});
   state.tripsByCity = {};

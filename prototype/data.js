@@ -22,9 +22,11 @@ window.PERSONAS = [
 window.CATEGORIES = [
   { id: "all",       label: "Tất cả",     emoji: "✨" },
   { id: "visit",     label: "Tham quan",  emoji: "📸" },
-  { id: "cafe",      label: "Cà phê",     emoji: "☕" },
-  { id: "eat",       label: "Ăn uống",    emoji: "🍜" },
-  { id: "stay",      label: "Lưu trú",    emoji: "🏨" },
+  { id: "cafe",       label: "Cà phê",   emoji: "☕" },
+  { id: "eatery",     label: "Quán ăn",  emoji: "🍜" },
+  { id: "treat",      label: "Ăn vặt",   emoji: "🍦" },
+  { id: "restaurant", label: "Nhà hàng", emoji: "🍽️" },
+  { id: "stay",       label: "Lưu trú",  emoji: "🏨" },
   { id: "nightlife", label: "Về đêm",     emoji: "🌙" },
   { id: "activity",  label: "Trải nghiệm", emoji: "🚵" },
   { id: "shopping",  label: "Mua sắm",    emoji: "🛍️" },
@@ -43,6 +45,9 @@ const PHOTOS = {
   visit: ["1519681393784-d120267933ba", "1506748686214-e9df14d4d9d0", "1474487548417-781cb71495f3", "1490750967868-88aa4486c946", "1528127269322-539801943592", "1558981403-c5f9899a28bc"],
   cafe: ["1501339847302-ac426a4a7cbb", "1447933601403-0c6688de566e", "1554118811-1e0d58224f24", "1559496417-e7f25cb247f3", "1442512595331-e89e73853f31", "1453614512568-c4024d13c247"],
   eat: ["1504674900247-0877df9cc836", "1552566626-52f8b828add9", "1533777857889-4be7c70b33f7", "1559339352-11d035aa65de", "1509440159596-0249088772ff", "1555126634-323283e090fa"],
+  eatery: ["1504674900247-0877df9cc836", "1533777857889-4be7c70b33f7", "1559339352-11d035aa65de", "1509440159596-0249088772ff", "1555126634-323283e090fa"],
+  treat: ["1488900128323-21503983a07e", "1551024506-0bccd828d307", "1563805042-7684c019e1cb", "1541599468348-e96984315921", "1505253758473-96b7015fcd40"],
+  restaurant: ["1552566626-52f8b828add9", "1517248135467-4c7edcad34c4", "1414235077428-338989a2e8c0", "1466978913421-dad2ebd01d17", "1533777857889-4be7c70b33f7"],
   stay: ["1566073771259-6a8506099945", "1520250497591-112f2f40a3f4", "1582719478250-c89cae4dc85b", "1571896349842-33c89424de2d", "1611892440504-42a792e24d32"],
   nightlife: ["1470337458703-46ad1756a187", "1514525253161-7a46d19cd819", "1516450360452-9312f5e86fc7", "1545128485-c400e7702796", "1438557068880-c5f474830377"],
   activity: ["1432405972618-c60b0225b8f9", "1454496522488-7a8e488e8606", "1551632811-561732d1e306", "1533240332313-0db49b459ad6", "1530866495561-507c9faab2ed"],
@@ -235,5 +240,14 @@ if (window.PLACE_MEDIA) {
     p.realData = true;
   }
 }
+
+/* Split the legacy "eat" category into eatery / treat / restaurant by keywords. */
+function classifyFood(p) {
+  const s = noDia(p.name.toLowerCase()); // classify by name (descriptions are auto-generated/generic)
+  if (/\b(kem|ice ?cream|tra sua|milk ?tea|sua chua|yaourt|yogurt|banh ngot|banh kem|cupcake|cake|dessert|\bche\b|do ngot|banh trang nuong|an vat|sinh to|smoothie|pudding|waffle|donut|bingsu|flan|caramen|tiramisu|macaron|kem bo)\b/.test(s)) return "treat";
+  if (/\b(nha hang|restaurant|\blau\b|hot ?pot|nuong|bbq|buffet|quan nhau|beer club|hai san|seafood|steak)\b/.test(s)) return "restaurant";
+  return "eatery"; // casual eateries / breakfast (default)
+}
+for (const p of RAW) { if (p.category === "eat") p.category = classifyFood(p); }
 
 window.PLACES = RAW;

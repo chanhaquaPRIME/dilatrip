@@ -27,6 +27,9 @@ const CATEGORY_PHOTOS = {
   visit: [U("1528127269322-539801943592"), U("1490750967868-88aa4486c946"), U("1519681393784-d120267933ba"), U("1506748686214-e9df14d4d9d0")],
   cafe: [U("1501339847302-ac426a4a7cbb"), U("1447933601403-0c6688de566e"), U("1554118811-1e0d58224f24"), U("1559496417-e7f25cb247f3")],
   eat: [U("1504674900247-0877df9cc836"), U("1552566626-52f8b828add9"), U("1533777857889-4be7c70b33f7"), U("1559339352-11d035aa65de")],
+  eatery: [U("1504674900247-0877df9cc836"), U("1533777857889-4be7c70b33f7"), U("1559339352-11d035aa65de")],
+  treat: [U("1488900128323-21503983a07e"), U("1551024506-0bccd828d307"), U("1541599468348-e96984315921")],
+  restaurant: [U("1552566626-52f8b828add9"), U("1517248135467-4c7edcad34c4"), U("1414235077428-338989a2e8c0")],
   stay: [U("1566073771259-6a8506099945"), U("1520250497591-112f2f40a3f4"), U("1582719478250-c89cae4dc85b")],
   nightlife: [U("1470337458703-46ad1756a187"), U("1514525253161-7a46d19cd819"), U("1516450360452-9312f5e86fc7")],
   activity: [U("1432405972618-c60b0225b8f9"), U("1454496522488-7a8e488e8606"), U("1551632811-561732d1e306")],
@@ -505,6 +508,19 @@ function renderDaySummary(rows) {
     <span>💸 mức giá <b>${costLabel}</b></span>`;
 }
 
+/* The last place already placed in the active day's plan (for "how far to move" hints). */
+function lastPlannedPlace(excludeId) {
+  const day = state.days[state.activeDay];
+  if (!day) return null;
+  for (let i = day.items.length - 1; i >= 0; i--) {
+    const it = day.items[i];
+    if (it.bucket) continue;
+    const pl = placeMap[it.id];
+    if (pl && pl.id !== excludeId && pl.lat != null) return pl;
+  }
+  return null;
+}
+
 /* ---------------- Map (Leaflet) ---------------- */
 let map, markerLayer;
 function initMap() {
@@ -523,8 +539,22 @@ function updateMap() {
     const p = placeMap[state.focusId];
     const mk = L.marker([p.lat, p.lng]).addTo(markerLayer).bindPopup(`<b>${p.name}</b>`).openPopup();
     mk.on("click", () => openDetail(p.id)); // show the place card (zoom back out via "← Tất cả")
-    map.setView([p.lat, p.lng], 15);
-    byId("mapSub").textContent = p.name;
+
+    const prev = lastPlannedPlace(p.id); // last place already in today's plan
+    if (prev) {
+      // show where you're coming from + the hop to this candidate place
+      L.circleMarker([prev.lat, prev.lng], { radius: 9, color: "#fff", weight: 2, fillColor: "#22c55e", fillOpacity: 1 })
+        .addTo(markerLayer).bindPopup(`<b>${prev.name}</b><br><span style="color:#16a34a">Điểm gần nhất trong lịch hôm nay</span>`);
+      L.polyline([[prev.lat, prev.lng], [p.lat, p.lng]], { color: "#d62976", weight: 3, dashArray: "7 7", opacity: .85 }).addTo(markerLayer);
+      const km = haversineKm(prev, p), mins = travelMinutes(prev, p);
+      const mid = [(prev.lat + p.lat) / 2, (prev.lng + p.lng) / 2];
+      L.marker(mid, { interactive: false, icon: L.divIcon({ className: "route-label", html: `🚗 ${km.toFixed(1)} km · ${mins}′`, iconSize: [0, 0] }) }).addTo(markerLayer);
+      map.fitBounds([[prev.lat, prev.lng], [p.lat, p.lng]], { padding: [72, 72], maxZoom: 15 });
+      byId("mapSub").textContent = `${p.name} · cách điểm trước ~${km.toFixed(1)} km`;
+    } else {
+      map.setView([p.lat, p.lng], 15);
+      byId("mapSub").textContent = p.name;
+    }
   } else {
     const list = filteredPlaces();
     if (list.length === 0) {
@@ -850,6 +880,7 @@ function openDetail(id) {
         ${fit ? `<span class="fit-badge">Hợp ${personaMap[state.persona].label.toLowerCase()}</span>` : ""}
       </div>
       <div class="meta">★ ${p.rating} · ${p.reviews.toLocaleString("vi-VN")} đánh giá · ${priceStr(p.price)} · ${catMap[p.category].label} · ${p.area}</div>
+      ${(() => { const prev = lastPlannedPlace(p.id); return prev ? `<div class="move-hint">🚗 Cách <b>${prev.name}</b> (điểm gần nhất trong lịch hôm nay) khoảng <b>~${haversineKm(prev, p).toFixed(1)} km · ${travelMinutes(prev, p)}′</b> di chuyển</div>` : ""; })()}
       ${realPhotos || realComments ? `<div class="attrib">Ảnh và đánh giá: nguồn Google Maps</div>` : ""}
       <p class="desc">${p.desc}</p>
       <div class="detail-facts">

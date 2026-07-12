@@ -61,6 +61,19 @@ a { color: inherit; }
 .brand { display: flex; align-items: center; gap: 10px; font-weight: 700; font-size: 19px; }
 .brand .logo { width: 32px; height: 32px; border-radius: 9px; background: var(--ig-gradient); display: grid; place-items: center; color: #fff; font-size: 17px; }
 .brand .city { color: var(--muted); font-weight: 600; font-size: 13px; }
+/* distance hint in the place card */
+.move-hint {
+  margin: 8px 0 2px; padding: 8px 11px; border-radius: 10px; font-size: 13px;
+  color: var(--text); background: var(--surface-2); border: 1px solid var(--border);
+}
+/* map: distance label on the line between last-planned place and the candidate */
+.leaflet-div-icon.route-label {
+  background: #d62976; color: #fff; border: none; white-space: nowrap;
+  font-size: 12px; font-weight: 700; padding: 3px 9px; border-radius: 999px;
+  box-shadow: 0 2px 8px rgba(0,0,0,.35); width: auto !important; height: auto !important;
+  transform: translate(-50%, -50%); margin: 0 !important;
+}
+
 /* ---- City switcher (custom dropdown, matches the design system) ---- */
 .city-switch { position: relative; margin-left: 2px; }
 .city-btn {
